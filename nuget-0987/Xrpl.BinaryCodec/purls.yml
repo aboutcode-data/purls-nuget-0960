@@ -1,0 +1,5 @@
+- pkg:nuget/Xrpl.BinaryCodec@7.0.1-beta
+- pkg:nuget/Xrpl.BinaryCodec@7.0.2-beta
+- pkg:nuget/Xrpl.BinaryCodec@8.0.1-beta
+- pkg:nuget/Xrpl.BinaryCodec@9.0.0-beta
+- pkg:nuget/Xrpl.BinaryCodec@9.1.0-beta

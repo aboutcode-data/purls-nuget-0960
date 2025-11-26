@@ -222,6 +222,7 @@
 - pkg:nuget/JetBrains.Platform.VisualStudio.SinceVs14@252.0.20250904.64847
 - pkg:nuget/JetBrains.Platform.VisualStudio.SinceVs14@252.0.20250917.144029
 - pkg:nuget/JetBrains.Platform.VisualStudio.SinceVs14@252.0.20250924.231539
+- pkg:nuget/JetBrains.Platform.VisualStudio.SinceVs14@252.0.20251120.150646
 - pkg:nuget/JetBrains.Platform.VisualStudio.SinceVs14@253.0.20250914.4854-eap01
 - pkg:nuget/JetBrains.Platform.VisualStudio.SinceVs14@253.0.20250922.232725-eap02
 - pkg:nuget/JetBrains.Platform.VisualStudio.SinceVs14@253.0.20250926.140429-eap03

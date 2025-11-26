@@ -250,6 +250,7 @@
 - pkg:nuget/JetBrains.ReSharper.GlobalTools@2025.2.0.1
 - pkg:nuget/JetBrains.ReSharper.GlobalTools@2025.2.1
 - pkg:nuget/JetBrains.ReSharper.GlobalTools@2025.2.2.1
+- pkg:nuget/JetBrains.ReSharper.GlobalTools@2025.2.5
 - pkg:nuget/JetBrains.ReSharper.GlobalTools@2025.3.0-eap01
 - pkg:nuget/JetBrains.ReSharper.GlobalTools@2025.3.0-eap02
 - pkg:nuget/JetBrains.ReSharper.GlobalTools@2025.3.0-eap03

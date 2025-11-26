@@ -1,0 +1,6 @@
+- pkg:nuget/DotnetPackaging.Rpm@8.0.15
+- pkg:nuget/DotnetPackaging.Rpm@8.0.16
+- pkg:nuget/DotnetPackaging.Rpm@8.0.33
+- pkg:nuget/DotnetPackaging.Rpm@8.0.39
+- pkg:nuget/DotnetPackaging.Rpm@8.0.61
+- pkg:nuget/DotnetPackaging.Rpm@8.0.7

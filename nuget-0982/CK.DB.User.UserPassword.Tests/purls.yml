@@ -49,6 +49,7 @@
 - pkg:nuget/CK.DB.User.UserPassword.Tests@26.0.0
 - pkg:nuget/CK.DB.User.UserPassword.Tests@26.0.1
 - pkg:nuget/CK.DB.User.UserPassword.Tests@26.0.2
+- pkg:nuget/CK.DB.User.UserPassword.Tests@27.1.1
 - pkg:nuget/CK.DB.User.UserPassword.Tests@5.1.0
 - pkg:nuget/CK.DB.User.UserPassword.Tests@5.2.0
 - pkg:nuget/CK.DB.User.UserPassword.Tests@6.0.0

@@ -45,6 +45,7 @@
 - pkg:nuget/CK.Cris.Engine@0.40.0
 - pkg:nuget/CK.Cris.Engine@0.40.1
 - pkg:nuget/CK.Cris.Engine@0.40.2
+- pkg:nuget/CK.Cris.Engine@0.42.1
 - pkg:nuget/CK.Cris.Engine@0.5.0
 - pkg:nuget/CK.Cris.Engine@0.5.1
 - pkg:nuget/CK.Cris.Engine@0.6.0

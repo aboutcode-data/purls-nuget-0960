@@ -1,1 +1,2 @@
 - pkg:nuget/CK.Ng.ObservableDomain.SignalR@15.1.0
+- pkg:nuget/CK.Ng.ObservableDomain.SignalR@17.1.1

@@ -20,6 +20,7 @@
 - pkg:nuget/AlibabaCloud.SDK.Alikafka20190916@2.12.0
 - pkg:nuget/AlibabaCloud.SDK.Alikafka20190916@2.12.1
 - pkg:nuget/AlibabaCloud.SDK.Alikafka20190916@2.13.0
+- pkg:nuget/AlibabaCloud.SDK.Alikafka20190916@2.14.0
 - pkg:nuget/AlibabaCloud.SDK.Alikafka20190916@2.2.0
 - pkg:nuget/AlibabaCloud.SDK.Alikafka20190916@2.3.0
 - pkg:nuget/AlibabaCloud.SDK.Alikafka20190916@2.4.0

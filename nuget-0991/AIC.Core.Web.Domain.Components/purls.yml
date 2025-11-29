@@ -9,6 +9,7 @@
 - pkg:nuget/AIC.Core.Web.Domain.Components@2025.11.20.2
 - pkg:nuget/AIC.Core.Web.Domain.Components@2025.11.23.3
 - pkg:nuget/AIC.Core.Web.Domain.Components@2025.11.24.1
+- pkg:nuget/AIC.Core.Web.Domain.Components@2025.11.29.1
 - pkg:nuget/AIC.Core.Web.Domain.Components@2025.11.4.6
 - pkg:nuget/AIC.Core.Web.Domain.Components@2025.11.4.9
 - pkg:nuget/AIC.Core.Web.Domain.Components@2025.11.7.1

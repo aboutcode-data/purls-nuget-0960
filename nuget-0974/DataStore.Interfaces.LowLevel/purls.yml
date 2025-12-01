@@ -78,6 +78,8 @@
 - pkg:nuget/DataStore.Interfaces.LowLevel@16.42.0-alpha
 - pkg:nuget/DataStore.Interfaces.LowLevel@16.44.0-alpha
 - pkg:nuget/DataStore.Interfaces.LowLevel@16.45.0-alpha
+- pkg:nuget/DataStore.Interfaces.LowLevel@16.48.0-alpha
+- pkg:nuget/DataStore.Interfaces.LowLevel@16.49.0-alpha
 - pkg:nuget/DataStore.Interfaces.LowLevel@16.5.0-alpha
 - pkg:nuget/DataStore.Interfaces.LowLevel@16.6.0-alpha
 - pkg:nuget/DataStore.Interfaces.LowLevel@16.7.0-alpha

@@ -664,6 +664,8 @@
 - pkg:nuget/VisioForge.DotNet.Core.Redist.VideoCapture.x86@2025.10.8
 - pkg:nuget/VisioForge.DotNet.Core.Redist.VideoCapture.x86@2025.11.3
 - pkg:nuget/VisioForge.DotNet.Core.Redist.VideoCapture.x86@2025.11.4
+- pkg:nuget/VisioForge.DotNet.Core.Redist.VideoCapture.x86@2025.12.0
+- pkg:nuget/VisioForge.DotNet.Core.Redist.VideoCapture.x86@2025.12.1
 - pkg:nuget/VisioForge.DotNet.Core.Redist.VideoCapture.x86@2025.2.1
 - pkg:nuget/VisioForge.DotNet.Core.Redist.VideoCapture.x86@2025.2.10
 - pkg:nuget/VisioForge.DotNet.Core.Redist.VideoCapture.x86@2025.2.11

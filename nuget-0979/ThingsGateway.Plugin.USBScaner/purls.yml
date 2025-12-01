@@ -352,6 +352,7 @@
 - pkg:nuget/ThingsGateway.Plugin.USBScaner@10.9.97
 - pkg:nuget/ThingsGateway.Plugin.USBScaner@10.9.98
 - pkg:nuget/ThingsGateway.Plugin.USBScaner@10.9.99
+- pkg:nuget/ThingsGateway.Plugin.USBScaner@12.4.8
 - pkg:nuget/ThingsGateway.Plugin.USBScaner@6.1.0.17
 - pkg:nuget/ThingsGateway.Plugin.USBScaner@6.1.0.18
 - pkg:nuget/ThingsGateway.Plugin.USBScaner@6.1.0.19

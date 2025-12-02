@@ -8,6 +8,7 @@
 - pkg:nuget/ServiceStack.Logging.Elmah@1.0.6
 - pkg:nuget/ServiceStack.Logging.Elmah@1.0.8
 - pkg:nuget/ServiceStack.Logging.Elmah@1.0.9
+- pkg:nuget/ServiceStack.Logging.Elmah@10.0.0
 - pkg:nuget/ServiceStack.Logging.Elmah@3.9.60
 - pkg:nuget/ServiceStack.Logging.Elmah@3.9.61
 - pkg:nuget/ServiceStack.Logging.Elmah@3.9.62

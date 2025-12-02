@@ -24,6 +24,8 @@
 - pkg:nuget/YS.Knife.EnumCode.Api.AspnetCore@0.0.33
 - pkg:nuget/YS.Knife.EnumCode.Api.AspnetCore@0.0.34
 - pkg:nuget/YS.Knife.EnumCode.Api.AspnetCore@0.0.35
+- pkg:nuget/YS.Knife.EnumCode.Api.AspnetCore@0.0.41
+- pkg:nuget/YS.Knife.EnumCode.Api.AspnetCore@0.0.42
 - pkg:nuget/YS.Knife.EnumCode.Api.AspnetCore@0.0.5
 - pkg:nuget/YS.Knife.EnumCode.Api.AspnetCore@0.0.6
 - pkg:nuget/YS.Knife.EnumCode.Api.AspnetCore@0.0.7

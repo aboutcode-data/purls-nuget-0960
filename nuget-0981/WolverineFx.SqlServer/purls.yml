@@ -162,3 +162,4 @@
 - pkg:nuget/WolverineFx.SqlServer@4.9.1
 - pkg:nuget/WolverineFx.SqlServer@4.9.2
 - pkg:nuget/WolverineFx.SqlServer@4.9.3
+- pkg:nuget/WolverineFx.SqlServer@5.4.3

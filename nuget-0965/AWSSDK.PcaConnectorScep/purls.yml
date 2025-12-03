@@ -229,6 +229,7 @@
 - pkg:nuget/AWSSDK.PcaConnectorScep@3.7.501.8
 - pkg:nuget/AWSSDK.PcaConnectorScep@3.7.501.9
 - pkg:nuget/AWSSDK.PcaConnectorScep@3.7.502.12
+- pkg:nuget/AWSSDK.PcaConnectorScep@3.7.502.14
 - pkg:nuget/AWSSDK.PcaConnectorScep@4.0.0
 - pkg:nuget/AWSSDK.PcaConnectorScep@4.0.0-preview
 - pkg:nuget/AWSSDK.PcaConnectorScep@4.0.0-preview.10

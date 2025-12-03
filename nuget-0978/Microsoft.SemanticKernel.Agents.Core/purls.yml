@@ -68,5 +68,6 @@
 - pkg:nuget/Microsoft.SemanticKernel.Agents.Core@1.63.0
 - pkg:nuget/Microsoft.SemanticKernel.Agents.Core@1.64.0
 - pkg:nuget/Microsoft.SemanticKernel.Agents.Core@1.65.0
+- pkg:nuget/Microsoft.SemanticKernel.Agents.Core@1.68.0
 - pkg:nuget/Microsoft.SemanticKernel.Agents.Core@1.8.0
 - pkg:nuget/Microsoft.SemanticKernel.Agents.Core@1.9.0-alpha

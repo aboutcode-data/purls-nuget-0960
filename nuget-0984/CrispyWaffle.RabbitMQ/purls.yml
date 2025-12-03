@@ -1,4 +1,5 @@
 - pkg:nuget/CrispyWaffle.RabbitMQ@10.0.10
+- pkg:nuget/CrispyWaffle.RabbitMQ@10.0.1024
 - pkg:nuget/CrispyWaffle.RabbitMQ@10.0.105
 - pkg:nuget/CrispyWaffle.RabbitMQ@10.0.121
 - pkg:nuget/CrispyWaffle.RabbitMQ@10.0.172

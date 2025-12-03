@@ -80,6 +80,7 @@
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.Milvus@1.63.0-alpha
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.Milvus@1.64.0-alpha
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.Milvus@1.65.0-alpha
+- pkg:nuget/Microsoft.SemanticKernel.Connectors.Milvus@1.68.0-alpha
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.Milvus@1.7.0-alpha
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.Milvus@1.7.1-alpha
 - pkg:nuget/Microsoft.SemanticKernel.Connectors.Milvus@1.8.0-alpha

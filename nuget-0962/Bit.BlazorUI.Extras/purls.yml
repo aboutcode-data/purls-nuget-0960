@@ -1,4 +1,5 @@
 - pkg:nuget/Bit.BlazorUI.Extras@10.0.0-pre-01
+- pkg:nuget/Bit.BlazorUI.Extras@10.2.0
 - pkg:nuget/Bit.BlazorUI.Extras@4.9.10
 - pkg:nuget/Bit.BlazorUI.Extras@4.9.10-pre-07
 - pkg:nuget/Bit.BlazorUI.Extras@4.9.11-pre-01

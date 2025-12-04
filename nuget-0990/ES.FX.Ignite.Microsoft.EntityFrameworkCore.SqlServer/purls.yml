@@ -72,4 +72,5 @@
 - pkg:nuget/ES.FX.Ignite.Microsoft.EntityFrameworkCore.SqlServer@9.1.64
 - pkg:nuget/ES.FX.Ignite.Microsoft.EntityFrameworkCore.SqlServer@9.1.7
 - pkg:nuget/ES.FX.Ignite.Microsoft.EntityFrameworkCore.SqlServer@9.1.8
+- pkg:nuget/ES.FX.Ignite.Microsoft.EntityFrameworkCore.SqlServer@9.1.81
 - pkg:nuget/ES.FX.Ignite.Microsoft.EntityFrameworkCore.SqlServer@9.1.9

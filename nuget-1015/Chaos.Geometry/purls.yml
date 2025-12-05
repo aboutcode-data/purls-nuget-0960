@@ -16,6 +16,7 @@
 - pkg:nuget/Chaos.Geometry@1.10.0-preview-0018-g403179d97d
 - pkg:nuget/Chaos.Geometry@1.10.0-preview-0019-gd060a22166
 - pkg:nuget/Chaos.Geometry@1.10.0-preview-0020-gd6377964ef
+- pkg:nuget/Chaos.Geometry@1.10.0-preview-0038-g2801d10e54
 - pkg:nuget/Chaos.Geometry@1.2.9
 - pkg:nuget/Chaos.Geometry@1.3.10-preview-ged1168ed84
 - pkg:nuget/Chaos.Geometry@1.3.11-preview-g6fb57a2e8f

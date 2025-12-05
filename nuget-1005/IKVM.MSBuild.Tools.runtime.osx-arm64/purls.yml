@@ -14,6 +14,7 @@
 - pkg:nuget/IKVM.MSBuild.Tools.runtime.osx-arm64@8.13.1
 - pkg:nuget/IKVM.MSBuild.Tools.runtime.osx-arm64@8.13.2
 - pkg:nuget/IKVM.MSBuild.Tools.runtime.osx-arm64@8.13.4
+- pkg:nuget/IKVM.MSBuild.Tools.runtime.osx-arm64@8.15.0-dev.46
 - pkg:nuget/IKVM.MSBuild.Tools.runtime.osx-arm64@8.7.0
 - pkg:nuget/IKVM.MSBuild.Tools.runtime.osx-arm64@8.7.0-pre.1
 - pkg:nuget/IKVM.MSBuild.Tools.runtime.osx-arm64@8.7.0-pre.2

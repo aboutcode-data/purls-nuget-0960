@@ -42,6 +42,7 @@
 - pkg:nuget/Lanymy.Common.All@0.14.2
 - pkg:nuget/Lanymy.Common.All@0.14.2.1
 - pkg:nuget/Lanymy.Common.All@0.14.3
+- pkg:nuget/Lanymy.Common.All@0.17.5
 - pkg:nuget/Lanymy.Common.All@0.5.1
 - pkg:nuget/Lanymy.Common.All@0.5.2
 - pkg:nuget/Lanymy.Common.All@0.5.3

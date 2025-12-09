@@ -1,4 +1,5 @@
 - pkg:nuget/Microsoft.AspNetCore.AzureAppServices.SiteExtension@10.0.0-rc-1-25451-107
+- pkg:nuget/Microsoft.AspNetCore.AzureAppServices.SiteExtension@10.0.1
 - pkg:nuget/Microsoft.AspNetCore.AzureAppServices.SiteExtension@2.0.0-rtm-26452
 - pkg:nuget/Microsoft.AspNetCore.AzureAppServices.SiteExtension@2.0.1
 - pkg:nuget/Microsoft.AspNetCore.AzureAppServices.SiteExtension@2.0.2

@@ -6,6 +6,7 @@
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Task@10.0.100-preview.6.25358.103
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Task@10.0.100-preview.7.25380.108
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Task@10.0.100-rc.1.25451.107
+- pkg:nuget/Microsoft.DotNet.ApiCompat.Task@10.0.101
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Task@7.0.100
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Task@7.0.100-rc.1.22429.2
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Task@7.0.100-rc.2.22476.15

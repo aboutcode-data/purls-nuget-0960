@@ -6,6 +6,7 @@
 - pkg:nuget/Microsoft.AspNetCore.OutputCaching.StackExchangeRedis@10.0.0-preview.6.25358.103
 - pkg:nuget/Microsoft.AspNetCore.OutputCaching.StackExchangeRedis@10.0.0-preview.7.25380.108
 - pkg:nuget/Microsoft.AspNetCore.OutputCaching.StackExchangeRedis@10.0.0-rc.1.25451.107
+- pkg:nuget/Microsoft.AspNetCore.OutputCaching.StackExchangeRedis@10.0.1
 - pkg:nuget/Microsoft.AspNetCore.OutputCaching.StackExchangeRedis@8.0.0
 - pkg:nuget/Microsoft.AspNetCore.OutputCaching.StackExchangeRedis@8.0.0-rc.2.23480.2
 - pkg:nuget/Microsoft.AspNetCore.OutputCaching.StackExchangeRedis@8.0.1

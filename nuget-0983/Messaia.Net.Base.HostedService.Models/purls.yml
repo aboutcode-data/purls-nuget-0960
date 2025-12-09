@@ -177,3 +177,4 @@
 - pkg:nuget/Messaia.Net.Base.HostedService.Models@9.1.1-RC05
 - pkg:nuget/Messaia.Net.Base.HostedService.Models@9.1.1-RC06
 - pkg:nuget/Messaia.Net.Base.HostedService.Models@9.1.1-RC07
+- pkg:nuget/Messaia.Net.Base.HostedService.Models@9.3.0-rc01

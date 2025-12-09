@@ -6,6 +6,7 @@
 - pkg:nuget/System.ServiceModel.Syndication@10.0.0-preview.6.25358.103
 - pkg:nuget/System.ServiceModel.Syndication@10.0.0-preview.7.25380.108
 - pkg:nuget/System.ServiceModel.Syndication@10.0.0-rc.1.25451.107
+- pkg:nuget/System.ServiceModel.Syndication@10.0.1
 - pkg:nuget/System.ServiceModel.Syndication@4.5.0
 - pkg:nuget/System.ServiceModel.Syndication@4.5.0-preview1-25914-04
 - pkg:nuget/System.ServiceModel.Syndication@4.5.0-preview1-26216-02

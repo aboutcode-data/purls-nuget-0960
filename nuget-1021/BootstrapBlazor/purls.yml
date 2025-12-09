@@ -1555,6 +1555,7 @@
 - pkg:nuget/BootstrapBlazor@9.6.1
 - pkg:nuget/BootstrapBlazor@9.6.1-beta01
 - pkg:nuget/BootstrapBlazor@9.6.1-beta02
+- pkg:nuget/BootstrapBlazor@9.6.10
 - pkg:nuget/BootstrapBlazor@9.6.2
 - pkg:nuget/BootstrapBlazor@9.6.2-beta01
 - pkg:nuget/BootstrapBlazor@9.6.2-beta02
@@ -1570,6 +1571,7 @@
 - pkg:nuget/BootstrapBlazor@9.6.4-beta04
 - pkg:nuget/BootstrapBlazor@9.6.4-beta05
 - pkg:nuget/BootstrapBlazor@9.6.5-beta01
+- pkg:nuget/BootstrapBlazor@9.6.9
 - pkg:nuget/BootstrapBlazor@9.7.0
 - pkg:nuget/BootstrapBlazor@9.7.1
 - pkg:nuget/BootstrapBlazor@9.7.1-beta01

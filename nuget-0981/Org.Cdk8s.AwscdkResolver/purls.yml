@@ -309,6 +309,7 @@
 - pkg:nuget/Org.Cdk8s.AwscdkResolver@0.0.40
 - pkg:nuget/Org.Cdk8s.AwscdkResolver@0.0.41
 - pkg:nuget/Org.Cdk8s.AwscdkResolver@0.0.42
+- pkg:nuget/Org.Cdk8s.AwscdkResolver@0.0.423
 - pkg:nuget/Org.Cdk8s.AwscdkResolver@0.0.43
 - pkg:nuget/Org.Cdk8s.AwscdkResolver@0.0.44
 - pkg:nuget/Org.Cdk8s.AwscdkResolver@0.0.45

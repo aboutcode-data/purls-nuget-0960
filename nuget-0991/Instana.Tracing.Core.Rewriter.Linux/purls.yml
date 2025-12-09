@@ -85,3 +85,4 @@
 - pkg:nuget/Instana.Tracing.Core.Rewriter.Linux@1.298.2
 - pkg:nuget/Instana.Tracing.Core.Rewriter.Linux@1.300.1
 - pkg:nuget/Instana.Tracing.Core.Rewriter.Linux@1.302.1
+- pkg:nuget/Instana.Tracing.Core.Rewriter.Linux@1.309.2

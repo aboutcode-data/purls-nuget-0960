@@ -29,6 +29,7 @@
 - pkg:nuget/Jesse.AspNetCore.Dev@8.1.0
 - pkg:nuget/Jesse.AspNetCore.Dev@8.2.0
 - pkg:nuget/Jesse.AspNetCore.Dev@8.2.1
+- pkg:nuget/Jesse.AspNetCore.Dev@8.2.16
 - pkg:nuget/Jesse.AspNetCore.Dev@8.2.2
 - pkg:nuget/Jesse.AspNetCore.Dev@8.2.3
 - pkg:nuget/Jesse.AspNetCore.Dev@8.2.4

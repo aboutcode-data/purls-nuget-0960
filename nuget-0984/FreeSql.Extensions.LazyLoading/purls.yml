@@ -585,3 +585,4 @@
 - pkg:nuget/FreeSql.Extensions.LazyLoading@3.5.213-preview20250815
 - pkg:nuget/FreeSql.Extensions.LazyLoading@3.5.213-preview20250825
 - pkg:nuget/FreeSql.Extensions.LazyLoading@3.5.303
+- pkg:nuget/FreeSql.Extensions.LazyLoading@3.5.304

@@ -177,3 +177,4 @@
 - pkg:nuget/VirtoCommerce.NotificationsModule.SendGrid@3.821.0
 - pkg:nuget/VirtoCommerce.NotificationsModule.SendGrid@3.822.0
 - pkg:nuget/VirtoCommerce.NotificationsModule.SendGrid@3.823.0
+- pkg:nuget/VirtoCommerce.NotificationsModule.SendGrid@3.831.0

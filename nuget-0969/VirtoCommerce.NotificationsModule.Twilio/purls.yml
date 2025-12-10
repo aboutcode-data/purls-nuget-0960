@@ -228,6 +228,7 @@
 - pkg:nuget/VirtoCommerce.NotificationsModule.Twilio@3.821.0
 - pkg:nuget/VirtoCommerce.NotificationsModule.Twilio@3.822.0
 - pkg:nuget/VirtoCommerce.NotificationsModule.Twilio@3.823.0
+- pkg:nuget/VirtoCommerce.NotificationsModule.Twilio@3.831.0
 - pkg:nuget/VirtoCommerce.NotificationsModule.Twilio@3.9.0
 - pkg:nuget/VirtoCommerce.NotificationsModule.Twilio@3.9.0-alpha.141
 - pkg:nuget/VirtoCommerce.NotificationsModule.Twilio@3.9.0-alpha.142

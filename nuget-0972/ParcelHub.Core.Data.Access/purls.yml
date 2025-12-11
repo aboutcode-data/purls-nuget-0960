@@ -69,4 +69,5 @@
 - pkg:nuget/ParcelHub.Core.Data.Access@1.0.72
 - pkg:nuget/ParcelHub.Core.Data.Access@1.0.75
 - pkg:nuget/ParcelHub.Core.Data.Access@1.0.8
+- pkg:nuget/ParcelHub.Core.Data.Access@1.0.88
 - pkg:nuget/ParcelHub.Core.Data.Access@1.0.9

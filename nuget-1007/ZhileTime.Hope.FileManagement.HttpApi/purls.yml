@@ -39,3 +39,4 @@
 - pkg:nuget/ZhileTime.Hope.FileManagement.HttpApi@5.5.9
 - pkg:nuget/ZhileTime.Hope.FileManagement.HttpApi@5.7.1
 - pkg:nuget/ZhileTime.Hope.FileManagement.HttpApi@5.7.2
+- pkg:nuget/ZhileTime.Hope.FileManagement.HttpApi@6.1.10

@@ -7,3 +7,4 @@
 - pkg:nuget/CasCap.Api.Azure.ServiceBus@1.1.7
 - pkg:nuget/CasCap.Api.Azure.ServiceBus@1.1.8
 - pkg:nuget/CasCap.Api.Azure.ServiceBus@1.1.9
+- pkg:nuget/CasCap.Api.Azure.ServiceBus@1.2.2

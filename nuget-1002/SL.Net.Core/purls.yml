@@ -3,6 +3,7 @@
 - pkg:nuget/SL.Net.Core@1.0.0.12
 - pkg:nuget/SL.Net.Core@1.0.0.13
 - pkg:nuget/SL.Net.Core@1.0.0.14
+- pkg:nuget/SL.Net.Core@1.0.0.17
 - pkg:nuget/SL.Net.Core@1.0.0.2
 - pkg:nuget/SL.Net.Core@1.0.0.3
 - pkg:nuget/SL.Net.Core@1.0.0.4

@@ -144,3 +144,4 @@
 - pkg:nuget/Vorwerk.IdentityServer.Clients@3.2.2
 - pkg:nuget/Vorwerk.IdentityServer.Clients@3.2.3
 - pkg:nuget/Vorwerk.IdentityServer.Clients@3.2.4
+- pkg:nuget/Vorwerk.IdentityServer.Clients@3.3.2

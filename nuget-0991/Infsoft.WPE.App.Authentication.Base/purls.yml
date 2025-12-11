@@ -72,3 +72,4 @@
 - pkg:nuget/Infsoft.WPE.App.Authentication.Base@0.7.8
 - pkg:nuget/Infsoft.WPE.App.Authentication.Base@0.7.9
 - pkg:nuget/Infsoft.WPE.App.Authentication.Base@0.8.2
+- pkg:nuget/Infsoft.WPE.App.Authentication.Base@0.8.5

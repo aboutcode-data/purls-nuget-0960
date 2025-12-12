@@ -3,6 +3,7 @@
 - pkg:nuget/Arcturus.EventBus.Abstracts@2025.1.12.51
 - pkg:nuget/Arcturus.EventBus.Abstracts@2025.1.13.56
 - pkg:nuget/Arcturus.EventBus.Abstracts@2025.1.15.60
+- pkg:nuget/Arcturus.EventBus.Abstracts@2025.12.12.203
 - pkg:nuget/Arcturus.EventBus.Abstracts@2025.3.19.80
 - pkg:nuget/Arcturus.EventBus.Abstracts@2025.4.6.83
 - pkg:nuget/Arcturus.EventBus.Abstracts@2025.4.8.87

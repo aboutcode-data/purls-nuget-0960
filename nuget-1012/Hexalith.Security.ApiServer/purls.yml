@@ -48,6 +48,7 @@
 - pkg:nuget/Hexalith.Security.ApiServer@2.11.7
 - pkg:nuget/Hexalith.Security.ApiServer@2.11.8
 - pkg:nuget/Hexalith.Security.ApiServer@2.11.9
+- pkg:nuget/Hexalith.Security.ApiServer@2.14.5
 - pkg:nuget/Hexalith.Security.ApiServer@2.2.0
 - pkg:nuget/Hexalith.Security.ApiServer@2.2.1
 - pkg:nuget/Hexalith.Security.ApiServer@2.3.0

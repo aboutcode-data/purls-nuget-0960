@@ -1,1 +1,2 @@
 - pkg:nuget/SpecSync.Plugin.ScenarioOutlinePerExamplesTestCase@1.0.0
+- pkg:nuget/SpecSync.Plugin.ScenarioOutlinePerExamplesTestCase@5.0.0

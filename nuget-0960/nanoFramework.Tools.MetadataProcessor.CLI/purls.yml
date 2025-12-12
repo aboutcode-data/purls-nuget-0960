@@ -19,4 +19,5 @@
 - pkg:nuget/nanoFramework.Tools.MetadataProcessor.CLI@4.0.0-preview.42
 - pkg:nuget/nanoFramework.Tools.MetadataProcessor.CLI@4.0.0-preview.46
 - pkg:nuget/nanoFramework.Tools.MetadataProcessor.CLI@4.0.0-preview.5
+- pkg:nuget/nanoFramework.Tools.MetadataProcessor.CLI@4.0.0-preview.65
 - pkg:nuget/nanoFramework.Tools.MetadataProcessor.CLI@4.0.0-preview.8

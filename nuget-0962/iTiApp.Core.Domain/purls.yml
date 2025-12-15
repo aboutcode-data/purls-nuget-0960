@@ -7,6 +7,7 @@
 - pkg:nuget/iTiApp.Core.Domain@1.0.0-CI-20210627-100658
 - pkg:nuget/iTiApp.Core.Domain@1.0.0-CI-20210703-030451
 - pkg:nuget/iTiApp.Core.Domain@1.0.0-CI-20210725-095923
+- pkg:nuget/iTiApp.Core.Domain@10.0.0-CI-20251213-154308
 - pkg:nuget/iTiApp.Core.Domain@3.0.0-CI-20210917-065420
 - pkg:nuget/iTiApp.Core.Domain@3.0.0-CI-20210917-093709
 - pkg:nuget/iTiApp.Core.Domain@5.0.0-CI-20210826-091305

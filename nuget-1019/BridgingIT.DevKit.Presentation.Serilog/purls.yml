@@ -1,4 +1,5 @@
 - pkg:nuget/BridgingIT.DevKit.Presentation.Serilog@10.0.2-preview.0.2
+- pkg:nuget/BridgingIT.DevKit.Presentation.Serilog@10.0.2-preview.0.8
 - pkg:nuget/BridgingIT.DevKit.Presentation.Serilog@3.0.1
 - pkg:nuget/BridgingIT.DevKit.Presentation.Serilog@3.0.1-preview.0.10
 - pkg:nuget/BridgingIT.DevKit.Presentation.Serilog@3.0.1-preview.0.7

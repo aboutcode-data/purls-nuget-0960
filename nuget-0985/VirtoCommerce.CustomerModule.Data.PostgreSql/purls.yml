@@ -140,3 +140,4 @@
 - pkg:nuget/VirtoCommerce.CustomerModule.Data.PostgreSql@3.838.0
 - pkg:nuget/VirtoCommerce.CustomerModule.Data.PostgreSql@3.840.0
 - pkg:nuget/VirtoCommerce.CustomerModule.Data.PostgreSql@3.846.0-alpha.924-vcst-4203-cleanup
+- pkg:nuget/VirtoCommerce.CustomerModule.Data.PostgreSql@3.848.0

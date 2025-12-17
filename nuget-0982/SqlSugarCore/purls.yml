@@ -1572,6 +1572,7 @@
 - pkg:nuget/SqlSugarCore@5.1.4.207
 - pkg:nuget/SqlSugarCore@5.1.4.208-preview04
 - pkg:nuget/SqlSugarCore@5.1.4.208-preview06
+- pkg:nuget/SqlSugarCore@5.1.4.211-preview15
 - pkg:nuget/SqlSugarCore@5.1.4.58
 - pkg:nuget/SqlSugarCore@5.1.4.59
 - pkg:nuget/SqlSugarCore@5.1.4.59-preview01

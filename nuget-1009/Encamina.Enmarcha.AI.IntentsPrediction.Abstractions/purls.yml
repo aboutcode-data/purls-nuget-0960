@@ -1,6 +1,7 @@
 - pkg:nuget/Encamina.Enmarcha.AI.IntentsPrediction.Abstractions@10.0.0-preview-02
 - pkg:nuget/Encamina.Enmarcha.AI.IntentsPrediction.Abstractions@10.0.0-preview-03
 - pkg:nuget/Encamina.Enmarcha.AI.IntentsPrediction.Abstractions@10.0.0-preview-1
+- pkg:nuget/Encamina.Enmarcha.AI.IntentsPrediction.Abstractions@10.0.1
 - pkg:nuget/Encamina.Enmarcha.AI.IntentsPrediction.Abstractions@6.0.3.19
 - pkg:nuget/Encamina.Enmarcha.AI.IntentsPrediction.Abstractions@6.0.3.20
 - pkg:nuget/Encamina.Enmarcha.AI.IntentsPrediction.Abstractions@6.0.4

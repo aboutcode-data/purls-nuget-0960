@@ -110,3 +110,4 @@
 - pkg:nuget/Mscc.GenerativeAI.Google@2.8.8
 - pkg:nuget/Mscc.GenerativeAI.Google@2.8.9
 - pkg:nuget/Mscc.GenerativeAI.Google@2.9.8
+- pkg:nuget/Mscc.GenerativeAI.Google@3.0.0

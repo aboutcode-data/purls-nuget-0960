@@ -130,3 +130,4 @@
 - pkg:nuget/ZhileTime.Hope.TextTemplating.Scriban@5.4.0
 - pkg:nuget/ZhileTime.Hope.TextTemplating.Scriban@5.8.0
 - pkg:nuget/ZhileTime.Hope.TextTemplating.Scriban@5.8.2
+- pkg:nuget/ZhileTime.Hope.TextTemplating.Scriban@6.1.16

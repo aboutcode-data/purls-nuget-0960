@@ -1,5 +1,6 @@
 - pkg:nuget/Euonia.Repository@10.0.9
 - pkg:nuget/Euonia.Repository@10.1.0
+- pkg:nuget/Euonia.Repository@10.1.10
 - pkg:nuget/Euonia.Repository@10.1.6
 - pkg:nuget/Euonia.Repository@6.0.500
 - pkg:nuget/Euonia.Repository@6.0.510

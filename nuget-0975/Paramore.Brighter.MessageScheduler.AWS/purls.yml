@@ -1,2 +1,3 @@
 - pkg:nuget/Paramore.Brighter.MessageScheduler.AWS@10.0.1
 - pkg:nuget/Paramore.Brighter.MessageScheduler.AWS@10.0.2
+- pkg:nuget/Paramore.Brighter.MessageScheduler.AWS@10.0.5

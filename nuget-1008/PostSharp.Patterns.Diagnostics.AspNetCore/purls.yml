@@ -49,6 +49,7 @@
 - pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetCore@2025.1.7
 - pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetCore@2025.1.8
 - pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetCore@2025.1.9
+- pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetCore@2026.0.4-rc
 - pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetCore@6.10.1-preview
 - pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetCore@6.10.10
 - pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetCore@6.10.12

@@ -26,6 +26,7 @@
 - pkg:nuget/Chd.Library.Logging@8.5.1
 - pkg:nuget/Chd.Library.Logging@8.5.2
 - pkg:nuget/Chd.Library.Logging@8.5.3
+- pkg:nuget/Chd.Library.Logging@8.5.7
 - pkg:nuget/Chd.Library.Logging@9.0.0
 - pkg:nuget/Chd.Library.Logging@9.0.1
 - pkg:nuget/Chd.Library.Logging@9.0.2

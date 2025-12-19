@@ -12,6 +12,7 @@
 - pkg:nuget/EasyAbp.Abp.DynamicPermission.Blazor.Server@1.12.0
 - pkg:nuget/EasyAbp.Abp.DynamicPermission.Blazor.Server@1.13.0
 - pkg:nuget/EasyAbp.Abp.DynamicPermission.Blazor.Server@1.13.0-preview.1
+- pkg:nuget/EasyAbp.Abp.DynamicPermission.Blazor.Server@1.14.0
 - pkg:nuget/EasyAbp.Abp.DynamicPermission.Blazor.Server@1.2.0
 - pkg:nuget/EasyAbp.Abp.DynamicPermission.Blazor.Server@1.3.0
 - pkg:nuget/EasyAbp.Abp.DynamicPermission.Blazor.Server@1.4.0

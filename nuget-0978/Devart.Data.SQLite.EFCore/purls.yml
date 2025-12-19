@@ -93,3 +93,7 @@
 - pkg:nuget/Devart.Data.SQLite.EFCore@6.4.290.7
 - pkg:nuget/Devart.Data.SQLite.EFCore@6.4.290.8
 - pkg:nuget/Devart.Data.SQLite.EFCore@6.4.290.9
+- pkg:nuget/Devart.Data.SQLite.EFCore@7.0.0
+- pkg:nuget/Devart.Data.SQLite.EFCore@7.0.0.7
+- pkg:nuget/Devart.Data.SQLite.EFCore@7.0.0.8
+- pkg:nuget/Devart.Data.SQLite.EFCore@7.0.0.9

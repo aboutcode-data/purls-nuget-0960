@@ -9,3 +9,4 @@
 - pkg:nuget/Devart.Data.Universal.Firebird@5.3.193
 - pkg:nuget/Devart.Data.Universal.Firebird@5.3.235
 - pkg:nuget/Devart.Data.Universal.Firebird@5.3.290
+- pkg:nuget/Devart.Data.Universal.Firebird@6.0.0

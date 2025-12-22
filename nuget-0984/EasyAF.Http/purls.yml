@@ -195,3 +195,5 @@
 - pkg:nuget/EasyAF.Http@3.1.0-CI-20250908-205638
 - pkg:nuget/EasyAF.Http@3.1.0-CI-20250908-224024
 - pkg:nuget/EasyAF.Http@3.1.0-CI-20250919-014114
+- pkg:nuget/EasyAF.Http@4.0.0
+- pkg:nuget/EasyAF.Http@4.0.0-CI-20251221-154726

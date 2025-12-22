@@ -8,3 +8,4 @@
 - pkg:nuget/IdentitySuite.EntityFrameworkCore.PostgreSql@1.1.0
 - pkg:nuget/IdentitySuite.EntityFrameworkCore.PostgreSql@1.1.1
 - pkg:nuget/IdentitySuite.EntityFrameworkCore.PostgreSql@1.1.4
+- pkg:nuget/IdentitySuite.EntityFrameworkCore.PostgreSql@2.0.1

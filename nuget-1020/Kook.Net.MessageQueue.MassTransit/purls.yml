@@ -1,4 +1,5 @@
 - pkg:nuget/Kook.Net.MessageQueue.MassTransit@0.10.0
+- pkg:nuget/Kook.Net.MessageQueue.MassTransit@0.10.4
 - pkg:nuget/Kook.Net.MessageQueue.MassTransit@0.9.0
 - pkg:nuget/Kook.Net.MessageQueue.MassTransit@0.9.0-beta1
 - pkg:nuget/Kook.Net.MessageQueue.MassTransit@0.9.0-beta2

@@ -12,3 +12,5 @@
 - pkg:nuget/Voyager.DBConnection@4.3.1
 - pkg:nuget/Voyager.DBConnection@4.4.4-preview.1
 - pkg:nuget/Voyager.DBConnection@4.4.4-preview.2
+- pkg:nuget/Voyager.DBConnection@4.4.4-preview.8
+- pkg:nuget/Voyager.DBConnection@4.4.4-preview.9

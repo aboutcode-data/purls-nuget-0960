@@ -22,6 +22,8 @@
 - pkg:nuget/SpreadsheetStreams.net@1.0.9
 - pkg:nuget/SpreadsheetStreams.net@2.0.0
 - pkg:nuget/SpreadsheetStreams.net@2.0.1
+- pkg:nuget/SpreadsheetStreams.net@2.0.13
+- pkg:nuget/SpreadsheetStreams.net@2.0.14
 - pkg:nuget/SpreadsheetStreams.net@2.0.2
 - pkg:nuget/SpreadsheetStreams.net@2.0.3
 - pkg:nuget/SpreadsheetStreams.net@2.0.4

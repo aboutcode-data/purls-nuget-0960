@@ -323,6 +323,7 @@
 - pkg:nuget/AWSSDK.MarketplaceAgreement@3.7.502.4
 - pkg:nuget/AWSSDK.MarketplaceAgreement@3.7.503
 - pkg:nuget/AWSSDK.MarketplaceAgreement@3.7.503.1
+- pkg:nuget/AWSSDK.MarketplaceAgreement@3.7.503.10
 - pkg:nuget/AWSSDK.MarketplaceAgreement@3.7.503.5
 - pkg:nuget/AWSSDK.MarketplaceAgreement@3.7.503.6
 - pkg:nuget/AWSSDK.MarketplaceAgreement@4.0.0

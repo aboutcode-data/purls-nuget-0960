@@ -1116,6 +1116,7 @@
 - pkg:nuget/AWSSDK.ApiGatewayV2@3.7.501.8
 - pkg:nuget/AWSSDK.ApiGatewayV2@3.7.501.9
 - pkg:nuget/AWSSDK.ApiGatewayV2@3.7.503
+- pkg:nuget/AWSSDK.ApiGatewayV2@3.7.503.13
 - pkg:nuget/AWSSDK.ApiGatewayV2@3.7.503.2
 - pkg:nuget/AWSSDK.ApiGatewayV2@3.7.503.9
 - pkg:nuget/AWSSDK.ApiGatewayV2@4.0.0

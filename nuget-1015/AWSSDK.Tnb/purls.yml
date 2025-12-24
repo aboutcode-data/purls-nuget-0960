@@ -481,6 +481,7 @@
 - pkg:nuget/AWSSDK.Tnb@3.7.502.12
 - pkg:nuget/AWSSDK.Tnb@3.7.502.18
 - pkg:nuget/AWSSDK.Tnb@3.7.502.21
+- pkg:nuget/AWSSDK.Tnb@3.7.502.25
 - pkg:nuget/AWSSDK.Tnb@4.0.0
 - pkg:nuget/AWSSDK.Tnb@4.0.0-preview
 - pkg:nuget/AWSSDK.Tnb@4.0.0-preview.10

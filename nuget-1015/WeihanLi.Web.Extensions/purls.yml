@@ -42,3 +42,4 @@
 - pkg:nuget/WeihanLi.Web.Extensions@2.2.0-preview-20250423-012210
 - pkg:nuget/WeihanLi.Web.Extensions@2.2.0-preview-20250525-154628
 - pkg:nuget/WeihanLi.Web.Extensions@2.2.0-preview-20250915-102700
+- pkg:nuget/WeihanLi.Web.Extensions@2.3.1

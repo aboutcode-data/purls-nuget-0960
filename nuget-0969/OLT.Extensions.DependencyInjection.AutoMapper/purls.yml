@@ -7,6 +7,7 @@
 - pkg:nuget/OLT.Extensions.DependencyInjection.AutoMapper@13.1.0
 - pkg:nuget/OLT.Extensions.DependencyInjection.AutoMapper@13.1.0-beta-0004
 - pkg:nuget/OLT.Extensions.DependencyInjection.AutoMapper@13.1.0-beta-0006
+- pkg:nuget/OLT.Extensions.DependencyInjection.AutoMapper@14.0.0
 - pkg:nuget/OLT.Extensions.DependencyInjection.AutoMapper@5.2.0
 - pkg:nuget/OLT.Extensions.DependencyInjection.AutoMapper@5.2.1
 - pkg:nuget/OLT.Extensions.DependencyInjection.AutoMapper@5.2.2

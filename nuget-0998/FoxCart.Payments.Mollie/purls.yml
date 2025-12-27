@@ -1,1 +1,2 @@
 - pkg:nuget/FoxCart.Payments.Mollie@1.0.0
+- pkg:nuget/FoxCart.Payments.Mollie@1.0.4

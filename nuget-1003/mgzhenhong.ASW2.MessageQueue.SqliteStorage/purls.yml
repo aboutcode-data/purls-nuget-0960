@@ -1,2 +1,3 @@
 - pkg:nuget/mgzhenhong.ASW2.MessageQueue.SqliteStorage@2.0.13
 - pkg:nuget/mgzhenhong.ASW2.MessageQueue.SqliteStorage@2.0.18
+- pkg:nuget/mgzhenhong.ASW2.MessageQueue.SqliteStorage@2.0.25

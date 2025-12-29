@@ -356,6 +356,7 @@
 - pkg:nuget/ThingsGateway.Blazor.Diagrams@10.9.98
 - pkg:nuget/ThingsGateway.Blazor.Diagrams@10.9.99
 - pkg:nuget/ThingsGateway.Blazor.Diagrams@12.4.12
+- pkg:nuget/ThingsGateway.Blazor.Diagrams@12.4.23
 - pkg:nuget/ThingsGateway.Blazor.Diagrams@7.2.0.20
 - pkg:nuget/ThingsGateway.Blazor.Diagrams@7.2.0.21
 - pkg:nuget/ThingsGateway.Blazor.Diagrams@9.0.2.39

@@ -68,3 +68,4 @@
 - pkg:nuget/Squadron.AzureCloudServiceBus@0.9.1-preview.1
 - pkg:nuget/Squadron.AzureCloudServiceBus@0.9.1-preview.2
 - pkg:nuget/Squadron.AzureCloudServiceBus@0.9.1-preview.3
+- pkg:nuget/Squadron.AzureCloudServiceBus@1.0.0-preview.2

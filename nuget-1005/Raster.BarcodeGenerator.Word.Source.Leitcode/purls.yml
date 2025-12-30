@@ -8,6 +8,7 @@
 - pkg:nuget/Raster.BarcodeGenerator.Word.Source.Leitcode@12.3.5.15
 - pkg:nuget/Raster.BarcodeGenerator.Word.Source.Leitcode@12.3.5.2
 - pkg:nuget/Raster.BarcodeGenerator.Word.Source.Leitcode@12.3.5.22
+- pkg:nuget/Raster.BarcodeGenerator.Word.Source.Leitcode@12.3.5.28
 - pkg:nuget/Raster.BarcodeGenerator.Word.Source.Leitcode@12.3.5.3
 - pkg:nuget/Raster.BarcodeGenerator.Word.Source.Leitcode@12.3.5.4
 - pkg:nuget/Raster.BarcodeGenerator.Word.Source.Leitcode@12.3.5.5

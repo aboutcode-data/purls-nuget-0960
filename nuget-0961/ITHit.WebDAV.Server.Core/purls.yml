@@ -59,6 +59,7 @@
 - pkg:nuget/ITHit.WebDAV.Server.Core@15.3.15268-Beta3
 - pkg:nuget/ITHit.WebDAV.Server.Core@15.3.15282-Beta3
 - pkg:nuget/ITHit.WebDAV.Server.Core@15.3.16041
+- pkg:nuget/ITHit.WebDAV.Server.Core@15.4.16086
 - pkg:nuget/ITHit.WebDAV.Server.Core@5.0.3105-Beta
 - pkg:nuget/ITHit.WebDAV.Server.Core@5.0.3112-Beta
 - pkg:nuget/ITHit.WebDAV.Server.Core@5.0.3186-Beta

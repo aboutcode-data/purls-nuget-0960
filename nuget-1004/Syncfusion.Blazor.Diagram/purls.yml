@@ -218,3 +218,4 @@
 - pkg:nuget/Syncfusion.Blazor.Diagram@31.1.20
 - pkg:nuget/Syncfusion.Blazor.Diagram@31.2.10
 - pkg:nuget/Syncfusion.Blazor.Diagram@31.2.2
+- pkg:nuget/Syncfusion.Blazor.Diagram@32.1.21

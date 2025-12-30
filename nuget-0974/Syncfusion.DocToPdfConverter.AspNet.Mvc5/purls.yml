@@ -312,3 +312,4 @@
 - pkg:nuget/Syncfusion.DocToPdfConverter.AspNet.Mvc5@31.2.12
 - pkg:nuget/Syncfusion.DocToPdfConverter.AspNet.Mvc5@31.2.2
 - pkg:nuget/Syncfusion.DocToPdfConverter.AspNet.Mvc5@31.2.4
+- pkg:nuget/Syncfusion.DocToPdfConverter.AspNet.Mvc5@32.1.21

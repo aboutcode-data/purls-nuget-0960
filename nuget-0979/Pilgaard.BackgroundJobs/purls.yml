@@ -1,4 +1,5 @@
 - pkg:nuget/Pilgaard.BackgroundJobs@0.1.0
+- pkg:nuget/Pilgaard.BackgroundJobs@10.0.1
 - pkg:nuget/Pilgaard.BackgroundJobs@7.0.2
 - pkg:nuget/Pilgaard.BackgroundJobs@7.0.3
 - pkg:nuget/Pilgaard.BackgroundJobs@7.0.4

@@ -744,6 +744,7 @@
 - pkg:nuget/PnP.Core.Transformation@1.15.24-nightly
 - pkg:nuget/PnP.Core.Transformation@1.15.25-nightly
 - pkg:nuget/PnP.Core.Transformation@1.15.26-nightly
+- pkg:nuget/PnP.Core.Transformation@1.15.261-nightly
 - pkg:nuget/PnP.Core.Transformation@1.15.27-nightly
 - pkg:nuget/PnP.Core.Transformation@1.15.28-nightly
 - pkg:nuget/PnP.Core.Transformation@1.15.29-nightly

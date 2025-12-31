@@ -91,6 +91,8 @@
 - pkg:nuget/Pulumi.Kong@4.5.1
 - pkg:nuget/Pulumi.Kong@4.5.10
 - pkg:nuget/Pulumi.Kong@4.5.10-alpha.1753397856
+- pkg:nuget/Pulumi.Kong@4.5.12
+- pkg:nuget/Pulumi.Kong@4.5.12-alpha.1767139670
 - pkg:nuget/Pulumi.Kong@4.5.2
 - pkg:nuget/Pulumi.Kong@4.5.3
 - pkg:nuget/Pulumi.Kong@4.5.4

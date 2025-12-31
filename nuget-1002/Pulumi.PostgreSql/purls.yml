@@ -415,6 +415,7 @@
 - pkg:nuget/Pulumi.PostgreSql@3.17.0-alpha.1758956300
 - pkg:nuget/Pulumi.PostgreSql@3.17.0-alpha.1759214916
 - pkg:nuget/Pulumi.PostgreSql@3.17.0-alpha.1765261800
+- pkg:nuget/Pulumi.PostgreSql@3.17.0-alpha.1767139985
 - pkg:nuget/Pulumi.PostgreSql@3.2.0
 - pkg:nuget/Pulumi.PostgreSql@3.2.0-alpha.1630675916%2B2e46f66f
 - pkg:nuget/Pulumi.PostgreSql@3.3.0

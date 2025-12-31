@@ -57,3 +57,4 @@
 - pkg:nuget/Simple.Sqlite@1.4.2
 - pkg:nuget/Simple.Sqlite@1.4.3
 - pkg:nuget/Simple.Sqlite@1.4.4
+- pkg:nuget/Simple.Sqlite@1.4.6

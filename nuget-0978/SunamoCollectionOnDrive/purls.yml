@@ -22,6 +22,7 @@
 - pkg:nuget/SunamoCollectionOnDrive@24.8.21.1
 - pkg:nuget/SunamoCollectionOnDrive@24.9.20.1
 - pkg:nuget/SunamoCollectionOnDrive@25.1.29.1
+- pkg:nuget/SunamoCollectionOnDrive@25.12.31.1
 - pkg:nuget/SunamoCollectionOnDrive@25.3.29.1
 - pkg:nuget/SunamoCollectionOnDrive@25.3.29.2
 - pkg:nuget/SunamoCollectionOnDrive@25.6.7.1

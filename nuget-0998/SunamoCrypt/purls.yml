@@ -23,5 +23,6 @@
 - pkg:nuget/SunamoCrypt@24.7.16.1
 - pkg:nuget/SunamoCrypt@24.9.20.1
 - pkg:nuget/SunamoCrypt@25.1.29.1
+- pkg:nuget/SunamoCrypt@25.12.31.1
 - pkg:nuget/SunamoCrypt@25.3.29.1
 - pkg:nuget/SunamoCrypt@25.6.7.1

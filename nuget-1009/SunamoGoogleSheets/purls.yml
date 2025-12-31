@@ -30,6 +30,7 @@
 - pkg:nuget/SunamoGoogleSheets@24.9.20.1
 - pkg:nuget/SunamoGoogleSheets@25.1.11.1
 - pkg:nuget/SunamoGoogleSheets@25.1.11.2
+- pkg:nuget/SunamoGoogleSheets@25.12.31.1
 - pkg:nuget/SunamoGoogleSheets@25.3.29.1
 - pkg:nuget/SunamoGoogleSheets@25.4.12.1
 - pkg:nuget/SunamoGoogleSheets@25.4.12.2

@@ -42,6 +42,7 @@
 - pkg:nuget/O2S.Components.PDFRender4NET.Win@11.3.22
 - pkg:nuget/O2S.Components.PDFRender4NET.Win@11.3.23
 - pkg:nuget/O2S.Components.PDFRender4NET.Win@11.3.24
+- pkg:nuget/O2S.Components.PDFRender4NET.Win@11.3.26
 - pkg:nuget/O2S.Components.PDFRender4NET.Win@11.3.3
 - pkg:nuget/O2S.Components.PDFRender4NET.Win@11.3.4
 - pkg:nuget/O2S.Components.PDFRender4NET.Win@11.3.5

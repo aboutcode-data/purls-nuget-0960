@@ -40,6 +40,7 @@
 - pkg:nuget/Splat.Autofac@16.1.1
 - pkg:nuget/Splat.Autofac@16.2.1
 - pkg:nuget/Splat.Autofac@17.0.1
+- pkg:nuget/Splat.Autofac@19.1.1
 - pkg:nuget/Splat.Autofac@6.1.7
 - pkg:nuget/Splat.Autofac@7.0.1
 - pkg:nuget/Splat.Autofac@7.0.8

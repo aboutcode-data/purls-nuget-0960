@@ -1,1 +1,2 @@
 - pkg:nuget/RoomSharp.PostgreSql@0.4.4
+- pkg:nuget/RoomSharp.PostgreSql@0.4.5

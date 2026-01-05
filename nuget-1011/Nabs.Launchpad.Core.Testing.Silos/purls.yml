@@ -2,6 +2,10 @@
 - pkg:nuget/Nabs.Launchpad.Core.Testing.Silos@10.0.187
 - pkg:nuget/Nabs.Launchpad.Core.Testing.Silos@10.0.193
 - pkg:nuget/Nabs.Launchpad.Core.Testing.Silos@10.0.204
+- pkg:nuget/Nabs.Launchpad.Core.Testing.Silos@10.0.214
+- pkg:nuget/Nabs.Launchpad.Core.Testing.Silos@10.0.215
+- pkg:nuget/Nabs.Launchpad.Core.Testing.Silos@10.0.216
+- pkg:nuget/Nabs.Launchpad.Core.Testing.Silos@10.0.217
 - pkg:nuget/Nabs.Launchpad.Core.Testing.Silos@9.0.130
 - pkg:nuget/Nabs.Launchpad.Core.Testing.Silos@9.0.131
 - pkg:nuget/Nabs.Launchpad.Core.Testing.Silos@9.0.132

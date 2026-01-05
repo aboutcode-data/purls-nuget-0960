@@ -1,4 +1,5 @@
 - pkg:nuget/Messaia.Net.QuartzExtensions@10.0.0-RC06
+- pkg:nuget/Messaia.Net.QuartzExtensions@10.0.0-RC08
 - pkg:nuget/Messaia.Net.QuartzExtensions@2.2.0
 - pkg:nuget/Messaia.Net.QuartzExtensions@2.2.0-beta07
 - pkg:nuget/Messaia.Net.QuartzExtensions@2.2.0-preview2

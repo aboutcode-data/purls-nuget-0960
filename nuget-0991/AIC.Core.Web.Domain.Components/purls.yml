@@ -16,3 +16,5 @@
 - pkg:nuget/AIC.Core.Web.Domain.Components@2025.11.9.1
 - pkg:nuget/AIC.Core.Web.Domain.Components@2025.12.12.1
 - pkg:nuget/AIC.Core.Web.Domain.Components@2025.12.5.3
+- pkg:nuget/AIC.Core.Web.Domain.Components@2026.1.5.2
+- pkg:nuget/AIC.Core.Web.Domain.Components@2026.1.5.3

@@ -183,3 +183,5 @@
 - pkg:nuget/Soenneker.Porkbun.Client@4.0.208
 - pkg:nuget/Soenneker.Porkbun.Client@4.0.211
 - pkg:nuget/Soenneker.Porkbun.Client@4.0.213
+- pkg:nuget/Soenneker.Porkbun.Client@4.0.227
+- pkg:nuget/Soenneker.Porkbun.Client@4.0.230

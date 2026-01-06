@@ -55,6 +55,7 @@
 - pkg:nuget/AdaptiveExpressions@4.22.8
 - pkg:nuget/AdaptiveExpressions@4.22.9
 - pkg:nuget/AdaptiveExpressions@4.23.0
+- pkg:nuget/AdaptiveExpressions@4.23.1
 - pkg:nuget/AdaptiveExpressions@4.8.0-rc0
 - pkg:nuget/AdaptiveExpressions@4.8.2-preview
 - pkg:nuget/AdaptiveExpressions@4.8.3-preview

@@ -27,6 +27,7 @@
 - pkg:nuget/WarpToolkit.WinForms.Primitives@0.8.17-preview.gc17255bcce
 - pkg:nuget/WarpToolkit.WinForms.Primitives@0.8.18-preview.g94460f5b3a
 - pkg:nuget/WarpToolkit.WinForms.Primitives@0.8.19-preview.ga8d3b3272d
+- pkg:nuget/WarpToolkit.WinForms.Primitives@0.8.195-preview.ga8008f1acd
 - pkg:nuget/WarpToolkit.WinForms.Primitives@0.8.2-preview.g20e276e318
 - pkg:nuget/WarpToolkit.WinForms.Primitives@0.8.20-preview.g6a59941765
 - pkg:nuget/WarpToolkit.WinForms.Primitives@0.8.21-preview.ge33554be8a

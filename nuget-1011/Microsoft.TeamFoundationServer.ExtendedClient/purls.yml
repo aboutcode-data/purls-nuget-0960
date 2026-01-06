@@ -151,6 +151,7 @@
 - pkg:nuget/Microsoft.TeamFoundationServer.ExtendedClient@19.224.0-preview
 - pkg:nuget/Microsoft.TeamFoundationServer.ExtendedClient@19.225.0-preview
 - pkg:nuget/Microsoft.TeamFoundationServer.ExtendedClient@19.225.1
+- pkg:nuget/Microsoft.TeamFoundationServer.ExtendedClient@19.225.2
 - pkg:nuget/Microsoft.TeamFoundationServer.ExtendedClient@19.226.0-preview
 - pkg:nuget/Microsoft.TeamFoundationServer.ExtendedClient@19.227.0-preview
 - pkg:nuget/Microsoft.TeamFoundationServer.ExtendedClient@19.228.0-preview

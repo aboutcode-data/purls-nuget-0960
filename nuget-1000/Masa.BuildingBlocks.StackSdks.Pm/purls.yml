@@ -178,6 +178,7 @@
 - pkg:nuget/Masa.BuildingBlocks.StackSdks.Pm@1.2.1-preview.51
 - pkg:nuget/Masa.BuildingBlocks.StackSdks.Pm@1.2.1-preview.52
 - pkg:nuget/Masa.BuildingBlocks.StackSdks.Pm@1.2.1-preview.6
+- pkg:nuget/Masa.BuildingBlocks.StackSdks.Pm@1.2.1-preview.60
 - pkg:nuget/Masa.BuildingBlocks.StackSdks.Pm@1.2.1-preview.7
 - pkg:nuget/Masa.BuildingBlocks.StackSdks.Pm@1.2.1-preview.8
 - pkg:nuget/Masa.BuildingBlocks.StackSdks.Pm@1.2.1-preview.9

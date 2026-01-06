@@ -361,6 +361,7 @@
 - pkg:nuget/N3O.Umbraco.Events@13.0.260
 - pkg:nuget/N3O.Umbraco.Events@13.0.27
 - pkg:nuget/N3O.Umbraco.Events@13.0.273
+- pkg:nuget/N3O.Umbraco.Events@13.0.279
 - pkg:nuget/N3O.Umbraco.Events@13.0.28
 - pkg:nuget/N3O.Umbraco.Events@13.0.29
 - pkg:nuget/N3O.Umbraco.Events@13.0.3

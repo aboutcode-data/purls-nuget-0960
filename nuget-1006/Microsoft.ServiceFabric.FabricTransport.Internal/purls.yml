@@ -135,3 +135,4 @@
 - pkg:nuget/Microsoft.ServiceFabric.FabricTransport.Internal@8.2.274
 - pkg:nuget/Microsoft.ServiceFabric.FabricTransport.Internal@8.3.475
 - pkg:nuget/Microsoft.ServiceFabric.FabricTransport.Internal@9.0.0-dev.user-cburg-wi-32024996.1003
+- pkg:nuget/Microsoft.ServiceFabric.FabricTransport.Internal@9.0.714-beta

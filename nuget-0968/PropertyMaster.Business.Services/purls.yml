@@ -103,6 +103,7 @@
 - pkg:nuget/PropertyMaster.Business.Services@3.3.292
 - pkg:nuget/PropertyMaster.Business.Services@3.3.31
 - pkg:nuget/PropertyMaster.Business.Services@3.3.326
+- pkg:nuget/PropertyMaster.Business.Services@3.3.396-beta
 - pkg:nuget/PropertyMaster.Business.Services@3.3.41
 - pkg:nuget/PropertyMaster.Business.Services@3.3.43
 - pkg:nuget/PropertyMaster.Business.Services@3.3.45

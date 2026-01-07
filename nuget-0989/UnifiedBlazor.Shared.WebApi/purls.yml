@@ -134,3 +134,4 @@
 - pkg:nuget/UnifiedBlazor.Shared.WebApi@0.0.97
 - pkg:nuget/UnifiedBlazor.Shared.WebApi@0.0.98
 - pkg:nuget/UnifiedBlazor.Shared.WebApi@0.0.99
+- pkg:nuget/UnifiedBlazor.Shared.WebApi@0.1.1

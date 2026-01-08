@@ -27,3 +27,4 @@
 - pkg:nuget/AwsSignatureVersion4@4.0.6
 - pkg:nuget/AwsSignatureVersion4@5.0.0
 - pkg:nuget/AwsSignatureVersion4@5.0.1
+- pkg:nuget/AwsSignatureVersion4@5.1.0

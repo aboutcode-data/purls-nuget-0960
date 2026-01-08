@@ -29,3 +29,5 @@
 - pkg:nuget/LibGGPK3.LibBundle3@2.6.8.1
 - pkg:nuget/LibGGPK3.LibBundle3@2.6.8.2
 - pkg:nuget/LibGGPK3.LibBundle3@2.6.9
+- pkg:nuget/LibGGPK3.LibBundle3@2.7.0
+- pkg:nuget/LibGGPK3.LibBundle3@2.7.1

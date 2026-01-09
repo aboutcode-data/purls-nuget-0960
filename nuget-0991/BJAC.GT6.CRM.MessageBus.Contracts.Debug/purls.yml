@@ -54,6 +54,7 @@
 - pkg:nuget/BJAC.GT6.CRM.MessageBus.Contracts.Debug@1.0.162
 - pkg:nuget/BJAC.GT6.CRM.MessageBus.Contracts.Debug@1.0.17
 - pkg:nuget/BJAC.GT6.CRM.MessageBus.Contracts.Debug@1.0.18
+- pkg:nuget/BJAC.GT6.CRM.MessageBus.Contracts.Debug@1.0.182.1
 - pkg:nuget/BJAC.GT6.CRM.MessageBus.Contracts.Debug@1.0.19
 - pkg:nuget/BJAC.GT6.CRM.MessageBus.Contracts.Debug@1.0.2
 - pkg:nuget/BJAC.GT6.CRM.MessageBus.Contracts.Debug@1.0.20

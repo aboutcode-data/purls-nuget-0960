@@ -30,3 +30,4 @@
 - pkg:nuget/Skyline.DataMiner.CICD.Assemblers.Protocol@1.2.0
 - pkg:nuget/Skyline.DataMiner.CICD.Assemblers.Protocol@1.2.0-alpha
 - pkg:nuget/Skyline.DataMiner.CICD.Assemblers.Protocol@1.2.0-charlie1
+- pkg:nuget/Skyline.DataMiner.CICD.Assemblers.Protocol@4.0.0-alpha

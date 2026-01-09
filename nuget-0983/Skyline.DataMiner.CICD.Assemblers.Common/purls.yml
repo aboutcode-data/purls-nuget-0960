@@ -187,3 +187,4 @@
 - pkg:nuget/Skyline.DataMiner.CICD.Assemblers.Common@1.53381.62-FileSystemRefactor.62
 - pkg:nuget/Skyline.DataMiner.CICD.Assemblers.Common@1.53381.8-FileSystemRefactor.8
 - pkg:nuget/Skyline.DataMiner.CICD.Assemblers.Common@1.53381.9-FileSystemRefactor.9
+- pkg:nuget/Skyline.DataMiner.CICD.Assemblers.Common@4.0.0-alpha

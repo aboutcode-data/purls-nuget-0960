@@ -25,3 +25,5 @@
 - pkg:nuget/ZzzLab.DBClient.PostgreSql@0.4125.1926.2811
 - pkg:nuget/ZzzLab.DBClient.PostgreSql@0.4125.1926.2900
 - pkg:nuget/ZzzLab.DBClient.PostgreSql@0.4125.2120.2829
+- pkg:nuget/ZzzLab.DBClient.PostgreSql@0.4126.1119.2944
+- pkg:nuget/ZzzLab.DBClient.PostgreSql@0.4126.1119.2954

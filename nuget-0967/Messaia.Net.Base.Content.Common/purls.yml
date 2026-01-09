@@ -1,3 +1,4 @@
+- pkg:nuget/Messaia.Net.Base.Content.Common@10.0.0-RC04
 - pkg:nuget/Messaia.Net.Base.Content.Common@7.0.3
 - pkg:nuget/Messaia.Net.Base.Content.Common@7.0.3-rc07
 - pkg:nuget/Messaia.Net.Base.Content.Common@7.0.3-rc08

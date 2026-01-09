@@ -172,3 +172,5 @@
 - pkg:nuget/BoldSign.Api@6.0.8-beta
 - pkg:nuget/BoldSign.Api@6.0.9
 - pkg:nuget/BoldSign.Api@6.0.9-beta
+- pkg:nuget/BoldSign.Api@6.1.0-beta
+- pkg:nuget/BoldSign.Api@7.1.0

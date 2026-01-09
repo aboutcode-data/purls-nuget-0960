@@ -318,3 +318,4 @@
 - pkg:nuget/Soenneker.Cosmos.Repositories.General@4.0.378
 - pkg:nuget/Soenneker.Cosmos.Repositories.General@4.0.384
 - pkg:nuget/Soenneker.Cosmos.Repositories.General@4.0.395
+- pkg:nuget/Soenneker.Cosmos.Repositories.General@4.0.409

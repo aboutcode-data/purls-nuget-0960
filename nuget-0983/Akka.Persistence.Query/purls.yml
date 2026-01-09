@@ -159,6 +159,7 @@
 - pkg:nuget/Akka.Persistence.Query@1.5.48
 - pkg:nuget/Akka.Persistence.Query@1.5.49
 - pkg:nuget/Akka.Persistence.Query@1.5.5
+- pkg:nuget/Akka.Persistence.Query@1.5.58
 - pkg:nuget/Akka.Persistence.Query@1.5.6
 - pkg:nuget/Akka.Persistence.Query@1.5.7
 - pkg:nuget/Akka.Persistence.Query@1.5.8

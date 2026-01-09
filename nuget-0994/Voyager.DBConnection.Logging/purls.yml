@@ -6,3 +6,5 @@
 - pkg:nuget/Voyager.DBConnection.Logging@4.1.2
 - pkg:nuget/Voyager.DBConnection.Logging@4.4.4-preview.8
 - pkg:nuget/Voyager.DBConnection.Logging@4.4.4-preview.9
+- pkg:nuget/Voyager.DBConnection.Logging@4.4.5-preview.1
+- pkg:nuget/Voyager.DBConnection.Logging@4.4.5-preview.2

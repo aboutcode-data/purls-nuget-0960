@@ -1,6 +1,7 @@
 - pkg:nuget/tinymce.umbraco.premium@12.0.0
 - pkg:nuget/tinymce.umbraco.premium@12.3.7
 - pkg:nuget/tinymce.umbraco.premium@13.0.0
+- pkg:nuget/tinymce.umbraco.premium@13.13.0
 - pkg:nuget/tinymce.umbraco.premium@13.2.2
 - pkg:nuget/tinymce.umbraco.premium@13.2.3
 - pkg:nuget/tinymce.umbraco.premium@13.2.4

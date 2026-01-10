@@ -20,6 +20,7 @@
 - pkg:nuget/Rynopay.SharedEventMessages@1.0.25
 - pkg:nuget/Rynopay.SharedEventMessages@1.0.26
 - pkg:nuget/Rynopay.SharedEventMessages@1.0.3
+- pkg:nuget/Rynopay.SharedEventMessages@1.0.38
 - pkg:nuget/Rynopay.SharedEventMessages@1.0.4
 - pkg:nuget/Rynopay.SharedEventMessages@1.0.5
 - pkg:nuget/Rynopay.SharedEventMessages@1.0.6

@@ -14,4 +14,5 @@
 - pkg:nuget/AIC.Core.Data.Models.Translation.Azure@2025.11.7.1
 - pkg:nuget/AIC.Core.Data.Models.Translation.Azure@2025.11.9.1
 - pkg:nuget/AIC.Core.Data.Models.Translation.Azure@2025.12.5.3
+- pkg:nuget/AIC.Core.Data.Models.Translation.Azure@2026.1.11.2
 - pkg:nuget/AIC.Core.Data.Models.Translation.Azure@2026.1.5.3

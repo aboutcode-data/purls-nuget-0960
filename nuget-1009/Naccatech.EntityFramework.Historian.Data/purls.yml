@@ -21,3 +21,5 @@
 - pkg:nuget/Naccatech.EntityFramework.Historian.Data@6.0.2023022.1
 - pkg:nuget/Naccatech.EntityFramework.Historian.Data@6.0.2023099.1
 - pkg:nuget/Naccatech.EntityFramework.Historian.Data@6.0.2024329.2
+- pkg:nuget/Naccatech.EntityFramework.Historian.Data@7.0.2026011.1
+- pkg:nuget/Naccatech.EntityFramework.Historian.Data@7.0.2026011.2

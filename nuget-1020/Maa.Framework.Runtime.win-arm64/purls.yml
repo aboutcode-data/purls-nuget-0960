@@ -92,3 +92,4 @@
 - pkg:nuget/Maa.Framework.Runtime.win-arm64@5.0.0
 - pkg:nuget/Maa.Framework.Runtime.win-arm64@5.0.1
 - pkg:nuget/Maa.Framework.Runtime.win-arm64@5.4.0-alpha.1
+- pkg:nuget/Maa.Framework.Runtime.win-arm64@5.4.0-beta.1

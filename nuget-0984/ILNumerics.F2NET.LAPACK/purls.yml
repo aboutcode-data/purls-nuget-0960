@@ -32,3 +32,4 @@
 - pkg:nuget/ILNumerics.F2NET.LAPACK@7.2.37-beta02
 - pkg:nuget/ILNumerics.F2NET.LAPACK@7.2.41
 - pkg:nuget/ILNumerics.F2NET.LAPACK@7.3.58
+- pkg:nuget/ILNumerics.F2NET.LAPACK@7.4.16

@@ -91,5 +91,6 @@
 - pkg:nuget/inLogic.UMS.Data.Controllers.Net5@2025.8.9.2
 - pkg:nuget/inLogic.UMS.Data.Controllers.Net5@2025.9.15.1
 - pkg:nuget/inLogic.UMS.Data.Controllers.Net5@2025.9.16.1
+- pkg:nuget/inLogic.UMS.Data.Controllers.Net5@2026.1.13.1
 - pkg:nuget/inLogic.UMS.Data.Controllers.Net5@2026.1.9.1
 - pkg:nuget/inLogic.UMS.Data.Controllers.Net5@2026.1.9.2

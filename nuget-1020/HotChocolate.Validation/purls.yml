@@ -1151,6 +1151,7 @@
 - pkg:nuget/HotChocolate.Validation@16.0.0-p.1.7
 - pkg:nuget/HotChocolate.Validation@16.0.0-p.1.8
 - pkg:nuget/HotChocolate.Validation@16.0.0-p.1.9
+- pkg:nuget/HotChocolate.Validation@16.0.0-p.10.29
 - pkg:nuget/HotChocolate.Validation@16.0.0-p.10.5
 - pkg:nuget/HotChocolate.Validation@16.0.0-p.10.6
 - pkg:nuget/HotChocolate.Validation@16.0.0-p.2.0

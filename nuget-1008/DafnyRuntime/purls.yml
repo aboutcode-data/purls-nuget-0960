@@ -585,6 +585,7 @@
 - pkg:nuget/DafnyRuntime@4.11.1-nightly-2025-12-10-e59076f
 - pkg:nuget/DafnyRuntime@4.11.1-nightly-2025-12-14-58b3f6a
 - pkg:nuget/DafnyRuntime@4.11.1-nightly-2025-12-15-58b3f6a
+- pkg:nuget/DafnyRuntime@4.11.1-nightly-2026-01-13-58b3f6a
 - pkg:nuget/DafnyRuntime@4.2.0
 - pkg:nuget/DafnyRuntime@4.2.0-nightly-2023-07-21-ab6de06
 - pkg:nuget/DafnyRuntime@4.2.0-nightly-2023-07-22-4df078a

@@ -130,3 +130,4 @@
 - pkg:nuget/ZhileTime.Saas.Tenant.Application.Contracts@5.3.6
 - pkg:nuget/ZhileTime.Saas.Tenant.Application.Contracts@5.3.7
 - pkg:nuget/ZhileTime.Saas.Tenant.Application.Contracts@5.5.1
+- pkg:nuget/ZhileTime.Saas.Tenant.Application.Contracts@6.1.21

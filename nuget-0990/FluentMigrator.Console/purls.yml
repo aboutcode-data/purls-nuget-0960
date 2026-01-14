@@ -38,3 +38,4 @@
 - pkg:nuget/FluentMigrator.Console@6.2.0
 - pkg:nuget/FluentMigrator.Console@7.0.0
 - pkg:nuget/FluentMigrator.Console@7.1.0
+- pkg:nuget/FluentMigrator.Console@8.0.0

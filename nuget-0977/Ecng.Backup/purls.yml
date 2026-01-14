@@ -132,6 +132,7 @@
 - pkg:nuget/Ecng.Backup@1.0.230
 - pkg:nuget/Ecng.Backup@1.0.24
 - pkg:nuget/Ecng.Backup@1.0.25
+- pkg:nuget/Ecng.Backup@1.0.255
 - pkg:nuget/Ecng.Backup@1.0.26
 - pkg:nuget/Ecng.Backup@1.0.27
 - pkg:nuget/Ecng.Backup@1.0.28

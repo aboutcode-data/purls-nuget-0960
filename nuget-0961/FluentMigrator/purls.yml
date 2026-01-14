@@ -61,3 +61,4 @@
 - pkg:nuget/FluentMigrator@6.2.0
 - pkg:nuget/FluentMigrator@7.0.0
 - pkg:nuget/FluentMigrator@7.1.0
+- pkg:nuget/FluentMigrator@8.0.0

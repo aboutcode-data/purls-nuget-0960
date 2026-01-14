@@ -38,3 +38,4 @@
 - pkg:nuget/FluentMigrator.Runner.Oracle@6.2.0
 - pkg:nuget/FluentMigrator.Runner.Oracle@7.0.0
 - pkg:nuget/FluentMigrator.Runner.Oracle@7.1.0
+- pkg:nuget/FluentMigrator.Runner.Oracle@8.0.0

@@ -2,3 +2,4 @@
 - pkg:nuget/Lacuna.Pki.Pkcs11@2.1.1
 - pkg:nuget/Lacuna.Pki.Pkcs11@2.3.0
 - pkg:nuget/Lacuna.Pki.Pkcs11@2.4.0
+- pkg:nuget/Lacuna.Pki.Pkcs11@2.5.0

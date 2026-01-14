@@ -24,5 +24,6 @@
 - pkg:nuget/Skoruba.Duende.IdentityServer.Admin.BusinessLogic.Shared@2.5.0
 - pkg:nuget/Skoruba.Duende.IdentityServer.Admin.BusinessLogic.Shared@2.6.0
 - pkg:nuget/Skoruba.Duende.IdentityServer.Admin.BusinessLogic.Shared@3.0.0-preview.1
+- pkg:nuget/Skoruba.Duende.IdentityServer.Admin.BusinessLogic.Shared@3.0.0-preview.11
 - pkg:nuget/Skoruba.Duende.IdentityServer.Admin.BusinessLogic.Shared@3.0.0-preview.2
 - pkg:nuget/Skoruba.Duende.IdentityServer.Admin.BusinessLogic.Shared@3.0.0-preview.4

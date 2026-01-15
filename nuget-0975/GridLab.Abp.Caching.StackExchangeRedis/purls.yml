@@ -46,3 +46,4 @@
 - pkg:nuget/GridLab.Abp.Caching.StackExchangeRedis@9.3.2.253
 - pkg:nuget/GridLab.Abp.Caching.StackExchangeRedis@9.3.2.257
 - pkg:nuget/GridLab.Abp.Caching.StackExchangeRedis@9.3.2.267
+- pkg:nuget/GridLab.Abp.Caching.StackExchangeRedis@9.3.2.362

@@ -107,3 +107,4 @@
 - pkg:nuget/MongoDB.Driver@3.4.3
 - pkg:nuget/MongoDB.Driver@3.5.0
 - pkg:nuget/MongoDB.Driver@3.5.2
+- pkg:nuget/MongoDB.Driver@3.6.0

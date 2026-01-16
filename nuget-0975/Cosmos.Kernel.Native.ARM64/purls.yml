@@ -1,1 +1,2 @@
 - pkg:nuget/Cosmos.Kernel.Native.ARM64@3.0.27
+- pkg:nuget/Cosmos.Kernel.Native.ARM64@3.0.32

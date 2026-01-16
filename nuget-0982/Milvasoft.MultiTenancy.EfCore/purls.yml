@@ -1,3 +1,4 @@
+- pkg:nuget/Milvasoft.MultiTenancy.EfCore@10.0.0
 - pkg:nuget/Milvasoft.MultiTenancy.EfCore@9.0.1
 - pkg:nuget/Milvasoft.MultiTenancy.EfCore@9.0.10
 - pkg:nuget/Milvasoft.MultiTenancy.EfCore@9.0.11

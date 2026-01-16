@@ -16,5 +16,6 @@
 - pkg:nuget/AIC.Core.Web.Authentication.Auth0.Components@2025.12.12.1
 - pkg:nuget/AIC.Core.Web.Authentication.Auth0.Components@2025.12.5.3
 - pkg:nuget/AIC.Core.Web.Authentication.Auth0.Components@2026.1.11.2
+- pkg:nuget/AIC.Core.Web.Authentication.Auth0.Components@2026.1.16.1
 - pkg:nuget/AIC.Core.Web.Authentication.Auth0.Components@2026.1.5.2
 - pkg:nuget/AIC.Core.Web.Authentication.Auth0.Components@2026.1.5.3

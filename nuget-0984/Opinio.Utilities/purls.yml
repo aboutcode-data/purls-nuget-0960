@@ -1,5 +1,6 @@
 - pkg:nuget/Opinio.Utilities@1.0.0
 - pkg:nuget/Opinio.Utilities@1.0.1
+- pkg:nuget/Opinio.Utilities@1.0.100
 - pkg:nuget/Opinio.Utilities@1.0.16
 - pkg:nuget/Opinio.Utilities@1.0.2
 - pkg:nuget/Opinio.Utilities@1.0.27
@@ -62,3 +63,4 @@
 - pkg:nuget/Opinio.Utilities@1.0.87
 - pkg:nuget/Opinio.Utilities@1.0.90
 - pkg:nuget/Opinio.Utilities@1.0.92
+- pkg:nuget/Opinio.Utilities@1.0.99

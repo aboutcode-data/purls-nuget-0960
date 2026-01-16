@@ -3,3 +3,4 @@
 - pkg:nuget/Fabr.Host@1.0.61-alpha
 - pkg:nuget/Fabr.Host@1.2.23-beta
 - pkg:nuget/Fabr.Host@1.2.30-beta
+- pkg:nuget/Fabr.Host@1.2.35-beta

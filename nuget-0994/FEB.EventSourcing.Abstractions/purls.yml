@@ -1,1 +1,2 @@
 - pkg:nuget/FEB.EventSourcing.Abstractions@8.0.0
+- pkg:nuget/FEB.EventSourcing.Abstractions@8.1.4

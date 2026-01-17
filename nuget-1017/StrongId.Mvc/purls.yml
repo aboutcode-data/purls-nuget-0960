@@ -50,3 +50,4 @@
 - pkg:nuget/StrongId.Mvc@8.5.4
 - pkg:nuget/StrongId.Mvc@8.5.5
 - pkg:nuget/StrongId.Mvc@8.5.6
+- pkg:nuget/StrongId.Mvc@8.5.9

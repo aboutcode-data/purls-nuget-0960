@@ -64,3 +64,4 @@
 - pkg:nuget/opendatahub-ltsapi-importer@3.8.4
 - pkg:nuget/opendatahub-ltsapi-importer@3.8.5
 - pkg:nuget/opendatahub-ltsapi-importer@3.9.2
+- pkg:nuget/opendatahub-ltsapi-importer@3.9.6

@@ -44,6 +44,7 @@
 - pkg:nuget/Dax.ViewVpaExport@1.11.0-preview5
 - pkg:nuget/Dax.ViewVpaExport@1.11.0-preview6
 - pkg:nuget/Dax.ViewVpaExport@1.11.0-preview7
+- pkg:nuget/Dax.ViewVpaExport@1.12.0
 - pkg:nuget/Dax.ViewVpaExport@1.2.0
 - pkg:nuget/Dax.ViewVpaExport@1.2.1
 - pkg:nuget/Dax.ViewVpaExport@1.2.10

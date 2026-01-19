@@ -16,6 +16,7 @@
 - pkg:nuget/AIC.Core.Data.Services.Vectorisation.OpenAi@2026.1.11.2
 - pkg:nuget/AIC.Core.Data.Services.Vectorisation.OpenAi@2026.1.14.1
 - pkg:nuget/AIC.Core.Data.Services.Vectorisation.OpenAi@2026.1.19.1
+- pkg:nuget/AIC.Core.Data.Services.Vectorisation.OpenAi@2026.1.19.2
 - pkg:nuget/AIC.Core.Data.Services.Vectorisation.OpenAi@2026.1.5.2
 - pkg:nuget/AIC.Core.Data.Services.Vectorisation.OpenAi@2026.1.5.3
 - pkg:nuget/AIC.Core.Data.Services.Vectorisation.OpenAi@2026.1.6.1

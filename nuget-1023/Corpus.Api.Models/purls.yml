@@ -9,6 +9,7 @@
 - pkg:nuget/Corpus.Api.Models@10.1.0
 - pkg:nuget/Corpus.Api.Models@10.1.2
 - pkg:nuget/Corpus.Api.Models@10.1.5
+- pkg:nuget/Corpus.Api.Models@11.0.1
 - pkg:nuget/Corpus.Api.Models@2.0.0
 - pkg:nuget/Corpus.Api.Models@2.0.1
 - pkg:nuget/Corpus.Api.Models@2.0.2

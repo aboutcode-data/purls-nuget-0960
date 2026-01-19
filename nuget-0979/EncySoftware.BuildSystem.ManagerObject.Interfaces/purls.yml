@@ -5,3 +5,4 @@
 - pkg:nuget/EncySoftware.BuildSystem.ManagerObject.Interfaces@2.0.2
 - pkg:nuget/EncySoftware.BuildSystem.ManagerObject.Interfaces@3.0.0
 - pkg:nuget/EncySoftware.BuildSystem.ManagerObject.Interfaces@3.0.1
+- pkg:nuget/EncySoftware.BuildSystem.ManagerObject.Interfaces@3.1.1

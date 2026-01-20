@@ -86,5 +86,6 @@
 - pkg:nuget/AIC.Core.Identity.Models@2026.1.11.2
 - pkg:nuget/AIC.Core.Identity.Models@2026.1.19.1
 - pkg:nuget/AIC.Core.Identity.Models@2026.1.19.2
+- pkg:nuget/AIC.Core.Identity.Models@2026.1.19.4
 - pkg:nuget/AIC.Core.Identity.Models@2026.1.5.3
 - pkg:nuget/AIC.Core.Identity.Models@2026.1.6.1

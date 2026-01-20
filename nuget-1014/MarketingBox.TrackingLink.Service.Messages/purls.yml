@@ -1,3 +1,4 @@
+- pkg:nuget/MarketingBox.TrackingLink.Service.Messages@10.0.0
 - pkg:nuget/MarketingBox.TrackingLink.Service.Messages@3.0.1
 - pkg:nuget/MarketingBox.TrackingLink.Service.Messages@3.1.0
 - pkg:nuget/MarketingBox.TrackingLink.Service.Messages@3.1.1

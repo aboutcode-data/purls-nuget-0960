@@ -163,3 +163,4 @@
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Task@9.0.303
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Task@9.0.304
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Task@9.0.305
+- pkg:nuget/Microsoft.DotNet.ApiCompat.Task@9.0.310

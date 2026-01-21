@@ -28,6 +28,7 @@
 - pkg:nuget/Soenneker.Python.Util@3.0.7
 - pkg:nuget/Soenneker.Python.Util@3.0.8
 - pkg:nuget/Soenneker.Python.Util@3.0.9
+- pkg:nuget/Soenneker.Python.Util@4.0.105
 - pkg:nuget/Soenneker.Python.Util@4.0.36
 - pkg:nuget/Soenneker.Python.Util@4.0.50
 - pkg:nuget/Soenneker.Python.Util@4.0.72

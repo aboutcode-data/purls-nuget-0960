@@ -175,3 +175,4 @@
 - pkg:nuget/Corvus.Json.CodeGeneration.7@4.3.6
 - pkg:nuget/Corvus.Json.CodeGeneration.7@4.3.8
 - pkg:nuget/Corvus.Json.CodeGeneration.7@4.3.9
+- pkg:nuget/Corvus.Json.CodeGeneration.7@4.5.0

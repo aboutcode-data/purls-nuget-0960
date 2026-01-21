@@ -18,3 +18,5 @@
 - pkg:nuget/Tooark.Validations@2.1.6
 - pkg:nuget/Tooark.Validations@2.1.7
 - pkg:nuget/Tooark.Validations@2.1.8
+- pkg:nuget/Tooark.Validations@2.3.0
+- pkg:nuget/Tooark.Validations@3.2.0

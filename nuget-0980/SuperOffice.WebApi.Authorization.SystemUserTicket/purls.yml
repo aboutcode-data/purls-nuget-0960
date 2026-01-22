@@ -38,3 +38,4 @@
 - pkg:nuget/SuperOffice.WebApi.Authorization.SystemUserTicket@11.1.447
 - pkg:nuget/SuperOffice.WebApi.Authorization.SystemUserTicket@11.2.664
 - pkg:nuget/SuperOffice.WebApi.Authorization.SystemUserTicket@11.3.1349
+- pkg:nuget/SuperOffice.WebApi.Authorization.SystemUserTicket@11.8.788

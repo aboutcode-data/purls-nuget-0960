@@ -3,4 +3,5 @@
 - pkg:nuget/AWSSDK.Route53GlobalResolver@3.7.500.10
 - pkg:nuget/AWSSDK.Route53GlobalResolver@3.7.500.12
 - pkg:nuget/AWSSDK.Route53GlobalResolver@3.7.500.13
+- pkg:nuget/AWSSDK.Route53GlobalResolver@3.7.500.22
 - pkg:nuget/AWSSDK.Route53GlobalResolver@3.7.500.6

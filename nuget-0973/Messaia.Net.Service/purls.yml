@@ -1,5 +1,6 @@
 - pkg:nuget/Messaia.Net.Service@10.0.0-RC06
 - pkg:nuget/Messaia.Net.Service@10.0.0-RC08
+- pkg:nuget/Messaia.Net.Service@10.0.0-RC10
 - pkg:nuget/Messaia.Net.Service@2.2.0
 - pkg:nuget/Messaia.Net.Service@2.2.0-beta07
 - pkg:nuget/Messaia.Net.Service@2.2.0-preview2

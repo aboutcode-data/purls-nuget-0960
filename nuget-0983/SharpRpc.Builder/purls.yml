@@ -59,6 +59,7 @@
 - pkg:nuget/SharpRpc.Builder@1.9.12
 - pkg:nuget/SharpRpc.Builder@1.9.13
 - pkg:nuget/SharpRpc.Builder@1.9.14
+- pkg:nuget/SharpRpc.Builder@1.9.17
 - pkg:nuget/SharpRpc.Builder@1.9.2
 - pkg:nuget/SharpRpc.Builder@1.9.3
 - pkg:nuget/SharpRpc.Builder@1.9.4

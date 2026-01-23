@@ -13,6 +13,7 @@
 - pkg:nuget/Silk.NET.OpenXR.Extensions.HTC@2.20.0
 - pkg:nuget/Silk.NET.OpenXR.Extensions.HTC@2.21.0
 - pkg:nuget/Silk.NET.OpenXR.Extensions.HTC@2.22.0
+- pkg:nuget/Silk.NET.OpenXR.Extensions.HTC@2.23.0
 - pkg:nuget/Silk.NET.OpenXR.Extensions.HTC@2.5.0
 - pkg:nuget/Silk.NET.OpenXR.Extensions.HTC@2.6.0
 - pkg:nuget/Silk.NET.OpenXR.Extensions.HTC@2.7.0

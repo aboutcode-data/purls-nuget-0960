@@ -13,6 +13,7 @@
 - pkg:nuget/Silk.NET.OpenXR.Extensions.LUNARG@2.20.0
 - pkg:nuget/Silk.NET.OpenXR.Extensions.LUNARG@2.21.0
 - pkg:nuget/Silk.NET.OpenXR.Extensions.LUNARG@2.22.0
+- pkg:nuget/Silk.NET.OpenXR.Extensions.LUNARG@2.23.0
 - pkg:nuget/Silk.NET.OpenXR.Extensions.LUNARG@2.5.0
 - pkg:nuget/Silk.NET.OpenXR.Extensions.LUNARG@2.6.0
 - pkg:nuget/Silk.NET.OpenXR.Extensions.LUNARG@2.7.0

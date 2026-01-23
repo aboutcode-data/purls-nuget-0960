@@ -36,6 +36,7 @@
 - pkg:nuget/Silk.NET.OpenCL.Extensions.KHR@2.20.0
 - pkg:nuget/Silk.NET.OpenCL.Extensions.KHR@2.21.0
 - pkg:nuget/Silk.NET.OpenCL.Extensions.KHR@2.22.0
+- pkg:nuget/Silk.NET.OpenCL.Extensions.KHR@2.23.0
 - pkg:nuget/Silk.NET.OpenCL.Extensions.KHR@2.3.0
 - pkg:nuget/Silk.NET.OpenCL.Extensions.KHR@2.4.0
 - pkg:nuget/Silk.NET.OpenCL.Extensions.KHR@2.5.0

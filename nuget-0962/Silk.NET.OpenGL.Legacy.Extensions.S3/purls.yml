@@ -39,6 +39,7 @@
 - pkg:nuget/Silk.NET.OpenGL.Legacy.Extensions.S3@2.20.0
 - pkg:nuget/Silk.NET.OpenGL.Legacy.Extensions.S3@2.21.0
 - pkg:nuget/Silk.NET.OpenGL.Legacy.Extensions.S3@2.22.0
+- pkg:nuget/Silk.NET.OpenGL.Legacy.Extensions.S3@2.23.0
 - pkg:nuget/Silk.NET.OpenGL.Legacy.Extensions.S3@2.3.0
 - pkg:nuget/Silk.NET.OpenGL.Legacy.Extensions.S3@2.4.0
 - pkg:nuget/Silk.NET.OpenGL.Legacy.Extensions.S3@2.5.0

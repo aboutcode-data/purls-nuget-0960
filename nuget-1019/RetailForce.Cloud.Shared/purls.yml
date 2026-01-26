@@ -3,6 +3,7 @@
 - pkg:nuget/RetailForce.Cloud.Shared@1.10.2
 - pkg:nuget/RetailForce.Cloud.Shared@1.10.3
 - pkg:nuget/RetailForce.Cloud.Shared@1.11.0
+- pkg:nuget/RetailForce.Cloud.Shared@1.11.8.916
 - pkg:nuget/RetailForce.Cloud.Shared@1.8.10
 - pkg:nuget/RetailForce.Cloud.Shared@1.8.11
 - pkg:nuget/RetailForce.Cloud.Shared@1.8.12

@@ -728,3 +728,4 @@
 - pkg:nuget/Jari.FnTrust.Shared@2.1.8
 - pkg:nuget/Jari.FnTrust.Shared@2.1.9
 - pkg:nuget/Jari.FnTrust.Shared@2.2.3
+- pkg:nuget/Jari.FnTrust.Shared@2.2.7

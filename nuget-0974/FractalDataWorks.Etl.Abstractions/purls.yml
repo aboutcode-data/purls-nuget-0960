@@ -1,3 +1,4 @@
+- pkg:nuget/FractalDataWorks.Etl.Abstractions@0.2.4-preview.2
 - pkg:nuget/FractalDataWorks.Etl.Abstractions@0.20.0-alpha.1062
 - pkg:nuget/FractalDataWorks.Etl.Abstractions@0.20.0-alpha.1074
 - pkg:nuget/FractalDataWorks.Etl.Abstractions@0.30.0-alpha.1224

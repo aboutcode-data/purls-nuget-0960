@@ -25,3 +25,4 @@
 - pkg:nuget/Enigmatry.Entry.SmartEnums.SystemTextJson@9.1.1-preview.5
 - pkg:nuget/Enigmatry.Entry.SmartEnums.SystemTextJson@9.2.0
 - pkg:nuget/Enigmatry.Entry.SmartEnums.SystemTextJson@9.3.1-preview.1
+- pkg:nuget/Enigmatry.Entry.SmartEnums.SystemTextJson@9.5.0

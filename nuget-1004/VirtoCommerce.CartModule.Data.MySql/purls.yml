@@ -146,3 +146,4 @@
 - pkg:nuget/VirtoCommerce.CartModule.Data.MySql@3.834.0-alpha.751-vcst-3834-saved-for-later-list-type
 - pkg:nuget/VirtoCommerce.CartModule.Data.MySql@3.834.0-alpha.758-vcst-3772-shopping-list-sharing
 - pkg:nuget/VirtoCommerce.CartModule.Data.MySql@3.835.0
+- pkg:nuget/VirtoCommerce.CartModule.Data.MySql@3.841.0-alpha.771-variation-configuration-type

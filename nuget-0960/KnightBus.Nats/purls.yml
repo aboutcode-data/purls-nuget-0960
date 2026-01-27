@@ -11,3 +11,4 @@
 - pkg:nuget/KnightBus.Nats@5.0.1
 - pkg:nuget/KnightBus.Nats@5.0.2
 - pkg:nuget/KnightBus.Nats@6.0.0
+- pkg:nuget/KnightBus.Nats@7.0.0-alpha-ff7a73ac

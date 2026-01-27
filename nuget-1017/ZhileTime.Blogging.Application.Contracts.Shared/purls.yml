@@ -135,4 +135,5 @@
 - pkg:nuget/ZhileTime.Blogging.Application.Contracts.Shared@6.0.5
 - pkg:nuget/ZhileTime.Blogging.Application.Contracts.Shared@6.1.16
 - pkg:nuget/ZhileTime.Blogging.Application.Contracts.Shared@6.1.20
+- pkg:nuget/ZhileTime.Blogging.Application.Contracts.Shared@6.1.23
 - pkg:nuget/ZhileTime.Blogging.Application.Contracts.Shared@6.1.3

@@ -9,6 +9,7 @@
 - pkg:nuget/Raster.BarcodeReader.Word.Source.PDF417@12.3.5.19
 - pkg:nuget/Raster.BarcodeReader.Word.Source.PDF417@12.3.5.2
 - pkg:nuget/Raster.BarcodeReader.Word.Source.PDF417@12.3.5.3
+- pkg:nuget/Raster.BarcodeReader.Word.Source.PDF417@12.3.5.32
 - pkg:nuget/Raster.BarcodeReader.Word.Source.PDF417@12.3.5.4
 - pkg:nuget/Raster.BarcodeReader.Word.Source.PDF417@12.3.5.5
 - pkg:nuget/Raster.BarcodeReader.Word.Source.PDF417@12.3.5.6

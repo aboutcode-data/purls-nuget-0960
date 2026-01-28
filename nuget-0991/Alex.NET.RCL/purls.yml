@@ -45,6 +45,7 @@
 - pkg:nuget/Alex.NET.RCL@0.0.7
 - pkg:nuget/Alex.NET.RCL@0.0.8
 - pkg:nuget/Alex.NET.RCL@0.0.9
+- pkg:nuget/Alex.NET.RCL@10.0.5-alpha
 - pkg:nuget/Alex.NET.RCL@8.0.1
 - pkg:nuget/Alex.NET.RCL@8.0.12
 - pkg:nuget/Alex.NET.RCL@8.0.14

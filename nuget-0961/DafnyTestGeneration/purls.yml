@@ -343,6 +343,7 @@
 - pkg:nuget/DafnyTestGeneration@4.11.1-nightly-2025-12-15-58b3f6a
 - pkg:nuget/DafnyTestGeneration@4.11.1-nightly-2026-01-13-58b3f6a
 - pkg:nuget/DafnyTestGeneration@4.11.1-nightly-2026-01-16-58b3f6a
+- pkg:nuget/DafnyTestGeneration@4.11.1-nightly-2026-01-28-58b3f6a
 - pkg:nuget/DafnyTestGeneration@4.2.0
 - pkg:nuget/DafnyTestGeneration@4.2.0-nightly-2023-07-21-ab6de06
 - pkg:nuget/DafnyTestGeneration@4.2.0-nightly-2023-07-22-4df078a

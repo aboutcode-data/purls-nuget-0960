@@ -204,6 +204,7 @@
 - pkg:nuget/VirtoCommerce.Platform.Core@3.100.6
 - pkg:nuget/VirtoCommerce.Platform.Core@3.100.7
 - pkg:nuget/VirtoCommerce.Platform.Core@3.1000.0
+- pkg:nuget/VirtoCommerce.Platform.Core@3.1001.0
 - pkg:nuget/VirtoCommerce.Platform.Core@3.101.0-alpha.12190
 - pkg:nuget/VirtoCommerce.Platform.Core@3.101.0-alpha.12192
 - pkg:nuget/VirtoCommerce.Platform.Core@3.101.0-alpha.12195

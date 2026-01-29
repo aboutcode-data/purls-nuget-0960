@@ -77,6 +77,7 @@
 - pkg:nuget/AutoCount2.Stock@2.2.22
 - pkg:nuget/AutoCount2.Stock@2.2.23
 - pkg:nuget/AutoCount2.Stock@2.2.23-alpha1
+- pkg:nuget/AutoCount2.Stock@2.2.26-alpha3
 - pkg:nuget/AutoCount2.Stock@2.2.3
 - pkg:nuget/AutoCount2.Stock@2.2.5
 - pkg:nuget/AutoCount2.Stock@2.2.6

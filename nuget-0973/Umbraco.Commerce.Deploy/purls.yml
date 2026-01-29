@@ -20,3 +20,5 @@
 - pkg:nuget/Umbraco.Commerce.Deploy@16.0.0-rc1
 - pkg:nuget/Umbraco.Commerce.Deploy@16.1.0
 - pkg:nuget/Umbraco.Commerce.Deploy@16.1.1
+- pkg:nuget/Umbraco.Commerce.Deploy@16.2.1
+- pkg:nuget/Umbraco.Commerce.Deploy@17.0.1

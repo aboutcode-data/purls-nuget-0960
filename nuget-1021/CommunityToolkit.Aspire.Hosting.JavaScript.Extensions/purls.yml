@@ -1,2 +1,3 @@
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.JavaScript.Extensions@13.0.1-beta.486
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.JavaScript.Extensions@13.1.0-beta.499
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.JavaScript.Extensions@13.1.2-beta.512

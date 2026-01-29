@@ -2,6 +2,9 @@
 - pkg:nuget/FractalDataWorks.Data.Abstractions@0.20.0-alpha.1062
 - pkg:nuget/FractalDataWorks.Data.Abstractions@0.20.0-alpha.1074
 - pkg:nuget/FractalDataWorks.Data.Abstractions@0.30.0-alpha.1224
+- pkg:nuget/FractalDataWorks.Data.Abstractions@0.4.0-build.1
+- pkg:nuget/FractalDataWorks.Data.Abstractions@0.4.0-build.3
+- pkg:nuget/FractalDataWorks.Data.Abstractions@0.4.0-preview.6
 - pkg:nuget/FractalDataWorks.Data.Abstractions@0.6.0-alpha.1006
 - pkg:nuget/FractalDataWorks.Data.Abstractions@0.7.0-alpha.1008
 - pkg:nuget/FractalDataWorks.Data.Abstractions@0.9.0-alpha.1009.g7f6817e985

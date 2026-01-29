@@ -10,3 +10,5 @@
 - pkg:nuget/FractalDataWorks.Services.Workflows.Abstractions@0.30.0-alpha.1224
 - pkg:nuget/FractalDataWorks.Services.Workflows.Abstractions@0.30.0-alpha.1226
 - pkg:nuget/FractalDataWorks.Services.Workflows.Abstractions@0.30.0-alpha.1227
+- pkg:nuget/FractalDataWorks.Services.Workflows.Abstractions@0.4.0-preview.5
+- pkg:nuget/FractalDataWorks.Services.Workflows.Abstractions@0.4.0-preview.6

@@ -20,6 +20,7 @@
 - pkg:nuget/JetBrains.Profiler.Api@1.4.0-preview1
 - pkg:nuget/JetBrains.Profiler.Api@1.4.0-preview2
 - pkg:nuget/JetBrains.Profiler.Api@1.4.10
+- pkg:nuget/JetBrains.Profiler.Api@1.4.11
 - pkg:nuget/JetBrains.Profiler.Api@1.4.2
 - pkg:nuget/JetBrains.Profiler.Api@1.4.3
 - pkg:nuget/JetBrains.Profiler.Api@1.4.4

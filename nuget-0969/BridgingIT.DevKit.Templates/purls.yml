@@ -7,6 +7,8 @@
 - pkg:nuget/BridgingIT.DevKit.Templates@1.0.1-preview.0.42
 - pkg:nuget/BridgingIT.DevKit.Templates@1.0.1-preview.0.43
 - pkg:nuget/BridgingIT.DevKit.Templates@1.0.1-preview.0.46
+- pkg:nuget/BridgingIT.DevKit.Templates@10.0.2-preview.0.86
+- pkg:nuget/BridgingIT.DevKit.Templates@10.0.2-preview.0.87
 - pkg:nuget/BridgingIT.DevKit.Templates@9.0.0
 - pkg:nuget/BridgingIT.DevKit.Templates@9.0.1
 - pkg:nuget/BridgingIT.DevKit.Templates@9.0.1-preview.0.1

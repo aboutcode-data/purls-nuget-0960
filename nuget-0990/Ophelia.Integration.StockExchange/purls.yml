@@ -48,6 +48,7 @@
 - pkg:nuget/Ophelia.Integration.StockExchange@8.0.0.151
 - pkg:nuget/Ophelia.Integration.StockExchange@8.0.0.152
 - pkg:nuget/Ophelia.Integration.StockExchange@8.0.0.167
+- pkg:nuget/Ophelia.Integration.StockExchange@8.0.0.187
 - pkg:nuget/Ophelia.Integration.StockExchange@8.0.0.27
 - pkg:nuget/Ophelia.Integration.StockExchange@8.0.0.32
 - pkg:nuget/Ophelia.Integration.StockExchange@8.0.0.34

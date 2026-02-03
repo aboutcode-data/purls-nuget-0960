@@ -6,3 +6,4 @@
 - pkg:nuget/BStorm.Tools.CommandQuerySeparation@1.0.5
 - pkg:nuget/BStorm.Tools.CommandQuerySeparation@1.0.6
 - pkg:nuget/BStorm.Tools.CommandQuerySeparation@1.0.7
+- pkg:nuget/BStorm.Tools.CommandQuerySeparation@10.1.0

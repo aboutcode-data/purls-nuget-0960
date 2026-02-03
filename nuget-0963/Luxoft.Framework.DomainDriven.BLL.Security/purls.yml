@@ -262,3 +262,4 @@
 - pkg:nuget/Luxoft.Framework.DomainDriven.BLL.Security@23.2.8
 - pkg:nuget/Luxoft.Framework.DomainDriven.BLL.Security@23.2.9.3
 - pkg:nuget/Luxoft.Framework.DomainDriven.BLL.Security@24.1.3
+- pkg:nuget/Luxoft.Framework.DomainDriven.BLL.Security@25.3.0

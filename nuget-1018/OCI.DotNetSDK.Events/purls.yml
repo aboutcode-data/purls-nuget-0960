@@ -48,6 +48,7 @@
 - pkg:nuget/OCI.DotNetSDK.Events@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Events@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Events@122.0.0
+- pkg:nuget/OCI.DotNetSDK.Events@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Events@13.0.0
 - pkg:nuget/OCI.DotNetSDK.Events@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Events@14.1.0

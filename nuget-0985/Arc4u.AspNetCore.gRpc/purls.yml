@@ -1,3 +1,4 @@
 - pkg:nuget/Arc4u.AspNetCore.gRpc@9.0.0-preview01
 - pkg:nuget/Arc4u.AspNetCore.gRpc@9.0.0-preview02
 - pkg:nuget/Arc4u.AspNetCore.gRpc@9.0.0-preview04
+- pkg:nuget/Arc4u.AspNetCore.gRpc@9.0.0-preview18

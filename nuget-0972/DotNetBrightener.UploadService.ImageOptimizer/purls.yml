@@ -118,5 +118,6 @@
 - pkg:nuget/DotNetBrightener.UploadService.ImageOptimizer@2025.0.9-preview-481
 - pkg:nuget/DotNetBrightener.UploadService.ImageOptimizer@2025.0.9-preview-487
 - pkg:nuget/DotNetBrightener.UploadService.ImageOptimizer@2026.0.1-preview-676
+- pkg:nuget/DotNetBrightener.UploadService.ImageOptimizer@2026.0.1-preview-731
 - pkg:nuget/DotNetBrightener.UploadService.ImageOptimizer@2026.0.1-preview-migrate-to-skiasharp-684
 - pkg:nuget/DotNetBrightener.UploadService.ImageOptimizer@2026.0.1-preview-notification-service-698

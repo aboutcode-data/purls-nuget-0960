@@ -26,3 +26,5 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.4.5.2797-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.4.5.2800-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.4.5.2801-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.4.5.2808-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.4.5.2809-main

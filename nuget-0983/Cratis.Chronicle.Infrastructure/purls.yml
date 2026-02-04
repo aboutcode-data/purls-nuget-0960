@@ -185,6 +185,8 @@
 - pkg:nuget/Cratis.Chronicle.Infrastructure@14.13.8
 - pkg:nuget/Cratis.Chronicle.Infrastructure@14.2.7
 - pkg:nuget/Cratis.Chronicle.Infrastructure@14.8.1
+- pkg:nuget/Cratis.Chronicle.Infrastructure@15.0.7
+- pkg:nuget/Cratis.Chronicle.Infrastructure@15.0.8
 - pkg:nuget/Cratis.Chronicle.Infrastructure@9.15.4
 - pkg:nuget/Cratis.Chronicle.Infrastructure@9.15.5
 - pkg:nuget/Cratis.Chronicle.Infrastructure@9.15.6

@@ -357,6 +357,7 @@
 - pkg:nuget/ThingsGateway.Gateway.Application@12.4.5
 - pkg:nuget/ThingsGateway.Gateway.Application@12.4.58
 - pkg:nuget/ThingsGateway.Gateway.Application@12.4.67
+- pkg:nuget/ThingsGateway.Gateway.Application@12.4.70
 - pkg:nuget/ThingsGateway.Gateway.Application@6.0.4.10
 - pkg:nuget/ThingsGateway.Gateway.Application@6.0.4.11
 - pkg:nuget/ThingsGateway.Gateway.Application@6.0.4.13

@@ -48,3 +48,4 @@
 - pkg:nuget/Elsa.SasTokens@3.5.0-rc4
 - pkg:nuget/Elsa.SasTokens@3.5.1
 - pkg:nuget/Elsa.SasTokens@3.6.0-rc2
+- pkg:nuget/Elsa.SasTokens@3.6.0-rc3

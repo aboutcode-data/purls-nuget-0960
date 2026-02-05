@@ -195,6 +195,7 @@
 - pkg:nuget/Umbraco.Cms.Infrastructure@16.2.0
 - pkg:nuget/Umbraco.Cms.Infrastructure@16.2.0-rc
 - pkg:nuget/Umbraco.Cms.Infrastructure@16.2.0-rc2
+- pkg:nuget/Umbraco.Cms.Infrastructure@17.2.0-rc
 - pkg:nuget/Umbraco.Cms.Infrastructure@9.0.0
 - pkg:nuget/Umbraco.Cms.Infrastructure@9.0.0-rc001
 - pkg:nuget/Umbraco.Cms.Infrastructure@9.0.0-rc002

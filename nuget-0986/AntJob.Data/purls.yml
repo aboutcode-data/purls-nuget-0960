@@ -40,3 +40,5 @@
 - pkg:nuget/AntJob.Data@4.4.2025.901-beta0607
 - pkg:nuget/AntJob.Data@4.4.2025.902
 - pkg:nuget/AntJob.Data@4.4.2025.902-beta0004
+- pkg:nuget/AntJob.Data@4.4.2026.206
+- pkg:nuget/AntJob.Data@4.4.2026.207

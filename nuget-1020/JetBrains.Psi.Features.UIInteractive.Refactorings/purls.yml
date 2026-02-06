@@ -357,3 +357,4 @@
 - pkg:nuget/JetBrains.Psi.Features.UIInteractive.Refactorings@253.0.20251008.615-eap05
 - pkg:nuget/JetBrains.Psi.Features.UIInteractive.Refactorings@253.0.20251110.111705
 - pkg:nuget/JetBrains.Psi.Features.UIInteractive.Refactorings@253.0.20251217.184914
+- pkg:nuget/JetBrains.Psi.Features.UIInteractive.Refactorings@261.0.20260205.171218-eap03

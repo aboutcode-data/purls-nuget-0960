@@ -51,6 +51,7 @@
 - pkg:nuget/Dtd.Abp.TestBase@9.10.3
 - pkg:nuget/Dtd.Abp.TestBase@9.11.0
 - pkg:nuget/Dtd.Abp.TestBase@9.11.1
+- pkg:nuget/Dtd.Abp.TestBase@9.18.0
 - pkg:nuget/Dtd.Abp.TestBase@9.2.0
 - pkg:nuget/Dtd.Abp.TestBase@9.2.1
 - pkg:nuget/Dtd.Abp.TestBase@9.2.2

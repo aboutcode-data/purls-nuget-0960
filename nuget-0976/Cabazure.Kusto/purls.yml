@@ -10,3 +10,4 @@
 - pkg:nuget/Cabazure.Kusto@1.1.5
 - pkg:nuget/Cabazure.Kusto@1.1.5-preview0
 - pkg:nuget/Cabazure.Kusto@1.1.5-preview1
+- pkg:nuget/Cabazure.Kusto@1.1.7

@@ -80,3 +80,4 @@
 - pkg:nuget/Sagara.Core@4.6.1
 - pkg:nuget/Sagara.Core@4.6.2
 - pkg:nuget/Sagara.Core@5.0.0
+- pkg:nuget/Sagara.Core@5.1.9

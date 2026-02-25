@@ -4,6 +4,7 @@
 - pkg:nuget/Cblx.Blocks.Analyzers.Endpoints@0.14.0
 - pkg:nuget/Cblx.Blocks.Analyzers.Endpoints@0.15.0
 - pkg:nuget/Cblx.Blocks.Analyzers.Endpoints@0.16.0
+- pkg:nuget/Cblx.Blocks.Analyzers.Endpoints@0.18.0-dev.2
 - pkg:nuget/Cblx.Blocks.Analyzers.Endpoints@0.8.0
 - pkg:nuget/Cblx.Blocks.Analyzers.Endpoints@0.8.0-dev.21
 - pkg:nuget/Cblx.Blocks.Analyzers.Endpoints@0.8.0-dev.22

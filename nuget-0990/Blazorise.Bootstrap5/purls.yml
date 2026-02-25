@@ -65,3 +65,4 @@
 - pkg:nuget/Blazorise.Bootstrap5@1.8.1
 - pkg:nuget/Blazorise.Bootstrap5@1.8.2
 - pkg:nuget/Blazorise.Bootstrap5@1.8.8
+- pkg:nuget/Blazorise.Bootstrap5@2.0.0

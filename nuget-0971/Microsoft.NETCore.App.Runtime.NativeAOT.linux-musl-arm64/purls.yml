@@ -8,6 +8,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.linux-musl-arm64@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.linux-musl-arm64@10.0.0-rc.2.25502.107
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.linux-musl-arm64@10.0.1
+- pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.linux-musl-arm64@10.0.3
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.linux-musl-arm64@9.0.0
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.linux-musl-arm64@9.0.0-preview.1.24080.9
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.linux-musl-arm64@9.0.0-preview.2.24128.5

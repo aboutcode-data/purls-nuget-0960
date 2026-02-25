@@ -9,6 +9,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.tvossimulator-x64@10.0.0-rc.2.25502.107
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.tvossimulator-x64@10.0.1
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.tvossimulator-x64@10.0.2
+- pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.tvossimulator-x64@10.0.3
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.tvossimulator-x64@8.0.0
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.tvossimulator-x64@8.0.0-preview.4.23259.5
 - pkg:nuget/Microsoft.NETCore.App.Runtime.NativeAOT.tvossimulator-x64@8.0.0-preview.5.23280.8

@@ -7,3 +7,4 @@
 - pkg:nuget/Goa.Clients.SecretsManager@0.0.3-preview.1
 - pkg:nuget/Goa.Clients.SecretsManager@0.0.3-preview.2
 - pkg:nuget/Goa.Clients.SecretsManager@0.1.4-preview
+- pkg:nuget/Goa.Clients.SecretsManager@0.7.2-preview

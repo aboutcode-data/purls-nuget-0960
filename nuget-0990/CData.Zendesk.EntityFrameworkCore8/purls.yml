@@ -3,3 +3,4 @@
 - pkg:nuget/CData.Zendesk.EntityFrameworkCore8@24.0.9111
 - pkg:nuget/CData.Zendesk.EntityFrameworkCore8@24.0.9175
 - pkg:nuget/CData.Zendesk.EntityFrameworkCore8@25.0.9342
+- pkg:nuget/CData.Zendesk.EntityFrameworkCore8@25.0.9539

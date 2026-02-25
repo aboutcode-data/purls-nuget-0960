@@ -17,4 +17,7 @@
 - pkg:nuget/AIC.Core.Data.Services.Translation@2026.1.19.4
 - pkg:nuget/AIC.Core.Data.Services.Translation@2026.1.22.2
 - pkg:nuget/AIC.Core.Data.Services.Translation@2026.1.5.3
+- pkg:nuget/AIC.Core.Data.Services.Translation@2026.2.10.1
+- pkg:nuget/AIC.Core.Data.Services.Translation@2026.2.16.1
+- pkg:nuget/AIC.Core.Data.Services.Translation@2026.2.16.2
 - pkg:nuget/AIC.Core.Data.Services.Translation@2026.2.6.1

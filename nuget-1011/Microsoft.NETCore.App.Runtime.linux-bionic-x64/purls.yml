@@ -74,6 +74,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-bionic-x64@9.0.0-rc.1.24431.7
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-bionic-x64@9.0.0-rc.2.24473.5
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-bionic-x64@9.0.1
+- pkg:nuget/Microsoft.NETCore.App.Runtime.linux-bionic-x64@9.0.13
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-bionic-x64@9.0.2
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-bionic-x64@9.0.3
 - pkg:nuget/Microsoft.NETCore.App.Runtime.linux-bionic-x64@9.0.4

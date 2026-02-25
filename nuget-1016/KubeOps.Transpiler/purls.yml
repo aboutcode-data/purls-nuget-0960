@@ -1,5 +1,6 @@
 - pkg:nuget/KubeOps.Transpiler@10.0.2
 - pkg:nuget/KubeOps.Transpiler@10.2.3-prerelease.1
+- pkg:nuget/KubeOps.Transpiler@10.2.5-prerelease.1
 - pkg:nuget/KubeOps.Transpiler@8.0.0
 - pkg:nuget/KubeOps.Transpiler@8.0.0-pre.1
 - pkg:nuget/KubeOps.Transpiler@8.0.0-pre.10

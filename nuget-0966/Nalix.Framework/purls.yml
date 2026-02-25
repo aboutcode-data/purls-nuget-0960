@@ -1,3 +1,4 @@
+- pkg:nuget/Nalix.Framework@10.0.0
 - pkg:nuget/Nalix.Framework@2.1.7
 - pkg:nuget/Nalix.Framework@2.5.7
 - pkg:nuget/Nalix.Framework@2.7.1

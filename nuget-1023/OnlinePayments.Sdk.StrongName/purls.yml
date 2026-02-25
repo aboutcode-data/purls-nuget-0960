@@ -36,3 +36,4 @@
 - pkg:nuget/OnlinePayments.Sdk.StrongName@5.0.0
 - pkg:nuget/OnlinePayments.Sdk.StrongName@5.1.0
 - pkg:nuget/OnlinePayments.Sdk.StrongName@6.0.0
+- pkg:nuget/OnlinePayments.Sdk.StrongName@6.2.0

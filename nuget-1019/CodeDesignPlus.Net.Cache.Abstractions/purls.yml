@@ -12,6 +12,8 @@
 - pkg:nuget/CodeDesignPlus.Net.Cache.Abstractions@0.12.0-beta.10246
 - pkg:nuget/CodeDesignPlus.Net.Cache.Abstractions@0.12.0-beta.5359
 - pkg:nuget/CodeDesignPlus.Net.Cache.Abstractions@0.12.0-beta.7802
+- pkg:nuget/CodeDesignPlus.Net.Cache.Abstractions@0.13.0-beta.12716
+- pkg:nuget/CodeDesignPlus.Net.Cache.Abstractions@0.13.0-beta.12717
 - pkg:nuget/CodeDesignPlus.Net.Cache.Abstractions@0.5.0
 - pkg:nuget/CodeDesignPlus.Net.Cache.Abstractions@0.5.0-beta.38
 - pkg:nuget/CodeDesignPlus.Net.Cache.Abstractions@0.5.0-beta.39

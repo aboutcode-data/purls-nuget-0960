@@ -1,3 +1,4 @@
+- pkg:nuget/DotNetCore.CAP.Dashboard.K8s@10.0.2-preview-287480508
 - pkg:nuget/DotNetCore.CAP.Dashboard.K8s@7.2.0
 - pkg:nuget/DotNetCore.CAP.Dashboard.K8s@7.2.0-preview-204044155
 - pkg:nuget/DotNetCore.CAP.Dashboard.K8s@7.2.0-preview-207205557

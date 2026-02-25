@@ -37,3 +37,4 @@
 - pkg:nuget/HAL.Common@8.1.0
 - pkg:nuget/HAL.Common@8.2.0
 - pkg:nuget/HAL.Common@9.0.0
+- pkg:nuget/HAL.Common@9.0.3

@@ -45,3 +45,4 @@
 - pkg:nuget/Rescope.Commerce.Sqlite@15.0.0-beta001
 - pkg:nuget/Rescope.Commerce.Sqlite@15.0.1
 - pkg:nuget/Rescope.Commerce.Sqlite@16.0.0
+- pkg:nuget/Rescope.Commerce.Sqlite@17.1.47

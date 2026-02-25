@@ -48,3 +48,4 @@
 - pkg:nuget/Dapr.Workflow@1.16.0-rc20
 - pkg:nuget/Dapr.Workflow@1.16.0-rc21
 - pkg:nuget/Dapr.Workflow@1.17.0-rc02
+- pkg:nuget/Dapr.Workflow@1.17.0-rc14

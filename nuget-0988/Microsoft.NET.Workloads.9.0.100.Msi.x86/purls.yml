@@ -16,3 +16,4 @@
 - pkg:nuget/Microsoft.NET.Workloads.9.0.100.Msi.x86@9.108.1
 - pkg:nuget/Microsoft.NET.Workloads.9.0.100.Msi.x86@9.109.0
 - pkg:nuget/Microsoft.NET.Workloads.9.0.100.Msi.x86@9.110.0
+- pkg:nuget/Microsoft.NET.Workloads.9.0.100.Msi.x86@9.114.0

@@ -546,8 +546,12 @@
 - pkg:nuget/HotChocolate.Execution.Abstractions@16.0.0-p.10.35
 - pkg:nuget/HotChocolate.Execution.Abstractions@16.0.0-p.10.38
 - pkg:nuget/HotChocolate.Execution.Abstractions@16.0.0-p.10.39
+- pkg:nuget/HotChocolate.Execution.Abstractions@16.0.0-p.10.46
 - pkg:nuget/HotChocolate.Execution.Abstractions@16.0.0-p.10.5
 - pkg:nuget/HotChocolate.Execution.Abstractions@16.0.0-p.10.6
+- pkg:nuget/HotChocolate.Execution.Abstractions@16.0.0-p.11.10
+- pkg:nuget/HotChocolate.Execution.Abstractions@16.0.0-p.11.14
+- pkg:nuget/HotChocolate.Execution.Abstractions@16.0.0-p.11.2
 - pkg:nuget/HotChocolate.Execution.Abstractions@16.0.0-p.2.0
 - pkg:nuget/HotChocolate.Execution.Abstractions@16.0.0-p.3.0
 - pkg:nuget/HotChocolate.Execution.Abstractions@16.0.0-p.4.0

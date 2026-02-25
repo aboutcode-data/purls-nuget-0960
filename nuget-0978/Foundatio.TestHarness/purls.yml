@@ -43,6 +43,7 @@
 - pkg:nuget/Foundatio.TestHarness@11.0.8
 - pkg:nuget/Foundatio.TestHarness@11.1.0
 - pkg:nuget/Foundatio.TestHarness@12.0.0
+- pkg:nuget/Foundatio.TestHarness@13.0.0-beta2
 - pkg:nuget/Foundatio.TestHarness@5.1.1443
 - pkg:nuget/Foundatio.TestHarness@5.1.1448
 - pkg:nuget/Foundatio.TestHarness@5.1.1457

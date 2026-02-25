@@ -87,6 +87,7 @@
 - pkg:nuget/Microting.EformMonitoringBase@1.1.91
 - pkg:nuget/Microting.EformMonitoringBase@1.1.92
 - pkg:nuget/Microting.EformMonitoringBase@10.0.1
+- pkg:nuget/Microting.EformMonitoringBase@10.0.11
 - pkg:nuget/Microting.EformMonitoringBase@2.0.0
 - pkg:nuget/Microting.EformMonitoringBase@2.0.1
 - pkg:nuget/Microting.EformMonitoringBase@2.0.10

@@ -53,6 +53,7 @@
 - pkg:nuget/Pulumiverse.Cpln@0.0.7
 - pkg:nuget/Pulumiverse.Cpln@0.0.70
 - pkg:nuget/Pulumiverse.Cpln@0.0.8
+- pkg:nuget/Pulumiverse.Cpln@0.0.80
 - pkg:nuget/Pulumiverse.Cpln@0.0.9
 - pkg:nuget/Pulumiverse.Cpln@0.1.0-alpha.1752078769
 - pkg:nuget/Pulumiverse.Cpln@0.1.0-alpha.1752081177
@@ -64,4 +65,5 @@
 - pkg:nuget/Pulumiverse.Cpln@0.1.0-alpha.1755084547
 - pkg:nuget/Pulumiverse.Cpln@0.1.0-alpha.1755534232
 - pkg:nuget/Pulumiverse.Cpln@0.1.0-alpha.1759147519
+- pkg:nuget/Pulumiverse.Cpln@0.1.0-alpha.1771035470
 - pkg:nuget/Pulumiverse.Cpln@1.0.0

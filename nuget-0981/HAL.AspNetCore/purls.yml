@@ -40,6 +40,7 @@
 - pkg:nuget/HAL.AspNetCore@2.0.1
 - pkg:nuget/HAL.AspNetCore@2.0.2
 - pkg:nuget/HAL.AspNetCore@20.0.0
+- pkg:nuget/HAL.AspNetCore@20.0.3
 - pkg:nuget/HAL.AspNetCore@3.0.0
 - pkg:nuget/HAL.AspNetCore@3.1.0
 - pkg:nuget/HAL.AspNetCore@3.1.1

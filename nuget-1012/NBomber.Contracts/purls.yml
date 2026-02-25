@@ -126,3 +126,4 @@
 - pkg:nuget/NBomber.Contracts@6.1.0-beta.7
 - pkg:nuget/NBomber.Contracts@6.1.0-beta.8
 - pkg:nuget/NBomber.Contracts@6.2.0-beta.0
+- pkg:nuget/NBomber.Contracts@6.2.0-beta.2

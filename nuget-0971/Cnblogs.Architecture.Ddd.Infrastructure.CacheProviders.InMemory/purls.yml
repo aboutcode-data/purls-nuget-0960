@@ -53,3 +53,4 @@
 - pkg:nuget/Cnblogs.Architecture.Ddd.Infrastructure.CacheProviders.InMemory@20.6.5
 - pkg:nuget/Cnblogs.Architecture.Ddd.Infrastructure.CacheProviders.InMemory@20.6.6
 - pkg:nuget/Cnblogs.Architecture.Ddd.Infrastructure.CacheProviders.InMemory@20.6.7
+- pkg:nuget/Cnblogs.Architecture.Ddd.Infrastructure.CacheProviders.InMemory@21.1.0

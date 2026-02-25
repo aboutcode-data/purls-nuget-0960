@@ -2,6 +2,7 @@
 - pkg:nuget/Cuemon.Runtime.Caching@10.0.0-preview.2
 - pkg:nuget/Cuemon.Runtime.Caching@10.0.0-preview.3
 - pkg:nuget/Cuemon.Runtime.Caching@10.0.0-rc.1
+- pkg:nuget/Cuemon.Runtime.Caching@10.2.0
 - pkg:nuget/Cuemon.Runtime.Caching@4.0.2016.1360
 - pkg:nuget/Cuemon.Runtime.Caching@4.0.2016.1380-rc2
 - pkg:nuget/Cuemon.Runtime.Caching@4.0.2016.1880

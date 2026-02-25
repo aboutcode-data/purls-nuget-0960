@@ -281,4 +281,5 @@
 - pkg:nuget/Google.Apis.Dataproc.v1@1.70.0.3827
 - pkg:nuget/Google.Apis.Dataproc.v1@1.70.0.3877
 - pkg:nuget/Google.Apis.Dataproc.v1@1.72.0.3940
+- pkg:nuget/Google.Apis.Dataproc.v1@1.73.0.4052
 - pkg:nuget/Google.Apis.Dataproc.v1@1.9.2.10

@@ -208,3 +208,5 @@
 - pkg:nuget/Skyline.DataMiner.Dev.Common@10.5.8.1
 - pkg:nuget/Skyline.DataMiner.Dev.Common@10.5.9.1
 - pkg:nuget/Skyline.DataMiner.Dev.Common@10.5.9.2
+- pkg:nuget/Skyline.DataMiner.Dev.Common@10.6.0.1
+- pkg:nuget/Skyline.DataMiner.Dev.Common@10.6.3

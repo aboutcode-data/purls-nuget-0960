@@ -11,6 +11,7 @@
 - pkg:nuget/SFA.DAS.CommitmentsV2.Messages@100.0.15
 - pkg:nuget/SFA.DAS.CommitmentsV2.Messages@100.0.154-prerelease-8
 - pkg:nuget/SFA.DAS.CommitmentsV2.Messages@100.0.17
+- pkg:nuget/SFA.DAS.CommitmentsV2.Messages@100.0.173-prerelease-7
 - pkg:nuget/SFA.DAS.CommitmentsV2.Messages@100.0.30
 - pkg:nuget/SFA.DAS.CommitmentsV2.Messages@100.0.34
 - pkg:nuget/SFA.DAS.CommitmentsV2.Messages@100.0.37

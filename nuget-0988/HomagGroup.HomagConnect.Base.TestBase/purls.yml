@@ -104,7 +104,10 @@
 - pkg:nuget/HomagGroup.HomagConnect.Base.TestBase@2.0.1-alpha.0.24
 - pkg:nuget/HomagGroup.HomagConnect.Base.TestBase@2.0.1-alpha.0.25
 - pkg:nuget/HomagGroup.HomagConnect.Base.TestBase@2.0.1-alpha.0.26
+- pkg:nuget/HomagGroup.HomagConnect.Base.TestBase@2.0.1-alpha.0.265
+- pkg:nuget/HomagGroup.HomagConnect.Base.TestBase@2.0.1-alpha.0.266
 - pkg:nuget/HomagGroup.HomagConnect.Base.TestBase@2.0.1-alpha.0.27
+- pkg:nuget/HomagGroup.HomagConnect.Base.TestBase@2.0.1-alpha.0.283
 - pkg:nuget/HomagGroup.HomagConnect.Base.TestBase@2.0.1-alpha.0.29
 - pkg:nuget/HomagGroup.HomagConnect.Base.TestBase@2.0.1-alpha.0.3
 - pkg:nuget/HomagGroup.HomagConnect.Base.TestBase@2.0.1-alpha.0.30

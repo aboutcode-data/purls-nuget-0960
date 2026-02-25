@@ -126,3 +126,4 @@
 - pkg:nuget/NINA.Image@3.2.0.2007-beta
 - pkg:nuget/NINA.Image@3.2.0.3001-rc
 - pkg:nuget/NINA.Image@3.2.0.9001
+- pkg:nuget/NINA.Image@3.3.0.1005-nightly

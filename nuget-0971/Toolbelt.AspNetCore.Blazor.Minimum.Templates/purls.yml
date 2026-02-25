@@ -19,6 +19,7 @@
 - pkg:nuget/Toolbelt.AspNetCore.Blazor.Minimum.Templates@10.0.100-preview.7.2
 - pkg:nuget/Toolbelt.AspNetCore.Blazor.Minimum.Templates@10.0.100-rc.1
 - pkg:nuget/Toolbelt.AspNetCore.Blazor.Minimum.Templates@10.0.102
+- pkg:nuget/Toolbelt.AspNetCore.Blazor.Minimum.Templates@10.0.103.1
 - pkg:nuget/Toolbelt.AspNetCore.Blazor.Minimum.Templates@3.0.0-preview4-19216-03
 - pkg:nuget/Toolbelt.AspNetCore.Blazor.Minimum.Templates@3.0.0-preview4-19216-03b
 - pkg:nuget/Toolbelt.AspNetCore.Blazor.Minimum.Templates@3.0.0-preview5-19227-01

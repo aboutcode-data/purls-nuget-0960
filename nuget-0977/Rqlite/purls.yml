@@ -14,3 +14,4 @@
 - pkg:nuget/Rqlite@1.0.0-beta.25070402
 - pkg:nuget/Rqlite@1.0.0-beta.25082001
 - pkg:nuget/Rqlite@1.0.0-beta.25101701
+- pkg:nuget/Rqlite@1.1.0

@@ -151,3 +151,5 @@
 - pkg:nuget/Dapplo.Windows.Clipboard@1.0.7
 - pkg:nuget/Dapplo.Windows.Clipboard@1.0.73
 - pkg:nuget/Dapplo.Windows.Clipboard@1.0.8
+- pkg:nuget/Dapplo.Windows.Clipboard@2.0.70
+- pkg:nuget/Dapplo.Windows.Clipboard@2.0.81

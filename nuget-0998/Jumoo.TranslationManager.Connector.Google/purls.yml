@@ -66,6 +66,7 @@
 - pkg:nuget/Jumoo.TranslationManager.Connector.Google@13.2.12
 - pkg:nuget/Jumoo.TranslationManager.Connector.Google@13.2.13
 - pkg:nuget/Jumoo.TranslationManager.Connector.Google@13.2.14
+- pkg:nuget/Jumoo.TranslationManager.Connector.Google@13.2.20
 - pkg:nuget/Jumoo.TranslationManager.Connector.Google@13.2.4
 - pkg:nuget/Jumoo.TranslationManager.Connector.Google@13.2.5
 - pkg:nuget/Jumoo.TranslationManager.Connector.Google@13.2.5.1

@@ -74,3 +74,4 @@
 - pkg:nuget/HttpJsonRpc@2.3.0
 - pkg:nuget/HttpJsonRpc@2.4.0
 - pkg:nuget/HttpJsonRpc@2.4.1
+- pkg:nuget/HttpJsonRpc@2.6.1

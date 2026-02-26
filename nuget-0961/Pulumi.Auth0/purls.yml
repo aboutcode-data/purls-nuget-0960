@@ -435,6 +435,7 @@
 - pkg:nuget/Pulumi.Auth0@3.35.0-alpha.1766173131
 - pkg:nuget/Pulumi.Auth0@3.36.0-alpha.1767139472
 - pkg:nuget/Pulumi.Auth0@3.38.0-alpha.1770096810
+- pkg:nuget/Pulumi.Auth0@3.39.0-alpha.1772103414
 - pkg:nuget/Pulumi.Auth0@3.4.0
 - pkg:nuget/Pulumi.Auth0@3.4.0-alpha.1710156091%2Be1d893d3
 - pkg:nuget/Pulumi.Auth0@3.4.0-alpha.1710414703%2Bc553b165

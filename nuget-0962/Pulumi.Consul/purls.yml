@@ -411,6 +411,7 @@
 - pkg:nuget/Pulumi.Consul@3.14.0-alpha.1767139522
 - pkg:nuget/Pulumi.Consul@3.14.0-alpha.1768500934
 - pkg:nuget/Pulumi.Consul@3.15.0-alpha.1770097580
+- pkg:nuget/Pulumi.Consul@3.15.0-alpha.1772104076
 - pkg:nuget/Pulumi.Consul@3.2.0
 - pkg:nuget/Pulumi.Consul@3.2.0-alpha.1622137351%2B519241d8
 - pkg:nuget/Pulumi.Consul@3.3.0

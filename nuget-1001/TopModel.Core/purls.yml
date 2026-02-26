@@ -85,3 +85,4 @@
 - pkg:nuget/TopModel.Core@3.8.1
 - pkg:nuget/TopModel.Core@3.9.0
 - pkg:nuget/TopModel.Core@3.9.1
+- pkg:nuget/TopModel.Core@3.9.2

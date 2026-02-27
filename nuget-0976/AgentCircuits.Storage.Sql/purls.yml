@@ -2,5 +2,6 @@
 - pkg:nuget/AgentCircuits.Storage.Sql@0.7.0
 - pkg:nuget/AgentCircuits.Storage.Sql@0.7.102
 - pkg:nuget/AgentCircuits.Storage.Sql@0.7.103
+- pkg:nuget/AgentCircuits.Storage.Sql@0.7.104-auth-fragment-mode
 - pkg:nuget/AgentCircuits.Storage.Sql@0.7.2
 - pkg:nuget/AgentCircuits.Storage.Sql@0.7.3

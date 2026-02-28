@@ -80,3 +80,4 @@
 - pkg:nuget/Laraue.Telegram.NET.DataAccess@2.6.0
 - pkg:nuget/Laraue.Telegram.NET.DataAccess@2.6.1
 - pkg:nuget/Laraue.Telegram.NET.DataAccess@2.6.2
+- pkg:nuget/Laraue.Telegram.NET.DataAccess@4.1.2

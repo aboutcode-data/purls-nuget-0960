@@ -11,3 +11,4 @@
 - pkg:nuget/Nobita.ServerFramework.Core@1.0.0-rc-6
 - pkg:nuget/Nobita.ServerFramework.Core@1.1.0
 - pkg:nuget/Nobita.ServerFramework.Core@1.1.0-beta-20250709
+- pkg:nuget/Nobita.ServerFramework.Core@2.0.0-rc-7

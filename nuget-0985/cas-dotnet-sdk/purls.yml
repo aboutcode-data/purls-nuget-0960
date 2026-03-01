@@ -70,3 +70,4 @@
 - pkg:nuget/cas-dotnet-sdk@1.5.8
 - pkg:nuget/cas-dotnet-sdk@1.5.9
 - pkg:nuget/cas-dotnet-sdk@1.7.1
+- pkg:nuget/cas-dotnet-sdk@1.9.1

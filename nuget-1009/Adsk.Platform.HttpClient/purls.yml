@@ -31,3 +31,4 @@
 - pkg:nuget/Adsk.Platform.HttpClient@0.1.8
 - pkg:nuget/Adsk.Platform.HttpClient@0.1.9
 - pkg:nuget/Adsk.Platform.HttpClient@0.2.3
+- pkg:nuget/Adsk.Platform.HttpClient@0.3.1

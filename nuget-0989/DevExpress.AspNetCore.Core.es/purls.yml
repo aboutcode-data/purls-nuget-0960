@@ -1,1 +1,3 @@
 - pkg:nuget/DevExpress.AspNetCore.Core.es@25.1.3
+- pkg:nuget/DevExpress.AspNetCore.Core.es@25.1.9
+- pkg:nuget/DevExpress.AspNetCore.Core.es@25.2.5

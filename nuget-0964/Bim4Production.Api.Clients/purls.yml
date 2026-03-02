@@ -343,3 +343,4 @@
 - pkg:nuget/Bim4Production.Api.Clients@2026.5.0-alpha.10
 - pkg:nuget/Bim4Production.Api.Clients@2026.8.0-alpha.15
 - pkg:nuget/Bim4Production.Api.Clients@2026.8.0-alpha.20
+- pkg:nuget/Bim4Production.Api.Clients@2026.8.0-alpha.31

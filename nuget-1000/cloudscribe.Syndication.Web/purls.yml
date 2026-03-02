@@ -27,3 +27,4 @@
 - pkg:nuget/cloudscribe.Syndication.Web@8.2.0
 - pkg:nuget/cloudscribe.Syndication.Web@8.3.0
 - pkg:nuget/cloudscribe.Syndication.Web@8.4.0
+- pkg:nuget/cloudscribe.Syndication.Web@8.7.0

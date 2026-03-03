@@ -26,6 +26,7 @@
 - pkg:nuget/Volo.Abp.BackgroundJobs.HangFire@1.1.1
 - pkg:nuget/Volo.Abp.BackgroundJobs.HangFire@1.1.2
 - pkg:nuget/Volo.Abp.BackgroundJobs.HangFire@10.0.0-rc.1
+- pkg:nuget/Volo.Abp.BackgroundJobs.HangFire@10.1.1
 - pkg:nuget/Volo.Abp.BackgroundJobs.HangFire@2.0.0
 - pkg:nuget/Volo.Abp.BackgroundJobs.HangFire@2.0.1
 - pkg:nuget/Volo.Abp.BackgroundJobs.HangFire@2.1.0

@@ -1,3 +1,4 @@
+- pkg:nuget/Volo.Abp.OpenIddict.Domain@10.1.1
 - pkg:nuget/Volo.Abp.OpenIddict.Domain@6.0.0
 - pkg:nuget/Volo.Abp.OpenIddict.Domain@6.0.0-rc.1
 - pkg:nuget/Volo.Abp.OpenIddict.Domain@6.0.0-rc.2

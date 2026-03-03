@@ -1,4 +1,5 @@
 - pkg:nuget/Volo.Abp.VirtualFileExplorer.SourceCode@10.0.0
+- pkg:nuget/Volo.Abp.VirtualFileExplorer.SourceCode@10.1.1
 - pkg:nuget/Volo.Abp.VirtualFileExplorer.SourceCode@5.0.0
 - pkg:nuget/Volo.Abp.VirtualFileExplorer.SourceCode@5.0.0-beta.2
 - pkg:nuget/Volo.Abp.VirtualFileExplorer.SourceCode@5.0.0-beta.3

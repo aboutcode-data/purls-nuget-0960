@@ -1,4 +1,5 @@
 - pkg:nuget/Volo.Abp.TenantManagement.Blazor.WebAssembly@10.0.0
+- pkg:nuget/Volo.Abp.TenantManagement.Blazor.WebAssembly@10.1.1
 - pkg:nuget/Volo.Abp.TenantManagement.Blazor.WebAssembly@4.3.0
 - pkg:nuget/Volo.Abp.TenantManagement.Blazor.WebAssembly@4.3.0-rc.1
 - pkg:nuget/Volo.Abp.TenantManagement.Blazor.WebAssembly@4.3.0-rc.2

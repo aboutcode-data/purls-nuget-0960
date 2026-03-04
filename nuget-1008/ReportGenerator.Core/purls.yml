@@ -187,3 +187,4 @@
 - pkg:nuget/ReportGenerator.Core@5.4.7
 - pkg:nuget/ReportGenerator.Core@5.4.8
 - pkg:nuget/ReportGenerator.Core@5.4.9
+- pkg:nuget/ReportGenerator.Core@5.5.3

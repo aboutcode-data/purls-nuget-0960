@@ -46,6 +46,7 @@
 - pkg:nuget/SequelNet.Connector.MySql2@3.0.145
 - pkg:nuget/SequelNet.Connector.MySql2@3.0.146
 - pkg:nuget/SequelNet.Connector.MySql2@3.0.147
+- pkg:nuget/SequelNet.Connector.MySql2@3.0.156
 - pkg:nuget/SequelNet.Connector.MySql2@3.0.21
 - pkg:nuget/SequelNet.Connector.MySql2@3.0.22
 - pkg:nuget/SequelNet.Connector.MySql2@3.0.23

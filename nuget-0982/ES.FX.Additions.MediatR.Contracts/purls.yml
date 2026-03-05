@@ -1,4 +1,5 @@
 - pkg:nuget/ES.FX.Additions.MediatR.Contracts@10.0.15
+- pkg:nuget/ES.FX.Additions.MediatR.Contracts@10.0.18
 - pkg:nuget/ES.FX.Additions.MediatR.Contracts@10.0.3
 - pkg:nuget/ES.FX.Additions.MediatR.Contracts@9.1.1
 - pkg:nuget/ES.FX.Additions.MediatR.Contracts@9.1.10

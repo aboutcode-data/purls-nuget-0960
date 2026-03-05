@@ -1,1 +1,2 @@
+- pkg:nuget/DbSqlLikeMem.Sqlite.LinqToDb@1.10.0
 - pkg:nuget/DbSqlLikeMem.Sqlite.LinqToDb@1.5.0

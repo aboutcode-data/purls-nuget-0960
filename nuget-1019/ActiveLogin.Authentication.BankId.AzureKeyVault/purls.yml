@@ -9,6 +9,7 @@
 - pkg:nuget/ActiveLogin.Authentication.BankId.AzureKeyVault@11.0.0-rc-1
 - pkg:nuget/ActiveLogin.Authentication.BankId.AzureKeyVault@11.0.0-rc-2
 - pkg:nuget/ActiveLogin.Authentication.BankId.AzureKeyVault@11.1.0-rc-1
+- pkg:nuget/ActiveLogin.Authentication.BankId.AzureKeyVault@12.0.0
 - pkg:nuget/ActiveLogin.Authentication.BankId.AzureKeyVault@6.0.0
 - pkg:nuget/ActiveLogin.Authentication.BankId.AzureKeyVault@6.0.0-beta-1
 - pkg:nuget/ActiveLogin.Authentication.BankId.AzureKeyVault@6.0.0-beta-2

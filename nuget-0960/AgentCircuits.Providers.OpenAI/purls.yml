@@ -6,5 +6,6 @@
 - pkg:nuget/AgentCircuits.Providers.OpenAI@0.7.103
 - pkg:nuget/AgentCircuits.Providers.OpenAI@0.7.104-auth-fragment-mode
 - pkg:nuget/AgentCircuits.Providers.OpenAI@0.7.112-ui-bug.1
+- pkg:nuget/AgentCircuits.Providers.OpenAI@0.7.118
 - pkg:nuget/AgentCircuits.Providers.OpenAI@0.7.2
 - pkg:nuget/AgentCircuits.Providers.OpenAI@0.7.3

@@ -1,5 +1,6 @@
 - pkg:nuget/Cirreum.QueryCache.Hybrid@1.0.12
 - pkg:nuget/Cirreum.QueryCache.Hybrid@1.0.14
 - pkg:nuget/Cirreum.QueryCache.Hybrid@1.0.15
+- pkg:nuget/Cirreum.QueryCache.Hybrid@1.0.25
 - pkg:nuget/Cirreum.QueryCache.Hybrid@1.0.3
 - pkg:nuget/Cirreum.QueryCache.Hybrid@1.0.8

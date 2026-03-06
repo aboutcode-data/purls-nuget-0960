@@ -1,1 +1,2 @@
 - pkg:nuget/EntglDb.Persistence@1.0.0
+- pkg:nuget/EntglDb.Persistence@1.1.2

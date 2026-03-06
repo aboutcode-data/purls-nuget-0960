@@ -3,3 +3,4 @@
 - pkg:nuget/JetBrains.EnvDTE.Host@20220221.47.0
 - pkg:nuget/JetBrains.EnvDTE.Host@20230531.48.0
 - pkg:nuget/JetBrains.EnvDTE.Host@20240403.51.0
+- pkg:nuget/JetBrains.EnvDTE.Host@20260302.65.0

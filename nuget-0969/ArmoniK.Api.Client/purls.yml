@@ -2275,6 +2275,7 @@
 - pkg:nuget/ArmoniK.Api.Client@3.28.4-adgetresourcedatapython.4.29ef685
 - pkg:nuget/ArmoniK.Api.Client@3.29.0-jfcppstatic.14.811eeb6e
 - pkg:nuget/ArmoniK.Api.Client@3.29.0-renovateallminorpatch.14.b1fc93e
+- pkg:nuget/ArmoniK.Api.Client@3.29.0-renovategithubactions.14.271b46f3
 - pkg:nuget/ArmoniK.Api.Client@3.29.0-renovategithubactions.9.4382bcf
 - pkg:nuget/ArmoniK.Api.Client@3.29.0-renovategithubactions.9.501edd5
 - pkg:nuget/ArmoniK.Api.Client@3.29.0-renovatemajorwebnpm.9.fa19b8e

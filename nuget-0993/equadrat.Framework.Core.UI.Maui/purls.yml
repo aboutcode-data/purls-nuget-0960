@@ -76,3 +76,10 @@
 - pkg:nuget/equadrat.Framework.Core.UI.Maui@8.1.7
 - pkg:nuget/equadrat.Framework.Core.UI.Maui@8.1.7-prerelease-00371
 - pkg:nuget/equadrat.Framework.Core.UI.Maui@8.2.0-prerelease-00357
+- pkg:nuget/equadrat.Framework.Core.UI.Maui@8.3.0-prerelease-00023
+- pkg:nuget/equadrat.Framework.Core.UI.Maui@8.3.0-prerelease-00027
+- pkg:nuget/equadrat.Framework.Core.UI.Maui@8.3.0-prerelease-00031
+- pkg:nuget/equadrat.Framework.Core.UI.Maui@8.3.0-prerelease-00035
+- pkg:nuget/equadrat.Framework.Core.UI.Maui@8.3.0-prerelease-00041
+- pkg:nuget/equadrat.Framework.Core.UI.Maui@8.3.0-prerelease-00047
+- pkg:nuget/equadrat.Framework.Core.UI.Maui@8.3.1-prerelease-00057

@@ -46,3 +46,5 @@
 - pkg:nuget/equadrat.Framework.Mvvm.SinglePageView@8.1.2-prerelease-00351
 - pkg:nuget/equadrat.Framework.Mvvm.SinglePageView@8.1.3
 - pkg:nuget/equadrat.Framework.Mvvm.SinglePageView@8.1.3-prerelease-00373
+- pkg:nuget/equadrat.Framework.Mvvm.SinglePageView@8.3.0-prerelease-00011
+- pkg:nuget/equadrat.Framework.Mvvm.SinglePageView@8.3.1-prerelease-00021

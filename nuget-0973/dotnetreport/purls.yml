@@ -12,3 +12,4 @@
 - pkg:nuget/dotnetreport@6.0.7
 - pkg:nuget/dotnetreport@6.0.8-beta
 - pkg:nuget/dotnetreport@6.1.0-beta
+- pkg:nuget/dotnetreport@6.2.4

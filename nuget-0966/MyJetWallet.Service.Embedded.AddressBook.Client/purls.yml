@@ -10,3 +10,5 @@
 - pkg:nuget/MyJetWallet.Service.Embedded.AddressBook.Client@2.1.2
 - pkg:nuget/MyJetWallet.Service.Embedded.AddressBook.Client@2.1.7
 - pkg:nuget/MyJetWallet.Service.Embedded.AddressBook.Client@2.1.9
+- pkg:nuget/MyJetWallet.Service.Embedded.AddressBook.Client@2.2.2
+- pkg:nuget/MyJetWallet.Service.Embedded.AddressBook.Client@2.2.3

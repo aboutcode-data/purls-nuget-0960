@@ -84,3 +84,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Card@1.2.881
 - pkg:nuget/nanoFramework.Iot.Device.Card@1.2.89
 - pkg:nuget/nanoFramework.Iot.Device.Card@1.2.95
+- pkg:nuget/nanoFramework.Iot.Device.Card@2.0.0-preview.13

@@ -185,3 +185,4 @@
 - pkg:nuget/SharpAbp.Abp.DbConnections@4.5.1
 - pkg:nuget/SharpAbp.Abp.DbConnections@4.5.4
 - pkg:nuget/SharpAbp.Abp.DbConnections@4.5.6
+- pkg:nuget/SharpAbp.Abp.DbConnections@4.6.8

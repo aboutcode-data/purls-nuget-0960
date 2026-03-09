@@ -99,3 +99,4 @@
 - pkg:nuget/SharpAbp.Abp.OpenTelemetry.Exporter.Prometheus.HttpListener@4.5.1
 - pkg:nuget/SharpAbp.Abp.OpenTelemetry.Exporter.Prometheus.HttpListener@4.5.4
 - pkg:nuget/SharpAbp.Abp.OpenTelemetry.Exporter.Prometheus.HttpListener@4.5.6
+- pkg:nuget/SharpAbp.Abp.OpenTelemetry.Exporter.Prometheus.HttpListener@4.6.8

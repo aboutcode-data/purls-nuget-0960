@@ -34,6 +34,7 @@
 - pkg:nuget/SmartTender.MessageBroker.AspNetCore@2.0.12
 - pkg:nuget/SmartTender.MessageBroker.AspNetCore@2.0.13
 - pkg:nuget/SmartTender.MessageBroker.AspNetCore@2.0.14
+- pkg:nuget/SmartTender.MessageBroker.AspNetCore@2.0.19
 - pkg:nuget/SmartTender.MessageBroker.AspNetCore@2.0.2
 - pkg:nuget/SmartTender.MessageBroker.AspNetCore@2.0.3
 - pkg:nuget/SmartTender.MessageBroker.AspNetCore@2.0.4

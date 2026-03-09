@@ -520,6 +520,7 @@
 - pkg:nuget/VirtoCommerce.CITest.Data@3.800.53
 - pkg:nuget/VirtoCommerce.CITest.Data@3.800.54
 - pkg:nuget/VirtoCommerce.CITest.Data@3.800.544
+- pkg:nuget/VirtoCommerce.CITest.Data@3.800.548
 - pkg:nuget/VirtoCommerce.CITest.Data@3.800.55
 - pkg:nuget/VirtoCommerce.CITest.Data@3.800.56
 - pkg:nuget/VirtoCommerce.CITest.Data@3.800.57

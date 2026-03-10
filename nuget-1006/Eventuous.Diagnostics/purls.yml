@@ -18,6 +18,7 @@
 - pkg:nuget/Eventuous.Diagnostics@0.15.0-rc.2
 - pkg:nuget/Eventuous.Diagnostics@0.15.0-rc.3
 - pkg:nuget/Eventuous.Diagnostics@0.15.1
+- pkg:nuget/Eventuous.Diagnostics@0.16.2
 - pkg:nuget/Eventuous.Diagnostics@0.6.0
 - pkg:nuget/Eventuous.Diagnostics@0.6.0-rc.1
 - pkg:nuget/Eventuous.Diagnostics@0.6.0-rc.2

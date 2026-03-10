@@ -18,3 +18,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Sht4x@1.0.63
 - pkg:nuget/nanoFramework.Iot.Device.Sht4x@1.0.80
 - pkg:nuget/nanoFramework.Iot.Device.Sht4x@1.0.97
+- pkg:nuget/nanoFramework.Iot.Device.Sht4x@2.0.0-preview.16

@@ -128,3 +128,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Rtc@1.2.869
 - pkg:nuget/nanoFramework.Iot.Device.Rtc@1.2.87
 - pkg:nuget/nanoFramework.Iot.Device.Rtc@1.2.889
+- pkg:nuget/nanoFramework.Iot.Device.Rtc@2.0.0-preview.16

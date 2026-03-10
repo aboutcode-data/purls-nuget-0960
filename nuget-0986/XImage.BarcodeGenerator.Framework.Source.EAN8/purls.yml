@@ -16,6 +16,7 @@
 - pkg:nuget/XImage.BarcodeGenerator.Framework.Source.EAN8@12.3.5.2
 - pkg:nuget/XImage.BarcodeGenerator.Framework.Source.EAN8@12.3.5.21
 - pkg:nuget/XImage.BarcodeGenerator.Framework.Source.EAN8@12.3.5.3
+- pkg:nuget/XImage.BarcodeGenerator.Framework.Source.EAN8@12.3.5.39
 - pkg:nuget/XImage.BarcodeGenerator.Framework.Source.EAN8@12.3.5.4
 - pkg:nuget/XImage.BarcodeGenerator.Framework.Source.EAN8@12.3.5.5
 - pkg:nuget/XImage.BarcodeGenerator.Framework.Source.EAN8@12.3.5.6

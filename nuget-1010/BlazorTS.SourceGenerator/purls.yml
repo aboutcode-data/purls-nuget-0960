@@ -20,3 +20,4 @@
 - pkg:nuget/BlazorTS.SourceGenerator@1.5.0.48
 - pkg:nuget/BlazorTS.SourceGenerator@1.5.1.50
 - pkg:nuget/BlazorTS.SourceGenerator@1.6.1.54
+- pkg:nuget/BlazorTS.SourceGenerator@1.7.0.60

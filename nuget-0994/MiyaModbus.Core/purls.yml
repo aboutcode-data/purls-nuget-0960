@@ -9,3 +9,4 @@
 - pkg:nuget/MiyaModbus.Core@1.0.8
 - pkg:nuget/MiyaModbus.Core@1.0.9
 - pkg:nuget/MiyaModbus.Core@1.1.0
+- pkg:nuget/MiyaModbus.Core@1.1.2

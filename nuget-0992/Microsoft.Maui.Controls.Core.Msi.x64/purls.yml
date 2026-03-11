@@ -6,6 +6,7 @@
 - pkg:nuget/Microsoft.Maui.Controls.Core.Msi.x64@10.0.0-preview.6.25359.8
 - pkg:nuget/Microsoft.Maui.Controls.Core.Msi.x64@10.0.0-preview.7.25406.3
 - pkg:nuget/Microsoft.Maui.Controls.Core.Msi.x64@10.0.0-rc.1.25452.6
+- pkg:nuget/Microsoft.Maui.Controls.Core.Msi.x64@10.0.50
 - pkg:nuget/Microsoft.Maui.Controls.Core.Msi.x64@8.0.0-preview.1.7762
 - pkg:nuget/Microsoft.Maui.Controls.Core.Msi.x64@8.0.0-preview.2.7871
 - pkg:nuget/Microsoft.Maui.Controls.Core.Msi.x64@8.0.0-preview.3.8149

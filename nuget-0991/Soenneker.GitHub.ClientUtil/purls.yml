@@ -156,3 +156,5 @@
 - pkg:nuget/Soenneker.GitHub.ClientUtil@4.0.347
 - pkg:nuget/Soenneker.GitHub.ClientUtil@4.0.352
 - pkg:nuget/Soenneker.GitHub.ClientUtil@4.0.361
+- pkg:nuget/Soenneker.GitHub.ClientUtil@4.0.370
+- pkg:nuget/Soenneker.GitHub.ClientUtil@4.0.371

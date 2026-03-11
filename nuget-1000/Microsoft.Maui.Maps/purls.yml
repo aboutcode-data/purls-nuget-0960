@@ -6,6 +6,7 @@
 - pkg:nuget/Microsoft.Maui.Maps@10.0.0-preview.6.25359.8
 - pkg:nuget/Microsoft.Maui.Maps@10.0.0-preview.7.25406.3
 - pkg:nuget/Microsoft.Maui.Maps@10.0.0-rc.1.25452.6
+- pkg:nuget/Microsoft.Maui.Maps@10.0.50
 - pkg:nuget/Microsoft.Maui.Maps@7.0.0-rc.1.6683%2Bsha.15597beac-azdo.6677698
 - pkg:nuget/Microsoft.Maui.Maps@7.0.0-rc.2.6866%2Bsha.6d094a46e-azdo.6808555
 - pkg:nuget/Microsoft.Maui.Maps@7.0.100%2B3-sha.7140d5aa83-azdo.8589764

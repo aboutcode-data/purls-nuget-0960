@@ -7,6 +7,7 @@
 - pkg:nuget/Microsoft.Maui.Graphics.Skia@10.0.0-preview.6.25359.8
 - pkg:nuget/Microsoft.Maui.Graphics.Skia@10.0.0-preview.7.25406.3
 - pkg:nuget/Microsoft.Maui.Graphics.Skia@10.0.0-rc.1.25452.6
+- pkg:nuget/Microsoft.Maui.Graphics.Skia@10.0.50
 - pkg:nuget/Microsoft.Maui.Graphics.Skia@6.0.100-preview.6.299%2Bsha.5f04d5c-azdo.4975019
 - pkg:nuget/Microsoft.Maui.Graphics.Skia@6.0.100-preview.7.358%2Bsha.38e96f0-azdo.5051119
 - pkg:nuget/Microsoft.Maui.Graphics.Skia@6.0.100-rc.1.382%2Bsha.9bcc918-azdo.5086066

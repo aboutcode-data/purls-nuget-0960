@@ -1,1 +1,2 @@
 - pkg:nuget/Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest-10.0.100@10.0.100
+- pkg:nuget/Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest-10.0.100@10.0.104

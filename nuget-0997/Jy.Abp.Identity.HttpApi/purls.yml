@@ -7,6 +7,7 @@
 - pkg:nuget/Jy.Abp.Identity.HttpApi@1.0.20.920
 - pkg:nuget/Jy.Abp.Identity.HttpApi@1.0.21.923
 - pkg:nuget/Jy.Abp.Identity.HttpApi@1.0.21.933
+- pkg:nuget/Jy.Abp.Identity.HttpApi@1.1.0.936
 - pkg:nuget/Jy.Abp.Identity.HttpApi@8.1.102
 - pkg:nuget/Jy.Abp.Identity.HttpApi@8.1.104
 - pkg:nuget/Jy.Abp.Identity.HttpApi@8.1.2

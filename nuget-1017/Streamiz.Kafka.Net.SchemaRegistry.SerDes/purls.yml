@@ -26,3 +26,4 @@
 - pkg:nuget/Streamiz.Kafka.Net.SchemaRegistry.SerDes@1.7.1
 - pkg:nuget/Streamiz.Kafka.Net.SchemaRegistry.SerDes@1.7.1-RC1
 - pkg:nuget/Streamiz.Kafka.Net.SchemaRegistry.SerDes@1.7.1-RC2
+- pkg:nuget/Streamiz.Kafka.Net.SchemaRegistry.SerDes@1.8.0

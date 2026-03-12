@@ -5,5 +5,6 @@
 - pkg:nuget/Soenneker.DataTables.Dtos.ServerSideRequest@3.0.5
 - pkg:nuget/Soenneker.DataTables.Dtos.ServerSideRequest@4.0.10
 - pkg:nuget/Soenneker.DataTables.Dtos.ServerSideRequest@4.0.14
+- pkg:nuget/Soenneker.DataTables.Dtos.ServerSideRequest@4.0.15
 - pkg:nuget/Soenneker.DataTables.Dtos.ServerSideRequest@4.0.6
 - pkg:nuget/Soenneker.DataTables.Dtos.ServerSideRequest@4.0.7

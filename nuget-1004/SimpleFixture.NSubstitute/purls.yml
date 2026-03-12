@@ -34,3 +34,4 @@
 - pkg:nuget/SimpleFixture.NSubstitute@4.0.0-Nightly187
 - pkg:nuget/SimpleFixture.NSubstitute@4.0.0-Nightly188
 - pkg:nuget/SimpleFixture.NSubstitute@4.0.0-RC190
+- pkg:nuget/SimpleFixture.NSubstitute@4.0.0-RC191

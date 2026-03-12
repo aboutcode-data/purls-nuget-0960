@@ -217,6 +217,7 @@
 - pkg:nuget/JTigerNova.Web.Lib.Service.Admin@5.2.0
 - pkg:nuget/JTigerNova.Web.Lib.Service.Admin@5.2.1
 - pkg:nuget/JTigerNova.Web.Lib.Service.Admin@5.25.0
+- pkg:nuget/JTigerNova.Web.Lib.Service.Admin@5.27.1
 - pkg:nuget/JTigerNova.Web.Lib.Service.Admin@5.3.0
 - pkg:nuget/JTigerNova.Web.Lib.Service.Admin@5.3.1
 - pkg:nuget/JTigerNova.Web.Lib.Service.Admin@5.3.2

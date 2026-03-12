@@ -152,3 +152,5 @@
 - pkg:nuget/Soenneker.Azure.Utils.ArmClientUtil@4.0.250
 - pkg:nuget/Soenneker.Azure.Utils.ArmClientUtil@4.0.252
 - pkg:nuget/Soenneker.Azure.Utils.ArmClientUtil@4.0.255
+- pkg:nuget/Soenneker.Azure.Utils.ArmClientUtil@4.0.262
+- pkg:nuget/Soenneker.Azure.Utils.ArmClientUtil@4.0.263

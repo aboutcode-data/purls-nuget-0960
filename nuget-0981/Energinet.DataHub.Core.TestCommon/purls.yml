@@ -33,6 +33,7 @@
 - pkg:nuget/Energinet.DataHub.Core.TestCommon@1.4.2-alpha-20220308T090330
 - pkg:nuget/Energinet.DataHub.Core.TestCommon@1.4.2-alpha-20220308T152506
 - pkg:nuget/Energinet.DataHub.Core.TestCommon@10.0.1
+- pkg:nuget/Energinet.DataHub.Core.TestCommon@10.1.0-alpha-442
 - pkg:nuget/Energinet.DataHub.Core.TestCommon@2.0.0
 - pkg:nuget/Energinet.DataHub.Core.TestCommon@2.1.0
 - pkg:nuget/Energinet.DataHub.Core.TestCommon@2.1.0-alpha-20220329T142612

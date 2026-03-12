@@ -243,3 +243,4 @@
 - pkg:nuget/Metalama.Framework.Sdk@2025.1.9
 - pkg:nuget/Metalama.Framework.Sdk@2025.2.1-preview
 - pkg:nuget/Metalama.Framework.Sdk@2025.2.2-preview
+- pkg:nuget/Metalama.Framework.Sdk@2026.0.17

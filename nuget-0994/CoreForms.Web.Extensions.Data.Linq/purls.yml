@@ -1,4 +1,5 @@
 - pkg:nuget/CoreForms.Web.Extensions.Data.Linq@10.0.0-alpha.1
+- pkg:nuget/CoreForms.Web.Extensions.Data.Linq@10.0.1
 - pkg:nuget/CoreForms.Web.Extensions.Data.Linq@6.0.0
 - pkg:nuget/CoreForms.Web.Extensions.Data.Linq@6.0.0-alpha.15
 - pkg:nuget/CoreForms.Web.Extensions.Data.Linq@6.0.0-alpha.16

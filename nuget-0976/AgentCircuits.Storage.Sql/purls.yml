@@ -8,5 +8,6 @@
 - pkg:nuget/AgentCircuits.Storage.Sql@0.7.119
 - pkg:nuget/AgentCircuits.Storage.Sql@0.7.121
 - pkg:nuget/AgentCircuits.Storage.Sql@0.7.126
+- pkg:nuget/AgentCircuits.Storage.Sql@0.7.129
 - pkg:nuget/AgentCircuits.Storage.Sql@0.7.2
 - pkg:nuget/AgentCircuits.Storage.Sql@0.7.3

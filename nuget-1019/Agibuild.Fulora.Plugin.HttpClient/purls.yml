@@ -1,1 +1,2 @@
 - pkg:nuget/Agibuild.Fulora.Plugin.HttpClient@1.0.8-preview
+- pkg:nuget/Agibuild.Fulora.Plugin.HttpClient@1.3.0-preview

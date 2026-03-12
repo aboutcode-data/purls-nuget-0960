@@ -657,3 +657,4 @@
 - pkg:nuget/Soenneker.Extensions.MemoryStream@3.0.594
 - pkg:nuget/Soenneker.Extensions.MemoryStream@3.0.595
 - pkg:nuget/Soenneker.Extensions.MemoryStream@4.0.596
+- pkg:nuget/Soenneker.Extensions.MemoryStream@4.0.604

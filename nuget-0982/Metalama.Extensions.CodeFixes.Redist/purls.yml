@@ -13,4 +13,5 @@
 - pkg:nuget/Metalama.Extensions.CodeFixes.Redist@2025.1.9
 - pkg:nuget/Metalama.Extensions.CodeFixes.Redist@2025.2.1-preview
 - pkg:nuget/Metalama.Extensions.CodeFixes.Redist@2025.2.2-preview
+- pkg:nuget/Metalama.Extensions.CodeFixes.Redist@2026.0.17
 - pkg:nuget/Metalama.Extensions.CodeFixes.Redist@2026.1.3-preview

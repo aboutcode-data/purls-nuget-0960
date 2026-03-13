@@ -753,6 +753,7 @@
 - pkg:nuget/MPACKAGE.LibData.Json@1.0.80
 - pkg:nuget/MPACKAGE.LibData.Json@1.0.81
 - pkg:nuget/MPACKAGE.LibData.Json@1.0.817
+- pkg:nuget/MPACKAGE.LibData.Json@1.0.818
 - pkg:nuget/MPACKAGE.LibData.Json@1.0.82
 - pkg:nuget/MPACKAGE.LibData.Json@1.0.83
 - pkg:nuget/MPACKAGE.LibData.Json@1.0.84

@@ -1159,6 +1159,7 @@
 - pkg:nuget/AWSSDK.Neptune@3.7.503.41
 - pkg:nuget/AWSSDK.Neptune@3.7.503.6
 - pkg:nuget/AWSSDK.Neptune@3.7.503.8
+- pkg:nuget/AWSSDK.Neptune@3.7.504.5
 - pkg:nuget/AWSSDK.Neptune@4.0.0
 - pkg:nuget/AWSSDK.Neptune@4.0.0-preview
 - pkg:nuget/AWSSDK.Neptune@4.0.0-preview.10

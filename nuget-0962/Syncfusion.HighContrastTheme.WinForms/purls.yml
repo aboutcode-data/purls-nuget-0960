@@ -315,3 +315,4 @@
 - pkg:nuget/Syncfusion.HighContrastTheme.WinForms@31.1.20
 - pkg:nuget/Syncfusion.HighContrastTheme.WinForms@31.2.12
 - pkg:nuget/Syncfusion.HighContrastTheme.WinForms@31.2.18
+- pkg:nuget/Syncfusion.HighContrastTheme.WinForms@33.1.44

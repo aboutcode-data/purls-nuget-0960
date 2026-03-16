@@ -11,5 +11,6 @@
 - pkg:nuget/AgentCircuits.Providers.OpenAI@0.7.121
 - pkg:nuget/AgentCircuits.Providers.OpenAI@0.7.126
 - pkg:nuget/AgentCircuits.Providers.OpenAI@0.7.129
+- pkg:nuget/AgentCircuits.Providers.OpenAI@0.7.132
 - pkg:nuget/AgentCircuits.Providers.OpenAI@0.7.2
 - pkg:nuget/AgentCircuits.Providers.OpenAI@0.7.3

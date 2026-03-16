@@ -1,1 +1,2 @@
 - pkg:nuget/Excalibur.EventSourcing.Redis@3.0.0-alpha.31
+- pkg:nuget/Excalibur.EventSourcing.Redis@3.0.0-alpha.42

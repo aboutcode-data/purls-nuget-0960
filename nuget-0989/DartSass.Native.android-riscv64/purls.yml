@@ -40,3 +40,4 @@
 - pkg:nuget/DartSass.Native.android-riscv64@1.93.1
 - pkg:nuget/DartSass.Native.android-riscv64@1.93.2
 - pkg:nuget/DartSass.Native.android-riscv64@1.94.2
+- pkg:nuget/DartSass.Native.android-riscv64@1.98.0

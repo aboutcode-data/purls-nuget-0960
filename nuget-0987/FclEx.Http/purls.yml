@@ -9,3 +9,4 @@
 - pkg:nuget/FclEx.Http@1.8.0
 - pkg:nuget/FclEx.Http@1.8.4
 - pkg:nuget/FclEx.Http@2.0.2
+- pkg:nuget/FclEx.Http@2.0.7

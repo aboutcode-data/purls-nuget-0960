@@ -9,3 +9,4 @@
 - pkg:nuget/FclEx.Logging@1.8.0
 - pkg:nuget/FclEx.Logging@1.8.4
 - pkg:nuget/FclEx.Logging@2.0.2
+- pkg:nuget/FclEx.Logging@2.0.7

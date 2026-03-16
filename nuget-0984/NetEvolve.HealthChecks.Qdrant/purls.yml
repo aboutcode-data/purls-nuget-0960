@@ -3,3 +3,4 @@
 - pkg:nuget/NetEvolve.HealthChecks.Qdrant@4.15.1
 - pkg:nuget/NetEvolve.HealthChecks.Qdrant@4.20.61
 - pkg:nuget/NetEvolve.HealthChecks.Qdrant@4.3.0
+- pkg:nuget/NetEvolve.HealthChecks.Qdrant@5.13.51

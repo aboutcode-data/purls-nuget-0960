@@ -6,6 +6,7 @@
 - pkg:nuget/Nalix.Framework@10.5.5
 - pkg:nuget/Nalix.Framework@10.6.0
 - pkg:nuget/Nalix.Framework@10.7.0
+- pkg:nuget/Nalix.Framework@11.6.1
 - pkg:nuget/Nalix.Framework@2.1.7
 - pkg:nuget/Nalix.Framework@2.5.7
 - pkg:nuget/Nalix.Framework@2.7.1

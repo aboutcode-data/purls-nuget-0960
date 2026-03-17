@@ -4,3 +4,8 @@
 - pkg:nuget/OpenRewrite.MigrateDotNet@0.1.0-snapshot.20260312204600
 - pkg:nuget/OpenRewrite.MigrateDotNet@0.1.0-snapshot.20260316172212
 - pkg:nuget/OpenRewrite.MigrateDotNet@0.1.0-snapshot.20260316220523
+- pkg:nuget/OpenRewrite.MigrateDotNet@0.1.0-snapshot.20260317143622
+- pkg:nuget/OpenRewrite.MigrateDotNet@0.1.0-snapshot.20260317145713
+- pkg:nuget/OpenRewrite.MigrateDotNet@0.1.0-snapshot.20260317152129
+- pkg:nuget/OpenRewrite.MigrateDotNet@0.1.0-snapshot.20260317152502
+- pkg:nuget/OpenRewrite.MigrateDotNet@0.1.0-snapshot.20260317172248

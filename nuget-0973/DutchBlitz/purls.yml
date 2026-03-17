@@ -1,4 +1,5 @@
 - pkg:nuget/DutchBlitz@1.0.1
+- pkg:nuget/DutchBlitz@10.0.5
 - pkg:nuget/DutchBlitz@2.0.1
 - pkg:nuget/DutchBlitz@2.0.2
 - pkg:nuget/DutchBlitz@7.0.1

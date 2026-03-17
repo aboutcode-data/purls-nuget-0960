@@ -1,4 +1,5 @@
 - pkg:nuget/GrandfathersClock@1.0.1
+- pkg:nuget/GrandfathersClock@10.0.5
 - pkg:nuget/GrandfathersClock@2.0.1
 - pkg:nuget/GrandfathersClock@2.0.2
 - pkg:nuget/GrandfathersClock@7.0.1

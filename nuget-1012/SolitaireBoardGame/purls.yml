@@ -1,4 +1,5 @@
 - pkg:nuget/SolitaireBoardGame@1.0.1
+- pkg:nuget/SolitaireBoardGame@10.0.5
 - pkg:nuget/SolitaireBoardGame@2.0.1
 - pkg:nuget/SolitaireBoardGame@2.0.2
 - pkg:nuget/SolitaireBoardGame@7.0.1

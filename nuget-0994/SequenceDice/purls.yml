@@ -1,4 +1,5 @@
 - pkg:nuget/SequenceDice@1.0.1
+- pkg:nuget/SequenceDice@10.0.5
 - pkg:nuget/SequenceDice@2.0.1
 - pkg:nuget/SequenceDice@2.0.2
 - pkg:nuget/SequenceDice@7.0.1

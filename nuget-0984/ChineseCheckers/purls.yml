@@ -1,4 +1,5 @@
 - pkg:nuget/ChineseCheckers@1.0.1
+- pkg:nuget/ChineseCheckers@10.0.5
 - pkg:nuget/ChineseCheckers@2.0.1
 - pkg:nuget/ChineseCheckers@2.0.2
 - pkg:nuget/ChineseCheckers@7.0.1

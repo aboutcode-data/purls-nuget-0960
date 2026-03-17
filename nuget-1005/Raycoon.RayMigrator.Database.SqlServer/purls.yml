@@ -1,2 +1,3 @@
 - pkg:nuget/Raycoon.RayMigrator.Database.SqlServer@0.9.6
 - pkg:nuget/Raycoon.RayMigrator.Database.SqlServer@0.9.7
+- pkg:nuget/Raycoon.RayMigrator.Database.SqlServer@0.9.9

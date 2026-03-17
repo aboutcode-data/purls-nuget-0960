@@ -5,6 +5,8 @@
 - pkg:nuget/FunFair.Test.Source.Generator@6.2.17.1971-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.2.19.1999-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.2.19.2000-main
+- pkg:nuget/FunFair.Test.Source.Generator@6.2.20.2029-main
+- pkg:nuget/FunFair.Test.Source.Generator@6.2.20.2031-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.2.5.1844-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.2.5.1845-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.2.5.1846-main

@@ -383,3 +383,4 @@
 - pkg:nuget/FiftyOne.DeviceDetection@4.5.0-alpha.99
 - pkg:nuget/FiftyOne.DeviceDetection@4.5.28
 - pkg:nuget/FiftyOne.DeviceDetection@4.5.35
+- pkg:nuget/FiftyOne.DeviceDetection@4.5.58

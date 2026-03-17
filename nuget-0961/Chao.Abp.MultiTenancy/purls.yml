@@ -1,3 +1,4 @@
+- pkg:nuget/Chao.Abp.MultiTenancy@10.1.1.1
 - pkg:nuget/Chao.Abp.MultiTenancy@7.3.0
 - pkg:nuget/Chao.Abp.MultiTenancy@7.3.1
 - pkg:nuget/Chao.Abp.MultiTenancy@7.3.2

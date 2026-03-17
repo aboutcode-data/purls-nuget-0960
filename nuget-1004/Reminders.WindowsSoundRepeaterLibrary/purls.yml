@@ -1,4 +1,5 @@
 - pkg:nuget/Reminders.WindowsSoundRepeaterLibrary@1.0.1
+- pkg:nuget/Reminders.WindowsSoundRepeaterLibrary@10.0.13
 - pkg:nuget/Reminders.WindowsSoundRepeaterLibrary@7.0.1
 - pkg:nuget/Reminders.WindowsSoundRepeaterLibrary@8.0.1
 - pkg:nuget/Reminders.WindowsSoundRepeaterLibrary@9.0.1

@@ -1,6 +1,7 @@
 - pkg:nuget/WindowsAutoClickerLibrary@1.0.1
 - pkg:nuget/WindowsAutoClickerLibrary@1.0.2
 - pkg:nuget/WindowsAutoClickerLibrary@1.0.3
+- pkg:nuget/WindowsAutoClickerLibrary@10.0.12
 - pkg:nuget/WindowsAutoClickerLibrary@7.0.1
 - pkg:nuget/WindowsAutoClickerLibrary@8.0.1
 - pkg:nuget/WindowsAutoClickerLibrary@8.0.2

@@ -1,5 +1,6 @@
 - pkg:nuget/MJ.CodeGenerator.MSBuild@1.0.0
 - pkg:nuget/MJ.CodeGenerator.MSBuild@1.0.1
+- pkg:nuget/MJ.CodeGenerator.MSBuild@1.0.10
 - pkg:nuget/MJ.CodeGenerator.MSBuild@1.0.10-preview1
 - pkg:nuget/MJ.CodeGenerator.MSBuild@1.0.10-preview2
 - pkg:nuget/MJ.CodeGenerator.MSBuild@1.0.10-preview4

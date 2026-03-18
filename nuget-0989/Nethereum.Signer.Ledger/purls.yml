@@ -55,3 +55,4 @@
 - pkg:nuget/Nethereum.Signer.Ledger@4.8.0
 - pkg:nuget/Nethereum.Signer.Ledger@4.9.0
 - pkg:nuget/Nethereum.Signer.Ledger@5.0.0
+- pkg:nuget/Nethereum.Signer.Ledger@6.0.4

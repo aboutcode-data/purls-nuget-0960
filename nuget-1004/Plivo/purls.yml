@@ -154,6 +154,7 @@
 - pkg:nuget/Plivo@5.50.0
 - pkg:nuget/Plivo@5.51.0
 - pkg:nuget/Plivo@5.51.1
+- pkg:nuget/Plivo@5.51.7
 - pkg:nuget/Plivo@5.6.0
 - pkg:nuget/Plivo@5.6.1
 - pkg:nuget/Plivo@5.7.0

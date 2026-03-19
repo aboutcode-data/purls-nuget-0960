@@ -1221,3 +1221,4 @@
 - pkg:nuget/AWSSDK.XRay@4.0.2.1
 - pkg:nuget/AWSSDK.XRay@4.0.2.3
 - pkg:nuget/AWSSDK.XRay@4.0.2.7
+- pkg:nuget/AWSSDK.XRay@4.0.3.17

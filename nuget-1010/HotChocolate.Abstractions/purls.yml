@@ -1536,6 +1536,7 @@
 - pkg:nuget/HotChocolate.Abstractions@16.0.0-p.11.33
 - pkg:nuget/HotChocolate.Abstractions@16.0.0-p.11.34
 - pkg:nuget/HotChocolate.Abstractions@16.0.0-p.11.35
+- pkg:nuget/HotChocolate.Abstractions@16.0.0-p.11.49
 - pkg:nuget/HotChocolate.Abstractions@16.0.0-p.2.0
 - pkg:nuget/HotChocolate.Abstractions@16.0.0-p.3.0
 - pkg:nuget/HotChocolate.Abstractions@16.0.0-p.4.0

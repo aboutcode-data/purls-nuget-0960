@@ -1268,3 +1268,4 @@
 - pkg:nuget/AWSSDK.CognitoIdentityProvider@4.0.3.3
 - pkg:nuget/AWSSDK.CognitoIdentityProvider@4.0.3.5
 - pkg:nuget/AWSSDK.CognitoIdentityProvider@4.0.6.2
+- pkg:nuget/AWSSDK.CognitoIdentityProvider@4.0.6.3

@@ -44,6 +44,7 @@
 - pkg:nuget/Ollama@1.15.1-dev.38
 - pkg:nuget/Ollama@1.15.1-dev.6
 - pkg:nuget/Ollama@1.15.1-dev.62
+- pkg:nuget/Ollama@1.15.1-dev.64
 - pkg:nuget/Ollama@1.15.1-dev.7
 - pkg:nuget/Ollama@1.15.1-dev.8
 - pkg:nuget/Ollama@1.15.1-dev.9

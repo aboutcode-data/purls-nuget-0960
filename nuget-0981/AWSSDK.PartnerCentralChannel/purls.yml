@@ -6,3 +6,4 @@
 - pkg:nuget/AWSSDK.PartnerCentralChannel@3.7.500.35
 - pkg:nuget/AWSSDK.PartnerCentralChannel@3.7.500.9
 - pkg:nuget/AWSSDK.PartnerCentralChannel@3.7.501.4
+- pkg:nuget/AWSSDK.PartnerCentralChannel@3.7.501.7

@@ -1162,6 +1162,7 @@
 - pkg:nuget/AWSSDK.Redshift@3.7.506.15
 - pkg:nuget/AWSSDK.Redshift@3.7.506.16
 - pkg:nuget/AWSSDK.Redshift@3.7.506.23
+- pkg:nuget/AWSSDK.Redshift@3.7.506.26
 - pkg:nuget/AWSSDK.Redshift@3.7.506.3
 - pkg:nuget/AWSSDK.Redshift@3.7.6
 - pkg:nuget/AWSSDK.Redshift@3.7.6.1

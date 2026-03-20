@@ -70,6 +70,7 @@
 - pkg:nuget/ReHackt.Email.Smtp@8.0.133
 - pkg:nuget/ReHackt.Email.Smtp@8.0.135
 - pkg:nuget/ReHackt.Email.Smtp@8.0.14
+- pkg:nuget/ReHackt.Email.Smtp@8.0.140
 - pkg:nuget/ReHackt.Email.Smtp@8.0.15
 - pkg:nuget/ReHackt.Email.Smtp@8.0.16
 - pkg:nuget/ReHackt.Email.Smtp@8.0.17

@@ -52,6 +52,7 @@
 - pkg:nuget/AWSSDK.KeyspacesStreams@3.7.502.8
 - pkg:nuget/AWSSDK.KeyspacesStreams@3.7.503.5
 - pkg:nuget/AWSSDK.KeyspacesStreams@3.7.503.8
+- pkg:nuget/AWSSDK.KeyspacesStreams@3.7.503.9
 - pkg:nuget/AWSSDK.KeyspacesStreams@4.0.0
 - pkg:nuget/AWSSDK.KeyspacesStreams@4.0.0.1
 - pkg:nuget/AWSSDK.KeyspacesStreams@4.0.0.2

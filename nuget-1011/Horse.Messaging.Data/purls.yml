@@ -92,4 +92,5 @@
 - pkg:nuget/Horse.Messaging.Data@7.4.0
 - pkg:nuget/Horse.Messaging.Data@8.0.3
 - pkg:nuget/Horse.Messaging.Data@8.0.34
+- pkg:nuget/Horse.Messaging.Data@8.0.39
 - pkg:nuget/Horse.Messaging.Data@8.0.7

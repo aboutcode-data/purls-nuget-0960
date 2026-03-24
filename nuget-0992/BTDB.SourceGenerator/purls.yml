@@ -102,3 +102,4 @@
 - pkg:nuget/BTDB.SourceGenerator@34.3.11
 - pkg:nuget/BTDB.SourceGenerator@34.3.7
 - pkg:nuget/BTDB.SourceGenerator@34.3.9
+- pkg:nuget/BTDB.SourceGenerator@34.4.1

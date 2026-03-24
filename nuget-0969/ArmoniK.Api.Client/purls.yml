@@ -2274,6 +2274,7 @@
 - pkg:nuget/ArmoniK.Api.Client@3.28.4-adgetresourcedatapython.1.7fd83a4
 - pkg:nuget/ArmoniK.Api.Client@3.28.4-adgetresourcedatapython.4.29ef685
 - pkg:nuget/ArmoniK.Api.Client@3.29.0-edge.68.23f0ea8b
+- pkg:nuget/ArmoniK.Api.Client@3.29.0-edge.87.0f28b99d
 - pkg:nuget/ArmoniK.Api.Client@3.29.0-fixangularpackageincorrecttaskoptionsenum.69.90263d1c
 - pkg:nuget/ArmoniK.Api.Client@3.29.0-jfcppstatic.14.811eeb6e
 - pkg:nuget/ArmoniK.Api.Client@3.29.0-jfcppstatic.16.d9f4df0b
@@ -2295,6 +2296,7 @@
 - pkg:nuget/ArmoniK.Api.Client@3.29.0-renovatepypi.14.d1e2e9f
 - pkg:nuget/ArmoniK.Api.Client@3.29.0-renovatepypi.73.710bf672
 - pkg:nuget/ArmoniK.Api.Client@3.29.0-renovatepypi.73.740da35a
+- pkg:nuget/ArmoniK.Api.Client@3.29.0-renovatepypi.88.1bc27307
 - pkg:nuget/ArmoniK.Api.Client@3.3.0
 - pkg:nuget/ArmoniK.Api.Client@3.3.0-32166g075acae.66.075acae
 - pkg:nuget/ArmoniK.Api.Client@3.3.0-32168g32114de.68.32114de

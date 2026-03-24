@@ -25,3 +25,5 @@
 - pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.4.2034-main
 - pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.4.2035-main
 - pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.4.2037-main
+- pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.4.2055-main
+- pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.4.2056-main

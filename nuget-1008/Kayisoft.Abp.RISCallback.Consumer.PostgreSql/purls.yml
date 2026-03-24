@@ -90,3 +90,4 @@
 - pkg:nuget/Kayisoft.Abp.RISCallback.Consumer.PostgreSql@4.6.8
 - pkg:nuget/Kayisoft.Abp.RISCallback.Consumer.PostgreSql@4.6.9
 - pkg:nuget/Kayisoft.Abp.RISCallback.Consumer.PostgreSql@4.7.4
+- pkg:nuget/Kayisoft.Abp.RISCallback.Consumer.PostgreSql@4.9.9

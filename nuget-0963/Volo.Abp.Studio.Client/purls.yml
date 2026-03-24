@@ -57,3 +57,4 @@
 - pkg:nuget/Volo.Abp.Studio.Client@2.1.1
 - pkg:nuget/Volo.Abp.Studio.Client@2.1.8
 - pkg:nuget/Volo.Abp.Studio.Client@2.2.1
+- pkg:nuget/Volo.Abp.Studio.Client@2.2.2

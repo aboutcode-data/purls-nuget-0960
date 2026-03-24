@@ -1,3 +1,4 @@
+- pkg:nuget/Consolo@0.11.0
 - pkg:nuget/Consolo@0.9.0
 - pkg:nuget/Consolo@0.9.1
 - pkg:nuget/Consolo@0.9.10

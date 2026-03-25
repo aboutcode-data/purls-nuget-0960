@@ -2297,6 +2297,8 @@
 - pkg:nuget/ArmoniK.Api.Client@3.29.0-renovatepypi.73.710bf672
 - pkg:nuget/ArmoniK.Api.Client@3.29.0-renovatepypi.73.740da35a
 - pkg:nuget/ArmoniK.Api.Client@3.29.0-renovatepypi.88.1bc27307
+- pkg:nuget/ArmoniK.Api.Client@3.29.1-renovateallminorpatch.1.84e3f0bb
+- pkg:nuget/ArmoniK.Api.Client@3.29.1-renovategithubactions.1.be4565ba
 - pkg:nuget/ArmoniK.Api.Client@3.3.0
 - pkg:nuget/ArmoniK.Api.Client@3.3.0-32166g075acae.66.075acae
 - pkg:nuget/ArmoniK.Api.Client@3.3.0-32168g32114de.68.32114de

@@ -34,3 +34,4 @@
 - pkg:nuget/SkbKontur.DbViewer.EntityFramework@1.8.9
 - pkg:nuget/SkbKontur.DbViewer.EntityFramework@1.9.1
 - pkg:nuget/SkbKontur.DbViewer.EntityFramework@1.9.1-prerelease.0
+- pkg:nuget/SkbKontur.DbViewer.EntityFramework@2.0.2-prerelease.11

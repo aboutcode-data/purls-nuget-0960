@@ -44,3 +44,5 @@
 - pkg:nuget/Scotec.Revit.Ui@2025.1.1-dev.6
 - pkg:nuget/Scotec.Revit.Ui@2025.1.1-dev.7
 - pkg:nuget/Scotec.Revit.Ui@2025.1.1-dev.8
+- pkg:nuget/Scotec.Revit.Ui@2025.3.0-dev.39
+- pkg:nuget/Scotec.Revit.Ui@2026.3.0-dev.39

@@ -9,3 +9,5 @@
 - pkg:nuget/LCTCS.AppFramework.v3.Server.Caching@1.0.206
 - pkg:nuget/LCTCS.AppFramework.v3.Server.Caching@1.0.3
 - pkg:nuget/LCTCS.AppFramework.v3.Server.Caching@1.0.301
+- pkg:nuget/LCTCS.AppFramework.v3.Server.Caching@1.0.304
+- pkg:nuget/LCTCS.AppFramework.v3.Server.Caching@1.0.305

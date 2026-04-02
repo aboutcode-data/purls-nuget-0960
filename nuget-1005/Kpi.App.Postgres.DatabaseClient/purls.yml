@@ -1,1 +1,5 @@
 - pkg:nuget/Kpi.App.Postgres.DatabaseClient@0.0.292
+- pkg:nuget/Kpi.App.Postgres.DatabaseClient@0.0.301
+- pkg:nuget/Kpi.App.Postgres.DatabaseClient@0.0.303
+- pkg:nuget/Kpi.App.Postgres.DatabaseClient@0.0.309
+- pkg:nuget/Kpi.App.Postgres.DatabaseClient@0.0.310

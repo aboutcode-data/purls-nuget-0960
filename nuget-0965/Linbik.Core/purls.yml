@@ -20,3 +20,4 @@
 - pkg:nuget/Linbik.Core@0.45.6
 - pkg:nuget/Linbik.Core@0.45.7
 - pkg:nuget/Linbik.Core@0.46.0
+- pkg:nuget/Linbik.Core@1.2.0-preview.1

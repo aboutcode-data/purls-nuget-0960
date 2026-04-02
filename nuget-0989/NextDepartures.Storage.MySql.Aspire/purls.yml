@@ -18,3 +18,4 @@
 - pkg:nuget/NextDepartures.Storage.MySql.Aspire@3.8.2
 - pkg:nuget/NextDepartures.Storage.MySql.Aspire@3.8.3
 - pkg:nuget/NextDepartures.Storage.MySql.Aspire@3.8.4
+- pkg:nuget/NextDepartures.Storage.MySql.Aspire@3.9.6

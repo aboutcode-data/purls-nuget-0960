@@ -1,1 +1,4 @@
 - pkg:nuget/Kayisoft.Abp.ImageDownloadManagement.Application.Contracts@4.9.9
+- pkg:nuget/Kayisoft.Abp.ImageDownloadManagement.Application.Contracts@5.0.2
+- pkg:nuget/Kayisoft.Abp.ImageDownloadManagement.Application.Contracts@5.0.3
+- pkg:nuget/Kayisoft.Abp.ImageDownloadManagement.Application.Contracts@5.0.4

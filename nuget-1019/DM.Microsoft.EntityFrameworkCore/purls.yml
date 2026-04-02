@@ -25,9 +25,12 @@
 - pkg:nuget/DM.Microsoft.EntityFrameworkCore@7.0.0.33671
 - pkg:nuget/DM.Microsoft.EntityFrameworkCore@7.0.0.34340
 - pkg:nuget/DM.Microsoft.EntityFrameworkCore@7.0.0.37033
+- pkg:nuget/DM.Microsoft.EntityFrameworkCore@7.0.0.43760
 - pkg:nuget/DM.Microsoft.EntityFrameworkCore@8.0.0.28188
 - pkg:nuget/DM.Microsoft.EntityFrameworkCore@8.0.0.33671
 - pkg:nuget/DM.Microsoft.EntityFrameworkCore@8.0.0.34340
 - pkg:nuget/DM.Microsoft.EntityFrameworkCore@8.0.0.37033
+- pkg:nuget/DM.Microsoft.EntityFrameworkCore@8.0.0.43760
 - pkg:nuget/DM.Microsoft.EntityFrameworkCore@9.0.0.35540
 - pkg:nuget/DM.Microsoft.EntityFrameworkCore@9.0.0.37033
+- pkg:nuget/DM.Microsoft.EntityFrameworkCore@9.0.0.43760

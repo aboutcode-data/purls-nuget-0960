@@ -4,6 +4,7 @@
 - pkg:nuget/Hi.Ltd.SqlServer@2024.8.5.1700
 - pkg:nuget/Hi.Ltd.SqlServer@2024.8.6.1558
 - pkg:nuget/Hi.Ltd.SqlServer@2024.8.8.1134
+- pkg:nuget/Hi.Ltd.SqlServer@2025.10.13.1129
 - pkg:nuget/Hi.Ltd.SqlServer@2025.2.18.1702
 - pkg:nuget/Hi.Ltd.SqlServer@2025.3.21.1209
 - pkg:nuget/Hi.Ltd.SqlServer@2025.3.21.1343

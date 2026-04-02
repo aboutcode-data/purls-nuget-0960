@@ -9,8 +9,10 @@
 - pkg:nuget/Terminaux.Spectre@7.0.2
 - pkg:nuget/Terminaux.Spectre@7.0.20
 - pkg:nuget/Terminaux.Spectre@7.0.21
+- pkg:nuget/Terminaux.Spectre@7.0.22
 - pkg:nuget/Terminaux.Spectre@7.0.3
 - pkg:nuget/Terminaux.Spectre@7.0.3.1
 - pkg:nuget/Terminaux.Spectre@8.0.14
 - pkg:nuget/Terminaux.Spectre@8.0.15
 - pkg:nuget/Terminaux.Spectre@8.1.1.5
+- pkg:nuget/Terminaux.Spectre@8.2.1

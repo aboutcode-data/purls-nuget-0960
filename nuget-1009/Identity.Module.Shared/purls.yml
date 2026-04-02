@@ -1,3 +1,5 @@
+- pkg:nuget/Identity.Module.Shared@2.5.107
+- pkg:nuget/Identity.Module.Shared@2.5.108
 - pkg:nuget/Identity.Module.Shared@2.5.31
 - pkg:nuget/Identity.Module.Shared@2.5.62
 - pkg:nuget/Identity.Module.Shared@2.5.93

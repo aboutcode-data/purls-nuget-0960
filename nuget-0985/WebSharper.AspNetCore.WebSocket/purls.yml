@@ -1,4 +1,5 @@
 - pkg:nuget/WebSharper.AspNetCore.WebSocket@10.0.0.604-beta1
+- pkg:nuget/WebSharper.AspNetCore.WebSocket@10.1.0.667
 - pkg:nuget/WebSharper.AspNetCore.WebSocket@4.6.1.127
 - pkg:nuget/WebSharper.AspNetCore.WebSocket@4.6.1.129
 - pkg:nuget/WebSharper.AspNetCore.WebSocket@4.6.1.133

@@ -1,3 +1,5 @@
 - pkg:nuget/HLCores.Extensions.Linq@1.0.0
 - pkg:nuget/HLCores.Extensions.Linq@1.0.1
 - pkg:nuget/HLCores.Extensions.Linq@2.0.0
+- pkg:nuget/HLCores.Extensions.Linq@3.0.0
+- pkg:nuget/HLCores.Extensions.Linq@4.0.0

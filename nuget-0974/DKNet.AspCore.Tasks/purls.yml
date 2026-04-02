@@ -1,4 +1,7 @@
 - pkg:nuget/DKNet.AspCore.Tasks@10.0.18
+- pkg:nuget/DKNet.AspCore.Tasks@10.0.23
+- pkg:nuget/DKNet.AspCore.Tasks@10.0.24
+- pkg:nuget/DKNet.AspCore.Tasks@10.0.25
 - pkg:nuget/DKNet.AspCore.Tasks@9.0.41
 - pkg:nuget/DKNet.AspCore.Tasks@9.0.42
 - pkg:nuget/DKNet.AspCore.Tasks@9.5.13

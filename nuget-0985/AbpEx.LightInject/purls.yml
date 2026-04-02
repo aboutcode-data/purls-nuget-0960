@@ -4,3 +4,5 @@
 - pkg:nuget/AbpEx.LightInject@2.3.0
 - pkg:nuget/AbpEx.LightInject@2.3.1
 - pkg:nuget/AbpEx.LightInject@2.3.5
+- pkg:nuget/AbpEx.LightInject@2.4.8
+- pkg:nuget/AbpEx.LightInject@2.4.9

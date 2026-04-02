@@ -1,1 +1,2 @@
 - pkg:nuget/NuVatis.Sqlite@2.5.0
+- pkg:nuget/NuVatis.Sqlite@2.6.0

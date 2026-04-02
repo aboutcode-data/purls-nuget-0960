@@ -1,2 +1,6 @@
 - pkg:nuget/Chrysalis.Plutus@1.3.0-alpha
 - pkg:nuget/Chrysalis.Plutus@1.4.0-alpha
+- pkg:nuget/Chrysalis.Plutus@1.7.4-alpha
+- pkg:nuget/Chrysalis.Plutus@1.7.5-alpha
+- pkg:nuget/Chrysalis.Plutus@1.7.6-alpha
+- pkg:nuget/Chrysalis.Plutus@1.7.7-alpha

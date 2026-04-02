@@ -1,2 +1,5 @@
 - pkg:nuget/PosInformatique.Foundations.EmailAddresses.FluentValidation@1.0.0-alpha.3
 - pkg:nuget/PosInformatique.Foundations.EmailAddresses.FluentValidation@1.0.0-alpha.4
+- pkg:nuget/PosInformatique.Foundations.EmailAddresses.FluentValidation@1.1.0
+- pkg:nuget/PosInformatique.Foundations.EmailAddresses.FluentValidation@1.1.0-rc.3
+- pkg:nuget/PosInformatique.Foundations.EmailAddresses.FluentValidation@1.2.0-rc.1

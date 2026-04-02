@@ -1,4 +1,15 @@
+- pkg:nuget/DotNetBrightener.NotificationService.Provider.Sendgrid@2026.0.1
 - pkg:nuget/DotNetBrightener.NotificationService.Provider.Sendgrid@2026.0.1-preview-731
 - pkg:nuget/DotNetBrightener.NotificationService.Provider.Sendgrid@2026.0.1-preview-741
+- pkg:nuget/DotNetBrightener.NotificationService.Provider.Sendgrid@2026.0.1-preview-752
 - pkg:nuget/DotNetBrightener.NotificationService.Provider.Sendgrid@2026.0.1-preview-notification-service-696
 - pkg:nuget/DotNetBrightener.NotificationService.Provider.Sendgrid@2026.0.1-preview-notification-service-698
+- pkg:nuget/DotNetBrightener.NotificationService.Provider.Sendgrid@2026.0.2
+- pkg:nuget/DotNetBrightener.NotificationService.Provider.Sendgrid@2026.0.2-preview-754
+- pkg:nuget/DotNetBrightener.NotificationService.Provider.Sendgrid@2026.0.2-preview-756
+- pkg:nuget/DotNetBrightener.NotificationService.Provider.Sendgrid@2026.0.2-preview-757
+- pkg:nuget/DotNetBrightener.NotificationService.Provider.Sendgrid@2026.0.2-preview-758
+- pkg:nuget/DotNetBrightener.NotificationService.Provider.Sendgrid@2026.0.2-preview-759
+- pkg:nuget/DotNetBrightener.NotificationService.Provider.Sendgrid@2026.0.2-preview-v2026-0-1-755
+- pkg:nuget/DotNetBrightener.NotificationService.Provider.Sendgrid@2026.0.3-preview-769
+- pkg:nuget/DotNetBrightener.NotificationService.Provider.Sendgrid@2026.0.3-preview-770

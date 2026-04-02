@@ -1,0 +1,4 @@
+- pkg:nuget/NServiceBus.Community.Attachments.Sql.Raw@19.0.0
+- pkg:nuget/NServiceBus.Community.Attachments.Sql.Raw@19.0.1
+- pkg:nuget/NServiceBus.Community.Attachments.Sql.Raw@19.1.0
+- pkg:nuget/NServiceBus.Community.Attachments.Sql.Raw@19.1.1

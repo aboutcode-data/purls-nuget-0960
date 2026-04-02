@@ -1,1 +1,2 @@
+- pkg:nuget/Sencilla.Messaging.Redis@10.0.13
 - pkg:nuget/Sencilla.Messaging.Redis@10.0.8

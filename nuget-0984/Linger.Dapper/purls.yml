@@ -5,3 +5,4 @@
 - pkg:nuget/Linger.Dapper@0.9.3-preview
 - pkg:nuget/Linger.Dapper@0.9.5
 - pkg:nuget/Linger.Dapper@0.9.8
+- pkg:nuget/Linger.Dapper@1.2.0-preview

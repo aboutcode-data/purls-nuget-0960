@@ -1,1 +1,2 @@
 - pkg:nuget/BarcodeLib.Crystal.Reports.Format.GS1.DataBar@7.4.0.3
+- pkg:nuget/BarcodeLib.Crystal.Reports.Format.GS1.DataBar@7.4.0.5

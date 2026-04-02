@@ -1,3 +1,6 @@
 - pkg:nuget/HeimdallPower.Api.Client.Extensions@3.1.0
 - pkg:nuget/HeimdallPower.Api.Client.Extensions@3.2.0
 - pkg:nuget/HeimdallPower.Api.Client.Extensions@3.2.1
+- pkg:nuget/HeimdallPower.Api.Client.Extensions@3.4.0
+- pkg:nuget/HeimdallPower.Api.Client.Extensions@3.5.0
+- pkg:nuget/HeimdallPower.Api.Client.Extensions@3.5.1

@@ -26,6 +26,7 @@
 - pkg:nuget/Rystem.Concurrency@1.1.7
 - pkg:nuget/Rystem.Concurrency@1.1.8
 - pkg:nuget/Rystem.Concurrency@1.1.9
+- pkg:nuget/Rystem.Concurrency@10.0.7
 - pkg:nuget/Rystem.Concurrency@2.0.0
 - pkg:nuget/Rystem.Concurrency@2.0.1
 - pkg:nuget/Rystem.Concurrency@2.0.3

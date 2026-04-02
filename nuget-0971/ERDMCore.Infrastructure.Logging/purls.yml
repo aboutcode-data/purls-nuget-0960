@@ -1,0 +1,4 @@
+- pkg:nuget/ERDMCore.Infrastructure.Logging@11.0.0
+- pkg:nuget/ERDMCore.Infrastructure.Logging@12.0.0
+- pkg:nuget/ERDMCore.Infrastructure.Logging@13.0.0
+- pkg:nuget/ERDMCore.Infrastructure.Logging@14.0.0

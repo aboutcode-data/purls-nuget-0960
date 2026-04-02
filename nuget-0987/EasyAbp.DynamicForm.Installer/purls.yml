@@ -30,3 +30,4 @@
 - pkg:nuget/EasyAbp.DynamicForm.Installer@2.3.0
 - pkg:nuget/EasyAbp.DynamicForm.Installer@2.4.0
 - pkg:nuget/EasyAbp.DynamicForm.Installer@2.4.0-preview.1
+- pkg:nuget/EasyAbp.DynamicForm.Installer@2.6.0

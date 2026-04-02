@@ -81,3 +81,5 @@
 - pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.4.1-beta
 - pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.4.36-beta
 - pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.4.50-beta
+- pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.5.83-beta
+- pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.5.90-beta

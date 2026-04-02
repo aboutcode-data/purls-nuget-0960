@@ -43,3 +43,4 @@
 - pkg:nuget/XiHan.Framework.Data@1.3.0
 - pkg:nuget/XiHan.Framework.Data@2.3.1-preview.1
 - pkg:nuget/XiHan.Framework.Data@2.3.2-preview
+- pkg:nuget/XiHan.Framework.Data@2.3.5

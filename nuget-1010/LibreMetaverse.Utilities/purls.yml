@@ -224,3 +224,6 @@
 - pkg:nuget/LibreMetaverse.Utilities@2.5.0.1
 - pkg:nuget/LibreMetaverse.Utilities@2.5.0.1064-alpha
 - pkg:nuget/LibreMetaverse.Utilities@2.5.9.113
+- pkg:nuget/LibreMetaverse.Utilities@2.6.2
+- pkg:nuget/LibreMetaverse.Utilities@2.6.3
+- pkg:nuget/LibreMetaverse.Utilities@2.6.4

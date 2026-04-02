@@ -73,3 +73,6 @@
 - pkg:nuget/Kayisoft.Abp.DicomStoring.DM@4.6.1
 - pkg:nuget/Kayisoft.Abp.DicomStoring.DM@4.6.2
 - pkg:nuget/Kayisoft.Abp.DicomStoring.DM@4.7.4
+- pkg:nuget/Kayisoft.Abp.DicomStoring.DM@5.0.2
+- pkg:nuget/Kayisoft.Abp.DicomStoring.DM@5.0.3
+- pkg:nuget/Kayisoft.Abp.DicomStoring.DM@5.0.4

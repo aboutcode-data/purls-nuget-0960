@@ -229,3 +229,4 @@
 - pkg:nuget/Fable@5.0.0-alpha.7
 - pkg:nuget/Fable@5.0.0-alpha.8
 - pkg:nuget/Fable@5.0.0-alpha.9
+- pkg:nuget/Fable@5.0.0-rc.6

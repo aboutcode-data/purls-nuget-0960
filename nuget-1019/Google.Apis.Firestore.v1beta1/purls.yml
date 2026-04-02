@@ -145,3 +145,4 @@
 - pkg:nuget/Google.Apis.Firestore.v1beta1@1.70.0.3875
 - pkg:nuget/Google.Apis.Firestore.v1beta1@1.70.0.3894
 - pkg:nuget/Google.Apis.Firestore.v1beta1@1.71.0.3913
+- pkg:nuget/Google.Apis.Firestore.v1beta1@1.73.0.4099

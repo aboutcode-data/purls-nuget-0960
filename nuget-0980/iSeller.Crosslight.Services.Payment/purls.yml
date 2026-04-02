@@ -35,3 +35,6 @@
 - pkg:nuget/iSeller.Crosslight.Services.Payment@7.0.5000.1506-experimental
 - pkg:nuget/iSeller.Crosslight.Services.Payment@7.0.5000.1507-experimental
 - pkg:nuget/iSeller.Crosslight.Services.Payment@7.0.5000.1534-experimental
+- pkg:nuget/iSeller.Crosslight.Services.Payment@7.0.5000.1538-experimental
+- pkg:nuget/iSeller.Crosslight.Services.Payment@7.0.5000.1539-experimental
+- pkg:nuget/iSeller.Crosslight.Services.Payment@7.0.5000.1540-experimental

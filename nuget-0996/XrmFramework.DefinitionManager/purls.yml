@@ -82,6 +82,7 @@
 - pkg:nuget/XrmFramework.DefinitionManager@2.1.98
 - pkg:nuget/XrmFramework.DefinitionManager@2.1.99
 - pkg:nuget/XrmFramework.DefinitionManager@2.2.10-beta
+- pkg:nuget/XrmFramework.DefinitionManager@2.2.100
 - pkg:nuget/XrmFramework.DefinitionManager@2.2.11
 - pkg:nuget/XrmFramework.DefinitionManager@2.2.12
 - pkg:nuget/XrmFramework.DefinitionManager@2.2.13

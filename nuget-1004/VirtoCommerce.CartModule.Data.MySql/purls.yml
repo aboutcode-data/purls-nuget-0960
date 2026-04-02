@@ -1,3 +1,4 @@
+- pkg:nuget/VirtoCommerce.CartModule.Data.MySql@3.1003.0
 - pkg:nuget/VirtoCommerce.CartModule.Data.MySql@3.214.0
 - pkg:nuget/VirtoCommerce.CartModule.Data.MySql@3.214.0-alpha.603
 - pkg:nuget/VirtoCommerce.CartModule.Data.MySql@3.215.0

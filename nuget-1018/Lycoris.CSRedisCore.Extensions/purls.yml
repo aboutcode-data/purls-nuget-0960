@@ -19,3 +19,5 @@
 - pkg:nuget/Lycoris.CSRedisCore.Extensions@6.2.0-rc
 - pkg:nuget/Lycoris.CSRedisCore.Extensions@8.0.0
 - pkg:nuget/Lycoris.CSRedisCore.Extensions@8.0.5
+- pkg:nuget/Lycoris.CSRedisCore.Extensions@8.0.6
+- pkg:nuget/Lycoris.CSRedisCore.Extensions@8.0.7

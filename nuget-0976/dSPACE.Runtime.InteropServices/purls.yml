@@ -76,3 +76,4 @@
 - pkg:nuget/dSPACE.Runtime.InteropServices@2.1.1
 - pkg:nuget/dSPACE.Runtime.InteropServices@2.2.0
 - pkg:nuget/dSPACE.Runtime.InteropServices@2.3.0
+- pkg:nuget/dSPACE.Runtime.InteropServices@2.5.2

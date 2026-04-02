@@ -22,7 +22,14 @@
 - pkg:nuget/tryAGI.Replicate@1.0.6-dev.8
 - pkg:nuget/tryAGI.Replicate@1.0.7-dev.1
 - pkg:nuget/tryAGI.Replicate@1.0.7-dev.10
+- pkg:nuget/tryAGI.Replicate@1.0.7-dev.105
+- pkg:nuget/tryAGI.Replicate@1.0.7-dev.107
+- pkg:nuget/tryAGI.Replicate@1.0.7-dev.108
 - pkg:nuget/tryAGI.Replicate@1.0.7-dev.11
+- pkg:nuget/tryAGI.Replicate@1.0.7-dev.110
+- pkg:nuget/tryAGI.Replicate@1.0.7-dev.111
+- pkg:nuget/tryAGI.Replicate@1.0.7-dev.116
+- pkg:nuget/tryAGI.Replicate@1.0.7-dev.117
 - pkg:nuget/tryAGI.Replicate@1.0.7-dev.12
 - pkg:nuget/tryAGI.Replicate@1.0.7-dev.13
 - pkg:nuget/tryAGI.Replicate@1.0.7-dev.14

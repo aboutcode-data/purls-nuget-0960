@@ -161,6 +161,8 @@
 - pkg:nuget/HuaweiCloud.SDK.Cbr@3.1.164
 - pkg:nuget/HuaweiCloud.SDK.Cbr@3.1.17
 - pkg:nuget/HuaweiCloud.SDK.Cbr@3.1.18
+- pkg:nuget/HuaweiCloud.SDK.Cbr@3.1.186
+- pkg:nuget/HuaweiCloud.SDK.Cbr@3.1.187
 - pkg:nuget/HuaweiCloud.SDK.Cbr@3.1.19
 - pkg:nuget/HuaweiCloud.SDK.Cbr@3.1.2
 - pkg:nuget/HuaweiCloud.SDK.Cbr@3.1.20

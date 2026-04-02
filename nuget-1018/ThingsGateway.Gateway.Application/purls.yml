@@ -361,7 +361,14 @@
 - pkg:nuget/ThingsGateway.Gateway.Application@12.4.70
 - pkg:nuget/ThingsGateway.Gateway.Application@12.4.82
 - pkg:nuget/ThingsGateway.Gateway.Application@12.4.90
+- pkg:nuget/ThingsGateway.Gateway.Application@12.5.10
+- pkg:nuget/ThingsGateway.Gateway.Application@12.5.11
+- pkg:nuget/ThingsGateway.Gateway.Application@12.5.12
+- pkg:nuget/ThingsGateway.Gateway.Application@12.5.13
+- pkg:nuget/ThingsGateway.Gateway.Application@12.5.14
+- pkg:nuget/ThingsGateway.Gateway.Application@12.5.15
 - pkg:nuget/ThingsGateway.Gateway.Application@12.5.2
+- pkg:nuget/ThingsGateway.Gateway.Application@12.5.9
 - pkg:nuget/ThingsGateway.Gateway.Application@6.0.4.10
 - pkg:nuget/ThingsGateway.Gateway.Application@6.0.4.11
 - pkg:nuget/ThingsGateway.Gateway.Application@6.0.4.13

@@ -52,6 +52,9 @@
 - pkg:nuget/PowerVision.Core.ObjectModel@8.11.1-develop.9
 - pkg:nuget/PowerVision.Core.ObjectModel@8.12.0
 - pkg:nuget/PowerVision.Core.ObjectModel@8.12.1-develop.1
+- pkg:nuget/PowerVision.Core.ObjectModel@8.14.1-develop.7
+- pkg:nuget/PowerVision.Core.ObjectModel@8.14.1-develop.8
+- pkg:nuget/PowerVision.Core.ObjectModel@8.14.4
 - pkg:nuget/PowerVision.Core.ObjectModel@8.7.0-beta.29
 - pkg:nuget/PowerVision.Core.ObjectModel@8.7.2-develop.13
 - pkg:nuget/PowerVision.Core.ObjectModel@8.8.1-develop.10

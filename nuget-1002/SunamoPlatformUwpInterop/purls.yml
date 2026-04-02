@@ -33,3 +33,5 @@
 - pkg:nuget/SunamoPlatformUwpInterop@25.1.19.2
 - pkg:nuget/SunamoPlatformUwpInterop@25.3.29.1
 - pkg:nuget/SunamoPlatformUwpInterop@25.6.7.1
+- pkg:nuget/SunamoPlatformUwpInterop@26.3.28.3
+- pkg:nuget/SunamoPlatformUwpInterop@26.3.28.4

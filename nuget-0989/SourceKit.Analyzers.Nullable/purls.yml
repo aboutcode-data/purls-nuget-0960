@@ -35,3 +35,6 @@
 - pkg:nuget/SourceKit.Analyzers.Nullable@1.0.49
 - pkg:nuget/SourceKit.Analyzers.Nullable@1.0.50
 - pkg:nuget/SourceKit.Analyzers.Nullable@1.0.51
+- pkg:nuget/SourceKit.Analyzers.Nullable@1.0.56
+- pkg:nuget/SourceKit.Analyzers.Nullable@1.0.57
+- pkg:nuget/SourceKit.Analyzers.Nullable@1.0.58

@@ -337,6 +337,8 @@
 - pkg:nuget/LangChain.Databases.Redis@0.17.1-dev.10
 - pkg:nuget/LangChain.Databases.Redis@0.17.1-dev.11
 - pkg:nuget/LangChain.Databases.Redis@0.17.1-dev.2
+- pkg:nuget/LangChain.Databases.Redis@0.17.1-dev.44
+- pkg:nuget/LangChain.Databases.Redis@0.17.1-dev.46
 - pkg:nuget/LangChain.Databases.Redis@0.17.1-dev.5
 - pkg:nuget/LangChain.Databases.Redis@0.17.1-dev.8
 - pkg:nuget/LangChain.Databases.Redis@0.17.1-dev.9

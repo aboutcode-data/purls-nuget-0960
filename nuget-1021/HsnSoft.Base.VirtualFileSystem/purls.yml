@@ -85,6 +85,9 @@
 - pkg:nuget/HsnSoft.Base.VirtualFileSystem@2025.9.8
 - pkg:nuget/HsnSoft.Base.VirtualFileSystem@2025.9.9
 - pkg:nuget/HsnSoft.Base.VirtualFileSystem@2026.10.21
+- pkg:nuget/HsnSoft.Base.VirtualFileSystem@2026.10.26
+- pkg:nuget/HsnSoft.Base.VirtualFileSystem@2026.10.28
+- pkg:nuget/HsnSoft.Base.VirtualFileSystem@2026.10.29
 - pkg:nuget/HsnSoft.Base.VirtualFileSystem@6.0.1
 - pkg:nuget/HsnSoft.Base.VirtualFileSystem@6.0.10
 - pkg:nuget/HsnSoft.Base.VirtualFileSystem@6.0.11

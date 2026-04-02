@@ -27,3 +27,5 @@
 - pkg:nuget/ap.Mediator.RabbitMq@1.9.0
 - pkg:nuget/ap.Mediator.RabbitMq@1.9.1
 - pkg:nuget/ap.Mediator.RabbitMq@1.9.2
+- pkg:nuget/ap.Mediator.RabbitMq@1.9.3
+- pkg:nuget/ap.Mediator.RabbitMq@1.9.4

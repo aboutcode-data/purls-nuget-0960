@@ -39,6 +39,9 @@
 - pkg:nuget/SanteDB.Client@3.0.2014-alpha
 - pkg:nuget/SanteDB.Client@3.0.2015-alpha
 - pkg:nuget/SanteDB.Client@3.0.2047-alpha
+- pkg:nuget/SanteDB.Client@3.0.2071-alpha
+- pkg:nuget/SanteDB.Client@3.0.2072-alpha
+- pkg:nuget/SanteDB.Client@3.0.2073-alpha
 - pkg:nuget/SanteDB.Client@3.0.480-alpha
 - pkg:nuget/SanteDB.Client@3.0.540-alpha
 - pkg:nuget/SanteDB.Client@3.0.600-alpha

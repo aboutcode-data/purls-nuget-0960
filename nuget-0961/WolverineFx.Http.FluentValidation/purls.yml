@@ -153,4 +153,7 @@
 - pkg:nuget/WolverineFx.Http.FluentValidation@4.9.3
 - pkg:nuget/WolverineFx.Http.FluentValidation@5.18.2
 - pkg:nuget/WolverineFx.Http.FluentValidation@5.19.1
+- pkg:nuget/WolverineFx.Http.FluentValidation@5.25.0
+- pkg:nuget/WolverineFx.Http.FluentValidation@5.26.0
+- pkg:nuget/WolverineFx.Http.FluentValidation@5.27.0
 - pkg:nuget/WolverineFx.Http.FluentValidation@5.4.3

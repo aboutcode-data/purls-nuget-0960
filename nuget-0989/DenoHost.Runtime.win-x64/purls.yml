@@ -13,3 +13,6 @@
 - pkg:nuget/DenoHost.Runtime.win-x64@2.5.0-alpha.14
 - pkg:nuget/DenoHost.Runtime.win-x64@2.5.1-alpha.15
 - pkg:nuget/DenoHost.Runtime.win-x64@2.6.3
+- pkg:nuget/DenoHost.Runtime.win-x64@2.7.10
+- pkg:nuget/DenoHost.Runtime.win-x64@2.7.11
+- pkg:nuget/DenoHost.Runtime.win-x64@2.7.9

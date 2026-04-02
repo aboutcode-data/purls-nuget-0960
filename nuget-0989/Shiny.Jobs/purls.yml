@@ -220,6 +220,7 @@
 - pkg:nuget/Shiny.Jobs@3.4.0-beta-0006
 - pkg:nuget/Shiny.Jobs@3.4.0-beta-0009
 - pkg:nuget/Shiny.Jobs@3.4.0-beta-0010
+- pkg:nuget/Shiny.Jobs@4.0.0
 - pkg:nuget/Shiny.Jobs@4.0.0-beta-0040
 - pkg:nuget/Shiny.Jobs@4.0.0-beta-0047
 - pkg:nuget/Shiny.Jobs@4.0.0-beta-0048
@@ -237,3 +238,7 @@
 - pkg:nuget/Shiny.Jobs@4.0.0-beta-0086
 - pkg:nuget/Shiny.Jobs@4.0.0-beta-0091
 - pkg:nuget/Shiny.Jobs@4.0.0-beta-0093
+- pkg:nuget/Shiny.Jobs@4.0.0-beta-0111
+- pkg:nuget/Shiny.Jobs@4.0.1
+- pkg:nuget/Shiny.Jobs@4.1.0-beta-0043
+- pkg:nuget/Shiny.Jobs@4.1.0-beta-0052

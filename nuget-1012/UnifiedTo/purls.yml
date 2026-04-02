@@ -23,6 +23,11 @@
 - pkg:nuget/UnifiedTo@0.130.14
 - pkg:nuget/UnifiedTo@0.130.25
 - pkg:nuget/UnifiedTo@0.130.39
+- pkg:nuget/UnifiedTo@0.130.51
+- pkg:nuget/UnifiedTo@0.130.52
+- pkg:nuget/UnifiedTo@0.130.53
+- pkg:nuget/UnifiedTo@0.130.54
+- pkg:nuget/UnifiedTo@0.130.55
 - pkg:nuget/UnifiedTo@0.14.0
 - pkg:nuget/UnifiedTo@0.14.1
 - pkg:nuget/UnifiedTo@0.15.0

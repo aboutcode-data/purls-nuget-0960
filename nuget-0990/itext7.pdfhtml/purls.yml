@@ -39,3 +39,4 @@
 - pkg:nuget/itext7.pdfhtml@6.1.0
 - pkg:nuget/itext7.pdfhtml@6.2.0
 - pkg:nuget/itext7.pdfhtml@6.2.1
+- pkg:nuget/itext7.pdfhtml@6.3.2

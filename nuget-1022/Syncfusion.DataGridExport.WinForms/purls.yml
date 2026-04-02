@@ -343,3 +343,4 @@
 - pkg:nuget/Syncfusion.DataGridExport.WinForms@31.2.12
 - pkg:nuget/Syncfusion.DataGridExport.WinForms@31.2.18
 - pkg:nuget/Syncfusion.DataGridExport.WinForms@33.1.44
+- pkg:nuget/Syncfusion.DataGridExport.WinForms@33.1.46

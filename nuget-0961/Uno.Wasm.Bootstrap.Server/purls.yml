@@ -3,6 +3,7 @@
 - pkg:nuget/Uno.Wasm.Bootstrap.Server@10.0.40
 - pkg:nuget/Uno.Wasm.Bootstrap.Server@10.0.96
 - pkg:nuget/Uno.Wasm.Bootstrap.Server@10.1.0-dev.134
+- pkg:nuget/Uno.Wasm.Bootstrap.Server@10.1.0-dev.145
 - pkg:nuget/Uno.Wasm.Bootstrap.Server@7.0.0
 - pkg:nuget/Uno.Wasm.Bootstrap.Server@7.0.0-dev.195
 - pkg:nuget/Uno.Wasm.Bootstrap.Server@7.0.0-dev.206

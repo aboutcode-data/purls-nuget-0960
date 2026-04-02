@@ -1,2 +1,5 @@
 - pkg:nuget/Shiny.DocumentDb@3.0.1
 - pkg:nuget/Shiny.DocumentDb@3.0.1-beta-0001
+- pkg:nuget/Shiny.DocumentDb@3.1.0
+- pkg:nuget/Shiny.DocumentDb@3.2.0
+- pkg:nuget/Shiny.DocumentDb@3.2.0-beta-0001

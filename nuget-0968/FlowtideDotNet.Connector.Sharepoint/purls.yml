@@ -65,6 +65,10 @@
 - pkg:nuget/FlowtideDotNet.Connector.Sharepoint@0.14.1
 - pkg:nuget/FlowtideDotNet.Connector.Sharepoint@0.14.2
 - pkg:nuget/FlowtideDotNet.Connector.Sharepoint@0.14.3
+- pkg:nuget/FlowtideDotNet.Connector.Sharepoint@0.15.0
+- pkg:nuget/FlowtideDotNet.Connector.Sharepoint@0.15.0-alpha11
+- pkg:nuget/FlowtideDotNet.Connector.Sharepoint@0.15.0-alpha12
+- pkg:nuget/FlowtideDotNet.Connector.Sharepoint@0.15.0-alpha13
 - pkg:nuget/FlowtideDotNet.Connector.Sharepoint@0.7.0
 - pkg:nuget/FlowtideDotNet.Connector.Sharepoint@0.7.0-alpha11
 - pkg:nuget/FlowtideDotNet.Connector.Sharepoint@0.7.0-alpha12

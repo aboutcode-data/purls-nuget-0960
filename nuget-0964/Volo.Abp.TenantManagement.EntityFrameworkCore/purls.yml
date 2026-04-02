@@ -36,6 +36,8 @@
 - pkg:nuget/Volo.Abp.TenantManagement.EntityFrameworkCore@1.1.2
 - pkg:nuget/Volo.Abp.TenantManagement.EntityFrameworkCore@10.0.0
 - pkg:nuget/Volo.Abp.TenantManagement.EntityFrameworkCore@10.1.1
+- pkg:nuget/Volo.Abp.TenantManagement.EntityFrameworkCore@10.2.0
+- pkg:nuget/Volo.Abp.TenantManagement.EntityFrameworkCore@10.3.0-rc.1
 - pkg:nuget/Volo.Abp.TenantManagement.EntityFrameworkCore@2.0.0
 - pkg:nuget/Volo.Abp.TenantManagement.EntityFrameworkCore@2.0.1
 - pkg:nuget/Volo.Abp.TenantManagement.EntityFrameworkCore@2.1.0

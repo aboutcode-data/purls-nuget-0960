@@ -82,3 +82,5 @@
 - pkg:nuget/YantraJS.Network@1.2.284
 - pkg:nuget/YantraJS.Network@1.2.286
 - pkg:nuget/YantraJS.Network@1.2.288
+- pkg:nuget/YantraJS.Network@1.2.323
+- pkg:nuget/YantraJS.Network@1.2.324

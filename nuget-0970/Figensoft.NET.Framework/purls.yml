@@ -168,3 +168,7 @@
 - pkg:nuget/Figensoft.NET.Framework@1.9.6
 - pkg:nuget/Figensoft.NET.Framework@1.9.7
 - pkg:nuget/Figensoft.NET.Framework@1.9.9
+- pkg:nuget/Figensoft.NET.Framework@3.1.0
+- pkg:nuget/Figensoft.NET.Framework@3.1.1
+- pkg:nuget/Figensoft.NET.Framework@3.1.2
+- pkg:nuget/Figensoft.NET.Framework@3.1.3

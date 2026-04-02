@@ -79,6 +79,7 @@
 - pkg:nuget/CyberEye.Axe.Utility@1.1.7
 - pkg:nuget/CyberEye.Axe.Utility@1.1.8
 - pkg:nuget/CyberEye.Axe.Utility@1.1.9
+- pkg:nuget/CyberEye.Axe.Utility@1.10.1
 - pkg:nuget/CyberEye.Axe.Utility@1.2.0
 - pkg:nuget/CyberEye.Axe.Utility@1.2.1
 - pkg:nuget/CyberEye.Axe.Utility@1.2.10
@@ -333,6 +334,7 @@
 - pkg:nuget/CyberEye.Axe.Utility@1.8.7
 - pkg:nuget/CyberEye.Axe.Utility@1.8.8
 - pkg:nuget/CyberEye.Axe.Utility@1.8.9
+- pkg:nuget/CyberEye.Axe.Utility@1.9.9
 - pkg:nuget/CyberEye.Axe.Utility@2.0.0
 - pkg:nuget/CyberEye.Axe.Utility@2.0.1
 - pkg:nuget/CyberEye.Axe.Utility@2.0.10

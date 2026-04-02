@@ -1,0 +1,4 @@
+- pkg:nuget/Fluxify.Application@0.1.4-preview
+- pkg:nuget/Fluxify.Application@0.1.4.1-preview
+- pkg:nuget/Fluxify.Application@0.1.5-preview
+- pkg:nuget/Fluxify.Application@0.1.6-preview

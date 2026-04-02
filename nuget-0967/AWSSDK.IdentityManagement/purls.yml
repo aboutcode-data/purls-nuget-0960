@@ -1235,6 +1235,7 @@
 - pkg:nuget/AWSSDK.IdentityManagement@3.7.507.26
 - pkg:nuget/AWSSDK.IdentityManagement@3.7.507.39
 - pkg:nuget/AWSSDK.IdentityManagement@3.7.507.42
+- pkg:nuget/AWSSDK.IdentityManagement@3.7.507.44
 - pkg:nuget/AWSSDK.IdentityManagement@3.7.507.5
 - pkg:nuget/AWSSDK.IdentityManagement@3.7.507.9
 - pkg:nuget/AWSSDK.IdentityManagement@4.0.0
@@ -1280,4 +1281,8 @@
 - pkg:nuget/AWSSDK.IdentityManagement@4.0.3.6
 - pkg:nuget/AWSSDK.IdentityManagement@4.0.6
 - pkg:nuget/AWSSDK.IdentityManagement@4.0.9.11
+- pkg:nuget/AWSSDK.IdentityManagement@4.0.9.12
+- pkg:nuget/AWSSDK.IdentityManagement@4.0.9.13
+- pkg:nuget/AWSSDK.IdentityManagement@4.0.9.14
+- pkg:nuget/AWSSDK.IdentityManagement@4.0.9.15
 - pkg:nuget/AWSSDK.IdentityManagement@4.0.9.3

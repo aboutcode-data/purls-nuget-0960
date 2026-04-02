@@ -15,6 +15,7 @@
 - pkg:nuget/BoldReports.Net.Core@11.1.11
 - pkg:nuget/BoldReports.Net.Core@11.1.15
 - pkg:nuget/BoldReports.Net.Core@12.2.9
+- pkg:nuget/BoldReports.Net.Core@13.1.26
 - pkg:nuget/BoldReports.Net.Core@2.1.14
 - pkg:nuget/BoldReports.Net.Core@2.1.23
 - pkg:nuget/BoldReports.Net.Core@2.1.24

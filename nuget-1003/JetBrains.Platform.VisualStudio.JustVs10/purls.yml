@@ -229,6 +229,8 @@
 - pkg:nuget/JetBrains.Platform.VisualStudio.JustVs10@253.0.20251008.615-eap05
 - pkg:nuget/JetBrains.Platform.VisualStudio.JustVs10@253.0.20251110.111705
 - pkg:nuget/JetBrains.Platform.VisualStudio.JustVs10@253.0.20251217.184914
+- pkg:nuget/JetBrains.Platform.VisualStudio.JustVs10@253.0.20260326.194831
 - pkg:nuget/JetBrains.Platform.VisualStudio.JustVs10@261.0.20260205.171218-eap03
 - pkg:nuget/JetBrains.Platform.VisualStudio.JustVs10@261.0.20260305.201421-eap07
 - pkg:nuget/JetBrains.Platform.VisualStudio.JustVs10@261.0.20260319.215402-rc01
+- pkg:nuget/JetBrains.Platform.VisualStudio.JustVs10@261.0.20260329.210200

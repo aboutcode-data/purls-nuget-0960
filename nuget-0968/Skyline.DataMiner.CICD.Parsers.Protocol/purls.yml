@@ -50,3 +50,12 @@
 - pkg:nuget/Skyline.DataMiner.CICD.Parsers.Protocol@1.2.0-charlie1
 - pkg:nuget/Skyline.DataMiner.CICD.Parsers.Protocol@4.0.0-alpha
 - pkg:nuget/Skyline.DataMiner.CICD.Parsers.Protocol@5.1.5
+- pkg:nuget/Skyline.DataMiner.CICD.Parsers.Protocol@5.2.0-alpha
+- pkg:nuget/Skyline.DataMiner.CICD.Parsers.Protocol@5.2.0-bravo
+- pkg:nuget/Skyline.DataMiner.CICD.Parsers.Protocol@5.2.0-charlie
+- pkg:nuget/Skyline.DataMiner.CICD.Parsers.Protocol@6.0.0-alpha
+- pkg:nuget/Skyline.DataMiner.CICD.Parsers.Protocol@6.0.0-bravo
+- pkg:nuget/Skyline.DataMiner.CICD.Parsers.Protocol@6.0.0-charlie
+- pkg:nuget/Skyline.DataMiner.CICD.Parsers.Protocol@6.0.0-delta
+- pkg:nuget/Skyline.DataMiner.CICD.Parsers.Protocol@6.0.0-echo
+- pkg:nuget/Skyline.DataMiner.CICD.Parsers.Protocol@6.0.0-foxtrot

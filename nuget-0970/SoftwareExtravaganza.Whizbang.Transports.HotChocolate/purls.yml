@@ -1,6 +1,15 @@
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.HotChocolate@0.10.10-alpha.8
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.HotChocolate@0.15.6-alpha.27
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.HotChocolate@0.22.5-alpha.38
+- pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.HotChocolate@0.29.31-alpha.5
+- pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.HotChocolate@0.35.31-alpha.28
+- pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.HotChocolate@0.38.11-alpha.51
+- pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.HotChocolate@0.40.3-alpha.63
+- pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.HotChocolate@0.40.3-alpha.8
+- pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.HotChocolate@0.41.6-alpha.12
+- pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.HotChocolate@0.42.1-alpha.69
+- pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.HotChocolate@0.54.2-alpha.76
+- pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.HotChocolate@0.58.2-alpha.5
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.HotChocolate@0.9.0-alpha.119
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.HotChocolate@0.9.10-alpha.47
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.HotChocolate@0.9.4

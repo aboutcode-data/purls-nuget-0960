@@ -27,5 +27,8 @@
 - pkg:nuget/Meziantou.NET.Sdk@1.0.52
 - pkg:nuget/Meziantou.NET.Sdk@1.0.6
 - pkg:nuget/Meziantou.NET.Sdk@1.0.7
+- pkg:nuget/Meziantou.NET.Sdk@1.0.74
+- pkg:nuget/Meziantou.NET.Sdk@1.0.75
+- pkg:nuget/Meziantou.NET.Sdk@1.0.76
 - pkg:nuget/Meziantou.NET.Sdk@1.0.8
 - pkg:nuget/Meziantou.NET.Sdk@1.0.9

@@ -133,3 +133,4 @@
 - pkg:nuget/Google.Apis.GKEHub.v1alpha@1.70.0.3879
 - pkg:nuget/Google.Apis.GKEHub.v1alpha@1.70.0.3893
 - pkg:nuget/Google.Apis.GKEHub.v1alpha@1.71.0.3902
+- pkg:nuget/Google.Apis.GKEHub.v1alpha@1.73.0.4100

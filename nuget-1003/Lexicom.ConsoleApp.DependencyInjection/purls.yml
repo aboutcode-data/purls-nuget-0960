@@ -1,3 +1,8 @@
+- pkg:nuget/Lexicom.ConsoleApp.DependencyInjection@10.0.15
+- pkg:nuget/Lexicom.ConsoleApp.DependencyInjection@10.0.16
+- pkg:nuget/Lexicom.ConsoleApp.DependencyInjection@10.0.17
+- pkg:nuget/Lexicom.ConsoleApp.DependencyInjection@10.0.18
+- pkg:nuget/Lexicom.ConsoleApp.DependencyInjection@10.0.19
 - pkg:nuget/Lexicom.ConsoleApp.DependencyInjection@6.0.10
 - pkg:nuget/Lexicom.ConsoleApp.DependencyInjection@6.0.11
 - pkg:nuget/Lexicom.ConsoleApp.DependencyInjection@6.0.12

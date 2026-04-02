@@ -1,1 +1,3 @@
 - pkg:nuget/QaaS.Framework.SDK@1.1.0-alpha.4
+- pkg:nuget/QaaS.Framework.SDK@1.3.1
+- pkg:nuget/QaaS.Framework.SDK@1.4.0

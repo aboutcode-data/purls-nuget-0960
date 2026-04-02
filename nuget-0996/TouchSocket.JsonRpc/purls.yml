@@ -316,3 +316,5 @@
 - pkg:nuget/TouchSocket.JsonRpc@4.0.0-rc.47
 - pkg:nuget/TouchSocket.JsonRpc@4.1.12
 - pkg:nuget/TouchSocket.JsonRpc@4.1.2
+- pkg:nuget/TouchSocket.JsonRpc@4.2.0
+- pkg:nuget/TouchSocket.JsonRpc@4.2.0-beta.26

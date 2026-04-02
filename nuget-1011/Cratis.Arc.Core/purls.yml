@@ -5,3 +5,7 @@
 - pkg:nuget/Cratis.Arc.Core@19.6.6
 - pkg:nuget/Cratis.Arc.Core@19.9.3
 - pkg:nuget/Cratis.Arc.Core@19.9.7
+- pkg:nuget/Cratis.Arc.Core@20.0.0
+- pkg:nuget/Cratis.Arc.Core@20.1.0
+- pkg:nuget/Cratis.Arc.Core@20.1.1
+- pkg:nuget/Cratis.Arc.Core@20.1.3

@@ -495,6 +495,9 @@
 - pkg:nuget/DisCatSharp@10.7.0-nightly-031
 - pkg:nuget/DisCatSharp@10.7.0-nightly-049
 - pkg:nuget/DisCatSharp@10.7.0-nightly-053
+- pkg:nuget/DisCatSharp@10.7.1-nightly-001
+- pkg:nuget/DisCatSharp@10.7.1-nightly-002
+- pkg:nuget/DisCatSharp@10.7.1-nightly-003
 - pkg:nuget/DisCatSharp@9.5.8
 - pkg:nuget/DisCatSharp@9.5.8-nightly-00003
 - pkg:nuget/DisCatSharp@9.5.8-nightly-00004

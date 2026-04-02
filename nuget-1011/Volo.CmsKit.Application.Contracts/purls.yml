@@ -1,4 +1,6 @@
 - pkg:nuget/Volo.CmsKit.Application.Contracts@10.1.1
+- pkg:nuget/Volo.CmsKit.Application.Contracts@10.2.0
+- pkg:nuget/Volo.CmsKit.Application.Contracts@10.3.0-rc.1
 - pkg:nuget/Volo.CmsKit.Application.Contracts@4.3.0
 - pkg:nuget/Volo.CmsKit.Application.Contracts@4.3.0-rc.1
 - pkg:nuget/Volo.CmsKit.Application.Contracts@4.3.0-rc.2

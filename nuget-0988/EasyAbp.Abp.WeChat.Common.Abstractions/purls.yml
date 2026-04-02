@@ -68,3 +68,4 @@
 - pkg:nuget/EasyAbp.Abp.WeChat.Common.Abstractions@3.6.0
 - pkg:nuget/EasyAbp.Abp.WeChat.Common.Abstractions@3.6.0-preview.1
 - pkg:nuget/EasyAbp.Abp.WeChat.Common.Abstractions@3.7.0
+- pkg:nuget/EasyAbp.Abp.WeChat.Common.Abstractions@3.9.0

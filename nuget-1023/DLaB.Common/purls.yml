@@ -45,6 +45,7 @@
 - pkg:nuget/DLaB.Common@1.5.0.1
 - pkg:nuget/DLaB.Common@1.5.0.2
 - pkg:nuget/DLaB.Common@1.6.0.1
+- pkg:nuget/DLaB.Common@1.6.0.12
 - pkg:nuget/DLaB.Common@1.6.0.2
 - pkg:nuget/DLaB.Common@1.6.0.3
 - pkg:nuget/DLaB.Common@1.6.0.4

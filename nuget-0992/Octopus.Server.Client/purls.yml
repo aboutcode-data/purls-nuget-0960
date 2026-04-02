@@ -264,3 +264,10 @@
 - pkg:nuget/Octopus.Server.Client@17.8.2362
 - pkg:nuget/Octopus.Server.Client@17.9.2364
 - pkg:nuget/Octopus.Server.Client@19.1.2432
+- pkg:nuget/Octopus.Server.Client@20.18.2634
+- pkg:nuget/Octopus.Server.Client@21.0.2636
+- pkg:nuget/Octopus.Server.Client@21.2.2640
+- pkg:nuget/Octopus.Server.Client@21.3.2641
+- pkg:nuget/Octopus.Server.Client@21.4.2642
+- pkg:nuget/Octopus.Server.Client@21.5.2650
+- pkg:nuget/Octopus.Server.Client@21.6.2652

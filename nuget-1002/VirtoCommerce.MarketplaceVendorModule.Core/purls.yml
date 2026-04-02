@@ -41,6 +41,10 @@
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Core@3.0.0-alpha.96
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Core@3.0.0-alpha.97
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Core@3.0.0-alpha.99
+- pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Core@3.1000.0
+- pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Core@3.1000.0-alpha.990
+- pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Core@3.1001.0-alpha.991
+- pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Core@3.1001.0-alpha.993
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Core@3.200.0
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Core@3.200.0-alpha.121
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Core@3.200.0-alpha.122
@@ -664,3 +668,4 @@
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Core@3.830.0-alpha.956
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Core@3.830.0-alpha.969
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Core@3.830.0-alpha.970
+- pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Core@3.831.0-alpha.989

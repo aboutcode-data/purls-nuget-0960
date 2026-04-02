@@ -43,6 +43,7 @@
 - pkg:nuget/OCI.DotNetSDK.Dashboardservice@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Dashboardservice@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Dashboardservice@129.1.0
+- pkg:nuget/OCI.DotNetSDK.Dashboardservice@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Dashboardservice@30.3.0
 - pkg:nuget/OCI.DotNetSDK.Dashboardservice@31.0.0
 - pkg:nuget/OCI.DotNetSDK.Dashboardservice@32.0.0

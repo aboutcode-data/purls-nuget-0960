@@ -74,6 +74,7 @@
 - pkg:nuget/pauldeen79.ClassFramework.Domain@0.26.4
 - pkg:nuget/pauldeen79.ClassFramework.Domain@0.3.0
 - pkg:nuget/pauldeen79.ClassFramework.Domain@0.3.1
+- pkg:nuget/pauldeen79.ClassFramework.Domain@0.30.1
 - pkg:nuget/pauldeen79.ClassFramework.Domain@0.4.0
 - pkg:nuget/pauldeen79.ClassFramework.Domain@0.4.1
 - pkg:nuget/pauldeen79.ClassFramework.Domain@0.4.2

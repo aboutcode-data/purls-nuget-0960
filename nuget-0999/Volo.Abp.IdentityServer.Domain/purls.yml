@@ -24,6 +24,8 @@
 - pkg:nuget/Volo.Abp.IdentityServer.Domain@1.1.1
 - pkg:nuget/Volo.Abp.IdentityServer.Domain@1.1.2
 - pkg:nuget/Volo.Abp.IdentityServer.Domain@10.1.1
+- pkg:nuget/Volo.Abp.IdentityServer.Domain@10.2.0
+- pkg:nuget/Volo.Abp.IdentityServer.Domain@10.3.0-rc.1
 - pkg:nuget/Volo.Abp.IdentityServer.Domain@2.0.0
 - pkg:nuget/Volo.Abp.IdentityServer.Domain@2.0.1
 - pkg:nuget/Volo.Abp.IdentityServer.Domain@2.1.0

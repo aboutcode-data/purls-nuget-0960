@@ -4570,6 +4570,7 @@
 - pkg:nuget/Omnia.Fx.NetCore.Worker@7.9.39-preview
 - pkg:nuget/Omnia.Fx.NetCore.Worker@7.9.4-preview
 - pkg:nuget/Omnia.Fx.NetCore.Worker@7.9.40-preview
+- pkg:nuget/Omnia.Fx.NetCore.Worker@7.9.41
 - pkg:nuget/Omnia.Fx.NetCore.Worker@7.9.41-preview
 - pkg:nuget/Omnia.Fx.NetCore.Worker@7.9.42-preview
 - pkg:nuget/Omnia.Fx.NetCore.Worker@7.9.43-preview

@@ -140,6 +140,7 @@
 - pkg:nuget/Workleap.Extensions.Configuration.Substitution@1.2.32-preview.3
 - pkg:nuget/Workleap.Extensions.Configuration.Substitution@1.2.33-preview.2
 - pkg:nuget/Workleap.Extensions.Configuration.Substitution@1.2.36-preview.1
+- pkg:nuget/Workleap.Extensions.Configuration.Substitution@1.2.37-preview.1
 - pkg:nuget/Workleap.Extensions.Configuration.Substitution@1.2.4
 - pkg:nuget/Workleap.Extensions.Configuration.Substitution@1.2.4-preview.1
 - pkg:nuget/Workleap.Extensions.Configuration.Substitution@1.2.4-preview.2

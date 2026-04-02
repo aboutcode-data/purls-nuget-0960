@@ -14,7 +14,13 @@
 - pkg:nuget/Lightsoft.Identity@0.0.0.7
 - pkg:nuget/Lightsoft.Identity@0.0.0.8
 - pkg:nuget/Lightsoft.Identity@0.0.0.9
+- pkg:nuget/Lightsoft.Identity@10.0.0
+- pkg:nuget/Lightsoft.Identity@10.0.1.1
+- pkg:nuget/Lightsoft.Identity@10.0.1.2
 - pkg:nuget/Lightsoft.Identity@9.0.10
+- pkg:nuget/Lightsoft.Identity@9.0.10.1-beta1
+- pkg:nuget/Lightsoft.Identity@9.0.10.1-beta2
+- pkg:nuget/Lightsoft.Identity@9.0.10.1-beta3
 - pkg:nuget/Lightsoft.Identity@9.0.6.1
 - pkg:nuget/Lightsoft.Identity@9.0.7.2
 - pkg:nuget/Lightsoft.Identity@9.0.7.3

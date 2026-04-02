@@ -1,0 +1,3 @@
+- pkg:nuget/Faiss.NET.Gpu.Native.Rocm@1.0.0-preview.1
+- pkg:nuget/Faiss.NET.Gpu.Native.Rocm@1.0.0-preview.2
+- pkg:nuget/Faiss.NET.Gpu.Native.Rocm@1.0.0-preview.3

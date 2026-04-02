@@ -14,3 +14,4 @@
 - pkg:nuget/AlibabaCloud.SDK.MaxCompute20220104@1.6.0
 - pkg:nuget/AlibabaCloud.SDK.MaxCompute20220104@1.7.0
 - pkg:nuget/AlibabaCloud.SDK.MaxCompute20220104@2.0.0
+- pkg:nuget/AlibabaCloud.SDK.MaxCompute20220104@4.0.1

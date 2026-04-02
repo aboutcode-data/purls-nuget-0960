@@ -39,3 +39,4 @@
 - pkg:nuget/Corvus.Testing.AzureFunctions@3.0.3-253-multi-os-test.18
 - pkg:nuget/Corvus.Testing.AzureFunctions@3.1.1
 - pkg:nuget/Corvus.Testing.AzureFunctions@5.0.0
+- pkg:nuget/Corvus.Testing.AzureFunctions@5.0.1

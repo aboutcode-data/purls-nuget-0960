@@ -1,4 +1,7 @@
 - pkg:nuget/Soenneker.Maf.Cache@4.0.18
 - pkg:nuget/Soenneker.Maf.Cache@4.0.30
 - pkg:nuget/Soenneker.Maf.Cache@4.0.32
+- pkg:nuget/Soenneker.Maf.Cache@4.0.40
+- pkg:nuget/Soenneker.Maf.Cache@4.0.41
+- pkg:nuget/Soenneker.Maf.Cache@4.0.42
 - pkg:nuget/Soenneker.Maf.Cache@4.0.9

@@ -1,3 +1,5 @@
+- pkg:nuget/CyberEye.MongoDb.Lib@1.10.0
+- pkg:nuget/CyberEye.MongoDb.Lib@1.10.1
 - pkg:nuget/CyberEye.MongoDb.Lib@1.8.1
 - pkg:nuget/CyberEye.MongoDb.Lib@1.8.10
 - pkg:nuget/CyberEye.MongoDb.Lib@1.8.11
@@ -61,3 +63,4 @@
 - pkg:nuget/CyberEye.MongoDb.Lib@1.8.7
 - pkg:nuget/CyberEye.MongoDb.Lib@1.8.8
 - pkg:nuget/CyberEye.MongoDb.Lib@1.8.9
+- pkg:nuget/CyberEye.MongoDb.Lib@1.9.9

@@ -23,6 +23,7 @@
 - pkg:nuget/Elastic.Ingest.Transport@0.4.1
 - pkg:nuget/Elastic.Ingest.Transport@0.4.2
 - pkg:nuget/Elastic.Ingest.Transport@0.4.3
+- pkg:nuget/Elastic.Ingest.Transport@0.41.0
 - pkg:nuget/Elastic.Ingest.Transport@0.5.0
 - pkg:nuget/Elastic.Ingest.Transport@0.5.1
 - pkg:nuget/Elastic.Ingest.Transport@0.5.2

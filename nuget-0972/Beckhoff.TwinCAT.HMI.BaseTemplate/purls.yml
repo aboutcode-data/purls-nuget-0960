@@ -16,6 +16,7 @@
 - pkg:nuget/Beckhoff.TwinCAT.HMI.BaseTemplate@12.762.46
 - pkg:nuget/Beckhoff.TwinCAT.HMI.BaseTemplate@12.762.48
 - pkg:nuget/Beckhoff.TwinCAT.HMI.BaseTemplate@12.762.53
+- pkg:nuget/Beckhoff.TwinCAT.HMI.BaseTemplate@12.762.56
 - pkg:nuget/Beckhoff.TwinCAT.HMI.BaseTemplate@14.1.15
 - pkg:nuget/Beckhoff.TwinCAT.HMI.BaseTemplate@14.2.90
 - pkg:nuget/Beckhoff.TwinCAT.HMI.BaseTemplate@14.3.133

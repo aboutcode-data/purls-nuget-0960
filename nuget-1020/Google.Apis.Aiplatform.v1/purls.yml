@@ -86,3 +86,4 @@
 - pkg:nuget/Google.Apis.Aiplatform.v1@1.70.0.3880
 - pkg:nuget/Google.Apis.Aiplatform.v1@1.70.0.3889
 - pkg:nuget/Google.Apis.Aiplatform.v1@1.70.0.3897
+- pkg:nuget/Google.Apis.Aiplatform.v1@1.73.0.4096

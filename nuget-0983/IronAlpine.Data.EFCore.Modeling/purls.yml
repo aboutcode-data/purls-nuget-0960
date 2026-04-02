@@ -1,2 +1,11 @@
 - pkg:nuget/IronAlpine.Data.EFCore.Modeling@1.0.1-rc4
 - pkg:nuget/IronAlpine.Data.EFCore.Modeling@1.1.0
+- pkg:nuget/IronAlpine.Data.EFCore.Modeling@1.2.5
+- pkg:nuget/IronAlpine.Data.EFCore.Modeling@1.2.8
+- pkg:nuget/IronAlpine.Data.EFCore.Modeling@1.2.9
+- pkg:nuget/IronAlpine.Data.EFCore.Modeling@1.4.0
+- pkg:nuget/IronAlpine.Data.EFCore.Modeling@1.4.3
+- pkg:nuget/IronAlpine.Data.EFCore.Modeling@1.4.4
+- pkg:nuget/IronAlpine.Data.EFCore.Modeling@1.5.0
+- pkg:nuget/IronAlpine.Data.EFCore.Modeling@1.6.0
+- pkg:nuget/IronAlpine.Data.EFCore.Modeling@2.0.0

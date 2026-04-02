@@ -10,3 +10,4 @@
 - pkg:nuget/Livekit.Server.Sdk.Dotnet@1.0.7
 - pkg:nuget/Livekit.Server.Sdk.Dotnet@1.0.8
 - pkg:nuget/Livekit.Server.Sdk.Dotnet@1.0.9
+- pkg:nuget/Livekit.Server.Sdk.Dotnet@1.2.1

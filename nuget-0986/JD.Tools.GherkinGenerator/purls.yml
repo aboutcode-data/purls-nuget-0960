@@ -1,1 +1,3 @@
+- pkg:nuget/JD.Tools.GherkinGenerator@1.0.19
 - pkg:nuget/JD.Tools.GherkinGenerator@1.0.2
+- pkg:nuget/JD.Tools.GherkinGenerator@1.0.20

@@ -19,6 +19,7 @@
 - pkg:nuget/EasyAbp.Abp.DataDictionary.HttpApi.Client@1.15.0
 - pkg:nuget/EasyAbp.Abp.DataDictionary.HttpApi.Client@1.16.0
 - pkg:nuget/EasyAbp.Abp.DataDictionary.HttpApi.Client@1.17.0
+- pkg:nuget/EasyAbp.Abp.DataDictionary.HttpApi.Client@1.19.0
 - pkg:nuget/EasyAbp.Abp.DataDictionary.HttpApi.Client@1.2.0
 - pkg:nuget/EasyAbp.Abp.DataDictionary.HttpApi.Client@1.2.1
 - pkg:nuget/EasyAbp.Abp.DataDictionary.HttpApi.Client@1.2.2

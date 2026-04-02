@@ -28,3 +28,4 @@
 - pkg:nuget/EasyAbp.ProcessManagement.EntityFrameworkCore@1.4.0-preview.3
 - pkg:nuget/EasyAbp.ProcessManagement.EntityFrameworkCore@1.5.0
 - pkg:nuget/EasyAbp.ProcessManagement.EntityFrameworkCore@1.5.0-preview.1
+- pkg:nuget/EasyAbp.ProcessManagement.EntityFrameworkCore@2.0.0

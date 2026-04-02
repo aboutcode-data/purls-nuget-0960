@@ -90,6 +90,8 @@
 - pkg:nuget/Waher.Persistence.FilesLW@1.15.0
 - pkg:nuget/Waher.Persistence.FilesLW@1.15.1
 - pkg:nuget/Waher.Persistence.FilesLW@1.15.2
+- pkg:nuget/Waher.Persistence.FilesLW@1.19.0
+- pkg:nuget/Waher.Persistence.FilesLW@1.19.1
 - pkg:nuget/Waher.Persistence.FilesLW@1.2.0
 - pkg:nuget/Waher.Persistence.FilesLW@1.2.1
 - pkg:nuget/Waher.Persistence.FilesLW@1.2.10

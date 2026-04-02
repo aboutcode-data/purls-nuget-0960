@@ -1,5 +1,9 @@
 - pkg:nuget/Mapster.EF6@1.0.0
 - pkg:nuget/Mapster.EF6@10.0.1
+- pkg:nuget/Mapster.EF6@10.0.7-pre01
+- pkg:nuget/Mapster.EF6@10.0.7-pre02
+- pkg:nuget/Mapster.EF6@10.0.7-pre03
+- pkg:nuget/Mapster.EF6@10.0.7-pre04
 - pkg:nuget/Mapster.EF6@2.0.0
 - pkg:nuget/Mapster.EF6@2.0.1
 - pkg:nuget/Mapster.EF6@2.0.1-pre01

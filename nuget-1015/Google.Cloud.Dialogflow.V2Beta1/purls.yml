@@ -21,3 +21,4 @@
 - pkg:nuget/Google.Cloud.Dialogflow.V2Beta1@1.0.0-beta21
 - pkg:nuget/Google.Cloud.Dialogflow.V2Beta1@1.0.0-beta22
 - pkg:nuget/Google.Cloud.Dialogflow.V2Beta1@1.0.0-beta23
+- pkg:nuget/Google.Cloud.Dialogflow.V2Beta1@1.0.0-beta29

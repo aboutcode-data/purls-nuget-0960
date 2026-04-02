@@ -11,3 +11,4 @@
 - pkg:nuget/Azure.ResourceManager.ContainerService@1.2.3
 - pkg:nuget/Azure.ResourceManager.ContainerService@1.2.4
 - pkg:nuget/Azure.ResourceManager.ContainerService@1.2.5
+- pkg:nuget/Azure.ResourceManager.ContainerService@1.4.0

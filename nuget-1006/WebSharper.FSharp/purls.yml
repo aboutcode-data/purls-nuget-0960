@@ -1,4 +1,5 @@
 - pkg:nuget/WebSharper.FSharp@10.0.0.604-beta1
+- pkg:nuget/WebSharper.FSharp@10.1.0.667
 - pkg:nuget/WebSharper.FSharp@4.0.189.96-rc
 - pkg:nuget/WebSharper.FSharp@4.0.190.100-rc
 - pkg:nuget/WebSharper.FSharp@4.0.192.103-rc

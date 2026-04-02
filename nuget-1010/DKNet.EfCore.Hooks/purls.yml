@@ -1,4 +1,7 @@
 - pkg:nuget/DKNet.EfCore.Hooks@10.0.18
+- pkg:nuget/DKNet.EfCore.Hooks@10.0.23
+- pkg:nuget/DKNet.EfCore.Hooks@10.0.24
+- pkg:nuget/DKNet.EfCore.Hooks@10.0.25
 - pkg:nuget/DKNet.EfCore.Hooks@9.0.1
 - pkg:nuget/DKNet.EfCore.Hooks@9.0.10
 - pkg:nuget/DKNet.EfCore.Hooks@9.0.11

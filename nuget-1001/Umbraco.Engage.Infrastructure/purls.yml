@@ -20,9 +20,12 @@
 - pkg:nuget/Umbraco.Engage.Infrastructure@13.5.2
 - pkg:nuget/Umbraco.Engage.Infrastructure@13.5.3
 - pkg:nuget/Umbraco.Engage.Infrastructure@13.6.0
+- pkg:nuget/Umbraco.Engage.Infrastructure@13.8.0-rc1
 - pkg:nuget/Umbraco.Engage.Infrastructure@16.0.0
 - pkg:nuget/Umbraco.Engage.Infrastructure@16.0.0-rc1
 - pkg:nuget/Umbraco.Engage.Infrastructure@16.0.0-rc2
 - pkg:nuget/Umbraco.Engage.Infrastructure@16.0.1
+- pkg:nuget/Umbraco.Engage.Infrastructure@16.3.0-rc1
 - pkg:nuget/Umbraco.Engage.Infrastructure@17.0.0-rc3
 - pkg:nuget/Umbraco.Engage.Infrastructure@17.1.1
+- pkg:nuget/Umbraco.Engage.Infrastructure@17.2.0-rc1

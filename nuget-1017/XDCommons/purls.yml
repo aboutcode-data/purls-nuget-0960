@@ -366,4 +366,8 @@
 - pkg:nuget/XDCommons@2510.0.8
 - pkg:nuget/XDCommons@2510.0.9
 - pkg:nuget/XDCommons@2510.101.0
+- pkg:nuget/XDCommons@2512.607.4
+- pkg:nuget/XDCommons@2512.607.5
+- pkg:nuget/XDCommons@2512.607.6
+- pkg:nuget/XDCommons@2512.607.7
 - pkg:nuget/XDCommons@2604.0.0

@@ -99,6 +99,7 @@
 - pkg:nuget/EasyAbp.EShop.Plugins.Coupons.Application.Contracts@5.0.1
 - pkg:nuget/EasyAbp.EShop.Plugins.Coupons.Application.Contracts@5.0.2
 - pkg:nuget/EasyAbp.EShop.Plugins.Coupons.Application.Contracts@5.1.0
+- pkg:nuget/EasyAbp.EShop.Plugins.Coupons.Application.Contracts@5.10.0
 - pkg:nuget/EasyAbp.EShop.Plugins.Coupons.Application.Contracts@5.2.0
 - pkg:nuget/EasyAbp.EShop.Plugins.Coupons.Application.Contracts@5.3.0
 - pkg:nuget/EasyAbp.EShop.Plugins.Coupons.Application.Contracts@5.4.0

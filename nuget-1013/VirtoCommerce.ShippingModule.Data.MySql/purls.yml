@@ -1,3 +1,5 @@
+- pkg:nuget/VirtoCommerce.ShippingModule.Data.MySql@3.1000.1
+- pkg:nuget/VirtoCommerce.ShippingModule.Data.MySql@3.1002.0
 - pkg:nuget/VirtoCommerce.ShippingModule.Data.MySql@3.203.0
 - pkg:nuget/VirtoCommerce.ShippingModule.Data.MySql@3.203.0-alpha.149
 - pkg:nuget/VirtoCommerce.ShippingModule.Data.MySql@3.203.1
@@ -61,3 +63,4 @@
 - pkg:nuget/VirtoCommerce.ShippingModule.Data.MySql@3.813.0
 - pkg:nuget/VirtoCommerce.ShippingModule.Data.MySql@3.813.0-alpha.235-vcst-3865-pickup-locations-index
 - pkg:nuget/VirtoCommerce.ShippingModule.Data.MySql@3.814.0
+- pkg:nuget/VirtoCommerce.ShippingModule.Data.MySql@3.816.1

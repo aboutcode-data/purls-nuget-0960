@@ -17,6 +17,7 @@
 - pkg:nuget/EasyAbp.Abp.EntityUi.HttpApi.Client@0.9.0
 - pkg:nuget/EasyAbp.Abp.EntityUi.HttpApi.Client@1.0.0
 - pkg:nuget/EasyAbp.Abp.EntityUi.HttpApi.Client@1.1.0
+- pkg:nuget/EasyAbp.Abp.EntityUi.HttpApi.Client@1.11.0
 - pkg:nuget/EasyAbp.Abp.EntityUi.HttpApi.Client@1.2.0
 - pkg:nuget/EasyAbp.Abp.EntityUi.HttpApi.Client@1.3.0
 - pkg:nuget/EasyAbp.Abp.EntityUi.HttpApi.Client@1.4.0

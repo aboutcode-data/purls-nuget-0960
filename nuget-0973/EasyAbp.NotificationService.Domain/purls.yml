@@ -43,3 +43,4 @@
 - pkg:nuget/EasyAbp.NotificationService.Domain@3.4.0
 - pkg:nuget/EasyAbp.NotificationService.Domain@3.5.0
 - pkg:nuget/EasyAbp.NotificationService.Domain@3.5.0-preview.1
+- pkg:nuget/EasyAbp.NotificationService.Domain@3.7.0

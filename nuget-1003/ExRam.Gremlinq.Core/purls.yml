@@ -87,6 +87,7 @@
 - pkg:nuget/ExRam.Gremlinq.Core@13.1.0
 - pkg:nuget/ExRam.Gremlinq.Core@13.1.1
 - pkg:nuget/ExRam.Gremlinq.Core@13.2.1
+- pkg:nuget/ExRam.Gremlinq.Core@13.8.0
 - pkg:nuget/ExRam.Gremlinq.Core@6.0.0-preview-0113
 - pkg:nuget/ExRam.Gremlinq.Core@6.0.0-preview-0115
 - pkg:nuget/ExRam.Gremlinq.Core@6.0.0-preview-0146

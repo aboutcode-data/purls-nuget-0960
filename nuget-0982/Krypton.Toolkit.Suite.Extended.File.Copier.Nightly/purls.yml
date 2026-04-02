@@ -15,6 +15,7 @@
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.File.Copier.Nightly@100.25.7.209-alpha
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.File.Copier.Nightly@100.25.8.230-alpha
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.File.Copier.Nightly@100.25.9.244-alpha
+- pkg:nuget/Krypton.Toolkit.Suite.Extended.File.Copier.Nightly@110.26.4.92-alpha
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.File.Copier.Nightly@60.22.1.14-alpha
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.File.Copier.Nightly@60.22.1.15-alpha
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.File.Copier.Nightly@60.22.1.16-alpha

@@ -36,4 +36,5 @@
 - pkg:nuget/AmpScm.RepoDb.PostgreSql@1.14.2507.4263
 - pkg:nuget/AmpScm.RepoDb.PostgreSql@1.14.2508.12328
 - pkg:nuget/AmpScm.RepoDb.PostgreSql@1.14.2508.4318
+- pkg:nuget/AmpScm.RepoDb.PostgreSql@1.2026.329.480
 - pkg:nuget/AmpScm.RepoDb.PostgreSql@1.4.0-dev-20250211

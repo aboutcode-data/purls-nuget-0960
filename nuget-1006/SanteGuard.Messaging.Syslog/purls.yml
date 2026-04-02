@@ -62,5 +62,8 @@
 - pkg:nuget/SanteGuard.Messaging.Syslog@3.0.2047-alpha
 - pkg:nuget/SanteGuard.Messaging.Syslog@3.0.2056-alpha
 - pkg:nuget/SanteGuard.Messaging.Syslog@3.0.2067-alpha
+- pkg:nuget/SanteGuard.Messaging.Syslog@3.0.2071-alpha
+- pkg:nuget/SanteGuard.Messaging.Syslog@3.0.2072-alpha
+- pkg:nuget/SanteGuard.Messaging.Syslog@3.0.2073-alpha
 - pkg:nuget/SanteGuard.Messaging.Syslog@3.0.890-alpha
 - pkg:nuget/SanteGuard.Messaging.Syslog@3.0.998-alpha

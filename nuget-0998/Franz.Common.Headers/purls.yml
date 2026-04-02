@@ -17,3 +17,5 @@
 - pkg:nuget/Franz.Common.Headers@1.6.21
 - pkg:nuget/Franz.Common.Headers@1.7.2
 - pkg:nuget/Franz.Common.Headers@1.7.3
+- pkg:nuget/Franz.Common.Headers@2.0.1
+- pkg:nuget/Franz.Common.Headers@2.0.2

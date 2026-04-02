@@ -101,3 +101,5 @@
 - pkg:nuget/CasCap.Common.Caching@4.3.8
 - pkg:nuget/CasCap.Common.Caching@4.3.9
 - pkg:nuget/CasCap.Common.Caching@4.5.1
+- pkg:nuget/CasCap.Common.Caching@4.8.0
+- pkg:nuget/CasCap.Common.Caching@4.8.1

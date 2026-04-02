@@ -27,6 +27,8 @@
 - pkg:nuget/Archivist@0.10.7
 - pkg:nuget/Archivist@0.10.8
 - pkg:nuget/Archivist@0.10.9
+- pkg:nuget/Archivist@0.12.10
+- pkg:nuget/Archivist@0.12.9
 - pkg:nuget/Archivist@0.2.0
 - pkg:nuget/Archivist@0.3.0
 - pkg:nuget/Archivist@0.3.1

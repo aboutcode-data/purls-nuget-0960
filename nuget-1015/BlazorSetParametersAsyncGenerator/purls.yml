@@ -32,3 +32,7 @@
 - pkg:nuget/BlazorSetParametersAsyncGenerator@12.4.49
 - pkg:nuget/BlazorSetParametersAsyncGenerator@12.4.51
 - pkg:nuget/BlazorSetParametersAsyncGenerator@12.4.59
+- pkg:nuget/BlazorSetParametersAsyncGenerator@12.5.10
+- pkg:nuget/BlazorSetParametersAsyncGenerator@12.5.7
+- pkg:nuget/BlazorSetParametersAsyncGenerator@12.5.8
+- pkg:nuget/BlazorSetParametersAsyncGenerator@12.5.9

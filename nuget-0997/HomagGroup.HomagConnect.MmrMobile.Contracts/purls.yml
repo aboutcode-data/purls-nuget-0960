@@ -1,3 +1,4 @@
+- pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@0.0.0-alpha.0
 - pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@1.0.0
 - pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@1.2.3-alpha.0.100
 - pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@1.2.3-alpha.0.101
@@ -255,6 +256,9 @@
 - pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.0.1-alpha.0.32
 - pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.0.1-alpha.0.327
 - pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.0.1-alpha.0.33
+- pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.0.1-alpha.0.346
+- pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.0.1-alpha.0.347
+- pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.0.1-alpha.0.348
 - pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.0.1-alpha.0.35
 - pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.0.1-alpha.0.36
 - pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.0.1-alpha.0.37
@@ -315,3 +319,12 @@
 - pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.0.1-alpha.0.97
 - pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.0.1-alpha.0.98
 - pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.0.1-alpha.0.99
+- pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.2.2-alpha.0.2
+- pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.2.3
+- pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.2.3-preview.3
+- pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.2.3-preview.4
+- pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.2.4-preview.1
+- pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.2.4-preview.2
+- pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.2.4-preview.3
+- pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.2.4-preview.4
+- pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.2.4-preview.5

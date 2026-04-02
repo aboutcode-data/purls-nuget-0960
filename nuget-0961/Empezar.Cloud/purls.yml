@@ -79,4 +79,8 @@
 - pkg:nuget/Empezar.Cloud@2.0.6.9
 - pkg:nuget/Empezar.Cloud@2.1.9
 - pkg:nuget/Empezar.Cloud@2.2.0
+- pkg:nuget/Empezar.Cloud@2.2.11
+- pkg:nuget/Empezar.Cloud@2.2.12
+- pkg:nuget/Empezar.Cloud@2.2.13
+- pkg:nuget/Empezar.Cloud@2.2.14
 - pkg:nuget/Empezar.Cloud@2.2.8

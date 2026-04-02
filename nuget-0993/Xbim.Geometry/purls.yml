@@ -55,3 +55,4 @@
 - pkg:nuget/Xbim.Geometry@5.1.820
 - pkg:nuget/Xbim.Geometry@6.1.801-netcore
 - pkg:nuget/Xbim.Geometry@6.3.873-netcore
+- pkg:nuget/Xbim.Geometry@6.3.891-netcore

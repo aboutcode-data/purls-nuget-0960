@@ -48,3 +48,5 @@
 - pkg:nuget/Accelergreat@4.0.0-alpha.c246138
 - pkg:nuget/Accelergreat@4.0.1
 - pkg:nuget/Accelergreat@4.0.2
+- pkg:nuget/Accelergreat@5.0.0
+- pkg:nuget/Accelergreat@5.0.1

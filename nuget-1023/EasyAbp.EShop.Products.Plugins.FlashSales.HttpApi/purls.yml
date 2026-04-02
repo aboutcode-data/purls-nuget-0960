@@ -46,6 +46,7 @@
 - pkg:nuget/EasyAbp.EShop.Products.Plugins.FlashSales.HttpApi@5.0.1
 - pkg:nuget/EasyAbp.EShop.Products.Plugins.FlashSales.HttpApi@5.0.2
 - pkg:nuget/EasyAbp.EShop.Products.Plugins.FlashSales.HttpApi@5.1.0
+- pkg:nuget/EasyAbp.EShop.Products.Plugins.FlashSales.HttpApi@5.10.0
 - pkg:nuget/EasyAbp.EShop.Products.Plugins.FlashSales.HttpApi@5.2.0
 - pkg:nuget/EasyAbp.EShop.Products.Plugins.FlashSales.HttpApi@5.3.0
 - pkg:nuget/EasyAbp.EShop.Products.Plugins.FlashSales.HttpApi@5.4.0

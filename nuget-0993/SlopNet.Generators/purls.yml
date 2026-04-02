@@ -3,4 +3,6 @@
 - pkg:nuget/SlopNet.Generators@0.0.28
 - pkg:nuget/SlopNet.Generators@0.0.30
 - pkg:nuget/SlopNet.Generators@0.0.56
+- pkg:nuget/SlopNet.Generators@0.0.58
+- pkg:nuget/SlopNet.Generators@0.0.59
 - pkg:nuget/SlopNet.Generators@0.0.6

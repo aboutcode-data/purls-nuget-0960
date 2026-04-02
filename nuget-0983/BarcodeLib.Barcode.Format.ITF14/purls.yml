@@ -20,3 +20,4 @@
 - pkg:nuget/BarcodeLib.Barcode.Format.ITF14@7.4.1.7
 - pkg:nuget/BarcodeLib.Barcode.Format.ITF14@7.4.1.8
 - pkg:nuget/BarcodeLib.Barcode.Format.ITF14@7.4.1.9
+- pkg:nuget/BarcodeLib.Barcode.Format.ITF14@8.0.0.10

@@ -1,3 +1,4 @@
 - pkg:nuget/KeepDynamic.BarcodeGenerator.Presentation.App.Code39@6.0.0
 - pkg:nuget/KeepDynamic.BarcodeGenerator.Presentation.App.Code39@6.0.0-alpha1
 - pkg:nuget/KeepDynamic.BarcodeGenerator.Presentation.App.Code39@6.0.0.2
+- pkg:nuget/KeepDynamic.BarcodeGenerator.Presentation.App.Code39@6.0.0.3

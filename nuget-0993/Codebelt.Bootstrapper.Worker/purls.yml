@@ -15,3 +15,4 @@
 - pkg:nuget/Codebelt.Bootstrapper.Worker@4.0.3
 - pkg:nuget/Codebelt.Bootstrapper.Worker@4.0.4
 - pkg:nuget/Codebelt.Bootstrapper.Worker@4.0.5
+- pkg:nuget/Codebelt.Bootstrapper.Worker@5.0.6

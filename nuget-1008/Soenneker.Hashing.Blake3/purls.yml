@@ -2,4 +2,6 @@
 - pkg:nuget/Soenneker.Hashing.Blake3@4.0.21
 - pkg:nuget/Soenneker.Hashing.Blake3@4.0.3
 - pkg:nuget/Soenneker.Hashing.Blake3@4.0.31
+- pkg:nuget/Soenneker.Hashing.Blake3@4.0.35
+- pkg:nuget/Soenneker.Hashing.Blake3@4.0.36
 - pkg:nuget/Soenneker.Hashing.Blake3@4.0.5

@@ -6,6 +6,7 @@
 - pkg:nuget/CG.Infrastructure.Responses@3.0.2
 - pkg:nuget/CG.Infrastructure.Responses@3.10.0
 - pkg:nuget/CG.Infrastructure.Responses@3.10.1
+- pkg:nuget/CG.Infrastructure.Responses@3.10.11
 - pkg:nuget/CG.Infrastructure.Responses@3.10.2
 - pkg:nuget/CG.Infrastructure.Responses@3.10.3
 - pkg:nuget/CG.Infrastructure.Responses@3.10.4

@@ -1,4 +1,5 @@
 - pkg:nuget/Tyto.Locking.Redis@0.0.1-alpha.22
 - pkg:nuget/Tyto.Locking.Redis@0.0.1-alpha.23
+- pkg:nuget/Tyto.Locking.Redis@0.0.1-alpha.48
 - pkg:nuget/Tyto.Locking.Redis@0.0.1-alpha.8
 - pkg:nuget/Tyto.Locking.Redis@0.0.1-alpha.9

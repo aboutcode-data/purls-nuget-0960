@@ -48,3 +48,4 @@
 - pkg:nuget/Google.Apis.DatabaseMigrationService.v1beta1@1.68.0.3623
 - pkg:nuget/Google.Apis.DatabaseMigrationService.v1beta1@1.69.0.3751
 - pkg:nuget/Google.Apis.DatabaseMigrationService.v1beta1@1.70.0.3879
+- pkg:nuget/Google.Apis.DatabaseMigrationService.v1beta1@1.73.0.4096

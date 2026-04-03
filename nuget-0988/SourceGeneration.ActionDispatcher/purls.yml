@@ -21,3 +21,4 @@
 - pkg:nuget/SourceGeneration.ActionDispatcher@1.0.0-beta2.250505.1
 - pkg:nuget/SourceGeneration.ActionDispatcher@1.0.0-beta2.250505.2
 - pkg:nuget/SourceGeneration.ActionDispatcher@1.0.0-beta2.250506.0
+- pkg:nuget/SourceGeneration.ActionDispatcher@2.0.0-beta250403

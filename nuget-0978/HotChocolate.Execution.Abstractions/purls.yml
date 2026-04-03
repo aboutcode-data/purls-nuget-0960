@@ -700,6 +700,8 @@
 - pkg:nuget/HotChocolate.Execution.Abstractions@16.0.0-p.9.7
 - pkg:nuget/HotChocolate.Execution.Abstractions@16.0.0-p.9.8
 - pkg:nuget/HotChocolate.Execution.Abstractions@16.0.0-p.9.9
+- pkg:nuget/HotChocolate.Execution.Abstractions@16.0.0-rc.1.14
+- pkg:nuget/HotChocolate.Execution.Abstractions@16.0.0-rc.1.15
 - pkg:nuget/HotChocolate.Execution.Abstractions@16.0.0-rc.1.16
 - pkg:nuget/HotChocolate.Execution.Abstractions@16.0.0-rc.1.17
 - pkg:nuget/HotChocolate.Execution.Abstractions@16.0.0-rc.1.18

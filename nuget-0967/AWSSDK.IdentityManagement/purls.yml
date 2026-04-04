@@ -1285,4 +1285,5 @@
 - pkg:nuget/AWSSDK.IdentityManagement@4.0.9.13
 - pkg:nuget/AWSSDK.IdentityManagement@4.0.9.14
 - pkg:nuget/AWSSDK.IdentityManagement@4.0.9.15
+- pkg:nuget/AWSSDK.IdentityManagement@4.0.9.16
 - pkg:nuget/AWSSDK.IdentityManagement@4.0.9.3

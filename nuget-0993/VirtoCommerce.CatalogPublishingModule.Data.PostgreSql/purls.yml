@@ -1,4 +1,5 @@
 - pkg:nuget/VirtoCommerce.CatalogPublishingModule.Data.PostgreSql@3.1001.0
+- pkg:nuget/VirtoCommerce.CatalogPublishingModule.Data.PostgreSql@3.1002.0
 - pkg:nuget/VirtoCommerce.CatalogPublishingModule.Data.PostgreSql@3.201.0
 - pkg:nuget/VirtoCommerce.CatalogPublishingModule.Data.PostgreSql@3.201.0-alpha.308
 - pkg:nuget/VirtoCommerce.CatalogPublishingModule.Data.PostgreSql@3.202.0

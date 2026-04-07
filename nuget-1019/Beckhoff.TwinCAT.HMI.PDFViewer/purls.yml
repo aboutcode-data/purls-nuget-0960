@@ -40,3 +40,4 @@
 - pkg:nuget/Beckhoff.TwinCAT.HMI.PDFViewer@14.3.175
 - pkg:nuget/Beckhoff.TwinCAT.HMI.PDFViewer@14.3.210
 - pkg:nuget/Beckhoff.TwinCAT.HMI.PDFViewer@14.3.229
+- pkg:nuget/Beckhoff.TwinCAT.HMI.PDFViewer@14.3.347

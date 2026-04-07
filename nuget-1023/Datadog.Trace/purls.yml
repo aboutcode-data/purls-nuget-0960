@@ -205,6 +205,7 @@
 - pkg:nuget/Datadog.Trace@3.4.0
 - pkg:nuget/Datadog.Trace@3.4.1
 - pkg:nuget/Datadog.Trace@3.40.0
+- pkg:nuget/Datadog.Trace@3.41.0
 - pkg:nuget/Datadog.Trace@3.5.0
 - pkg:nuget/Datadog.Trace@3.6.0
 - pkg:nuget/Datadog.Trace@3.6.1

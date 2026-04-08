@@ -6,3 +6,4 @@
 - pkg:nuget/NexJob.Redis@0.5.0
 - pkg:nuget/NexJob.Redis@0.5.1
 - pkg:nuget/NexJob.Redis@0.5.2
+- pkg:nuget/NexJob.Redis@0.8.0

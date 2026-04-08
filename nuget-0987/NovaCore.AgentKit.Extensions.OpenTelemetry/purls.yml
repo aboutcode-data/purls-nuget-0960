@@ -2,3 +2,4 @@
 - pkg:nuget/NovaCore.AgentKit.Extensions.OpenTelemetry@3.2.1
 - pkg:nuget/NovaCore.AgentKit.Extensions.OpenTelemetry@3.3.4
 - pkg:nuget/NovaCore.AgentKit.Extensions.OpenTelemetry@3.3.5
+- pkg:nuget/NovaCore.AgentKit.Extensions.OpenTelemetry@3.3.7

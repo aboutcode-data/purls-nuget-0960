@@ -1,1 +1,2 @@
+- pkg:nuget/GameFrameX.AppHost.ServiceDefaults@1.6.1
 - pkg:nuget/GameFrameX.AppHost.ServiceDefaults@2.0.0.2-dev11

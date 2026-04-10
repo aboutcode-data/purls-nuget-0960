@@ -174,3 +174,4 @@
 - pkg:nuget/Silverback.Integration@5.0.0-beta.7
 - pkg:nuget/Silverback.Integration@5.0.0-beta.8
 - pkg:nuget/Silverback.Integration@5.0.0-beta.9
+- pkg:nuget/Silverback.Integration@5.2.2-beta.3

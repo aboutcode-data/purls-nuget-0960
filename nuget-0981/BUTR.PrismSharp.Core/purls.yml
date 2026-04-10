@@ -1,2 +1,5 @@
 - pkg:nuget/BUTR.PrismSharp.Core@1.0.0.14
 - pkg:nuget/BUTR.PrismSharp.Core@1.0.0.16
+- pkg:nuget/BUTR.PrismSharp.Core@1.0.0.20
+- pkg:nuget/BUTR.PrismSharp.Core@1.0.0.21
+- pkg:nuget/BUTR.PrismSharp.Core@1.0.0.22

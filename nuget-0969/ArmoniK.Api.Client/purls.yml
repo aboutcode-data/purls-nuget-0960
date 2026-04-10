@@ -2315,6 +2315,7 @@
 - pkg:nuget/ArmoniK.Api.Client@3.29.1-renovategithubactions.1.be4565ba
 - pkg:nuget/ArmoniK.Api.Client@3.29.1-renovategithubactions.1.da1b5e20
 - pkg:nuget/ArmoniK.Api.Client@3.29.1-renovategithubactions.1.e77be673
+- pkg:nuget/ArmoniK.Api.Client@3.29.1-renovategithubactions.1.e874c42e
 - pkg:nuget/ArmoniK.Api.Client@3.29.1-renovategithubactions.1.ef981e92
 - pkg:nuget/ArmoniK.Api.Client@3.29.1-renovatemajornuget.1.e3cfc2b1
 - pkg:nuget/ArmoniK.Api.Client@3.29.1-renovatemajorwebnpm.1.68781471

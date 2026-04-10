@@ -35,3 +35,4 @@
 - pkg:nuget/Bee.UI.WinForms@3.4.4
 - pkg:nuget/Bee.UI.WinForms@3.4.5
 - pkg:nuget/Bee.UI.WinForms@3.4.8
+- pkg:nuget/Bee.UI.WinForms@4.0.1

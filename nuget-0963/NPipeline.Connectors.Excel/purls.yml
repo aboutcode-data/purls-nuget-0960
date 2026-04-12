@@ -3,4 +3,5 @@
 - pkg:nuget/NPipeline.Connectors.Excel@0.34.0
 - pkg:nuget/NPipeline.Connectors.Excel@0.35.0
 - pkg:nuget/NPipeline.Connectors.Excel@0.38.0
+- pkg:nuget/NPipeline.Connectors.Excel@0.40.0
 - pkg:nuget/NPipeline.Connectors.Excel@0.7.1

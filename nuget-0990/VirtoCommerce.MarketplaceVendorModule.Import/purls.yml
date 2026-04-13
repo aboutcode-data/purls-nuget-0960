@@ -20,6 +20,7 @@
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Import@3.0.0-alpha.99
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Import@3.1000.0
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Import@3.1000.0-alpha.990
+- pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Import@3.1001.0-alpha.1001
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Import@3.1001.0-alpha.991
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Import@3.1001.0-alpha.993
 - pkg:nuget/VirtoCommerce.MarketplaceVendorModule.Import@3.200.0

@@ -91,6 +91,7 @@
 - pkg:nuget/Indigina.IHub.Orchestrator.Client@1.0.197
 - pkg:nuget/Indigina.IHub.Orchestrator.Client@1.0.2
 - pkg:nuget/Indigina.IHub.Orchestrator.Client@1.0.20
+- pkg:nuget/Indigina.IHub.Orchestrator.Client@1.0.202
 - pkg:nuget/Indigina.IHub.Orchestrator.Client@1.0.21
 - pkg:nuget/Indigina.IHub.Orchestrator.Client@1.0.22
 - pkg:nuget/Indigina.IHub.Orchestrator.Client@1.0.23

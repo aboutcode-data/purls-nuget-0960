@@ -8,5 +8,8 @@
 - pkg:nuget/SnowyRiver.Accounts.Domain@1.0.6
 - pkg:nuget/SnowyRiver.Accounts.Domain@1.0.7
 - pkg:nuget/SnowyRiver.Accounts.Domain@10.0.18
+- pkg:nuget/SnowyRiver.Accounts.Domain@10.0.23
+- pkg:nuget/SnowyRiver.Accounts.Domain@10.0.24
+- pkg:nuget/SnowyRiver.Accounts.Domain@10.0.25
 - pkg:nuget/SnowyRiver.Accounts.Domain@10.0.7
 - pkg:nuget/SnowyRiver.Accounts.Domain@10.0.8

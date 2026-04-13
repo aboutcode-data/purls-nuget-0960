@@ -1,1 +1,2 @@
+- pkg:nuget/CoreGame.SharedMeta.Transport.SignalR.MessagePack@0.10.0
 - pkg:nuget/CoreGame.SharedMeta.Transport.SignalR.MessagePack@0.5.1

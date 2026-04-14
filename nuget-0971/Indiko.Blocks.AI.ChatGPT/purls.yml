@@ -21,3 +21,4 @@
 - pkg:nuget/Indiko.Blocks.AI.ChatGPT@2.1.1
 - pkg:nuget/Indiko.Blocks.AI.ChatGPT@2.2.3
 - pkg:nuget/Indiko.Blocks.AI.ChatGPT@2.5.0
+- pkg:nuget/Indiko.Blocks.AI.ChatGPT@2.5.1

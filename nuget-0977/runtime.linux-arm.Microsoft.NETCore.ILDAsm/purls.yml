@@ -11,6 +11,7 @@
 - pkg:nuget/runtime.linux-arm.Microsoft.NETCore.ILDAsm@10.0.2
 - pkg:nuget/runtime.linux-arm.Microsoft.NETCore.ILDAsm@10.0.3
 - pkg:nuget/runtime.linux-arm.Microsoft.NETCore.ILDAsm@11.0.0-preview.2.26159.112
+- pkg:nuget/runtime.linux-arm.Microsoft.NETCore.ILDAsm@11.0.0-preview.3.26207.106
 - pkg:nuget/runtime.linux-arm.Microsoft.NETCore.ILDAsm@2.0.0
 - pkg:nuget/runtime.linux-arm.Microsoft.NETCore.ILDAsm@2.0.0-preview1-25301-02
 - pkg:nuget/runtime.linux-arm.Microsoft.NETCore.ILDAsm@2.0.0-preview2-25407-01

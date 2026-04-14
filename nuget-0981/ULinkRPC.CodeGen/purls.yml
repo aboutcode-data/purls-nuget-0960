@@ -3,3 +3,4 @@
 - pkg:nuget/ULinkRPC.CodeGen@0.12.4
 - pkg:nuget/ULinkRPC.CodeGen@0.12.5
 - pkg:nuget/ULinkRPC.CodeGen@0.13.4
+- pkg:nuget/ULinkRPC.CodeGen@0.16.0

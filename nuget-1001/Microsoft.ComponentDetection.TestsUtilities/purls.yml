@@ -108,5 +108,6 @@
 - pkg:nuget/Microsoft.ComponentDetection.TestsUtilities@7.0.11
 - pkg:nuget/Microsoft.ComponentDetection.TestsUtilities@7.0.12
 - pkg:nuget/Microsoft.ComponentDetection.TestsUtilities@7.0.13
+- pkg:nuget/Microsoft.ComponentDetection.TestsUtilities@7.0.18
 - pkg:nuget/Microsoft.ComponentDetection.TestsUtilities@7.0.3
 - pkg:nuget/Microsoft.ComponentDetection.TestsUtilities@7.0.6

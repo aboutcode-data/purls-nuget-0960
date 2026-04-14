@@ -13,6 +13,7 @@
 - pkg:nuget/CosmosDB.InMemoryEmulator.JsTriggers@2.0.13
 - pkg:nuget/CosmosDB.InMemoryEmulator.JsTriggers@2.0.14
 - pkg:nuget/CosmosDB.InMemoryEmulator.JsTriggers@2.0.15
+- pkg:nuget/CosmosDB.InMemoryEmulator.JsTriggers@2.0.174
 - pkg:nuget/CosmosDB.InMemoryEmulator.JsTriggers@2.0.2
 - pkg:nuget/CosmosDB.InMemoryEmulator.JsTriggers@2.0.3
 - pkg:nuget/CosmosDB.InMemoryEmulator.JsTriggers@2.0.36

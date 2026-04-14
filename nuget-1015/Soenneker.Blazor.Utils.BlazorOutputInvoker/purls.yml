@@ -979,6 +979,7 @@
 - pkg:nuget/Soenneker.Blazor.Utils.BlazorOutputInvoker@3.0.980
 - pkg:nuget/Soenneker.Blazor.Utils.BlazorOutputInvoker@3.0.981
 - pkg:nuget/Soenneker.Blazor.Utils.BlazorOutputInvoker@3.0.982
+- pkg:nuget/Soenneker.Blazor.Utils.BlazorOutputInvoker@4.0.1003
 - pkg:nuget/Soenneker.Blazor.Utils.BlazorOutputInvoker@4.0.985
 - pkg:nuget/Soenneker.Blazor.Utils.BlazorOutputInvoker@4.0.991
 - pkg:nuget/Soenneker.Blazor.Utils.BlazorOutputInvoker@4.0.995

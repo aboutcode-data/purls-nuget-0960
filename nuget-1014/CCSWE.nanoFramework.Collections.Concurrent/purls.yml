@@ -82,6 +82,7 @@
 - pkg:nuget/CCSWE.nanoFramework.Collections.Concurrent@1.0.7
 - pkg:nuget/CCSWE.nanoFramework.Collections.Concurrent@1.1.11
 - pkg:nuget/CCSWE.nanoFramework.Collections.Concurrent@1.1.12
+- pkg:nuget/CCSWE.nanoFramework.Collections.Concurrent@1.1.122
 - pkg:nuget/CCSWE.nanoFramework.Collections.Concurrent@1.1.17
 - pkg:nuget/CCSWE.nanoFramework.Collections.Concurrent@1.1.18
 - pkg:nuget/CCSWE.nanoFramework.Collections.Concurrent@1.1.19

@@ -3,6 +3,9 @@
 - pkg:nuget/DotNetNuke.Core@10.0.1
 - pkg:nuget/DotNetNuke.Core@10.1.0
 - pkg:nuget/DotNetNuke.Core@10.1.1
+- pkg:nuget/DotNetNuke.Core@10.1.2
+- pkg:nuget/DotNetNuke.Core@10.2.0
+- pkg:nuget/DotNetNuke.Core@10.2.1
 - pkg:nuget/DotNetNuke.Core@6.0.0
 - pkg:nuget/DotNetNuke.Core@7.0.0
 - pkg:nuget/DotNetNuke.Core@7.0.6.121

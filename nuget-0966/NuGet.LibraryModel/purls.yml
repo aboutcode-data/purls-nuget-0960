@@ -57,6 +57,7 @@
 - pkg:nuget/NuGet.LibraryModel@4.9.4%2Bed6e2dca9391d13b431f4eff58c5194f0ebcee13
 - pkg:nuget/NuGet.LibraryModel@4.9.5%2B73d259e97cd8180eb22d05544dfc2c84eebfe113
 - pkg:nuget/NuGet.LibraryModel@4.9.6%2Ba32bce39889f724fbd11cfd12e946f802168b583
+- pkg:nuget/NuGet.LibraryModel@4.9.7%2B2f95c369aa79225d4fbc752f4ec5063d71cdfd08
 - pkg:nuget/NuGet.LibraryModel@5.0.0%2B42a8779499c1d1ed2488c2e6b9e2ee6ff6107766
 - pkg:nuget/NuGet.LibraryModel@5.0.0-preview2.5782%2Bd42d7f76a48884830c82ec92b7a54677e6d02259
 - pkg:nuget/NuGet.LibraryModel@5.0.0-preview3.5800%2B741513b5f19b4570846c170439daade79e4d0daf
@@ -72,6 +73,7 @@
 - pkg:nuget/NuGet.LibraryModel@5.11.3
 - pkg:nuget/NuGet.LibraryModel@5.11.5
 - pkg:nuget/NuGet.LibraryModel@5.11.6
+- pkg:nuget/NuGet.LibraryModel@5.11.7
 - pkg:nuget/NuGet.LibraryModel@5.2.0%2Bf6f9fb481b9fbf14154d484dbf376446c9b0d274
 - pkg:nuget/NuGet.LibraryModel@5.2.1%2B311b325795f23b3c718473671d3432cdbcf9deff
 - pkg:nuget/NuGet.LibraryModel@5.3.0%2Bb75150f2f4127a77a166c9552845e86fb24a3282
@@ -118,12 +120,15 @@
 - pkg:nuget/NuGet.LibraryModel@6.11.0
 - pkg:nuget/NuGet.LibraryModel@6.11.0-preview.2
 - pkg:nuget/NuGet.LibraryModel@6.11.1
+- pkg:nuget/NuGet.LibraryModel@6.11.2
 - pkg:nuget/NuGet.LibraryModel@6.12.0
 - pkg:nuget/NuGet.LibraryModel@6.12.1
 - pkg:nuget/NuGet.LibraryModel@6.12.4
+- pkg:nuget/NuGet.LibraryModel@6.12.5
 - pkg:nuget/NuGet.LibraryModel@6.13.1
 - pkg:nuget/NuGet.LibraryModel@6.13.2
 - pkg:nuget/NuGet.LibraryModel@6.14.0
+- pkg:nuget/NuGet.LibraryModel@6.14.3
 - pkg:nuget/NuGet.LibraryModel@6.2.0
 - pkg:nuget/NuGet.LibraryModel@6.2.1
 - pkg:nuget/NuGet.LibraryModel@6.2.2
@@ -147,3 +152,5 @@
 - pkg:nuget/NuGet.LibraryModel@6.8.1
 - pkg:nuget/NuGet.LibraryModel@6.9.1
 - pkg:nuget/NuGet.LibraryModel@7.0.0
+- pkg:nuget/NuGet.LibraryModel@7.0.3
+- pkg:nuget/NuGet.LibraryModel@7.3.1

@@ -196,6 +196,7 @@
 - pkg:nuget/Shesha.Core@0.43.17
 - pkg:nuget/Shesha.Core@0.43.2
 - pkg:nuget/Shesha.Core@0.43.28
+- pkg:nuget/Shesha.Core@0.43.29
 - pkg:nuget/Shesha.Core@0.43.3
 - pkg:nuget/Shesha.Core@0.43.4
 - pkg:nuget/Shesha.Core@0.43.5

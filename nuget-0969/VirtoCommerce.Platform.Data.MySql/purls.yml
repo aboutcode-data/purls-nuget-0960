@@ -1,6 +1,7 @@
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1000.0
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1001.0
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1007.1
+- pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1007.5
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1011.0
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1012.0
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1012.0-alpha.13292-vcst-4696-clean-modularity

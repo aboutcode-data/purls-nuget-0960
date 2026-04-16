@@ -1,3 +1,4 @@
+- pkg:nuget/Lumarin.Notify.Abstractions@0.8.0-preview.110
 - pkg:nuget/Lumarin.Notify.Abstractions@0.8.0-preview.89
 - pkg:nuget/Lumarin.Notify.Abstractions@0.8.0-preview.90
 - pkg:nuget/Lumarin.Notify.Abstractions@0.8.0-preview.91

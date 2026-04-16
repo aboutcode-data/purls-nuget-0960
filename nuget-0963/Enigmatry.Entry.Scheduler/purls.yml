@@ -13,6 +13,7 @@
 - pkg:nuget/Enigmatry.Entry.Scheduler@1.1.495
 - pkg:nuget/Enigmatry.Entry.Scheduler@1.1.500
 - pkg:nuget/Enigmatry.Entry.Scheduler@10.0.0
+- pkg:nuget/Enigmatry.Entry.Scheduler@10.0.1-preview.2
 - pkg:nuget/Enigmatry.Entry.Scheduler@2.0.0
 - pkg:nuget/Enigmatry.Entry.Scheduler@2.0.0-preview
 - pkg:nuget/Enigmatry.Entry.Scheduler@2.0.0-preview.1

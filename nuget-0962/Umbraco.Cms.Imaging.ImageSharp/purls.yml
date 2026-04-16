@@ -60,6 +60,7 @@
 - pkg:nuget/Umbraco.Cms.Imaging.ImageSharp@13.10.0
 - pkg:nuget/Umbraco.Cms.Imaging.ImageSharp@13.10.0-rc
 - pkg:nuget/Umbraco.Cms.Imaging.ImageSharp@13.11.0
+- pkg:nuget/Umbraco.Cms.Imaging.ImageSharp@13.14.0-rc
 - pkg:nuget/Umbraco.Cms.Imaging.ImageSharp@13.2.0
 - pkg:nuget/Umbraco.Cms.Imaging.ImageSharp@13.2.0-rc
 - pkg:nuget/Umbraco.Cms.Imaging.ImageSharp@13.2.1

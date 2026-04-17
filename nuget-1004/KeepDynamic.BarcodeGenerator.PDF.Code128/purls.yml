@@ -2,3 +2,4 @@
 - pkg:nuget/KeepDynamic.BarcodeGenerator.PDF.Code128@6.0.0-alpha1
 - pkg:nuget/KeepDynamic.BarcodeGenerator.PDF.Code128@6.0.0.3
 - pkg:nuget/KeepDynamic.BarcodeGenerator.PDF.Code128@6.0.0.4
+- pkg:nuget/KeepDynamic.BarcodeGenerator.PDF.Code128@6.0.0.7

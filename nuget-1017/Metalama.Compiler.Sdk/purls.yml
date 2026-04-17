@@ -111,6 +111,7 @@
 - pkg:nuget/Metalama.Compiler.Sdk@2025.1.6
 - pkg:nuget/Metalama.Compiler.Sdk@2025.1.7
 - pkg:nuget/Metalama.Compiler.Sdk@2025.2.1-preview
+- pkg:nuget/Metalama.Compiler.Sdk@2026.0.11
 - pkg:nuget/Metalama.Compiler.Sdk@2026.0.9
 - pkg:nuget/Metalama.Compiler.Sdk@2026.1.5-preview
 - pkg:nuget/Metalama.Compiler.Sdk@4.0.2002-preview

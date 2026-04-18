@@ -3,3 +3,4 @@
 - pkg:nuget/ManaFox.Databases.Core@0.0.23
 - pkg:nuget/ManaFox.Databases.Core@0.3.0
 - pkg:nuget/ManaFox.Databases.Core@0.4.3
+- pkg:nuget/ManaFox.Databases.Core@0.4.8

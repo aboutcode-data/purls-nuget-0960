@@ -1,1 +1,2 @@
 - pkg:nuget/ManaFox.Databases.PostgreSQL.Migrations@0.4.3
+- pkg:nuget/ManaFox.Databases.PostgreSQL.Migrations@0.4.8

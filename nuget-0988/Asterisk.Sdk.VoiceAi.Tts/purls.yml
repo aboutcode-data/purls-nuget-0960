@@ -1,3 +1,4 @@
+- pkg:nuget/Asterisk.Sdk.VoiceAi.Tts@1.12.0
 - pkg:nuget/Asterisk.Sdk.VoiceAi.Tts@1.5.1
 - pkg:nuget/Asterisk.Sdk.VoiceAi.Tts@1.5.2
 - pkg:nuget/Asterisk.Sdk.VoiceAi.Tts@1.5.3

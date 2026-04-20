@@ -11,6 +11,7 @@
 - pkg:nuget/BridgingIT.DevKit.Application.Utilities@10.0.106-preview.0.8
 - pkg:nuget/BridgingIT.DevKit.Application.Utilities@10.0.107-preview.0.2
 - pkg:nuget/BridgingIT.DevKit.Application.Utilities@10.0.108-preview.0.2
+- pkg:nuget/BridgingIT.DevKit.Application.Utilities@10.0.108-preview.0.25
 - pkg:nuget/BridgingIT.DevKit.Application.Utilities@10.0.2-preview.0.2
 - pkg:nuget/BridgingIT.DevKit.Application.Utilities@10.0.2-preview.0.22
 - pkg:nuget/BridgingIT.DevKit.Application.Utilities@10.0.2-preview.0.3

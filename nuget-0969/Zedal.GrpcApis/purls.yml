@@ -2,3 +2,4 @@
 - pkg:nuget/Zedal.GrpcApis@1.0.0-rc2
 - pkg:nuget/Zedal.GrpcApis@1.0.0-rc3
 - pkg:nuget/Zedal.GrpcApis@1.1.0-diwass-preview-2
+- pkg:nuget/Zedal.GrpcApis@1.1.0-diwass-preview-4

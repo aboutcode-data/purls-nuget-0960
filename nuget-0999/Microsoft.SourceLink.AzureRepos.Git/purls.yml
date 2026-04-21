@@ -3,4 +3,6 @@
 - pkg:nuget/Microsoft.SourceLink.AzureRepos.Git@1.1.0
 - pkg:nuget/Microsoft.SourceLink.AzureRepos.Git@1.1.0-beta-20204-02
 - pkg:nuget/Microsoft.SourceLink.AzureRepos.Git@1.1.1
+- pkg:nuget/Microsoft.SourceLink.AzureRepos.Git@10.0.107
+- pkg:nuget/Microsoft.SourceLink.AzureRepos.Git@10.0.203
 - pkg:nuget/Microsoft.SourceLink.AzureRepos.Git@8.0.0

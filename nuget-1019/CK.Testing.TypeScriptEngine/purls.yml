@@ -11,3 +11,4 @@
 - pkg:nuget/CK.Testing.TypeScriptEngine@0.27.1
 - pkg:nuget/CK.Testing.TypeScriptEngine@0.27.2
 - pkg:nuget/CK.Testing.TypeScriptEngine@0.30.1
+- pkg:nuget/CK.Testing.TypeScriptEngine@0.31.0

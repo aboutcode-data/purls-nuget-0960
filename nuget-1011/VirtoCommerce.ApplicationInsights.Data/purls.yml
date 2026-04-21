@@ -1,3 +1,4 @@
+- pkg:nuget/VirtoCommerce.ApplicationInsights.Data@3.1002.0-alpha.53-vcst-4717
 - pkg:nuget/VirtoCommerce.ApplicationInsights.Data@3.200.0
 - pkg:nuget/VirtoCommerce.ApplicationInsights.Data@3.200.0-alpha.3
 - pkg:nuget/VirtoCommerce.ApplicationInsights.Data@3.201.0

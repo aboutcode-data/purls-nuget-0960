@@ -1,1 +1,4 @@
+- pkg:nuget/ANcpLua.Roslyn.Utilities.Testing.AgentTesting@1.48.0-preview.1
+- pkg:nuget/ANcpLua.Roslyn.Utilities.Testing.AgentTesting@1.49.0-preview.1
+- pkg:nuget/ANcpLua.Roslyn.Utilities.Testing.AgentTesting@1.50.0-preview.1
 - pkg:nuget/ANcpLua.Roslyn.Utilities.Testing.AgentTesting@1.51.0-preview.1

@@ -7,6 +7,8 @@
 - pkg:nuget/Microsoft.TemplateEngine.Core@10.0.100-preview.7.25380.108
 - pkg:nuget/Microsoft.TemplateEngine.Core@10.0.100-rc.1.25451.107
 - pkg:nuget/Microsoft.TemplateEngine.Core@10.0.101
+- pkg:nuget/Microsoft.TemplateEngine.Core@10.0.107
+- pkg:nuget/Microsoft.TemplateEngine.Core@10.0.203
 - pkg:nuget/Microsoft.TemplateEngine.Core@11.0.100-preview.1.26104.118
 - pkg:nuget/Microsoft.TemplateEngine.Core@5.0.0
 - pkg:nuget/Microsoft.TemplateEngine.Core@5.0.0-rc.1.20431.3

@@ -287,3 +287,4 @@
 - pkg:nuget/Syncfusion.Blazor.WordProcessor@32.2.9
 - pkg:nuget/Syncfusion.Blazor.WordProcessor@33.1.45
 - pkg:nuget/Syncfusion.Blazor.WordProcessor@33.1.46
+- pkg:nuget/Syncfusion.Blazor.WordProcessor@33.2.3

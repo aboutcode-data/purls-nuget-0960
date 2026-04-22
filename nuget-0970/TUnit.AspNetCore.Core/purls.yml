@@ -1,1 +1,2 @@
 - pkg:nuget/TUnit.AspNetCore.Core@1.35.2
+- pkg:nuget/TUnit.AspNetCore.Core@1.37.24

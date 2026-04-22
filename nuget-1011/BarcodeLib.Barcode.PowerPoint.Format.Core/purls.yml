@@ -21,3 +21,4 @@
 - pkg:nuget/BarcodeLib.Barcode.PowerPoint.Format.Core@7.4.1.8
 - pkg:nuget/BarcodeLib.Barcode.PowerPoint.Format.Core@7.4.1.9
 - pkg:nuget/BarcodeLib.Barcode.PowerPoint.Format.Core@8.0.0.11
+- pkg:nuget/BarcodeLib.Barcode.PowerPoint.Format.Core@8.0.0.14

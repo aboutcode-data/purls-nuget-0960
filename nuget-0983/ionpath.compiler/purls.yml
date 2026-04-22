@@ -2,3 +2,4 @@
 - pkg:nuget/ionpath.compiler@1.0.0-beta.50
 - pkg:nuget/ionpath.compiler@1.2.0
 - pkg:nuget/ionpath.compiler@1.2.2-beta.162
+- pkg:nuget/ionpath.compiler@1.3.2

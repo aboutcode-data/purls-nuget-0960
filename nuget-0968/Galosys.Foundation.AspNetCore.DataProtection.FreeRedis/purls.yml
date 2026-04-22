@@ -1,1 +1,2 @@
 - pkg:nuget/Galosys.Foundation.AspNetCore.DataProtection.FreeRedis@25.11.21.1-rc
+- pkg:nuget/Galosys.Foundation.AspNetCore.DataProtection.FreeRedis@26.4.22.2-rc7

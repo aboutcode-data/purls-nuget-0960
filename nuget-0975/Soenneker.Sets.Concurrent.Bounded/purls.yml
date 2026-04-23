@@ -1,2 +1,3 @@
 - pkg:nuget/Soenneker.Sets.Concurrent.Bounded@4.0.12
+- pkg:nuget/Soenneker.Sets.Concurrent.Bounded@4.0.21
 - pkg:nuget/Soenneker.Sets.Concurrent.Bounded@4.0.3

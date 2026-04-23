@@ -19,11 +19,13 @@
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2023.1.1
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2023.1.60
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2023.1.80
+- pkg:nuget/Nice3point.Revit.Api.RevitAPI@2023.1.90
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2024.0.0
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2024.0.0-preview0902
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2024.2.0
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2024.3.10
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2024.3.30
+- pkg:nuget/Nice3point.Revit.Api.RevitAPI@2024.3.40
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2025.0.0-preview
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2025.0.0-preview.3.240313
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2025.0.0-preview0111
@@ -34,6 +36,7 @@
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2025.3.0
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2025.4.0
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2025.4.20
+- pkg:nuget/Nice3point.Revit.Api.RevitAPI@2025.4.41
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2026.0.0-preview.1.250108
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2026.0.0-preview.2.250306
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2026.0.4

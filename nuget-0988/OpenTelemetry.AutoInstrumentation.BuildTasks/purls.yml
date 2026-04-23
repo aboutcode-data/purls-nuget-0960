@@ -9,6 +9,7 @@
 - pkg:nuget/OpenTelemetry.AutoInstrumentation.BuildTasks@1.11.0
 - pkg:nuget/OpenTelemetry.AutoInstrumentation.BuildTasks@1.12.0
 - pkg:nuget/OpenTelemetry.AutoInstrumentation.BuildTasks@1.13.0-beta.1
+- pkg:nuget/OpenTelemetry.AutoInstrumentation.BuildTasks@1.15.0
 - pkg:nuget/OpenTelemetry.AutoInstrumentation.BuildTasks@1.2.0
 - pkg:nuget/OpenTelemetry.AutoInstrumentation.BuildTasks@1.3.0
 - pkg:nuget/OpenTelemetry.AutoInstrumentation.BuildTasks@1.4.0

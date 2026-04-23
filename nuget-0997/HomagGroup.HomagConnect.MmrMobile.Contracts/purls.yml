@@ -327,6 +327,7 @@
 - pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.2.4-preview.2
 - pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.2.4-preview.22
 - pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.2.4-preview.23
+- pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.2.4-preview.27
 - pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.2.4-preview.3
 - pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.2.4-preview.4
 - pkg:nuget/HomagGroup.HomagConnect.MmrMobile.Contracts@2.2.4-preview.5

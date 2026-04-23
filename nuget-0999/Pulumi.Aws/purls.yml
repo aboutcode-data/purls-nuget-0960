@@ -1281,6 +1281,7 @@
 - pkg:nuget/Pulumi.Aws@7.24.0
 - pkg:nuget/Pulumi.Aws@7.24.0-alpha.1774898097
 - pkg:nuget/Pulumi.Aws@7.24.0-alpha.1774970028
+- pkg:nuget/Pulumi.Aws@7.27.0
 - pkg:nuget/Pulumi.Aws@7.3.0
 - pkg:nuget/Pulumi.Aws@7.3.0-alpha.1754407541
 - pkg:nuget/Pulumi.Aws@7.3.0-alpha.1754407994

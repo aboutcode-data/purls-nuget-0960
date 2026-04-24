@@ -8,6 +8,8 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.3.2.2571-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.3.3.2602-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.3.3.2603
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.4.11.2917-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.4.11.2918-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.4.3.2644
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.4.3.2646
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.4.3.2648

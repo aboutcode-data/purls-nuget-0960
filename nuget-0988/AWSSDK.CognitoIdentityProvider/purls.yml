@@ -1201,6 +1201,7 @@
 - pkg:nuget/AWSSDK.CognitoIdentityProvider@3.7.504.4
 - pkg:nuget/AWSSDK.CognitoIdentityProvider@3.7.504.9
 - pkg:nuget/AWSSDK.CognitoIdentityProvider@3.7.505.10
+- pkg:nuget/AWSSDK.CognitoIdentityProvider@3.7.505.11
 - pkg:nuget/AWSSDK.CognitoIdentityProvider@3.7.505.5
 - pkg:nuget/AWSSDK.CognitoIdentityProvider@3.7.505.8
 - pkg:nuget/AWSSDK.CognitoIdentityProvider@3.7.505.9

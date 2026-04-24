@@ -1,1 +1,2 @@
 - pkg:nuget/KeepDynamic.BarcodeScanner.Document.App.DataMatrix@6.0.0.3
+- pkg:nuget/KeepDynamic.BarcodeScanner.Document.App.DataMatrix@6.0.0.7

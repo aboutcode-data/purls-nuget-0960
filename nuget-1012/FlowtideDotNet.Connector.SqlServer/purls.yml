@@ -69,6 +69,7 @@
 - pkg:nuget/FlowtideDotNet.Connector.SqlServer@0.15.0-alpha11
 - pkg:nuget/FlowtideDotNet.Connector.SqlServer@0.15.0-alpha12
 - pkg:nuget/FlowtideDotNet.Connector.SqlServer@0.15.0-alpha13
+- pkg:nuget/FlowtideDotNet.Connector.SqlServer@0.15.1-alpha2
 - pkg:nuget/FlowtideDotNet.Connector.SqlServer@0.4.0
 - pkg:nuget/FlowtideDotNet.Connector.SqlServer@0.4.0-alpha8
 - pkg:nuget/FlowtideDotNet.Connector.SqlServer@0.5.0

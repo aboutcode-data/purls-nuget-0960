@@ -2,6 +2,7 @@
 - pkg:nuget/MvvmCross.Plugin.FieldBinding@10.1.2-g602f031fe6
 - pkg:nuget/MvvmCross.Plugin.FieldBinding@10.1.2-g7aa09037d2
 - pkg:nuget/MvvmCross.Plugin.FieldBinding@10.1.2-g9316f9393e
+- pkg:nuget/MvvmCross.Plugin.FieldBinding@10.1.2-ga7b3c9439b
 - pkg:nuget/MvvmCross.Plugin.FieldBinding@10.1.2-gaadde303d6
 - pkg:nuget/MvvmCross.Plugin.FieldBinding@10.1.2-gd472a12b5a
 - pkg:nuget/MvvmCross.Plugin.FieldBinding@10.1.2-gd5819af3bc

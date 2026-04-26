@@ -53,3 +53,5 @@
 - pkg:nuget/Aardvark.Dom.Remote@1.0.7
 - pkg:nuget/Aardvark.Dom.Remote@1.0.8
 - pkg:nuget/Aardvark.Dom.Remote@1.0.9
+- pkg:nuget/Aardvark.Dom.Remote@1.1.2
+- pkg:nuget/Aardvark.Dom.Remote@1.1.3

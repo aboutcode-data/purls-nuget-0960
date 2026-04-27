@@ -34,6 +34,7 @@
 - pkg:nuget/GradsSharp.DataReader.GFS@0.13.0
 - pkg:nuget/GradsSharp.DataReader.GFS@0.13.1
 - pkg:nuget/GradsSharp.DataReader.GFS@0.14.0
+- pkg:nuget/GradsSharp.DataReader.GFS@0.16.0
 - pkg:nuget/GradsSharp.DataReader.GFS@0.2.0
 - pkg:nuget/GradsSharp.DataReader.GFS@0.2.1
 - pkg:nuget/GradsSharp.DataReader.GFS@0.2.3

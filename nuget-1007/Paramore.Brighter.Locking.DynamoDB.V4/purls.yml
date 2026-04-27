@@ -5,3 +5,4 @@
 - pkg:nuget/Paramore.Brighter.Locking.DynamoDB.V4@10.0.2
 - pkg:nuget/Paramore.Brighter.Locking.DynamoDB.V4@10.0.5
 - pkg:nuget/Paramore.Brighter.Locking.DynamoDB.V4@10.3.2
+- pkg:nuget/Paramore.Brighter.Locking.DynamoDB.V4@10.4.1

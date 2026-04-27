@@ -1,4 +1,5 @@
 - pkg:nuget/ICSharpCode.ILSpyX@10.0.0.8079-preview1
+- pkg:nuget/ICSharpCode.ILSpyX@10.0.1.8346
 - pkg:nuget/ICSharpCode.ILSpyX@8.0.0.7246-preview3
 - pkg:nuget/ICSharpCode.ILSpyX@8.0.0.7313-preview4
 - pkg:nuget/ICSharpCode.ILSpyX@8.0.0.7339-rc1

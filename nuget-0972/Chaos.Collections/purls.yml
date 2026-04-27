@@ -18,6 +18,7 @@
 - pkg:nuget/Chaos.Collections@1.10.0-preview-0079-g144d82f64f
 - pkg:nuget/Chaos.Collections@1.10.1
 - pkg:nuget/Chaos.Collections@1.11.0-preview-0002-g95f373de06
+- pkg:nuget/Chaos.Collections@1.11.0-preview-0015-g214051e600
 - pkg:nuget/Chaos.Collections@1.5.14-preview-gf582aca271
 - pkg:nuget/Chaos.Collections@1.5.15-preview-gf7575fbace
 - pkg:nuget/Chaos.Collections@1.5.16-preview-g293874bd19

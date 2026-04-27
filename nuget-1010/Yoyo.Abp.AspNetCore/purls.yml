@@ -1,4 +1,5 @@
 - pkg:nuget/Yoyo.Abp.AspNetCore@1.0.0
+- pkg:nuget/Yoyo.Abp.AspNetCore@10.3.0
 - pkg:nuget/Yoyo.Abp.AspNetCore@6.4.0
 - pkg:nuget/Yoyo.Abp.AspNetCore@7.3.0
 - pkg:nuget/Yoyo.Abp.AspNetCore@7.3.0.10

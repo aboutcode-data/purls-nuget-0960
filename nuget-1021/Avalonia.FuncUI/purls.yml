@@ -18,3 +18,4 @@
 - pkg:nuget/Avalonia.FuncUI@1.4.0
 - pkg:nuget/Avalonia.FuncUI@1.5.0
 - pkg:nuget/Avalonia.FuncUI@1.5.1
+- pkg:nuget/Avalonia.FuncUI@2.0.0-preview1

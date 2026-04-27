@@ -1,4 +1,5 @@
 - pkg:nuget/Yoyo.Abp.Zero.Ldap@1.0.0
+- pkg:nuget/Yoyo.Abp.Zero.Ldap@10.3.0
 - pkg:nuget/Yoyo.Abp.Zero.Ldap@6.4.0
 - pkg:nuget/Yoyo.Abp.Zero.Ldap@7.3.0
 - pkg:nuget/Yoyo.Abp.Zero.Ldap@7.3.0.10

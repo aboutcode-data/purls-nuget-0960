@@ -9,3 +9,4 @@
 - pkg:nuget/UndoableMediator@1.0.0-rc6
 - pkg:nuget/UndoableMediator@1.0.0-rc7
 - pkg:nuget/UndoableMediator@1.0.0-rc8
+- pkg:nuget/UndoableMediator@2.0.0-alpha3

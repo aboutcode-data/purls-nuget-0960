@@ -17,3 +17,4 @@
 - pkg:nuget/Buildvana.Sdk@1.0.0-alpha.7
 - pkg:nuget/Buildvana.Sdk@1.0.0-alpha.8
 - pkg:nuget/Buildvana.Sdk@1.0.0-alpha.9
+- pkg:nuget/Buildvana.Sdk@1.0.240

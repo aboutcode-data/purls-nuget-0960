@@ -2235,6 +2235,7 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.4.1.2614-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.4.11.2917-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.4.11.2918-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.4.11.2929-issue-124-detec
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.4.3.2644
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.4.3.2646
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.4.3.2648

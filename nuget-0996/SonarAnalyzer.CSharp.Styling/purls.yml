@@ -5,6 +5,7 @@
 - pkg:nuget/SonarAnalyzer.CSharp.Styling@10.14.0.120626
 - pkg:nuget/SonarAnalyzer.CSharp.Styling@10.15.0.120848
 - pkg:nuget/SonarAnalyzer.CSharp.Styling@10.22.0.136894
+- pkg:nuget/SonarAnalyzer.CSharp.Styling@10.25.0.139117
 - pkg:nuget/SonarAnalyzer.CSharp.Styling@10.3.0.106239
 - pkg:nuget/SonarAnalyzer.CSharp.Styling@10.4.0.108396
 - pkg:nuget/SonarAnalyzer.CSharp.Styling@10.5.0.109200

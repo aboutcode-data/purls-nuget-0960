@@ -61,6 +61,8 @@
 - pkg:nuget/HslCommunication@12.3.2
 - pkg:nuget/HslCommunication@12.3.3
 - pkg:nuget/HslCommunication@12.5.0
+- pkg:nuget/HslCommunication@12.8.0
+- pkg:nuget/HslCommunication@12.8.1
 - pkg:nuget/HslCommunication@3.17.10
 - pkg:nuget/HslCommunication@3.17.11
 - pkg:nuget/HslCommunication@3.17.12

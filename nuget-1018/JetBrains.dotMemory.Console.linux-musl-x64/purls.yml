@@ -158,6 +158,7 @@
 - pkg:nuget/JetBrains.dotMemory.Console.linux-musl-x64@2025.1.5
 - pkg:nuget/JetBrains.dotMemory.Console.linux-musl-x64@2025.1.6
 - pkg:nuget/JetBrains.dotMemory.Console.linux-musl-x64@2025.1.7
+- pkg:nuget/JetBrains.dotMemory.Console.linux-musl-x64@2025.1.9
 - pkg:nuget/JetBrains.dotMemory.Console.linux-musl-x64@2025.2.0
 - pkg:nuget/JetBrains.dotMemory.Console.linux-musl-x64@2025.2.0-eap01
 - pkg:nuget/JetBrains.dotMemory.Console.linux-musl-x64@2025.2.0-eap02

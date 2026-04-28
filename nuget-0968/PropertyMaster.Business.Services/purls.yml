@@ -122,3 +122,4 @@
 - pkg:nuget/PropertyMaster.Business.Services@3.3.58
 - pkg:nuget/PropertyMaster.Business.Services@3.3.64
 - pkg:nuget/PropertyMaster.Business.Services@3.3.93
+- pkg:nuget/PropertyMaster.Business.Services@4.0.1

@@ -68,6 +68,7 @@
 - pkg:nuget/JetBrains.Platform.UIInteractive.Wpf.Symbols@243.0.20250403.43312
 - pkg:nuget/JetBrains.Platform.UIInteractive.Wpf.Symbols@243.0.20250518.101848
 - pkg:nuget/JetBrains.Platform.UIInteractive.Wpf.Symbols@243.0.20251118.135524
+- pkg:nuget/JetBrains.Platform.UIInteractive.Wpf.Symbols@243.0.20260422.185352
 - pkg:nuget/JetBrains.Platform.UIInteractive.Wpf.Symbols@251.0.20250116.135327-eap01
 - pkg:nuget/JetBrains.Platform.UIInteractive.Wpf.Symbols@251.0.20250129.65811-eap02
 - pkg:nuget/JetBrains.Platform.UIInteractive.Wpf.Symbols@251.0.20250204.73140-eap03

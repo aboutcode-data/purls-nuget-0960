@@ -68,9 +68,11 @@
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.CsvProvider@10.20.6
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.CsvProvider@10.21.2-PreRelease
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.CsvProvider@10.22.8
+- pkg:nuget/Dynamicweb.DataIntegration.Providers.CsvProvider@10.23.12
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.CsvProvider@10.23.8
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.CsvProvider@10.24.7
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.CsvProvider@10.25.2-PreRelease
+- pkg:nuget/Dynamicweb.DataIntegration.Providers.CsvProvider@10.26.0-PreRelease
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.CsvProvider@10.4.0
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.CsvProvider@10.6.0
 - pkg:nuget/Dynamicweb.DataIntegration.Providers.CsvProvider@10.6.1

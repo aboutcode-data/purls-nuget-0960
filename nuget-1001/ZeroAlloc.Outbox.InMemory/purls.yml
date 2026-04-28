@@ -1,1 +1,2 @@
 - pkg:nuget/ZeroAlloc.Outbox.InMemory@1.1.0
+- pkg:nuget/ZeroAlloc.Outbox.InMemory@2.1.1

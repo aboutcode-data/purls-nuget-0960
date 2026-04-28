@@ -1,1 +1,3 @@
 - pkg:nuget/Dmart.Client@0.8.32
+- pkg:nuget/Dmart.Client@0.8.40
+- pkg:nuget/Dmart.Client@0.8.41

@@ -1,1 +1,3 @@
 - pkg:nuget/Aneiang.Yarp.Dashboard@2.0.0
+- pkg:nuget/Aneiang.Yarp.Dashboard@2.0.1-beta
+- pkg:nuget/Aneiang.Yarp.Dashboard@2.3.0

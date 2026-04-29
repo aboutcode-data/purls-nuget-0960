@@ -1,1 +1,3 @@
 - pkg:nuget/ClosureOSS.WebPush@2.0.1
+- pkg:nuget/ClosureOSS.WebPush@2.5.2
+- pkg:nuget/ClosureOSS.WebPush@2.5.3

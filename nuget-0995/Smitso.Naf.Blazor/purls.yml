@@ -1,3 +1,4 @@
+- pkg:nuget/Smitso.Naf.Blazor@10.2.0
 - pkg:nuget/Smitso.Naf.Blazor@5.1.2
 - pkg:nuget/Smitso.Naf.Blazor@5.10.0
 - pkg:nuget/Smitso.Naf.Blazor@5.12.0

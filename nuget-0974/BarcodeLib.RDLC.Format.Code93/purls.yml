@@ -1,1 +1,2 @@
 - pkg:nuget/BarcodeLib.RDLC.Format.Code93@7.4.0.5
+- pkg:nuget/BarcodeLib.RDLC.Format.Code93@7.4.0.9

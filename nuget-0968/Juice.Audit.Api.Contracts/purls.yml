@@ -1,3 +1,4 @@
+- pkg:nuget/Juice.Audit.Api.Contracts@10.1.0
 - pkg:nuget/Juice.Audit.Api.Contracts@7.0.2
 - pkg:nuget/Juice.Audit.Api.Contracts@7.0.2-beta.1
 - pkg:nuget/Juice.Audit.Api.Contracts@7.0.2-beta.2

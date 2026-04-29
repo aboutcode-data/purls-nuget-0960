@@ -5,4 +5,5 @@
 - pkg:nuget/HYS.Core.Caching@2.0.1
 - pkg:nuget/HYS.Core.Caching@2.0.2
 - pkg:nuget/HYS.Core.Caching@2.0.3
+- pkg:nuget/HYS.Core.Caching@3.0.10
 - pkg:nuget/HYS.Core.Caching@3.0.5

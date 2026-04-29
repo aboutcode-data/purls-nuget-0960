@@ -12,3 +12,4 @@
 - pkg:nuget/Paillave.EtlNet.Bloomberg@2.1.7-beta
 - pkg:nuget/Paillave.EtlNet.Bloomberg@2.1.8-beta
 - pkg:nuget/Paillave.EtlNet.Bloomberg@2.1.9-beta
+- pkg:nuget/Paillave.EtlNet.Bloomberg@2.2.0-beta.2

@@ -71,6 +71,7 @@
 - pkg:nuget/Neon.Service@4.0.17
 - pkg:nuget/Neon.Service@4.0.17-preview.0
 - pkg:nuget/Neon.Service@4.0.18
+- pkg:nuget/Neon.Service@4.0.19
 - pkg:nuget/Neon.Service@4.0.19-preview.0
 - pkg:nuget/Neon.Service@4.0.19-preview.1
 - pkg:nuget/Neon.Service@4.0.19-preview.2

@@ -691,6 +691,7 @@
 - pkg:nuget/Furion.SqlSugar.Template.Api@4.9.8.44
 - pkg:nuget/Furion.SqlSugar.Template.Api@4.9.8.49
 - pkg:nuget/Furion.SqlSugar.Template.Api@4.9.8.5
+- pkg:nuget/Furion.SqlSugar.Template.Api@4.9.8.56
 - pkg:nuget/Furion.SqlSugar.Template.Api@4.9.8.6
 - pkg:nuget/Furion.SqlSugar.Template.Api@4.9.8.7
 - pkg:nuget/Furion.SqlSugar.Template.Api@4.9.8.8

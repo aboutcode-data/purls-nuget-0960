@@ -740,6 +740,14 @@
 - pkg:nuget/HotChocolate.Transport.Sockets@16.0.0-rc.1.33
 - pkg:nuget/HotChocolate.Transport.Sockets@16.0.0-rc.1.34
 - pkg:nuget/HotChocolate.Transport.Sockets@16.0.0-rc.1.35
+- pkg:nuget/HotChocolate.Transport.Sockets@16.0.0-rc.1.36
+- pkg:nuget/HotChocolate.Transport.Sockets@16.0.0-rc.1.37
+- pkg:nuget/HotChocolate.Transport.Sockets@16.0.0-rc.1.38
+- pkg:nuget/HotChocolate.Transport.Sockets@16.0.0-rc.1.39
+- pkg:nuget/HotChocolate.Transport.Sockets@16.0.0-rc.1.40
+- pkg:nuget/HotChocolate.Transport.Sockets@16.0.0-rc.1.41
+- pkg:nuget/HotChocolate.Transport.Sockets@16.0.0-rc.1.42
+- pkg:nuget/HotChocolate.Transport.Sockets@16.0.0-rc.1.44
 - pkg:nuget/HotChocolate.Transport.Sockets@16.1.0-p.1.1
 - pkg:nuget/HotChocolate.Transport.Sockets@16.1.0-p.1.2
 - pkg:nuget/HotChocolate.Transport.Sockets@16.1.0-p.1.3

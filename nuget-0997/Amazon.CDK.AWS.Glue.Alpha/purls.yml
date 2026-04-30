@@ -201,6 +201,7 @@
 - pkg:nuget/Amazon.CDK.AWS.Glue.Alpha@2.246.0-alpha.0
 - pkg:nuget/Amazon.CDK.AWS.Glue.Alpha@2.247.0-alpha.0
 - pkg:nuget/Amazon.CDK.AWS.Glue.Alpha@2.25.0-alpha.0
+- pkg:nuget/Amazon.CDK.AWS.Glue.Alpha@2.252.0-alpha.0
 - pkg:nuget/Amazon.CDK.AWS.Glue.Alpha@2.26.0-alpha.0
 - pkg:nuget/Amazon.CDK.AWS.Glue.Alpha@2.27.0-alpha.0
 - pkg:nuget/Amazon.CDK.AWS.Glue.Alpha@2.28.0-alpha.0

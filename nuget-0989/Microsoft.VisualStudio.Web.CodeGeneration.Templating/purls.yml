@@ -19,6 +19,7 @@
 - pkg:nuget/Microsoft.VisualStudio.Web.CodeGeneration.Templating@1.1.4
 - pkg:nuget/Microsoft.VisualStudio.Web.CodeGeneration.Templating@1.1.5
 - pkg:nuget/Microsoft.VisualStudio.Web.CodeGeneration.Templating@10.0.0-rc.1.25458.5
+- pkg:nuget/Microsoft.VisualStudio.Web.CodeGeneration.Templating@11.0.0-preview.1.26230.3
 - pkg:nuget/Microsoft.VisualStudio.Web.CodeGeneration.Templating@2.0.0
 - pkg:nuget/Microsoft.VisualStudio.Web.CodeGeneration.Templating@2.0.0-preview1-final
 - pkg:nuget/Microsoft.VisualStudio.Web.CodeGeneration.Templating@2.0.0-preview2-final

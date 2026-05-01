@@ -20,6 +20,7 @@
 - pkg:nuget/CodeDesignPlus.Net.RabbitMQ@0.13.0-beta.12717
 - pkg:nuget/CodeDesignPlus.Net.RabbitMQ@0.13.0-beta.12740
 - pkg:nuget/CodeDesignPlus.Net.RabbitMQ@0.13.0-beta.12760
+- pkg:nuget/CodeDesignPlus.Net.RabbitMQ@0.13.0-beta.12762
 - pkg:nuget/CodeDesignPlus.Net.RabbitMQ@0.2.0-alpha.10
 - pkg:nuget/CodeDesignPlus.Net.RabbitMQ@0.2.0-alpha.11
 - pkg:nuget/CodeDesignPlus.Net.RabbitMQ@0.2.0-alpha.12

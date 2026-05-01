@@ -1,4 +1,5 @@
 - pkg:nuget/KamiSama.Extensions.WebModules@10.0.0
+- pkg:nuget/KamiSama.Extensions.WebModules@10.0.7
 - pkg:nuget/KamiSama.Extensions.WebModules@2.11.0
 - pkg:nuget/KamiSama.Extensions.WebModules@2.11.0-preview
 - pkg:nuget/KamiSama.Extensions.WebModules@2.11.0-preview2

@@ -145,6 +145,7 @@
 - pkg:nuget/Consolonia.Core@11.2.5-beta.959
 - pkg:nuget/Consolonia.Core@11.2.5-beta.965
 - pkg:nuget/Consolonia.Core@11.2.5-beta.988
+- pkg:nuget/Consolonia.Core@11.3.12.4-alpha.2510
 - pkg:nuget/Consolonia.Core@11.3.4-beta.1313
 - pkg:nuget/Consolonia.Core@11.3.4-beta.1325
 - pkg:nuget/Consolonia.Core@11.3.4-beta.1334

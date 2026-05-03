@@ -1,1 +1,2 @@
 - pkg:nuget/EfCore.Boost@1.0.5
+- pkg:nuget/EfCore.Boost@8.0.1

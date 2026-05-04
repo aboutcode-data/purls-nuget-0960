@@ -76,6 +76,7 @@
 - pkg:nuget/OPTANO.Modeling@3.26.1.671
 - pkg:nuget/OPTANO.Modeling@3.3.0.473
 - pkg:nuget/OPTANO.Modeling@3.3.0.474
+- pkg:nuget/OPTANO.Modeling@3.30.0.683
 - pkg:nuget/OPTANO.Modeling@3.4.0.489
 - pkg:nuget/OPTANO.Modeling@3.4.1.490-beta
 - pkg:nuget/OPTANO.Modeling@3.5.0.498

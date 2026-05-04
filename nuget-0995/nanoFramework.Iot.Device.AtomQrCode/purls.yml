@@ -36,3 +36,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.AtomQrCode@1.1.864
 - pkg:nuget/nanoFramework.Iot.Device.AtomQrCode@1.1.880
 - pkg:nuget/nanoFramework.Iot.Device.AtomQrCode@1.1.89
+- pkg:nuget/nanoFramework.Iot.Device.AtomQrCode@2.0.0-preview.49

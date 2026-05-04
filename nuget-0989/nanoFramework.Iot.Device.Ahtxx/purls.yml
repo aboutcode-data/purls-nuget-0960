@@ -133,3 +133,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Ahtxx@1.2.87
 - pkg:nuget/nanoFramework.Iot.Device.Ahtxx@1.2.889
 - pkg:nuget/nanoFramework.Iot.Device.Ahtxx@1.2.95
+- pkg:nuget/nanoFramework.Iot.Device.Ahtxx@2.0.0-preview.49

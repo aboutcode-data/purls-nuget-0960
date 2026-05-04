@@ -1,1 +1,2 @@
 - pkg:nuget/Sitko.Core.ClickHouse.Linq2db@11.83.0
+- pkg:nuget/Sitko.Core.ClickHouse.Linq2db@11.85.0

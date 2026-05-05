@@ -5,6 +5,9 @@
 - pkg:nuget/Energinet.DataHub.ElectricityMarket.Client@1.12.0
 - pkg:nuget/Energinet.DataHub.ElectricityMarket.Client@1.125.0
 - pkg:nuget/Energinet.DataHub.ElectricityMarket.Client@1.126.0
+- pkg:nuget/Energinet.DataHub.ElectricityMarket.Client@1.132.0
+- pkg:nuget/Energinet.DataHub.ElectricityMarket.Client@1.132.0-alpha-169
+- pkg:nuget/Energinet.DataHub.ElectricityMarket.Client@1.133.0
 - pkg:nuget/Energinet.DataHub.ElectricityMarket.Client@1.17.0
 - pkg:nuget/Energinet.DataHub.ElectricityMarket.Client@1.24.0
 - pkg:nuget/Energinet.DataHub.ElectricityMarket.Client@1.27.0

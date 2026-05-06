@@ -1,1 +1,2 @@
 - pkg:nuget/Avalonia.Controls.VirtualKeyboard@12.0.0
+- pkg:nuget/Avalonia.Controls.VirtualKeyboard@12.0.1

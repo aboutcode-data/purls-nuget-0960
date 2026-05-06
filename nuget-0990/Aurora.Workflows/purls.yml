@@ -213,4 +213,5 @@
 - pkg:nuget/Aurora.Workflows@0.2.1.9
 - pkg:nuget/Aurora.Workflows@0.3.1.46
 - pkg:nuget/Aurora.Workflows@0.3.1.53
+- pkg:nuget/Aurora.Workflows@0.4.1.11
 - pkg:nuget/Aurora.Workflows@0.4.1.5

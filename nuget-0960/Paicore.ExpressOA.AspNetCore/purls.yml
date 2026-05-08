@@ -7,3 +7,4 @@
 - pkg:nuget/Paicore.ExpressOA.AspNetCore@6.2.0
 - pkg:nuget/Paicore.ExpressOA.AspNetCore@6.8.0
 - pkg:nuget/Paicore.ExpressOA.AspNetCore@8.0.0
+- pkg:nuget/Paicore.ExpressOA.AspNetCore@8.2.0

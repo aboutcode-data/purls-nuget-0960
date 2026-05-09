@@ -98,6 +98,7 @@
 - pkg:nuget/Scandit.DataCapture.TextCapture.Xamarin.Forms@6.28.0-beta.1
 - pkg:nuget/Scandit.DataCapture.TextCapture.Xamarin.Forms@6.28.0-beta.2
 - pkg:nuget/Scandit.DataCapture.TextCapture.Xamarin.Forms@6.28.1
+- pkg:nuget/Scandit.DataCapture.TextCapture.Xamarin.Forms@6.28.10
 - pkg:nuget/Scandit.DataCapture.TextCapture.Xamarin.Forms@6.28.2
 - pkg:nuget/Scandit.DataCapture.TextCapture.Xamarin.Forms@6.28.3
 - pkg:nuget/Scandit.DataCapture.TextCapture.Xamarin.Forms@6.28.4

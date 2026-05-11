@@ -571,3 +571,4 @@
 - pkg:nuget/KubernetesCRDModelGen.Models.azure.upbound.io@1.3.2
 - pkg:nuget/KubernetesCRDModelGen.Models.azure.upbound.io@1.40.0
 - pkg:nuget/KubernetesCRDModelGen.Models.azure.upbound.io@1.42.0
+- pkg:nuget/KubernetesCRDModelGen.Models.azure.upbound.io@1.43.0

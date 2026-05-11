@@ -36,6 +36,7 @@
 - pkg:nuget/Stateflows.Storage.EntityFrameworkCore@0.17.7-alpha
 - pkg:nuget/Stateflows.Storage.EntityFrameworkCore@0.17.8-alpha
 - pkg:nuget/Stateflows.Storage.EntityFrameworkCore@0.17.9-alpha
+- pkg:nuget/Stateflows.Storage.EntityFrameworkCore@0.19.5-beta
 - pkg:nuget/Stateflows.Storage.EntityFrameworkCore@0.2.0-alpha
 - pkg:nuget/Stateflows.Storage.EntityFrameworkCore@0.2.1-alpha
 - pkg:nuget/Stateflows.Storage.EntityFrameworkCore@0.3.0-alpha

@@ -1,3 +1,5 @@
 - pkg:nuget/Kuestenlogik.Bowire.Protocol.Sse@1.0.1
 - pkg:nuget/Kuestenlogik.Bowire.Protocol.Sse@1.0.9
 - pkg:nuget/Kuestenlogik.Bowire.Protocol.Sse@1.0.9-rc.2
+- pkg:nuget/Kuestenlogik.Bowire.Protocol.Sse@1.2.0
+- pkg:nuget/Kuestenlogik.Bowire.Protocol.Sse@1.2.0-rc.1

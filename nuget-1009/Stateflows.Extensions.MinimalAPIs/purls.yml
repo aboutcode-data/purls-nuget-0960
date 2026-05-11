@@ -10,3 +10,4 @@
 - pkg:nuget/Stateflows.Extensions.MinimalAPIs@0.17.7-alpha
 - pkg:nuget/Stateflows.Extensions.MinimalAPIs@0.17.8-alpha
 - pkg:nuget/Stateflows.Extensions.MinimalAPIs@0.17.9-alpha
+- pkg:nuget/Stateflows.Extensions.MinimalAPIs@0.19.5-beta

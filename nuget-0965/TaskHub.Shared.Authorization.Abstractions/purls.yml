@@ -1,1 +1,2 @@
 - pkg:nuget/TaskHub.Shared.Authorization.Abstractions@2.2.99
+- pkg:nuget/TaskHub.Shared.Authorization.Abstractions@2.3.62

@@ -17,3 +17,5 @@
 - pkg:nuget/Wei.Abp.DataConnector.EntityFrameworkCore@4.2.0-beta.45
 - pkg:nuget/Wei.Abp.DataConnector.EntityFrameworkCore@4.2.0-beta.46
 - pkg:nuget/Wei.Abp.DataConnector.EntityFrameworkCore@4.2.0-beta.8
+- pkg:nuget/Wei.Abp.DataConnector.EntityFrameworkCore@4.3.0-beta.5
+- pkg:nuget/Wei.Abp.DataConnector.EntityFrameworkCore@4.3.0-beta.6

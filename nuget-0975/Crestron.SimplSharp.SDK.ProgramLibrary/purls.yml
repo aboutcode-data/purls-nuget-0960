@@ -61,6 +61,7 @@
 - pkg:nuget/Crestron.SimplSharp.SDK.ProgramLibrary@2.21.133
 - pkg:nuget/Crestron.SimplSharp.SDK.ProgramLibrary@2.21.157
 - pkg:nuget/Crestron.SimplSharp.SDK.ProgramLibrary@2.21.237
+- pkg:nuget/Crestron.SimplSharp.SDK.ProgramLibrary@2.21.252
 - pkg:nuget/Crestron.SimplSharp.SDK.ProgramLibrary@2.21.54
 - pkg:nuget/Crestron.SimplSharp.SDK.ProgramLibrary@2.21.65
 - pkg:nuget/Crestron.SimplSharp.SDK.ProgramLibrary@2.21.68

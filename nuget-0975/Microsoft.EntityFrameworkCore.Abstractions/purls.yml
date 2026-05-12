@@ -10,6 +10,7 @@
 - pkg:nuget/Microsoft.EntityFrameworkCore.Abstractions@10.0.7
 - pkg:nuget/Microsoft.EntityFrameworkCore.Abstractions@11.0.0-preview.1.26104.118
 - pkg:nuget/Microsoft.EntityFrameworkCore.Abstractions@11.0.0-preview.2.26159.112
+- pkg:nuget/Microsoft.EntityFrameworkCore.Abstractions@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.EntityFrameworkCore.Abstractions@2.1.0
 - pkg:nuget/Microsoft.EntityFrameworkCore.Abstractions@2.1.0-preview2-final
 - pkg:nuget/Microsoft.EntityFrameworkCore.Abstractions@2.1.0-rc1-final

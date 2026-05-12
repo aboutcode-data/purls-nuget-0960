@@ -11,7 +11,9 @@
 - pkg:nuget/Microsoft.NETCore.App.Host.linux-musl-arm64@10.0.2
 - pkg:nuget/Microsoft.NETCore.App.Host.linux-musl-arm64@10.0.3
 - pkg:nuget/Microsoft.NETCore.App.Host.linux-musl-arm64@10.0.7
+- pkg:nuget/Microsoft.NETCore.App.Host.linux-musl-arm64@10.0.8
 - pkg:nuget/Microsoft.NETCore.App.Host.linux-musl-arm64@11.0.0-preview.3.26207.106
+- pkg:nuget/Microsoft.NETCore.App.Host.linux-musl-arm64@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.NETCore.App.Host.linux-musl-arm64@3.0.0
 - pkg:nuget/Microsoft.NETCore.App.Host.linux-musl-arm64@3.0.0-preview5-27626-15
 - pkg:nuget/Microsoft.NETCore.App.Host.linux-musl-arm64@3.0.0-preview6-27804-01
@@ -202,6 +204,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Host.linux-musl-arm64@9.0.0-rc.2.24473.5
 - pkg:nuget/Microsoft.NETCore.App.Host.linux-musl-arm64@9.0.1
 - pkg:nuget/Microsoft.NETCore.App.Host.linux-musl-arm64@9.0.12
+- pkg:nuget/Microsoft.NETCore.App.Host.linux-musl-arm64@9.0.16
 - pkg:nuget/Microsoft.NETCore.App.Host.linux-musl-arm64@9.0.2
 - pkg:nuget/Microsoft.NETCore.App.Host.linux-musl-arm64@9.0.3
 - pkg:nuget/Microsoft.NETCore.App.Host.linux-musl-arm64@9.0.4

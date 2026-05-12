@@ -236,3 +236,4 @@
 - pkg:nuget/Google.Apis.Testing.v1@1.70.0.3827
 - pkg:nuget/Google.Apis.Testing.v1@1.70.0.3858
 - pkg:nuget/Google.Apis.Testing.v1@1.70.0.3883
+- pkg:nuget/Google.Apis.Testing.v1@1.74.0.3967

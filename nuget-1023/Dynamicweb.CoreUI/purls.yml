@@ -203,6 +203,7 @@
 - pkg:nuget/Dynamicweb.CoreUI@10.22.8
 - pkg:nuget/Dynamicweb.CoreUI@10.23.12
 - pkg:nuget/Dynamicweb.CoreUI@10.23.8
+- pkg:nuget/Dynamicweb.CoreUI@10.24.12
 - pkg:nuget/Dynamicweb.CoreUI@10.24.7
 - pkg:nuget/Dynamicweb.CoreUI@10.25.2-PreRelease
 - pkg:nuget/Dynamicweb.CoreUI@10.26.0-PreRelease

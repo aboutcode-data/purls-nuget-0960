@@ -5,3 +5,5 @@
 - pkg:nuget/Microsoft.AspNetCore.JsonPatch.SystemTextJson@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.AspNetCore.JsonPatch.SystemTextJson@10.0.1
 - pkg:nuget/Microsoft.AspNetCore.JsonPatch.SystemTextJson@10.0.7
+- pkg:nuget/Microsoft.AspNetCore.JsonPatch.SystemTextJson@10.0.8
+- pkg:nuget/Microsoft.AspNetCore.JsonPatch.SystemTextJson@11.0.0-preview.4.26230.115

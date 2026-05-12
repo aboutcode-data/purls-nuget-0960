@@ -5,6 +5,7 @@
 - pkg:nuget/Mapster@10.0.7-pre02
 - pkg:nuget/Mapster@10.0.7-pre03
 - pkg:nuget/Mapster@10.0.7-pre04
+- pkg:nuget/Mapster@10.0.8-pre06
 - pkg:nuget/Mapster@2.0.0
 - pkg:nuget/Mapster@2.0.1
 - pkg:nuget/Mapster@2.0.2

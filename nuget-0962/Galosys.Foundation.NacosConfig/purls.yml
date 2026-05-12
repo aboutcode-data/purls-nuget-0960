@@ -1,3 +1,5 @@
 - pkg:nuget/Galosys.Foundation.NacosConfig@25.10.30.5
 - pkg:nuget/Galosys.Foundation.NacosConfig@25.11.21.1-rc
 - pkg:nuget/Galosys.Foundation.NacosConfig@26.4.22.2-rc7
+- pkg:nuget/Galosys.Foundation.NacosConfig@26.5.12.2
+- pkg:nuget/Galosys.Foundation.NacosConfig@26.5.12.3

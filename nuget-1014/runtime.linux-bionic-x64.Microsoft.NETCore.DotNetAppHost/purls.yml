@@ -10,8 +10,10 @@
 - pkg:nuget/runtime.linux-bionic-x64.Microsoft.NETCore.DotNetAppHost@10.0.1
 - pkg:nuget/runtime.linux-bionic-x64.Microsoft.NETCore.DotNetAppHost@10.0.3
 - pkg:nuget/runtime.linux-bionic-x64.Microsoft.NETCore.DotNetAppHost@10.0.7
+- pkg:nuget/runtime.linux-bionic-x64.Microsoft.NETCore.DotNetAppHost@10.0.8
 - pkg:nuget/runtime.linux-bionic-x64.Microsoft.NETCore.DotNetAppHost@11.0.0-preview.2.26159.112
 - pkg:nuget/runtime.linux-bionic-x64.Microsoft.NETCore.DotNetAppHost@11.0.0-preview.3.26207.106
+- pkg:nuget/runtime.linux-bionic-x64.Microsoft.NETCore.DotNetAppHost@11.0.0-preview.4.26230.115
 - pkg:nuget/runtime.linux-bionic-x64.Microsoft.NETCore.DotNetAppHost@7.0.0
 - pkg:nuget/runtime.linux-bionic-x64.Microsoft.NETCore.DotNetAppHost@7.0.0-preview.5.22301.12
 - pkg:nuget/runtime.linux-bionic-x64.Microsoft.NETCore.DotNetAppHost@7.0.0-preview.6.22324.4

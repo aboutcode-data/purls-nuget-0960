@@ -51,6 +51,7 @@
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.HierarchyId@9.0.1
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.HierarchyId@9.0.13
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.HierarchyId@9.0.14
+- pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.HierarchyId@9.0.16
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.HierarchyId@9.0.2
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.HierarchyId@9.0.3
 - pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer.HierarchyId@9.0.4

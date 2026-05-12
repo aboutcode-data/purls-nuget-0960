@@ -10,6 +10,7 @@
 - pkg:nuget/runtime.linux-bionic-x64.runtime.native.System.IO.Ports@10.0.1
 - pkg:nuget/runtime.linux-bionic-x64.runtime.native.System.IO.Ports@10.0.7
 - pkg:nuget/runtime.linux-bionic-x64.runtime.native.System.IO.Ports@11.0.0-preview.3.26207.106
+- pkg:nuget/runtime.linux-bionic-x64.runtime.native.System.IO.Ports@11.0.0-preview.4.26230.115
 - pkg:nuget/runtime.linux-bionic-x64.runtime.native.System.IO.Ports@9.0.0
 - pkg:nuget/runtime.linux-bionic-x64.runtime.native.System.IO.Ports@9.0.0-preview.1.24080.9
 - pkg:nuget/runtime.linux-bionic-x64.runtime.native.System.IO.Ports@9.0.0-preview.2.24128.5

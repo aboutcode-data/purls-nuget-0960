@@ -1,2 +1,3 @@
+- pkg:nuget/ActionView.Cli@0.13.0
 - pkg:nuget/ActionView.Cli@0.5.0
 - pkg:nuget/ActionView.Cli@0.8.0

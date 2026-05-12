@@ -1,4 +1,5 @@
 - pkg:nuget/Identity.Module.ProfileManager@2.5.102
+- pkg:nuget/Identity.Module.ProfileManager@2.5.108
 - pkg:nuget/Identity.Module.ProfileManager@2.5.17
 - pkg:nuget/Identity.Module.ProfileManager@2.5.18
 - pkg:nuget/Identity.Module.ProfileManager@2.5.22

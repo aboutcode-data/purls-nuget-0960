@@ -22,3 +22,4 @@
 - pkg:nuget/Microsoft.AspNetCore.ResponseCompression@2.2.0-preview2-35157
 - pkg:nuget/Microsoft.AspNetCore.ResponseCompression@2.2.0-preview3-35497
 - pkg:nuget/Microsoft.AspNetCore.ResponseCompression@2.3.0
+- pkg:nuget/Microsoft.AspNetCore.ResponseCompression@2.3.10

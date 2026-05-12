@@ -10,3 +10,4 @@
 - pkg:nuget/Foundatio.Parsers.SqlQueries@7.17.8
 - pkg:nuget/Foundatio.Parsers.SqlQueries@7.17.9
 - pkg:nuget/Foundatio.Parsers.SqlQueries@7.18.0-beta5
+- pkg:nuget/Foundatio.Parsers.SqlQueries@8.0.0

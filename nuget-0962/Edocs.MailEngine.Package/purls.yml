@@ -69,6 +69,7 @@
 - pkg:nuget/Edocs.MailEngine.Package@9.2.0
 - pkg:nuget/Edocs.MailEngine.Package@9.2.1
 - pkg:nuget/Edocs.MailEngine.Package@9.2.10
+- pkg:nuget/Edocs.MailEngine.Package@9.2.17
 - pkg:nuget/Edocs.MailEngine.Package@9.2.2
 - pkg:nuget/Edocs.MailEngine.Package@9.2.3
 - pkg:nuget/Edocs.MailEngine.Package@9.2.4

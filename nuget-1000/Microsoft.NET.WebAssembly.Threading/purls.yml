@@ -9,6 +9,7 @@
 - pkg:nuget/Microsoft.NET.WebAssembly.Threading@10.0.1
 - pkg:nuget/Microsoft.NET.WebAssembly.Threading@10.0.7
 - pkg:nuget/Microsoft.NET.WebAssembly.Threading@11.0.0-preview.1.26104.118
+- pkg:nuget/Microsoft.NET.WebAssembly.Threading@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.NET.WebAssembly.Threading@7.0.0
 - pkg:nuget/Microsoft.NET.WebAssembly.Threading@7.0.0-preview.5.22301.12
 - pkg:nuget/Microsoft.NET.WebAssembly.Threading@7.0.0-preview.6.22324.4
@@ -36,6 +37,7 @@
 - pkg:nuget/Microsoft.NET.WebAssembly.Threading@9.0.0-rc.1.24431.7
 - pkg:nuget/Microsoft.NET.WebAssembly.Threading@9.0.0-rc.2.24473.5
 - pkg:nuget/Microsoft.NET.WebAssembly.Threading@9.0.1
+- pkg:nuget/Microsoft.NET.WebAssembly.Threading@9.0.16
 - pkg:nuget/Microsoft.NET.WebAssembly.Threading@9.0.2
 - pkg:nuget/Microsoft.NET.WebAssembly.Threading@9.0.3
 - pkg:nuget/Microsoft.NET.WebAssembly.Threading@9.0.4

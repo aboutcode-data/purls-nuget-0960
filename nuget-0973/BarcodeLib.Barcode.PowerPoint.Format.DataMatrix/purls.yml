@@ -22,3 +22,4 @@
 - pkg:nuget/BarcodeLib.Barcode.PowerPoint.Format.DataMatrix@7.4.1.9
 - pkg:nuget/BarcodeLib.Barcode.PowerPoint.Format.DataMatrix@8.0.0.11
 - pkg:nuget/BarcodeLib.Barcode.PowerPoint.Format.DataMatrix@8.0.0.14
+- pkg:nuget/BarcodeLib.Barcode.PowerPoint.Format.DataMatrix@8.0.0.17

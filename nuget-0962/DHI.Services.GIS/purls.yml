@@ -14,6 +14,7 @@
 - pkg:nuget/DHI.Services.GIS@12.2.1
 - pkg:nuget/DHI.Services.GIS@13.0.0
 - pkg:nuget/DHI.Services.GIS@13.0.1
+- pkg:nuget/DHI.Services.GIS@17.0.0
 - pkg:nuget/DHI.Services.GIS@6.4.1
 - pkg:nuget/DHI.Services.GIS@6.4.2
 - pkg:nuget/DHI.Services.GIS@6.4.3

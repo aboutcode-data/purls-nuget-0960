@@ -1,3 +1,4 @@
+- pkg:nuget/Microsoft.Extensions.AI.Evaluation.Reporting.Azure@10.6.0
 - pkg:nuget/Microsoft.Extensions.AI.Evaluation.Reporting.Azure@9.10.0
 - pkg:nuget/Microsoft.Extensions.AI.Evaluation.Reporting.Azure@9.3.0-preview.1.25114.11
 - pkg:nuget/Microsoft.Extensions.AI.Evaluation.Reporting.Azure@9.3.0-preview.1.25126.9

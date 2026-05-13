@@ -3,6 +3,7 @@
 - pkg:nuget/ITBees.ConsoleLogger@8.0.12
 - pkg:nuget/ITBees.ConsoleLogger@8.0.125
 - pkg:nuget/ITBees.ConsoleLogger@8.0.129
+- pkg:nuget/ITBees.ConsoleLogger@8.0.133
 - pkg:nuget/ITBees.ConsoleLogger@8.0.14
 - pkg:nuget/ITBees.ConsoleLogger@8.0.15
 - pkg:nuget/ITBees.ConsoleLogger@8.0.18

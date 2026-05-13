@@ -1,4 +1,5 @@
 - pkg:nuget/DHI.Services.Rasters.WebApi@16.0.0
+- pkg:nuget/DHI.Services.Rasters.WebApi@17.0.0
 - pkg:nuget/DHI.Services.Rasters.WebApi@3.0.0
 - pkg:nuget/DHI.Services.Rasters.WebApi@4.0.0
 - pkg:nuget/DHI.Services.Rasters.WebApi@4.0.1

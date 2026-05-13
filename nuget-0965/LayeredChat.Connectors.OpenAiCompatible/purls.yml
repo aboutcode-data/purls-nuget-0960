@@ -1,2 +1,3 @@
 - pkg:nuget/LayeredChat.Connectors.OpenAiCompatible@0.2.0
 - pkg:nuget/LayeredChat.Connectors.OpenAiCompatible@0.3.0
+- pkg:nuget/LayeredChat.Connectors.OpenAiCompatible@0.3.5

@@ -17,6 +17,7 @@
 - pkg:nuget/jaindb.storage.Memory@2.0.0.10
 - pkg:nuget/jaindb.storage.Memory@2.0.0.11
 - pkg:nuget/jaindb.storage.Memory@2.0.0.12
+- pkg:nuget/jaindb.storage.Memory@2.0.0.14
 - pkg:nuget/jaindb.storage.Memory@2.0.0.3
 - pkg:nuget/jaindb.storage.Memory@2.0.0.5
 - pkg:nuget/jaindb.storage.Memory@2.0.0.6

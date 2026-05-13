@@ -39,3 +39,4 @@
 - pkg:nuget/TestIT.Adapter@1.9.6-TMS-5.4
 - pkg:nuget/TestIT.Adapter@1.9.7
 - pkg:nuget/TestIT.Adapter@1.9.8
+- pkg:nuget/TestIT.Adapter@2.0.3

@@ -22,6 +22,7 @@
 - pkg:nuget/BarcodeLib.BarcodeReader.PDF.Code.EAN8@7.0.0.41
 - pkg:nuget/BarcodeLib.BarcodeReader.PDF.Code.EAN8@7.0.0.48
 - pkg:nuget/BarcodeLib.BarcodeReader.PDF.Code.EAN8@7.0.0.5
+- pkg:nuget/BarcodeLib.BarcodeReader.PDF.Code.EAN8@7.0.0.54
 - pkg:nuget/BarcodeLib.BarcodeReader.PDF.Code.EAN8@7.0.0.6
 - pkg:nuget/BarcodeLib.BarcodeReader.PDF.Code.EAN8@7.0.0.7
 - pkg:nuget/BarcodeLib.BarcodeReader.PDF.Code.EAN8@7.0.0.8

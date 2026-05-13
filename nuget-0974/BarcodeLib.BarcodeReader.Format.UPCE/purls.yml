@@ -20,6 +20,7 @@
 - pkg:nuget/BarcodeLib.BarcodeReader.Format.UPCE@7.0.0.40
 - pkg:nuget/BarcodeLib.BarcodeReader.Format.UPCE@7.0.0.46
 - pkg:nuget/BarcodeLib.BarcodeReader.Format.UPCE@7.0.0.5
+- pkg:nuget/BarcodeLib.BarcodeReader.Format.UPCE@7.0.0.52
 - pkg:nuget/BarcodeLib.BarcodeReader.Format.UPCE@7.0.0.6
 - pkg:nuget/BarcodeLib.BarcodeReader.Format.UPCE@7.0.0.7
 - pkg:nuget/BarcodeLib.BarcodeReader.Format.UPCE@7.0.0.8

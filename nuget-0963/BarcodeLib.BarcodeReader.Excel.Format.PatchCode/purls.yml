@@ -19,6 +19,7 @@
 - pkg:nuget/BarcodeLib.BarcodeReader.Excel.Format.PatchCode@7.0.0.40
 - pkg:nuget/BarcodeLib.BarcodeReader.Excel.Format.PatchCode@7.0.0.47
 - pkg:nuget/BarcodeLib.BarcodeReader.Excel.Format.PatchCode@7.0.0.5
+- pkg:nuget/BarcodeLib.BarcodeReader.Excel.Format.PatchCode@7.0.0.53
 - pkg:nuget/BarcodeLib.BarcodeReader.Excel.Format.PatchCode@7.0.0.6
 - pkg:nuget/BarcodeLib.BarcodeReader.Excel.Format.PatchCode@7.0.0.7
 - pkg:nuget/BarcodeLib.BarcodeReader.Excel.Format.PatchCode@7.0.0.8

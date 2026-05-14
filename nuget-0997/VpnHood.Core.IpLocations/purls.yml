@@ -1,2 +1,3 @@
 - pkg:nuget/VpnHood.Core.IpLocations@7.7.798
 - pkg:nuget/VpnHood.Core.IpLocations@7.9.810-prerelease
+- pkg:nuget/VpnHood.Core.IpLocations@7.9.812

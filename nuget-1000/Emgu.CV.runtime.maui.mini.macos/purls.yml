@@ -2,6 +2,7 @@
 - pkg:nuget/Emgu.CV.runtime.maui.mini.macos@4.11.0.5746
 - pkg:nuget/Emgu.CV.runtime.maui.mini.macos@4.12.0.5763
 - pkg:nuget/Emgu.CV.runtime.maui.mini.macos@4.12.0.5764
+- pkg:nuget/Emgu.CV.runtime.maui.mini.macos@4.13.0.5924
 - pkg:nuget/Emgu.CV.runtime.maui.mini.macos@4.6.0.5131
 - pkg:nuget/Emgu.CV.runtime.maui.mini.macos@4.7.0.5276
 - pkg:nuget/Emgu.CV.runtime.maui.mini.macos@4.8.0.5324

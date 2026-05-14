@@ -24,6 +24,7 @@
 - pkg:nuget/DicomObjects@8.40.1212
 - pkg:nuget/DicomObjects@8.40.1213
 - pkg:nuget/DicomObjects@8.40.1214
+- pkg:nuget/DicomObjects@8.40.1216
 - pkg:nuget/DicomObjects@8.40.13
 - pkg:nuget/DicomObjects@8.40.132
 - pkg:nuget/DicomObjects@8.40.14

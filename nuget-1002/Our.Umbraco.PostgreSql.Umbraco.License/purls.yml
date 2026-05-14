@@ -1,3 +1,5 @@
 - pkg:nuget/Our.Umbraco.PostgreSql.Umbraco.License@17.3.0.1
+- pkg:nuget/Our.Umbraco.PostgreSql.Umbraco.License@17.3.4.5
 - pkg:nuget/Our.Umbraco.PostgreSql.Umbraco.License@17.4.0-rc
+- pkg:nuget/Our.Umbraco.PostgreSql.Umbraco.License@17.4.0-rc3
 - pkg:nuget/Our.Umbraco.PostgreSql.Umbraco.License@17.4.0-rc8

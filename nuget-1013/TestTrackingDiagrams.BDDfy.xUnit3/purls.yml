@@ -86,4 +86,6 @@
 - pkg:nuget/TestTrackingDiagrams.BDDfy.xUnit3@2.33.56
 - pkg:nuget/TestTrackingDiagrams.BDDfy.xUnit3@2.33.70
 - pkg:nuget/TestTrackingDiagrams.BDDfy.xUnit3@2.33.76
+- pkg:nuget/TestTrackingDiagrams.BDDfy.xUnit3@2.35.3
+- pkg:nuget/TestTrackingDiagrams.BDDfy.xUnit3@2.35.4
 - pkg:nuget/TestTrackingDiagrams.BDDfy.xUnit3@2.4.1

@@ -14,6 +14,7 @@
 - pkg:nuget/MarymoorStudios.Core.Serialization@1.0.0.22
 - pkg:nuget/MarymoorStudios.Core.Serialization@1.0.0.23
 - pkg:nuget/MarymoorStudios.Core.Serialization@1.0.0.24
+- pkg:nuget/MarymoorStudios.Core.Serialization@1.0.0.29
 - pkg:nuget/MarymoorStudios.Core.Serialization@1.0.0.4-preview
 - pkg:nuget/MarymoorStudios.Core.Serialization@1.0.0.8-preview
 - pkg:nuget/MarymoorStudios.Core.Serialization@1.0.0.9-preview

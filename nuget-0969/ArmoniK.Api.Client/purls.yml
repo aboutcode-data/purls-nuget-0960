@@ -2344,6 +2344,7 @@
 - pkg:nuget/ArmoniK.Api.Client@3.29.1-renovatepypi.1.c6f2db0b
 - pkg:nuget/ArmoniK.Api.Client@3.29.1-renovatepypi.1.c8d2d657
 - pkg:nuget/ArmoniK.Api.Client@3.29.1-renovatepypi.1.c9b37a7c
+- pkg:nuget/ArmoniK.Api.Client@3.29.1-renovatepypi.1.f32d1042
 - pkg:nuget/ArmoniK.Api.Client@3.29.1-renovatepypi.1.f39814d2
 - pkg:nuget/ArmoniK.Api.Client@3.29.1-renovatewebnpm.1.9b9c2982
 - pkg:nuget/ArmoniK.Api.Client@3.3.0

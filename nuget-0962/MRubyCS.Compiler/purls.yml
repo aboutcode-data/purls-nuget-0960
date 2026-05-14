@@ -2,6 +2,7 @@
 - pkg:nuget/MRubyCS.Compiler@0.10.1
 - pkg:nuget/MRubyCS.Compiler@0.10.2
 - pkg:nuget/MRubyCS.Compiler@0.10.3
+- pkg:nuget/MRubyCS.Compiler@0.101.0
 - pkg:nuget/MRubyCS.Compiler@0.11.0
 - pkg:nuget/MRubyCS.Compiler@0.11.1
 - pkg:nuget/MRubyCS.Compiler@0.12.0

@@ -1,1 +1,2 @@
+- pkg:nuget/MRubyCS.Compiler.Cli@0.101.0
 - pkg:nuget/MRubyCS.Compiler.Cli@0.22.0

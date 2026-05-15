@@ -1,2 +1,3 @@
 - pkg:nuget/Isolator.Fody@1.0.0-rc.9
 - pkg:nuget/Isolator.Fody@1.1.0-rc
+- pkg:nuget/Isolator.Fody@1.3.0-alpha

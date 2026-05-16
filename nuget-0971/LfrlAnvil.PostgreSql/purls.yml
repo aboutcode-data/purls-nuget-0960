@@ -3,3 +3,4 @@
 - pkg:nuget/LfrlAnvil.PostgreSql@0.2.0
 - pkg:nuget/LfrlAnvil.PostgreSql@0.2.1
 - pkg:nuget/LfrlAnvil.PostgreSql@0.3.0
+- pkg:nuget/LfrlAnvil.PostgreSql@0.6.0

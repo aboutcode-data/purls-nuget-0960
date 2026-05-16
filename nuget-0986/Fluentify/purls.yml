@@ -25,3 +25,5 @@
 - pkg:nuget/Fluentify@2.1.0
 - pkg:nuget/Fluentify@2.2.0-rc.1
 - pkg:nuget/Fluentify@2.2.0-rc.2
+- pkg:nuget/Fluentify@2.2.1
+- pkg:nuget/Fluentify@2.2.2-rc.1

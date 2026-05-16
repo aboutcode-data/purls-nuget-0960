@@ -786,6 +786,7 @@
 - pkg:nuget/AWSSDK.OpenSearchService@4.0.2.3
 - pkg:nuget/AWSSDK.OpenSearchService@4.0.2.4
 - pkg:nuget/AWSSDK.OpenSearchService@4.0.2.5
+- pkg:nuget/AWSSDK.OpenSearchService@4.0.21.2
 - pkg:nuget/AWSSDK.OpenSearchService@4.0.3
 - pkg:nuget/AWSSDK.OpenSearchService@4.0.3.1
 - pkg:nuget/AWSSDK.OpenSearchService@4.0.3.2

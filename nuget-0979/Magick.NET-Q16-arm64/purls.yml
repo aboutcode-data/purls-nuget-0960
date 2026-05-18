@@ -40,6 +40,7 @@
 - pkg:nuget/Magick.NET-Q16-arm64@14.11.0
 - pkg:nuget/Magick.NET-Q16-arm64@14.11.1
 - pkg:nuget/Magick.NET-Q16-arm64@14.12.0
+- pkg:nuget/Magick.NET-Q16-arm64@14.13.0
 - pkg:nuget/Magick.NET-Q16-arm64@14.2.0
 - pkg:nuget/Magick.NET-Q16-arm64@14.3.0
 - pkg:nuget/Magick.NET-Q16-arm64@14.4.0

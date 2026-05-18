@@ -2,6 +2,7 @@
 - pkg:nuget/VirtoCommerce.NotificationsModule.SendGrid@3.0.0-beta0001
 - pkg:nuget/VirtoCommerce.NotificationsModule.SendGrid@3.0.0-rc.1
 - pkg:nuget/VirtoCommerce.NotificationsModule.SendGrid@3.0.0-rc.2
+- pkg:nuget/VirtoCommerce.NotificationsModule.SendGrid@3.1001.3
 - pkg:nuget/VirtoCommerce.NotificationsModule.SendGrid@3.16.0
 - pkg:nuget/VirtoCommerce.NotificationsModule.SendGrid@3.16.0-alpha.179
 - pkg:nuget/VirtoCommerce.NotificationsModule.SendGrid@3.16.0-alpha.180

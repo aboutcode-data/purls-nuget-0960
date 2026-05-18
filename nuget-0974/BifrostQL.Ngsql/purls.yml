@@ -2,3 +2,6 @@
 - pkg:nuget/BifrostQL.Ngsql@0.4.368
 - pkg:nuget/BifrostQL.Ngsql@0.4.369
 - pkg:nuget/BifrostQL.Ngsql@0.4.370
+- pkg:nuget/BifrostQL.Ngsql@0.4.401
+- pkg:nuget/BifrostQL.Ngsql@0.4.402
+- pkg:nuget/BifrostQL.Ngsql@0.4.403

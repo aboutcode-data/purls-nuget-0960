@@ -1,1 +1,2 @@
 - pkg:nuget/LineTen.Communication.PagerDuty@2.0.95
+- pkg:nuget/LineTen.Communication.PagerDuty@2.0.99

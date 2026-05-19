@@ -1,3 +1,4 @@
+- pkg:nuget/DHI.Services.Shapefile@17.0.0
 - pkg:nuget/DHI.Services.Shapefile@4.3.0
 - pkg:nuget/DHI.Services.Shapefile@4.4.0
 - pkg:nuget/DHI.Services.Shapefile@4.4.1

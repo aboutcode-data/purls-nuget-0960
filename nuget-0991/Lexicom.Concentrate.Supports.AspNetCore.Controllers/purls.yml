@@ -1,3 +1,4 @@
+- pkg:nuget/Lexicom.Concentrate.Supports.AspNetCore.Controllers@10.0.9
 - pkg:nuget/Lexicom.Concentrate.Supports.AspNetCore.Controllers@6.0.1
 - pkg:nuget/Lexicom.Concentrate.Supports.AspNetCore.Controllers@6.0.2
 - pkg:nuget/Lexicom.Concentrate.Supports.AspNetCore.Controllers@6.0.3

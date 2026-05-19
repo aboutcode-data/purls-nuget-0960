@@ -4,3 +4,4 @@
 - pkg:nuget/Bitstamp.Client.Websocket@1.1.1
 - pkg:nuget/Bitstamp.Client.Websocket@1.2.0
 - pkg:nuget/Bitstamp.Client.Websocket@1.2.1
+- pkg:nuget/Bitstamp.Client.Websocket@1.4.0

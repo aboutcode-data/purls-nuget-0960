@@ -2,3 +2,5 @@
 - pkg:nuget/ThunderPropagator.Debug.ARM64@1.0.1-beta.41
 - pkg:nuget/ThunderPropagator.Debug.ARM64@1.0.1-beta.43
 - pkg:nuget/ThunderPropagator.Debug.ARM64@1.0.1-beta.44
+- pkg:nuget/ThunderPropagator.Debug.ARM64@1.0.1-beta.49
+- pkg:nuget/ThunderPropagator.Debug.ARM64@1.0.1-beta.50

@@ -50,6 +50,7 @@
 - pkg:nuget/OSDC.DotnetLibraries.Drilling.DrillingProperties@10.2.2-build.92
 - pkg:nuget/OSDC.DotnetLibraries.Drilling.DrillingProperties@10.2.2-build.95
 - pkg:nuget/OSDC.DotnetLibraries.Drilling.DrillingProperties@10.2.2-build.98
+- pkg:nuget/OSDC.DotnetLibraries.Drilling.DrillingProperties@10.2.5
 - pkg:nuget/OSDC.DotnetLibraries.Drilling.DrillingProperties@2.0.0
 - pkg:nuget/OSDC.DotnetLibraries.Drilling.DrillingProperties@2.0.1
 - pkg:nuget/OSDC.DotnetLibraries.Drilling.DrillingProperties@3.0.1

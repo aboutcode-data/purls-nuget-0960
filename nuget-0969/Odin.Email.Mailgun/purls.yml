@@ -78,5 +78,7 @@
 - pkg:nuget/Odin.Email.Mailgun@0.2.1
 - pkg:nuget/Odin.Email.Mailgun@0.2.10
 - pkg:nuget/Odin.Email.Mailgun@0.9.1
+- pkg:nuget/Odin.Email.Mailgun@0.9.103
 - pkg:nuget/Odin.Email.Mailgun@0.9.53
+- pkg:nuget/Odin.Email.Mailgun@0.9.85
 - pkg:nuget/Odin.Email.Mailgun@1.0.0

@@ -174,3 +174,5 @@
 - pkg:nuget/bblanchon.PDFium.Linux@146.0.7651
 - pkg:nuget/bblanchon.PDFium.Linux@148.0.7763
 - pkg:nuget/bblanchon.PDFium.Linux@150.0.7834
+- pkg:nuget/bblanchon.PDFium.Linux@150.0.7857
+- pkg:nuget/bblanchon.PDFium.Linux@150.0.7869

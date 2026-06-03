@@ -43,6 +43,8 @@
 - pkg:nuget/Dotnet.Build@0.3.7
 - pkg:nuget/Dotnet.Build@0.3.8
 - pkg:nuget/Dotnet.Build@0.3.9
+- pkg:nuget/Dotnet.Build@0.31.0
+- pkg:nuget/Dotnet.Build@0.32.0
 - pkg:nuget/Dotnet.Build@0.4.0
 - pkg:nuget/Dotnet.Build@0.5.0
 - pkg:nuget/Dotnet.Build@0.5.1

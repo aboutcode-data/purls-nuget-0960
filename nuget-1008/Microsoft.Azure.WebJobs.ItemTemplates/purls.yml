@@ -85,3 +85,4 @@
 - pkg:nuget/Microsoft.Azure.WebJobs.ItemTemplates@4.0.5192
 - pkg:nuget/Microsoft.Azure.WebJobs.ItemTemplates@4.0.5196
 - pkg:nuget/Microsoft.Azure.WebJobs.ItemTemplates@4.0.5212
+- pkg:nuget/Microsoft.Azure.WebJobs.ItemTemplates@4.0.5590

@@ -156,3 +156,5 @@
 - pkg:nuget/NewLife.IoT@2.7.2026.115-beta0015
 - pkg:nuget/NewLife.IoT@2.7.2026.303-beta0013
 - pkg:nuget/NewLife.IoT@3.0.2026.518-beta1452
+- pkg:nuget/NewLife.IoT@3.0.2026.601
+- pkg:nuget/NewLife.IoT@3.0.2026.601-beta1248

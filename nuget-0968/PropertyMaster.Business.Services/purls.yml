@@ -117,6 +117,7 @@
 - pkg:nuget/PropertyMaster.Business.Services@3.3.476-beta
 - pkg:nuget/PropertyMaster.Business.Services@3.3.477-beta
 - pkg:nuget/PropertyMaster.Business.Services@3.3.48
+- pkg:nuget/PropertyMaster.Business.Services@3.3.493
 - pkg:nuget/PropertyMaster.Business.Services@3.3.50
 - pkg:nuget/PropertyMaster.Business.Services@3.3.53
 - pkg:nuget/PropertyMaster.Business.Services@3.3.58
@@ -127,3 +128,13 @@
 - pkg:nuget/PropertyMaster.Business.Services@4.0.28
 - pkg:nuget/PropertyMaster.Business.Services@4.0.38
 - pkg:nuget/PropertyMaster.Business.Services@4.0.42
+- pkg:nuget/PropertyMaster.Business.Services@4.0.43
+- pkg:nuget/PropertyMaster.Business.Services@4.0.44
+- pkg:nuget/PropertyMaster.Business.Services@4.0.45
+- pkg:nuget/PropertyMaster.Business.Services@4.0.48
+- pkg:nuget/PropertyMaster.Business.Services@4.0.51
+- pkg:nuget/PropertyMaster.Business.Services@4.0.56
+- pkg:nuget/PropertyMaster.Business.Services@4.0.58
+- pkg:nuget/PropertyMaster.Business.Services@4.0.61
+- pkg:nuget/PropertyMaster.Business.Services@4.0.71
+- pkg:nuget/PropertyMaster.Business.Services@4.0.73

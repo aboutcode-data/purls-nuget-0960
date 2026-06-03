@@ -64,6 +64,8 @@
 - pkg:nuget/AndrejKrizan.EntityFramework.SqlServer@1.4.0
 - pkg:nuget/AndrejKrizan.EntityFramework.SqlServer@1.4.1
 - pkg:nuget/AndrejKrizan.EntityFramework.SqlServer@1.4.2
+- pkg:nuget/AndrejKrizan.EntityFramework.SqlServer@10.2.3.1
+- pkg:nuget/AndrejKrizan.EntityFramework.SqlServer@10.2.3.2
 - pkg:nuget/AndrejKrizan.EntityFramework.SqlServer@2.0.0
 - pkg:nuget/AndrejKrizan.EntityFramework.SqlServer@2.0.1
 - pkg:nuget/AndrejKrizan.EntityFramework.SqlServer@2.0.2

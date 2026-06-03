@@ -2215,3 +2215,15 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.4.8.2888-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.4.8.2889-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.1.2954-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.1.2977-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.1.2978-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.1.2982-cmd-unit-tests
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.1.2996-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.1.2997-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.1.2998-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.1.3000-add-blocked-ref
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.1.3001-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.1.3016-release-coverag
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.1.3019-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.1.3020-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.1.3021-main

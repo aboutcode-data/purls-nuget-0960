@@ -158,6 +158,12 @@
 - pkg:nuget/Uno.Licensing.Common@1.8.0-dev.124
 - pkg:nuget/Uno.Licensing.Common@1.8.0-dev.125
 - pkg:nuget/Uno.Licensing.Common@1.8.0-dev.134
+- pkg:nuget/Uno.Licensing.Common@1.8.0-dev.199
+- pkg:nuget/Uno.Licensing.Common@1.8.0-dev.250
+- pkg:nuget/Uno.Licensing.Common@1.8.0-dev.251
+- pkg:nuget/Uno.Licensing.Common@1.8.0-dev.260
+- pkg:nuget/Uno.Licensing.Common@1.8.0-dev.261
+- pkg:nuget/Uno.Licensing.Common@1.8.0-dev.292
 - pkg:nuget/Uno.Licensing.Common@1.8.0-dev.46
 - pkg:nuget/Uno.Licensing.Common@1.8.0-dev.50
 - pkg:nuget/Uno.Licensing.Common@1.8.0-dev.59

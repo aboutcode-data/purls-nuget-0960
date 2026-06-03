@@ -39,6 +39,10 @@
 - pkg:nuget/LineTen.Messaging.AzureServiceBus.CloudEvents@2.0.0
 - pkg:nuget/LineTen.Messaging.AzureServiceBus.CloudEvents@2.0.1
 - pkg:nuget/LineTen.Messaging.AzureServiceBus.CloudEvents@2.0.10
+- pkg:nuget/LineTen.Messaging.AzureServiceBus.CloudEvents@2.0.100
+- pkg:nuget/LineTen.Messaging.AzureServiceBus.CloudEvents@2.0.102
+- pkg:nuget/LineTen.Messaging.AzureServiceBus.CloudEvents@2.0.104
+- pkg:nuget/LineTen.Messaging.AzureServiceBus.CloudEvents@2.0.106
 - pkg:nuget/LineTen.Messaging.AzureServiceBus.CloudEvents@2.0.11
 - pkg:nuget/LineTen.Messaging.AzureServiceBus.CloudEvents@2.0.12
 - pkg:nuget/LineTen.Messaging.AzureServiceBus.CloudEvents@2.0.2

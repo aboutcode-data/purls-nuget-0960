@@ -94,3 +94,4 @@
 - pkg:nuget/AlibabaCloud.SDK.Ecs20140526@7.7.0
 - pkg:nuget/AlibabaCloud.SDK.Ecs20140526@7.7.1
 - pkg:nuget/AlibabaCloud.SDK.Ecs20140526@7.7.7
+- pkg:nuget/AlibabaCloud.SDK.Ecs20140526@7.8.2

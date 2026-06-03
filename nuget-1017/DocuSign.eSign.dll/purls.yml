@@ -1,6 +1,7 @@
 - pkg:nuget/DocuSign.eSign.dll@1.0.7
 - pkg:nuget/DocuSign.eSign.dll@1.0.8
 - pkg:nuget/DocuSign.eSign.dll@1.0.9
+- pkg:nuget/DocuSign.eSign.dll@10.0.0
 - pkg:nuget/DocuSign.eSign.dll@2.0.0
 - pkg:nuget/DocuSign.eSign.dll@2.0.1
 - pkg:nuget/DocuSign.eSign.dll@2.0.2

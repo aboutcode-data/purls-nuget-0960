@@ -18,6 +18,7 @@
 - pkg:nuget/BarcodeLib.BarcodeReader.Code.RM4SCC@7.0.0.46
 - pkg:nuget/BarcodeLib.BarcodeReader.Code.RM4SCC@7.0.0.5
 - pkg:nuget/BarcodeLib.BarcodeReader.Code.RM4SCC@7.0.0.52
+- pkg:nuget/BarcodeLib.BarcodeReader.Code.RM4SCC@7.0.0.54
 - pkg:nuget/BarcodeLib.BarcodeReader.Code.RM4SCC@7.0.0.6
 - pkg:nuget/BarcodeLib.BarcodeReader.Code.RM4SCC@7.0.0.7
 - pkg:nuget/BarcodeLib.BarcodeReader.Code.RM4SCC@7.0.0.8

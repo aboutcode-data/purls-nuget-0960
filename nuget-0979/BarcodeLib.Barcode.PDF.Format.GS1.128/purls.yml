@@ -24,3 +24,5 @@
 - pkg:nuget/BarcodeLib.Barcode.PDF.Format.GS1.128@8.0.0.11
 - pkg:nuget/BarcodeLib.Barcode.PDF.Format.GS1.128@8.0.0.14
 - pkg:nuget/BarcodeLib.Barcode.PDF.Format.GS1.128@8.0.0.17
+- pkg:nuget/BarcodeLib.Barcode.PDF.Format.GS1.128@8.0.0.19
+- pkg:nuget/BarcodeLib.Barcode.PDF.Format.GS1.128@8.0.0.20

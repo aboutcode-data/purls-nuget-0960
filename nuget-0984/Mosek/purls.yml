@@ -103,6 +103,7 @@
 - pkg:nuget/Mosek@11.0.7
 - pkg:nuget/Mosek@11.0.8
 - pkg:nuget/Mosek@11.0.9
+- pkg:nuget/Mosek@11.2.1
 - pkg:nuget/Mosek@9.0.105
 - pkg:nuget/Mosek@9.1.10
 - pkg:nuget/Mosek@9.1.11

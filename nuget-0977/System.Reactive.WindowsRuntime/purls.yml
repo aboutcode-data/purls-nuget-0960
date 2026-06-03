@@ -39,3 +39,6 @@
 - pkg:nuget/System.Reactive.WindowsRuntime@6.0.2
 - pkg:nuget/System.Reactive.WindowsRuntime@6.1.0
 - pkg:nuget/System.Reactive.WindowsRuntime@7.0.0-preview.1
+- pkg:nuget/System.Reactive.WindowsRuntime@7.0.0-preview.15
+- pkg:nuget/System.Reactive.WindowsRuntime@7.0.0-preview.16
+- pkg:nuget/System.Reactive.WindowsRuntime@7.0.0-preview.20

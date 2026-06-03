@@ -26,3 +26,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Max1704x@1.0.424
 - pkg:nuget/nanoFramework.Iot.Device.Max1704x@1.0.49
 - pkg:nuget/nanoFramework.Iot.Device.Max1704x@1.0.71
+- pkg:nuget/nanoFramework.Iot.Device.Max1704x@2.0.0-preview.73

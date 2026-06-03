@@ -12,6 +12,7 @@
 - pkg:nuget/Ucommerce.Web.StaticAssets@10.12.0
 - pkg:nuget/Ucommerce.Web.StaticAssets@10.12.1
 - pkg:nuget/Ucommerce.Web.StaticAssets@10.12.10
+- pkg:nuget/Ucommerce.Web.StaticAssets@10.12.12
 - pkg:nuget/Ucommerce.Web.StaticAssets@10.12.2
 - pkg:nuget/Ucommerce.Web.StaticAssets@10.12.3
 - pkg:nuget/Ucommerce.Web.StaticAssets@10.12.4

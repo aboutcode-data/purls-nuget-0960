@@ -171,3 +171,4 @@
 - pkg:nuget/Kayisoft.Abp.RISCallback.Consumer.Kafka@5.0.4
 - pkg:nuget/Kayisoft.Abp.RISCallback.Consumer.Kafka@5.0.7
 - pkg:nuget/Kayisoft.Abp.RISCallback.Consumer.Kafka@5.0.8
+- pkg:nuget/Kayisoft.Abp.RISCallback.Consumer.Kafka@5.1.3

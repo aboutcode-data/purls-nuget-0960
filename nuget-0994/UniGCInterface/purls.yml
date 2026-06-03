@@ -21,6 +21,7 @@
 - pkg:nuget/UniGCInterface@4.6.28
 - pkg:nuget/UniGCInterface@4.6.29
 - pkg:nuget/UniGCInterface@4.6.3
+- pkg:nuget/UniGCInterface@4.6.36
 - pkg:nuget/UniGCInterface@4.6.4
 - pkg:nuget/UniGCInterface@4.6.5
 - pkg:nuget/UniGCInterface@4.6.6

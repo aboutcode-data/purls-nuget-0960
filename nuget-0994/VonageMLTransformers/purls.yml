@@ -232,3 +232,4 @@
 - pkg:nuget/VonageMLTransformers@4.1.58
 - pkg:nuget/VonageMLTransformers@4.1.59
 - pkg:nuget/VonageMLTransformers@4.1.60
+- pkg:nuget/VonageMLTransformers@4.1.64

@@ -36,6 +36,7 @@
 - pkg:nuget/SuperOffice.WebApi.Authorization.AccessToken@10.5.4.878
 - pkg:nuget/SuperOffice.WebApi.Authorization.AccessToken@10.5.5.982
 - pkg:nuget/SuperOffice.WebApi.Authorization.AccessToken@11.1.447
+- pkg:nuget/SuperOffice.WebApi.Authorization.AccessToken@11.13.1541
 - pkg:nuget/SuperOffice.WebApi.Authorization.AccessToken@11.2.664
 - pkg:nuget/SuperOffice.WebApi.Authorization.AccessToken@11.3.1349
 - pkg:nuget/SuperOffice.WebApi.Authorization.AccessToken@11.8.788

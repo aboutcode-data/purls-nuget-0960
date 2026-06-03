@@ -168,6 +168,9 @@
 - pkg:nuget/EasyDesk.Extensions.DependencyInjection@0.162.4
 - pkg:nuget/EasyDesk.Extensions.DependencyInjection@0.164.16
 - pkg:nuget/EasyDesk.Extensions.DependencyInjection@0.165.0
+- pkg:nuget/EasyDesk.Extensions.DependencyInjection@0.168.0
+- pkg:nuget/EasyDesk.Extensions.DependencyInjection@0.168.1
+- pkg:nuget/EasyDesk.Extensions.DependencyInjection@0.168.2
 - pkg:nuget/EasyDesk.Extensions.DependencyInjection@0.84.0
 - pkg:nuget/EasyDesk.Extensions.DependencyInjection@0.85.0
 - pkg:nuget/EasyDesk.Extensions.DependencyInjection@0.85.1

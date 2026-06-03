@@ -5,6 +5,8 @@
 - pkg:nuget/Lexicom.Logging@10.0.19
 - pkg:nuget/Lexicom.Logging@10.0.25
 - pkg:nuget/Lexicom.Logging@10.0.27
+- pkg:nuget/Lexicom.Logging@10.0.33
+- pkg:nuget/Lexicom.Logging@10.0.41
 - pkg:nuget/Lexicom.Logging@6.0.10
 - pkg:nuget/Lexicom.Logging@6.0.11
 - pkg:nuget/Lexicom.Logging@6.0.12

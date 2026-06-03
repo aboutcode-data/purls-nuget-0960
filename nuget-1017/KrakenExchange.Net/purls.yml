@@ -164,3 +164,4 @@
 - pkg:nuget/KrakenExchange.Net@6.5.2
 - pkg:nuget/KrakenExchange.Net@6.6.0
 - pkg:nuget/KrakenExchange.Net@6.7.0
+- pkg:nuget/KrakenExchange.Net@7.11.0

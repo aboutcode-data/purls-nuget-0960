@@ -2284,3 +2284,8 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.1.3020-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.1.3021-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.1.3032-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.1.3040
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.2.3041-template-update
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.2.3042-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.2.3043-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.2.3044-main

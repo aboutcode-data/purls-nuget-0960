@@ -1245,3 +1245,6 @@
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.6.2278-non-test-projec
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.6.2281-testharness-exe
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.7.2288-main
+- pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.7.2295-main
+- pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.7.2296-remove-pre-net9
+- pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.7.2297-main

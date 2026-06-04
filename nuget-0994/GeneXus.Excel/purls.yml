@@ -166,4 +166,5 @@
 - pkg:nuget/GeneXus.Excel@1.35.15
 - pkg:nuget/GeneXus.Excel@1.35.3
 - pkg:nuget/GeneXus.Excel@1.36.2
+- pkg:nuget/GeneXus.Excel@1.36.4
 - pkg:nuget/GeneXus.Excel@1.37.2

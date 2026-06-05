@@ -171,3 +171,4 @@
 - pkg:nuget/Tecan.Sila2.Features.ParameterConstraintsProvider.Client@4.3.9
 - pkg:nuget/Tecan.Sila2.Features.ParameterConstraintsProvider.Client@4.4.1
 - pkg:nuget/Tecan.Sila2.Features.ParameterConstraintsProvider.Client@4.4.1-master.250
+- pkg:nuget/Tecan.Sila2.Features.ParameterConstraintsProvider.Client@4.4.5

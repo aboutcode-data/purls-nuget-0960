@@ -159,6 +159,7 @@
 - pkg:nuget/CogniteSdk.Types@4.9.0
 - pkg:nuget/CogniteSdk.Types@5.0.0
 - pkg:nuget/CogniteSdk.Types@5.1.0
+- pkg:nuget/CogniteSdk.Types@5.11.0
 - pkg:nuget/CogniteSdk.Types@5.2.0
 - pkg:nuget/CogniteSdk.Types@5.2.1
 - pkg:nuget/CogniteSdk.Types@5.2.2

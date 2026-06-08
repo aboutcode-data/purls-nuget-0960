@@ -83,6 +83,7 @@
 - pkg:nuget/Microsoft.IdentityModel.JsonWebTokens@7.6.3
 - pkg:nuget/Microsoft.IdentityModel.JsonWebTokens@7.7.0
 - pkg:nuget/Microsoft.IdentityModel.JsonWebTokens@7.7.1
+- pkg:nuget/Microsoft.IdentityModel.JsonWebTokens@7.7.2
 - pkg:nuget/Microsoft.IdentityModel.JsonWebTokens@8.0.0
 - pkg:nuget/Microsoft.IdentityModel.JsonWebTokens@8.0.0-preview1
 - pkg:nuget/Microsoft.IdentityModel.JsonWebTokens@8.0.1

@@ -302,3 +302,4 @@
 - pkg:nuget/TJC.Cyclops.Web.Core@2026.3.30.1
 - pkg:nuget/TJC.Cyclops.Web.Core@2026.6.5.1
 - pkg:nuget/TJC.Cyclops.Web.Core@2026.6.9.2
+- pkg:nuget/TJC.Cyclops.Web.Core@2026.6.9.3

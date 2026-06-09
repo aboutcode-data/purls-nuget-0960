@@ -72,3 +72,4 @@
 - pkg:nuget/Microsoft.Android.Sdk.Windows.Msi.x86@36.0.0-rc.1.285
 - pkg:nuget/Microsoft.Android.Sdk.Windows.Msi.x86@36.1.43
 - pkg:nuget/Microsoft.Android.Sdk.Windows.Msi.x86@36.1.69
+- pkg:nuget/Microsoft.Android.Sdk.Windows.Msi.x86@36.99.0-preview.5.308

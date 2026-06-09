@@ -13,6 +13,7 @@
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@10.0.8
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@11.0.0-preview.3.26207.106
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@11.0.0-preview.4.26230.115
+- pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@11.0.0-preview.5.26302.115
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@9.0.0
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@9.0.0-preview.4.24266.19
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@9.0.0-preview.5.24306.7

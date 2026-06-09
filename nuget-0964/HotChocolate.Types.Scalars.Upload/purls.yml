@@ -1128,3 +1128,4 @@
 - pkg:nuget/HotChocolate.Types.Scalars.Upload@16.1.0-p.13
 - pkg:nuget/HotChocolate.Types.Scalars.Upload@16.1.0-p.14
 - pkg:nuget/HotChocolate.Types.Scalars.Upload@16.1.2
+- pkg:nuget/HotChocolate.Types.Scalars.Upload@16.1.4-p.3

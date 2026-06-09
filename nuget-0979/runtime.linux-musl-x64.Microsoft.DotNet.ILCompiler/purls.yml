@@ -12,6 +12,7 @@
 - pkg:nuget/runtime.linux-musl-x64.Microsoft.DotNet.ILCompiler@11.0.0-preview.2.26159.112
 - pkg:nuget/runtime.linux-musl-x64.Microsoft.DotNet.ILCompiler@11.0.0-preview.3.26207.106
 - pkg:nuget/runtime.linux-musl-x64.Microsoft.DotNet.ILCompiler@11.0.0-preview.4.26230.115
+- pkg:nuget/runtime.linux-musl-x64.Microsoft.DotNet.ILCompiler@11.0.0-preview.5.26302.115
 - pkg:nuget/runtime.linux-musl-x64.Microsoft.DotNet.ILCompiler@7.0.0
 - pkg:nuget/runtime.linux-musl-x64.Microsoft.DotNet.ILCompiler@7.0.0-preview.2.22152.2
 - pkg:nuget/runtime.linux-musl-x64.Microsoft.DotNet.ILCompiler@7.0.0-preview.3.22175.4

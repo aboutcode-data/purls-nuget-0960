@@ -1,4 +1,5 @@
 - pkg:nuget/NServiceBus.AcceptanceTests.Sources@10.0.1
+- pkg:nuget/NServiceBus.AcceptanceTests.Sources@10.2.5
 - pkg:nuget/NServiceBus.AcceptanceTests.Sources@4.1.7
 - pkg:nuget/NServiceBus.AcceptanceTests.Sources@4.1.8
 - pkg:nuget/NServiceBus.AcceptanceTests.Sources@4.2.6

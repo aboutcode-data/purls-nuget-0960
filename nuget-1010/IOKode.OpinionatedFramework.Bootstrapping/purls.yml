@@ -17,6 +17,7 @@
 - pkg:nuget/IOKode.OpinionatedFramework.Bootstrapping@0.23.0-dev
 - pkg:nuget/IOKode.OpinionatedFramework.Bootstrapping@0.24.0-dev
 - pkg:nuget/IOKode.OpinionatedFramework.Bootstrapping@0.26.0-dev
+- pkg:nuget/IOKode.OpinionatedFramework.Bootstrapping@0.38.0-dev
 - pkg:nuget/IOKode.OpinionatedFramework.Bootstrapping@0.5.0-dev
 - pkg:nuget/IOKode.OpinionatedFramework.Bootstrapping@0.6.0-dev
 - pkg:nuget/IOKode.OpinionatedFramework.Bootstrapping@0.7.0-dev

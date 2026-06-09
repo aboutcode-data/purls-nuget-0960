@@ -256,3 +256,4 @@
 - pkg:nuget/TJC.Cyclops.CloudStorage@2026.1.14.1
 - pkg:nuget/TJC.Cyclops.CloudStorage@2026.3.30.1
 - pkg:nuget/TJC.Cyclops.CloudStorage@2026.6.5.1
+- pkg:nuget/TJC.Cyclops.CloudStorage@2026.6.9.2

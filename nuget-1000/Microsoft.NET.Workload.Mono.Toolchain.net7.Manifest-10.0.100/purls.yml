@@ -2,3 +2,4 @@
 - pkg:nuget/Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest-10.0.100@10.0.104
 - pkg:nuget/Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest-10.0.100@10.0.105
 - pkg:nuget/Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest-10.0.100@10.0.107
+- pkg:nuget/Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest-10.0.100@10.0.109

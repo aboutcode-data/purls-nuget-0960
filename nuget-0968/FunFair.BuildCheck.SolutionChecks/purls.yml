@@ -1253,3 +1253,5 @@
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.9.2324-issue-409-solut
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.9.2325-issue-409-solut
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.9.2326-main
+- pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.9.2329-main
+- pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.9.2331-optimise-projec

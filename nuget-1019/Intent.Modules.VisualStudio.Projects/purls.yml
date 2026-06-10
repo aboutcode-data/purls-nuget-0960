@@ -93,3 +93,4 @@
 - pkg:nuget/Intent.Modules.VisualStudio.Projects@3.8.9
 - pkg:nuget/Intent.Modules.VisualStudio.Projects@3.9.0
 - pkg:nuget/Intent.Modules.VisualStudio.Projects@3.9.1
+- pkg:nuget/Intent.Modules.VisualStudio.Projects@4.1.2

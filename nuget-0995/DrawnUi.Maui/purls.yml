@@ -1,4 +1,5 @@
 - pkg:nuget/DrawnUi.Maui@1.0.8
+- pkg:nuget/DrawnUi.Maui@1.10.0.1-preview1.8
 - pkg:nuget/DrawnUi.Maui@1.5.1.9-pre
 - pkg:nuget/DrawnUi.Maui@1.6.1.1-pre
 - pkg:nuget/DrawnUi.Maui@1.6.1.2-pre

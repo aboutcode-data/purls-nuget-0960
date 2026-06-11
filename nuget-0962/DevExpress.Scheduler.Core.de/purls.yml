@@ -3,3 +3,5 @@
 - pkg:nuget/DevExpress.Scheduler.Core.de@25.1.9
 - pkg:nuget/DevExpress.Scheduler.Core.de@25.2.5
 - pkg:nuget/DevExpress.Scheduler.Core.de@25.2.7
+- pkg:nuget/DevExpress.Scheduler.Core.de@25.2.8
+- pkg:nuget/DevExpress.Scheduler.Core.de@26.1.2-beta

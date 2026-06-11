@@ -39,3 +39,4 @@
 - pkg:nuget/LocalizationProvider.AdminUI.AspNetCore.Xliff@8.2.4
 - pkg:nuget/LocalizationProvider.AdminUI.AspNetCore.Xliff@8.2.5
 - pkg:nuget/LocalizationProvider.AdminUI.AspNetCore.Xliff@8.2.6
+- pkg:nuget/LocalizationProvider.AdminUI.AspNetCore.Xliff@9.0.0

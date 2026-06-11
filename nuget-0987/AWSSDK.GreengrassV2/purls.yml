@@ -877,3 +877,4 @@
 - pkg:nuget/AWSSDK.GreengrassV2@4.0.2.21
 - pkg:nuget/AWSSDK.GreengrassV2@4.0.2.22
 - pkg:nuget/AWSSDK.GreengrassV2@4.0.2.9
+- pkg:nuget/AWSSDK.GreengrassV2@4.0.3.5

@@ -13,3 +13,5 @@
 - pkg:nuget/SerializableHttps@1.0.9
 - pkg:nuget/SerializableHttps@1.1.1
 - pkg:nuget/SerializableHttps@1.1.2
+- pkg:nuget/SerializableHttps@1.2.3
+- pkg:nuget/SerializableHttps@1.2.8

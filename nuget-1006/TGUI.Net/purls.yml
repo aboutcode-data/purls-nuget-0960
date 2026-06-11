@@ -1,4 +1,5 @@
 - pkg:nuget/TGUI.Net@1.10.0
+- pkg:nuget/TGUI.Net@1.12.2
 - pkg:nuget/TGUI.Net@1.6.0-alpha
 - pkg:nuget/TGUI.Net@1.6.0.1-alpha
 - pkg:nuget/TGUI.Net@1.7.0-beta

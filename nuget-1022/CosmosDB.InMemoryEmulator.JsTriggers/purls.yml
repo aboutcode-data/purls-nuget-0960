@@ -30,4 +30,6 @@
 - pkg:nuget/CosmosDB.InMemoryEmulator.JsTriggers@4.0.1
 - pkg:nuget/CosmosDB.InMemoryEmulator.JsTriggers@4.0.14
 - pkg:nuget/CosmosDB.InMemoryEmulator.JsTriggers@4.0.17-beta.1
+- pkg:nuget/CosmosDB.InMemoryEmulator.JsTriggers@4.0.20
+- pkg:nuget/CosmosDB.InMemoryEmulator.JsTriggers@4.0.20-beta.2
 - pkg:nuget/CosmosDB.InMemoryEmulator.JsTriggers@4.0.6

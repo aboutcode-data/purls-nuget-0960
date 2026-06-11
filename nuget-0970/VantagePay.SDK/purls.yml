@@ -7,3 +7,5 @@
 - pkg:nuget/VantagePay.SDK@1.2025.814.3
 - pkg:nuget/VantagePay.SDK@1.2025.829.3
 - pkg:nuget/VantagePay.SDK@1.2026.218.5
+- pkg:nuget/VantagePay.SDK@1.2026.602.2
+- pkg:nuget/VantagePay.SDK@1.2026.602.6

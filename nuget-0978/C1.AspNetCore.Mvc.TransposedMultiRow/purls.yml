@@ -27,3 +27,4 @@
 - pkg:nuget/C1.AspNetCore.Mvc.TransposedMultiRow@6.0.20251.372
 - pkg:nuget/C1.AspNetCore.Mvc.TransposedMultiRow@6.0.20251.386
 - pkg:nuget/C1.AspNetCore.Mvc.TransposedMultiRow@6.0.20251.390
+- pkg:nuget/C1.AspNetCore.Mvc.TransposedMultiRow@6.0.20261.447

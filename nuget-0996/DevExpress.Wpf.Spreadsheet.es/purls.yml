@@ -1,3 +1,6 @@
 - pkg:nuget/DevExpress.Wpf.Spreadsheet.es@25.1.11
+- pkg:nuget/DevExpress.Wpf.Spreadsheet.es@25.1.12
 - pkg:nuget/DevExpress.Wpf.Spreadsheet.es@25.1.9
 - pkg:nuget/DevExpress.Wpf.Spreadsheet.es@25.2.7
+- pkg:nuget/DevExpress.Wpf.Spreadsheet.es@25.2.8
+- pkg:nuget/DevExpress.Wpf.Spreadsheet.es@26.1.2-beta

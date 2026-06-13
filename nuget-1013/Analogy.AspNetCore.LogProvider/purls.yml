@@ -71,3 +71,4 @@
 - pkg:nuget/Analogy.AspNetCore.LogProvider@8.0.0
 - pkg:nuget/Analogy.AspNetCore.LogProvider@8.0.1
 - pkg:nuget/Analogy.AspNetCore.LogProvider@8.1.0
+- pkg:nuget/Analogy.AspNetCore.LogProvider@9.0.6

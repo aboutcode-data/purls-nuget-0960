@@ -1,1 +1,4 @@
 - pkg:nuget/SharpOMatic.Engine.Sqlite@10.0.2-alpha.7
+- pkg:nuget/SharpOMatic.Engine.Sqlite@10.0.5
+- pkg:nuget/SharpOMatic.Engine.Sqlite@10.0.6-rc.12
+- pkg:nuget/SharpOMatic.Engine.Sqlite@10.0.6-rc.7

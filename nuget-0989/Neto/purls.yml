@@ -3,3 +3,6 @@
 - pkg:nuget/Neto@1.2.26
 - pkg:nuget/Neto@1.2.30
 - pkg:nuget/Neto@1.2.36
+- pkg:nuget/Neto@1.2.40
+- pkg:nuget/Neto@1.2.46
+- pkg:nuget/Neto@1.2.50

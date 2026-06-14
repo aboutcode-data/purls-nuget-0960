@@ -1,2 +1,5 @@
 - pkg:nuget/LCDPFramework.Entities@2.7.8
 - pkg:nuget/LCDPFramework.Entities@2.7.9
+- pkg:nuget/LCDPFramework.Entities@2.9.1
+- pkg:nuget/LCDPFramework.Entities@2.9.2
+- pkg:nuget/LCDPFramework.Entities@2.9.3

@@ -4,5 +4,10 @@
 - pkg:nuget/Dmart.Client@0.8.43
 - pkg:nuget/Dmart.Client@0.8.58
 - pkg:nuget/Dmart.Client@0.8.66
+- pkg:nuget/Dmart.Client@0.9.15
+- pkg:nuget/Dmart.Client@0.9.29
+- pkg:nuget/Dmart.Client@0.9.35
+- pkg:nuget/Dmart.Client@0.9.36
 - pkg:nuget/Dmart.Client@0.9.5
 - pkg:nuget/Dmart.Client@0.9.6
+- pkg:nuget/Dmart.Client@1.0.2

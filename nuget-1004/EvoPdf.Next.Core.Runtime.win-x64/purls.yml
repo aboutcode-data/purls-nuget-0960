@@ -3,5 +3,6 @@
 - pkg:nuget/EvoPdf.Next.Core.Runtime.win-x64@14.0.4
 - pkg:nuget/EvoPdf.Next.Core.Runtime.win-x64@14.0.6
 - pkg:nuget/EvoPdf.Next.Core.Runtime.win-x64@14.0.8
+- pkg:nuget/EvoPdf.Next.Core.Runtime.win-x64@14.16.0
 - pkg:nuget/EvoPdf.Next.Core.Runtime.win-x64@14.2.0
 - pkg:nuget/EvoPdf.Next.Core.Runtime.win-x64@14.2.1

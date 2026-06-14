@@ -19,6 +19,8 @@
 - pkg:nuget/SimpleModule.Users.Contracts@0.0.28
 - pkg:nuget/SimpleModule.Users.Contracts@0.0.29
 - pkg:nuget/SimpleModule.Users.Contracts@0.0.30
+- pkg:nuget/SimpleModule.Users.Contracts@0.0.37
+- pkg:nuget/SimpleModule.Users.Contracts@0.0.38
 - pkg:nuget/SimpleModule.Users.Contracts@0.0.6
 - pkg:nuget/SimpleModule.Users.Contracts@0.0.7
 - pkg:nuget/SimpleModule.Users.Contracts@0.0.8

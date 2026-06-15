@@ -2312,3 +2312,4 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.2.3113-cleanup-unit-te
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.2.3114-cleanup-unit-te
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.2.3119-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.2.3122-main

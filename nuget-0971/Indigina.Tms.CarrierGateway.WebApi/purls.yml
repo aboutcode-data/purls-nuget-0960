@@ -54,6 +54,7 @@
 - pkg:nuget/Indigina.Tms.CarrierGateway.WebApi@1.0.232
 - pkg:nuget/Indigina.Tms.CarrierGateway.WebApi@1.0.242
 - pkg:nuget/Indigina.Tms.CarrierGateway.WebApi@1.0.243
+- pkg:nuget/Indigina.Tms.CarrierGateway.WebApi@1.0.246
 - pkg:nuget/Indigina.Tms.CarrierGateway.WebApi@1.0.59
 - pkg:nuget/Indigina.Tms.CarrierGateway.WebApi@1.0.60
 - pkg:nuget/Indigina.Tms.CarrierGateway.WebApi@1.0.61

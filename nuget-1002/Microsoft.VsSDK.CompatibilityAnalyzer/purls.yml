@@ -58,3 +58,5 @@
 - pkg:nuget/Microsoft.VsSDK.CompatibilityAnalyzer@17.9.3174
 - pkg:nuget/Microsoft.VsSDK.CompatibilityAnalyzer@17.9.3184
 - pkg:nuget/Microsoft.VsSDK.CompatibilityAnalyzer@18.3.1108
+- pkg:nuget/Microsoft.VsSDK.CompatibilityAnalyzer@18.8.718
+- pkg:nuget/Microsoft.VsSDK.CompatibilityAnalyzer@18.9.595

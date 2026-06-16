@@ -2254,3 +2254,6 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.2.3119-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.2.3122-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.2.3131-labeler-labels
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.3.3139-unit-tests-git
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.3.3140-unit-tests-git
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.3.3141-main

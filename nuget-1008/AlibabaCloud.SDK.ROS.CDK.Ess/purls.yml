@@ -28,6 +28,7 @@
 - pkg:nuget/AlibabaCloud.SDK.ROS.CDK.Ess@1.0.9
 - pkg:nuget/AlibabaCloud.SDK.ROS.CDK.Ess@1.1.0
 - pkg:nuget/AlibabaCloud.SDK.ROS.CDK.Ess@1.10.0
+- pkg:nuget/AlibabaCloud.SDK.ROS.CDK.Ess@1.14.0
 - pkg:nuget/AlibabaCloud.SDK.ROS.CDK.Ess@1.2.0
 - pkg:nuget/AlibabaCloud.SDK.ROS.CDK.Ess@1.3.0
 - pkg:nuget/AlibabaCloud.SDK.ROS.CDK.Ess@1.4.0

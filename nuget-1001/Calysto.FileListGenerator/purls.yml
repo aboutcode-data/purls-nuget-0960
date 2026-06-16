@@ -24,6 +24,7 @@
 - pkg:nuget/Calysto.FileListGenerator@1.0.186
 - pkg:nuget/Calysto.FileListGenerator@1.0.188
 - pkg:nuget/Calysto.FileListGenerator@1.0.189
+- pkg:nuget/Calysto.FileListGenerator@1.0.228
 - pkg:nuget/Calysto.FileListGenerator@1.0.23
 - pkg:nuget/Calysto.FileListGenerator@1.0.27
 - pkg:nuget/Calysto.FileListGenerator@1.0.38

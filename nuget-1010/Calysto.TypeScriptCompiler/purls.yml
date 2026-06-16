@@ -28,6 +28,7 @@
 - pkg:nuget/Calysto.TypeScriptCompiler@1.0.170
 - pkg:nuget/Calysto.TypeScriptCompiler@1.0.172
 - pkg:nuget/Calysto.TypeScriptCompiler@1.0.173
+- pkg:nuget/Calysto.TypeScriptCompiler@1.0.212
 - pkg:nuget/Calysto.TypeScriptCompiler@1.0.37
 - pkg:nuget/Calysto.TypeScriptCompiler@1.0.42
 - pkg:nuget/Calysto.TypeScriptCompiler@1.0.43

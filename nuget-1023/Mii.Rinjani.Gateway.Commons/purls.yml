@@ -177,6 +177,8 @@
 - pkg:nuget/Mii.Rinjani.Gateway.Commons@1.1.89
 - pkg:nuget/Mii.Rinjani.Gateway.Commons@1.1.9
 - pkg:nuget/Mii.Rinjani.Gateway.Commons@1.1.90
+- pkg:nuget/Mii.Rinjani.Gateway.Commons@10.0.1
+- pkg:nuget/Mii.Rinjani.Gateway.Commons@10.0.2
 - pkg:nuget/Mii.Rinjani.Gateway.Commons@2.0.0
 - pkg:nuget/Mii.Rinjani.Gateway.Commons@2.0.1
 - pkg:nuget/Mii.Rinjani.Gateway.Commons@2.0.2

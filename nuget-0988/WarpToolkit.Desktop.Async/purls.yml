@@ -96,6 +96,7 @@
 - pkg:nuget/WarpToolkit.Desktop.Async@0.9.160-preview.g09e612c3a3
 - pkg:nuget/WarpToolkit.Desktop.Async@0.9.163-preview.g94c401bf89
 - pkg:nuget/WarpToolkit.Desktop.Async@0.9.185-preview.g76df2ef5e7
+- pkg:nuget/WarpToolkit.Desktop.Async@0.9.215-preview.gfee368a182
 - pkg:nuget/WarpToolkit.Desktop.Async@0.9.4-preview.g63cb3ff0fc
 - pkg:nuget/WarpToolkit.Desktop.Async@0.9.5-preview.gf04d2183ff
 - pkg:nuget/WarpToolkit.Desktop.Async@0.9.6-preview.g2b27ad8a21

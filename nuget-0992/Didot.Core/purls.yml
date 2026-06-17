@@ -124,6 +124,7 @@
 - pkg:nuget/Didot.Core@0.32.7
 - pkg:nuget/Didot.Core@0.32.8
 - pkg:nuget/Didot.Core@0.32.9
+- pkg:nuget/Didot.Core@0.33.17
 - pkg:nuget/Didot.Core@0.33.8
 - pkg:nuget/Didot.Core@0.4.0
 - pkg:nuget/Didot.Core@0.5.0

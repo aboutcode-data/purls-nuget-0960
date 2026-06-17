@@ -45,6 +45,9 @@
 - pkg:nuget/Vintasoft.Imaging.Pdf.AspNetCore.ApiControllers@11.1.7.1
 - pkg:nuget/Vintasoft.Imaging.Pdf.AspNetCore.ApiControllers@11.1.8.1
 - pkg:nuget/Vintasoft.Imaging.Pdf.AspNetCore.ApiControllers@11.1.9.1
+- pkg:nuget/Vintasoft.Imaging.Pdf.AspNetCore.ApiControllers@12.0.11.1
+- pkg:nuget/Vintasoft.Imaging.Pdf.AspNetCore.ApiControllers@12.0.12.1
+- pkg:nuget/Vintasoft.Imaging.Pdf.AspNetCore.ApiControllers@12.0.14.1
 - pkg:nuget/Vintasoft.Imaging.Pdf.AspNetCore.ApiControllers@12.0.8.1
 - pkg:nuget/Vintasoft.Imaging.Pdf.AspNetCore.ApiControllers@2.1.1.1
 - pkg:nuget/Vintasoft.Imaging.Pdf.AspNetCore.ApiControllers@2.1.1.10

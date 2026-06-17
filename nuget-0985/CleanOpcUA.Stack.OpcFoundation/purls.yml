@@ -1,7 +1,13 @@
 - pkg:nuget/CleanOpcUA.Stack.OpcFoundation@2.0.0-alpha33
 - pkg:nuget/CleanOpcUA.Stack.OpcFoundation@2.0.0-alpha35
+- pkg:nuget/CleanOpcUA.Stack.OpcFoundation@2.0.0-alpha36
+- pkg:nuget/CleanOpcUA.Stack.OpcFoundation@2.0.0-alpha37
 - pkg:nuget/CleanOpcUA.Stack.OpcFoundation@2.0.0-alpha38
+- pkg:nuget/CleanOpcUA.Stack.OpcFoundation@2.0.0-alpha39
 - pkg:nuget/CleanOpcUA.Stack.OpcFoundation@2.0.0-alpha40
 - pkg:nuget/CleanOpcUA.Stack.OpcFoundation@2.0.0-alpha41
+- pkg:nuget/CleanOpcUA.Stack.OpcFoundation@2.0.0-alpha42
+- pkg:nuget/CleanOpcUA.Stack.OpcFoundation@2.0.0-alpha43
 - pkg:nuget/CleanOpcUA.Stack.OpcFoundation@2.0.0-alpha44
 - pkg:nuget/CleanOpcUA.Stack.OpcFoundation@2.0.0-alpha45
+- pkg:nuget/CleanOpcUA.Stack.OpcFoundation@3.0.0-alpha1

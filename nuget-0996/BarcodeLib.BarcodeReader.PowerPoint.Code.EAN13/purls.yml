@@ -26,6 +26,7 @@
 - pkg:nuget/BarcodeLib.BarcodeReader.PowerPoint.Code.EAN13@7.0.0.5
 - pkg:nuget/BarcodeLib.BarcodeReader.PowerPoint.Code.EAN13@7.0.0.53
 - pkg:nuget/BarcodeLib.BarcodeReader.PowerPoint.Code.EAN13@7.0.0.55
+- pkg:nuget/BarcodeLib.BarcodeReader.PowerPoint.Code.EAN13@7.0.0.58
 - pkg:nuget/BarcodeLib.BarcodeReader.PowerPoint.Code.EAN13@7.0.0.6
 - pkg:nuget/BarcodeLib.BarcodeReader.PowerPoint.Code.EAN13@7.0.0.7
 - pkg:nuget/BarcodeLib.BarcodeReader.PowerPoint.Code.EAN13@7.0.0.8

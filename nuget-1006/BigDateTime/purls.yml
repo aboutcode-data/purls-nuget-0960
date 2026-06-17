@@ -9,3 +9,4 @@
 - pkg:nuget/BigDateTime@4.4.0
 - pkg:nuget/BigDateTime@4.5.0
 - pkg:nuget/BigDateTime@4.7.0
+- pkg:nuget/BigDateTime@5.0.0

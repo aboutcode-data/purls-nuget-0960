@@ -15,6 +15,7 @@
 - pkg:nuget/Microsoft.Graph.Communications.Calls.Media@1.2.0-beta.14141
 - pkg:nuget/Microsoft.Graph.Communications.Calls.Media@1.2.0-beta.14893
 - pkg:nuget/Microsoft.Graph.Communications.Calls.Media@1.2.0-beta.1702
+- pkg:nuget/Microsoft.Graph.Communications.Calls.Media@1.2.0-beta.17760
 - pkg:nuget/Microsoft.Graph.Communications.Calls.Media@1.2.0-beta.2970
 - pkg:nuget/Microsoft.Graph.Communications.Calls.Media@1.2.0-beta.3144
 - pkg:nuget/Microsoft.Graph.Communications.Calls.Media@1.2.0-beta.4038

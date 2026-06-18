@@ -15,4 +15,5 @@
 - pkg:nuget/DevExpress.ProjectTemplates@25.1.5
 - pkg:nuget/DevExpress.ProjectTemplates@25.2.2-beta
 - pkg:nuget/DevExpress.ProjectTemplates@25.2.6
+- pkg:nuget/DevExpress.ProjectTemplates@26.1.2-beta
 - pkg:nuget/DevExpress.ProjectTemplates@26.1.3

@@ -56,3 +56,4 @@
 - pkg:nuget/QuantConnect.Lean.DataSource.IQFeed@2.5.17448
 - pkg:nuget/QuantConnect.Lean.DataSource.IQFeed@2.5.17650
 - pkg:nuget/QuantConnect.Lean.DataSource.IQFeed@2.5.17757
+- pkg:nuget/QuantConnect.Lean.DataSource.IQFeed@2.5.17843

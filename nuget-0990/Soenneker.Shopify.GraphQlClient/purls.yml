@@ -6,6 +6,7 @@
 - pkg:nuget/Soenneker.Shopify.GraphQlClient@4.0.36
 - pkg:nuget/Soenneker.Shopify.GraphQlClient@4.0.39
 - pkg:nuget/Soenneker.Shopify.GraphQlClient@4.0.40
+- pkg:nuget/Soenneker.Shopify.GraphQlClient@4.0.50
 - pkg:nuget/Soenneker.Shopify.GraphQlClient@4.0.7
 - pkg:nuget/Soenneker.Shopify.GraphQlClient@4.0.8
 - pkg:nuget/Soenneker.Shopify.GraphQlClient@4.0.9

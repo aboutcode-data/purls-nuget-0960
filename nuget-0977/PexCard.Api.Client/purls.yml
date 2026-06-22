@@ -125,3 +125,4 @@
 - pkg:nuget/PexCard.Api.Client@1.90.1
 - pkg:nuget/PexCard.Api.Client@1.91.0
 - pkg:nuget/PexCard.Api.Client@1.94.0
+- pkg:nuget/PexCard.Api.Client@1.95.0

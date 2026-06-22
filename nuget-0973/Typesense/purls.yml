@@ -95,3 +95,4 @@
 - pkg:nuget/Typesense@7.8.0
 - pkg:nuget/Typesense@7.9.0
 - pkg:nuget/Typesense@8.2.1
+- pkg:nuget/Typesense@8.5.0

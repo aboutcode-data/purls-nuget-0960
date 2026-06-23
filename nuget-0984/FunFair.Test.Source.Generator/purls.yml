@@ -40,6 +40,14 @@
 - pkg:nuget/FunFair.Test.Source.Generator@6.2.25.2239-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.2.26.2252-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.2.26.2256-main
+- pkg:nuget/FunFair.Test.Source.Generator@6.2.26.2263-main
+- pkg:nuget/FunFair.Test.Source.Generator@6.2.26.2264-main
+- pkg:nuget/FunFair.Test.Source.Generator@6.2.26.2274-main
+- pkg:nuget/FunFair.Test.Source.Generator@6.2.26.2275-main
+- pkg:nuget/FunFair.Test.Source.Generator@6.2.26.2282-main
+- pkg:nuget/FunFair.Test.Source.Generator@6.2.26.2283-main
+- pkg:nuget/FunFair.Test.Source.Generator@6.2.26.2284-protected-membe
+- pkg:nuget/FunFair.Test.Source.Generator@6.2.26.2295-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.2.5.1844-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.2.5.1845-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.2.5.1846-main
@@ -48,3 +56,8 @@
 - pkg:nuget/FunFair.Test.Source.Generator@6.2.6.1857-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.2.6.1858-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.2.6.1859-main
+- pkg:nuget/FunFair.Test.Source.Generator@6.3.1.2307-main
+- pkg:nuget/FunFair.Test.Source.Generator@6.3.1.2328-benchmark-nu501
+- pkg:nuget/FunFair.Test.Source.Generator@6.3.1.2331-benchmark-nu501
+- pkg:nuget/FunFair.Test.Source.Generator@6.3.1.2332-main
+- pkg:nuget/FunFair.Test.Source.Generator@6.3.2.2345-main

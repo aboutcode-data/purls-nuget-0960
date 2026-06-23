@@ -1,0 +1,2 @@
+- pkg:nuget/Stratara.Outbox.AzureServiceBus@3.1.2
+- pkg:nuget/Stratara.Outbox.AzureServiceBus@3.1.6

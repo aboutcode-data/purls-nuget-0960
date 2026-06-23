@@ -156,3 +156,4 @@
 - pkg:nuget/Squidex.Assets@7.8.0
 - pkg:nuget/Squidex.Assets@7.9.0
 - pkg:nuget/Squidex.Assets@8.0.1
+- pkg:nuget/Squidex.Assets@8.0.2

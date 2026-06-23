@@ -1,0 +1,3 @@
+- pkg:nuget/Albatross.Hosting.EFCore@10.2.0-115.main%2Bb18121c
+- pkg:nuget/Albatross.Hosting.EFCore@10.2.0-124.main%2Be501ab6
+- pkg:nuget/Albatross.Hosting.EFCore@10.2.0-125.main%2Bd8be4c5

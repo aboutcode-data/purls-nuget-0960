@@ -45,6 +45,7 @@
 - pkg:nuget/OCI.DotNetSDK.Mediaservices@129.1.0
 - pkg:nuget/OCI.DotNetSDK.Mediaservices@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Mediaservices@135.0.0
+- pkg:nuget/OCI.DotNetSDK.Mediaservices@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Mediaservices@40.1.0
 - pkg:nuget/OCI.DotNetSDK.Mediaservices@41.0.0
 - pkg:nuget/OCI.DotNetSDK.Mediaservices@41.1.0

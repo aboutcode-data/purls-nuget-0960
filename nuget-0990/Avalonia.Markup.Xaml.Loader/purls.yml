@@ -94,3 +94,4 @@
 - pkg:nuget/Avalonia.Markup.Xaml.Loader@12.0.0-rc2
 - pkg:nuget/Avalonia.Markup.Xaml.Loader@12.0.2
 - pkg:nuget/Avalonia.Markup.Xaml.Loader@12.0.4
+- pkg:nuget/Avalonia.Markup.Xaml.Loader@12.0.5

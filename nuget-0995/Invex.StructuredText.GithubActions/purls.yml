@@ -2,4 +2,5 @@
 - pkg:nuget/Invex.StructuredText.GithubActions@0.4.0-rc.10
 - pkg:nuget/Invex.StructuredText.GithubActions@1.0.0
 - pkg:nuget/Invex.StructuredText.GithubActions@1.1.0-rc.12
+- pkg:nuget/Invex.StructuredText.GithubActions@1.1.0-rc.16
 - pkg:nuget/Invex.StructuredText.GithubActions@1.1.0-rc.8

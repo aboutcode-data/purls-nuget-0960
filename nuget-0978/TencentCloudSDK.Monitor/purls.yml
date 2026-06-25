@@ -266,6 +266,7 @@
 - pkg:nuget/TencentCloudSDK.Monitor@3.0.1406
 - pkg:nuget/TencentCloudSDK.Monitor@3.0.1425
 - pkg:nuget/TencentCloudSDK.Monitor@3.0.1429
+- pkg:nuget/TencentCloudSDK.Monitor@3.0.1452
 - pkg:nuget/TencentCloudSDK.Monitor@3.0.168
 - pkg:nuget/TencentCloudSDK.Monitor@3.0.169
 - pkg:nuget/TencentCloudSDK.Monitor@3.0.170

@@ -149,6 +149,7 @@
 - pkg:nuget/HuaweiCloud.SDK.Dns@3.1.187
 - pkg:nuget/HuaweiCloud.SDK.Dns@3.1.189
 - pkg:nuget/HuaweiCloud.SDK.Dns@3.1.19
+- pkg:nuget/HuaweiCloud.SDK.Dns@3.1.198
 - pkg:nuget/HuaweiCloud.SDK.Dns@3.1.2
 - pkg:nuget/HuaweiCloud.SDK.Dns@3.1.20
 - pkg:nuget/HuaweiCloud.SDK.Dns@3.1.21

@@ -2,3 +2,4 @@
 - pkg:nuget/AgentGuard.Azure@0.2.0-preview.2
 - pkg:nuget/AgentGuard.Azure@0.3.0
 - pkg:nuget/AgentGuard.Azure@0.6.0
+- pkg:nuget/AgentGuard.Azure@0.9.1

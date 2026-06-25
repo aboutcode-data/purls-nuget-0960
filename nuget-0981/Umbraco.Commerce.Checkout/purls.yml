@@ -22,3 +22,4 @@
 - pkg:nuget/Umbraco.Commerce.Checkout@16.0.0
 - pkg:nuget/Umbraco.Commerce.Checkout@16.0.0-rc1
 - pkg:nuget/Umbraco.Commerce.Checkout@16.1.0
+- pkg:nuget/Umbraco.Commerce.Checkout@18.0.0

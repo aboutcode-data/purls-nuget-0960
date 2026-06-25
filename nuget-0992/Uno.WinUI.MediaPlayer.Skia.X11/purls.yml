@@ -533,4 +533,6 @@
 - pkg:nuget/Uno.WinUI.MediaPlayer.Skia.X11@6.7.0-dev.600
 - pkg:nuget/Uno.WinUI.MediaPlayer.Skia.X11@6.7.0-dev.610
 - pkg:nuget/Uno.WinUI.MediaPlayer.Skia.X11@6.7.0-dev.636
+- pkg:nuget/Uno.WinUI.MediaPlayer.Skia.X11@6.7.0-dev.641
+- pkg:nuget/Uno.WinUI.MediaPlayer.Skia.X11@6.7.0-dev.642
 - pkg:nuget/Uno.WinUI.MediaPlayer.Skia.X11@6.7.0-dev.80

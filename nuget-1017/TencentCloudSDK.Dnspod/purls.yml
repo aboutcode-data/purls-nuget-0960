@@ -259,6 +259,7 @@
 - pkg:nuget/TencentCloudSDK.Dnspod@3.0.1300
 - pkg:nuget/TencentCloudSDK.Dnspod@3.0.1316
 - pkg:nuget/TencentCloudSDK.Dnspod@3.0.1351
+- pkg:nuget/TencentCloudSDK.Dnspod@3.0.1452
 - pkg:nuget/TencentCloudSDK.Dnspod@3.0.285
 - pkg:nuget/TencentCloudSDK.Dnspod@3.0.286
 - pkg:nuget/TencentCloudSDK.Dnspod@3.0.287

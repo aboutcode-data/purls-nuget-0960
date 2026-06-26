@@ -1,4 +1,5 @@
 - pkg:nuget/RuoVea.OmiApi.SystemApp@10.0.0.4
+- pkg:nuget/RuoVea.OmiApi.SystemApp@10.0.0.5
 - pkg:nuget/RuoVea.OmiApi.SystemApp@6.0.0
 - pkg:nuget/RuoVea.OmiApi.SystemApp@6.0.0.1
 - pkg:nuget/RuoVea.OmiApi.SystemApp@6.0.0.2
@@ -59,3 +60,4 @@
 - pkg:nuget/RuoVea.OmiApi.SystemApp@8.0.1.5
 - pkg:nuget/RuoVea.OmiApi.SystemApp@8.0.1.9
 - pkg:nuget/RuoVea.OmiApi.SystemApp@8.0.2.21
+- pkg:nuget/RuoVea.OmiApi.SystemApp@8.0.2.22

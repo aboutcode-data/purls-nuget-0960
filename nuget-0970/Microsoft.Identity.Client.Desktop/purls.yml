@@ -120,3 +120,4 @@
 - pkg:nuget/Microsoft.Identity.Client.Desktop@4.83.1
 - pkg:nuget/Microsoft.Identity.Client.Desktop@4.83.3
 - pkg:nuget/Microsoft.Identity.Client.Desktop@4.83.4-preview1
+- pkg:nuget/Microsoft.Identity.Client.Desktop@4.85.2

@@ -54,6 +54,7 @@
 - pkg:nuget/MuPDF.NET@3.2.17.1
 - pkg:nuget/MuPDF.NET@3.2.17.2
 - pkg:nuget/MuPDF.NET@3.2.17.3
+- pkg:nuget/MuPDF.NET@3.2.17.7
 - pkg:nuget/MuPDF.NET@3.2.2
 - pkg:nuget/MuPDF.NET@3.2.3
 - pkg:nuget/MuPDF.NET@3.2.3-preview.1

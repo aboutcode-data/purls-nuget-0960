@@ -43,6 +43,9 @@
 - pkg:nuget/Benevia.Core.API.Postgres@0.9.18-ci.205
 - pkg:nuget/Benevia.Core.API.Postgres@0.9.18-ci.207
 - pkg:nuget/Benevia.Core.API.Postgres@0.9.18-ci.208
+- pkg:nuget/Benevia.Core.API.Postgres@0.9.18-ci.211
+- pkg:nuget/Benevia.Core.API.Postgres@0.9.18-ci.215
+- pkg:nuget/Benevia.Core.API.Postgres@0.9.18-ci.219
 - pkg:nuget/Benevia.Core.API.Postgres@0.9.2-ci.62
 - pkg:nuget/Benevia.Core.API.Postgres@0.9.2-ci.64
 - pkg:nuget/Benevia.Core.API.Postgres@0.9.2-ci.65

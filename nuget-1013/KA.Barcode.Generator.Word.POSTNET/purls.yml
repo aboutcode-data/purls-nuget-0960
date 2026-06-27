@@ -21,6 +21,7 @@
 - pkg:nuget/KA.Barcode.Generator.Word.POSTNET@7.7.0.48
 - pkg:nuget/KA.Barcode.Generator.Word.POSTNET@7.7.0.5
 - pkg:nuget/KA.Barcode.Generator.Word.POSTNET@7.7.0.57
+- pkg:nuget/KA.Barcode.Generator.Word.POSTNET@7.7.0.59
 - pkg:nuget/KA.Barcode.Generator.Word.POSTNET@7.7.0.6
 - pkg:nuget/KA.Barcode.Generator.Word.POSTNET@7.7.0.7
 - pkg:nuget/KA.Barcode.Generator.Word.POSTNET@7.7.0.8

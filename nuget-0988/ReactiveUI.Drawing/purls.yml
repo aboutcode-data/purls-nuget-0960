@@ -81,3 +81,4 @@
 - pkg:nuget/ReactiveUI.Drawing@20.4.1
 - pkg:nuget/ReactiveUI.Drawing@21.0.1
 - pkg:nuget/ReactiveUI.Drawing@23.2.1
+- pkg:nuget/ReactiveUI.Drawing@24.0.0-beta.1

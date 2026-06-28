@@ -46,3 +46,4 @@
 - pkg:nuget/Xamarin.Protobuf.JavaLite@4.31.1
 - pkg:nuget/Xamarin.Protobuf.JavaLite@4.31.1.1
 - pkg:nuget/Xamarin.Protobuf.JavaLite@4.32.0
+- pkg:nuget/Xamarin.Protobuf.JavaLite@4.35.1.1

@@ -12,3 +12,4 @@
 - pkg:nuget/SkyAPM.Agent.AspNetCore@2.0.1
 - pkg:nuget/SkyAPM.Agent.AspNetCore@2.1.0
 - pkg:nuget/SkyAPM.Agent.AspNetCore@2.2.0
+- pkg:nuget/SkyAPM.Agent.AspNetCore@2.3.0

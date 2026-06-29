@@ -191,6 +191,7 @@
 - pkg:nuget/EasyDesk.CleanArchitecture.Domain@0.168.1
 - pkg:nuget/EasyDesk.CleanArchitecture.Domain@0.168.2
 - pkg:nuget/EasyDesk.CleanArchitecture.Domain@0.169.0
+- pkg:nuget/EasyDesk.CleanArchitecture.Domain@0.169.10
 - pkg:nuget/EasyDesk.CleanArchitecture.Domain@0.169.2
 - pkg:nuget/EasyDesk.CleanArchitecture.Domain@0.169.7
 - pkg:nuget/EasyDesk.CleanArchitecture.Domain@0.169.8

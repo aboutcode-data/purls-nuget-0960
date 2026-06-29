@@ -15,4 +15,5 @@
 - pkg:nuget/Franz.Common.EntityFramework.Oracle@1.5.4
 - pkg:nuget/Franz.Common.EntityFramework.Oracle@1.5.9
 - pkg:nuget/Franz.Common.EntityFramework.Oracle@2.2.10
+- pkg:nuget/Franz.Common.EntityFramework.Oracle@2.2.15
 - pkg:nuget/Franz.Common.EntityFramework.Oracle@2.2.7

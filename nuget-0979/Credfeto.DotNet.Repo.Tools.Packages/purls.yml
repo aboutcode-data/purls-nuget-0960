@@ -2334,3 +2334,4 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.4.3261-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.4.3262-unit-tests-depe
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.4.3263-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.4.3272-main

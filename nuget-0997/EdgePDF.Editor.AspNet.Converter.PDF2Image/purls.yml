@@ -21,6 +21,7 @@
 - pkg:nuget/EdgePDF.Editor.AspNet.Converter.PDF2Image@12.3.5.45
 - pkg:nuget/EdgePDF.Editor.AspNet.Converter.PDF2Image@12.3.5.48
 - pkg:nuget/EdgePDF.Editor.AspNet.Converter.PDF2Image@12.3.5.5
+- pkg:nuget/EdgePDF.Editor.AspNet.Converter.PDF2Image@12.3.5.55
 - pkg:nuget/EdgePDF.Editor.AspNet.Converter.PDF2Image@12.3.5.6
 - pkg:nuget/EdgePDF.Editor.AspNet.Converter.PDF2Image@12.3.5.7
 - pkg:nuget/EdgePDF.Editor.AspNet.Converter.PDF2Image@12.3.5.8

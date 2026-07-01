@@ -283,3 +283,6 @@
 - pkg:nuget/Vintasoft.Imaging.FormsProcessing.Ocr@8.0.12.1
 - pkg:nuget/Vintasoft.Imaging.FormsProcessing.Ocr@8.0.14.1
 - pkg:nuget/Vintasoft.Imaging.FormsProcessing.Ocr@8.0.8.1
+- pkg:nuget/Vintasoft.Imaging.FormsProcessing.Ocr@8.1.0.1
+- pkg:nuget/Vintasoft.Imaging.FormsProcessing.Ocr@8.1.1.1
+- pkg:nuget/Vintasoft.Imaging.FormsProcessing.Ocr@8.1.2.1

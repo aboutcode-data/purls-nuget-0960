@@ -120,4 +120,5 @@
 - pkg:nuget/Mutagen.Bethesda.Synthesis.WPF@0.34.0-pre-release.2
 - pkg:nuget/Mutagen.Bethesda.Synthesis.WPF@0.35.0
 - pkg:nuget/Mutagen.Bethesda.Synthesis.WPF@0.35.0-alpha.2
+- pkg:nuget/Mutagen.Bethesda.Synthesis.WPF@0.36.0
 - pkg:nuget/Mutagen.Bethesda.Synthesis.WPF@5.1.0

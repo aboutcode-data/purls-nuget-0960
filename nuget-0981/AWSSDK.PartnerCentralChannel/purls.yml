@@ -13,5 +13,6 @@
 - pkg:nuget/AWSSDK.PartnerCentralChannel@4.0.1.5
 - pkg:nuget/AWSSDK.PartnerCentralChannel@4.0.1.6
 - pkg:nuget/AWSSDK.PartnerCentralChannel@4.0.1.7
+- pkg:nuget/AWSSDK.PartnerCentralChannel@4.0.100.1
 - pkg:nuget/AWSSDK.PartnerCentralChannel@4.0.2.10
 - pkg:nuget/AWSSDK.PartnerCentralChannel@4.0.2.5

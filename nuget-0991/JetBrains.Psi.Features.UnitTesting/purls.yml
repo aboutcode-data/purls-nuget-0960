@@ -473,5 +473,6 @@
 - pkg:nuget/JetBrains.Psi.Features.UnitTesting@261.0.20260319.215402-rc01
 - pkg:nuget/JetBrains.Psi.Features.UnitTesting@261.0.20260329.210200
 - pkg:nuget/JetBrains.Psi.Features.UnitTesting@261.0.20260519.82345
+- pkg:nuget/JetBrains.Psi.Features.UnitTesting@261.0.20260701.132435
 - pkg:nuget/JetBrains.Psi.Features.UnitTesting@262.0.20260527.204840-eap04
 - pkg:nuget/JetBrains.Psi.Features.UnitTesting@262.0.20260611.170508-eap06

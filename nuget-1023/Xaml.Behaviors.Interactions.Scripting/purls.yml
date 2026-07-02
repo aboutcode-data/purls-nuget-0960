@@ -12,3 +12,4 @@
 - pkg:nuget/Xaml.Behaviors.Interactions.Scripting@11.3.8.2
 - pkg:nuget/Xaml.Behaviors.Interactions.Scripting@11.3.9
 - pkg:nuget/Xaml.Behaviors.Interactions.Scripting@12.0.0-rc1
+- pkg:nuget/Xaml.Behaviors.Interactions.Scripting@12.0.5

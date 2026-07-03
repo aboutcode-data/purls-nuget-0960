@@ -51,3 +51,4 @@
 - pkg:nuget/JetBrains.NuGet.Frameworks@6.9.20240506.130
 - pkg:nuget/JetBrains.NuGet.Frameworks@7.0.20251002.162
 - pkg:nuget/JetBrains.NuGet.Frameworks@7.0.20251126.165
+- pkg:nuget/JetBrains.NuGet.Frameworks@7.7.20260625.175

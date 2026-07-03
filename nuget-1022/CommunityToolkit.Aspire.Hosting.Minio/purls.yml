@@ -3,6 +3,7 @@
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Minio@13.1.2-beta.512
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Minio@13.4.0
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Minio@13.4.0-beta.651
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Minio@13.4.0-beta.671
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Minio@9.5.1-beta.306
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Minio@9.5.1-beta.307
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Minio@9.5.1-beta.308

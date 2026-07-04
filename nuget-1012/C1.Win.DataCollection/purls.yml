@@ -28,6 +28,7 @@
 - pkg:nuget/C1.Win.DataCollection@1.0.20231.144
 - pkg:nuget/C1.Win.DataCollection@1.0.20232.161
 - pkg:nuget/C1.Win.DataCollection@1.0.20232.164
+- pkg:nuget/C1.Win.DataCollection@10.0.20261.7
 - pkg:nuget/C1.Win.DataCollection@7.0.20233.174
 - pkg:nuget/C1.Win.DataCollection@7.0.20233.175
 - pkg:nuget/C1.Win.DataCollection@8.0.20233.176

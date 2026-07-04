@@ -30,3 +30,5 @@
 - pkg:nuget/Hexalith.Commons@2.1.6
 - pkg:nuget/Hexalith.Commons@2.1.7
 - pkg:nuget/Hexalith.Commons@2.18.0
+- pkg:nuget/Hexalith.Commons@2.22.0
+- pkg:nuget/Hexalith.Commons@2.23.0

@@ -7,6 +7,7 @@
 - pkg:nuget/ES.FX.Ignite.Migrations@10.0.35
 - pkg:nuget/ES.FX.Ignite.Migrations@10.0.40
 - pkg:nuget/ES.FX.Ignite.Migrations@10.0.42
+- pkg:nuget/ES.FX.Ignite.Migrations@10.0.56
 - pkg:nuget/ES.FX.Ignite.Migrations@9.0.1
 - pkg:nuget/ES.FX.Ignite.Migrations@9.0.10
 - pkg:nuget/ES.FX.Ignite.Migrations@9.0.11

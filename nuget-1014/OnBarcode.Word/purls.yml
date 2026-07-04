@@ -19,6 +19,7 @@
 - pkg:nuget/OnBarcode.Word@10.0.0.5
 - pkg:nuget/OnBarcode.Word@10.0.0.50
 - pkg:nuget/OnBarcode.Word@10.0.0.54
+- pkg:nuget/OnBarcode.Word@10.0.0.55
 - pkg:nuget/OnBarcode.Word@10.0.0.6
 - pkg:nuget/OnBarcode.Word@10.0.0.7
 - pkg:nuget/OnBarcode.Word@10.0.0.8

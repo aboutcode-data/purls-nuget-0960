@@ -105,3 +105,4 @@
 - pkg:nuget/Soenneker.Instantly.OpenApiClient@4.0.223
 - pkg:nuget/Soenneker.Instantly.OpenApiClient@4.0.244
 - pkg:nuget/Soenneker.Instantly.OpenApiClient@4.0.252
+- pkg:nuget/Soenneker.Instantly.OpenApiClient@4.0.270

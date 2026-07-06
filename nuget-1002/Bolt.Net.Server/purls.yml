@@ -18,6 +18,7 @@
 - pkg:nuget/Bolt.Net.Server@1.0.0-dev.151
 - pkg:nuget/Bolt.Net.Server@1.0.0-dev.164
 - pkg:nuget/Bolt.Net.Server@1.0.0-dev.187
+- pkg:nuget/Bolt.Net.Server@1.0.0-dev.198
 - pkg:nuget/Bolt.Net.Server@1.0.0-dev.6
 - pkg:nuget/Bolt.Net.Server@1.0.0-dev.7
 - pkg:nuget/Bolt.Net.Server@1.0.0-dev.78

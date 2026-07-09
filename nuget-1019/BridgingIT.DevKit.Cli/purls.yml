@@ -1,1 +1,3 @@
 - pkg:nuget/BridgingIT.DevKit.Cli@10.0.108-preview.0.139
+- pkg:nuget/BridgingIT.DevKit.Cli@10.0.109-preview.0.11
+- pkg:nuget/BridgingIT.DevKit.Cli@10.0.109-preview.0.2

@@ -16,3 +16,6 @@
 - pkg:nuget/CosmoSQLClient.CosmoKvPipes@6.2.2
 - pkg:nuget/CosmoSQLClient.CosmoKvPipes@6.2.3
 - pkg:nuget/CosmoSQLClient.CosmoKvPipes@6.2.5
+- pkg:nuget/CosmoSQLClient.CosmoKvPipes@6.54.6
+- pkg:nuget/CosmoSQLClient.CosmoKvPipes@6.56.1
+- pkg:nuget/CosmoSQLClient.CosmoKvPipes@6.56.3

@@ -28,6 +28,8 @@
 - pkg:nuget/Pulse.Mqtt.Client@2.27.0-preview.195
 - pkg:nuget/Pulse.Mqtt.Client@2.27.0-preview.196
 - pkg:nuget/Pulse.Mqtt.Client@2.27.0-preview.197
+- pkg:nuget/Pulse.Mqtt.Client@2.28.0-preview.212
+- pkg:nuget/Pulse.Mqtt.Client@2.28.0-preview.213
 - pkg:nuget/Pulse.Mqtt.Client@2.6.0
 - pkg:nuget/Pulse.Mqtt.Client@2.6.0-preview.86
 - pkg:nuget/Pulse.Mqtt.Client@2.7.0-preview.88

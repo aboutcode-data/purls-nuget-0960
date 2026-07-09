@@ -1124,6 +1124,7 @@
 - pkg:nuget/Pulumi.AzureNative@3.2.0
 - pkg:nuget/Pulumi.AzureNative@3.2.0-alpha.1744649622
 - pkg:nuget/Pulumi.AzureNative@3.20.0-alpha.1783521662
+- pkg:nuget/Pulumi.AzureNative@3.20.0-alpha.1783608202
 - pkg:nuget/Pulumi.AzureNative@3.3.0
 - pkg:nuget/Pulumi.AzureNative@3.3.0-alpha.1745626403
 - pkg:nuget/Pulumi.AzureNative@3.3.0-alpha.1745856299

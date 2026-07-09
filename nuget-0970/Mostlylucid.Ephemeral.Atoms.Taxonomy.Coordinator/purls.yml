@@ -1,2 +1,6 @@
 - pkg:nuget/Mostlylucid.Ephemeral.Atoms.Taxonomy.Coordinator@2.3.1
 - pkg:nuget/Mostlylucid.Ephemeral.Atoms.Taxonomy.Coordinator@2.3.1-alpha0
+- pkg:nuget/Mostlylucid.Ephemeral.Atoms.Taxonomy.Coordinator@2.5.1
+- pkg:nuget/Mostlylucid.Ephemeral.Atoms.Taxonomy.Coordinator@2.6.0
+- pkg:nuget/Mostlylucid.Ephemeral.Atoms.Taxonomy.Coordinator@2.6.2
+- pkg:nuget/Mostlylucid.Ephemeral.Atoms.Taxonomy.Coordinator@2.9.0

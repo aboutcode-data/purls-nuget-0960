@@ -16,6 +16,7 @@
 - pkg:nuget/StackExchange.Redis.Extensions.Protobuf@10.1.0
 - pkg:nuget/StackExchange.Redis.Extensions.Protobuf@10.2.0
 - pkg:nuget/StackExchange.Redis.Extensions.Protobuf@11.0.0
+- pkg:nuget/StackExchange.Redis.Extensions.Protobuf@12.6.0
 - pkg:nuget/StackExchange.Redis.Extensions.Protobuf@2.0.0
 - pkg:nuget/StackExchange.Redis.Extensions.Protobuf@2.1.0
 - pkg:nuget/StackExchange.Redis.Extensions.Protobuf@2.2.0

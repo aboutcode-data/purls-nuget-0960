@@ -125,3 +125,4 @@
 - pkg:nuget/Furly.Extensions.CouchDb@1.2.1
 - pkg:nuget/Furly.Extensions.CouchDb@1.2.2
 - pkg:nuget/Furly.Extensions.CouchDb@1.2.6
+- pkg:nuget/Furly.Extensions.CouchDb@1.2.8

@@ -393,11 +393,14 @@
 - pkg:nuget/XDCommons@2604.101.1
 - pkg:nuget/XDCommons@2604.101.10
 - pkg:nuget/XDCommons@2604.101.15
+- pkg:nuget/XDCommons@2604.101.20
 - pkg:nuget/XDCommons@2604.101.8
 - pkg:nuget/XDCommons@2604.303.5
 - pkg:nuget/XDCommons@2604.404.0
 - pkg:nuget/XDCommons@2604.404.12
+- pkg:nuget/XDCommons@2604.404.17
 - pkg:nuget/XDCommons@2604.404.5
 - pkg:nuget/XDCommons@2604.404.7
 - pkg:nuget/XDCommons@2606.1.1
+- pkg:nuget/XDCommons@2606.1.11
 - pkg:nuget/XDCommons@2606.1.6

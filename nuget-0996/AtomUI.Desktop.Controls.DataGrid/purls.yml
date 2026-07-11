@@ -5,3 +5,4 @@
 - pkg:nuget/AtomUI.Desktop.Controls.DataGrid@6.0.0-build.1
 - pkg:nuget/AtomUI.Desktop.Controls.DataGrid@6.0.4
 - pkg:nuget/AtomUI.Desktop.Controls.DataGrid@6.0.6
+- pkg:nuget/AtomUI.Desktop.Controls.DataGrid@6.0.8

@@ -118,3 +118,4 @@
 - pkg:nuget/Wei.Abp.GeneralTree.EntityFrameworkCore@4.2.0-beta.8
 - pkg:nuget/Wei.Abp.GeneralTree.EntityFrameworkCore@4.3.0-beta.5
 - pkg:nuget/Wei.Abp.GeneralTree.EntityFrameworkCore@4.3.0-beta.6
+- pkg:nuget/Wei.Abp.GeneralTree.EntityFrameworkCore@4.3.4-beta.6

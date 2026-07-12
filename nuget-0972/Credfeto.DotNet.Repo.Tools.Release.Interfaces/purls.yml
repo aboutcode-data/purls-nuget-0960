@@ -2357,3 +2357,5 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.7.3380-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.7.3381-nonstandard-git
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.7.3382-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.7.3384-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.7.3385-main

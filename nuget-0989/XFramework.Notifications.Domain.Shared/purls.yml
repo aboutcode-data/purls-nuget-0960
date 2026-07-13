@@ -16,6 +16,8 @@
 - pkg:nuget/XFramework.Notifications.Domain.Shared@1.0.1-dev.187
 - pkg:nuget/XFramework.Notifications.Domain.Shared@1.0.1-dev.201
 - pkg:nuget/XFramework.Notifications.Domain.Shared@1.0.1-dev.204
+- pkg:nuget/XFramework.Notifications.Domain.Shared@1.0.1-dev.210
+- pkg:nuget/XFramework.Notifications.Domain.Shared@1.0.1-dev.212
 - pkg:nuget/XFramework.Notifications.Domain.Shared@1.0.1-dev.78
 - pkg:nuget/XFramework.Notifications.Domain.Shared@1.0.1-dev.91
 - pkg:nuget/XFramework.Notifications.Domain.Shared@1.0.1-dev.92

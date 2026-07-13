@@ -3,3 +3,4 @@
 - pkg:nuget/Kokos-me-dotnet-evodoc-evocache.SDK@1.0.0-dev-8
 - pkg:nuget/Kokos-me-dotnet-evodoc-evocache.SDK@1.0.0-feature.fix-performance-2.3
 - pkg:nuget/Kokos-me-dotnet-evodoc-evocache.SDK@1.0.0-feature.refactoring.4
+- pkg:nuget/Kokos-me-dotnet-evodoc-evocache.SDK@2.0.0-feature.implementazione-evoproxy-2.3

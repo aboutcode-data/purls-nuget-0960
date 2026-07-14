@@ -24,6 +24,7 @@
 - pkg:nuget/Xamarin.TensorFlow.Lite@2.15.0.2
 - pkg:nuget/Xamarin.TensorFlow.Lite@2.16.1
 - pkg:nuget/Xamarin.TensorFlow.Lite@2.16.1.1
+- pkg:nuget/Xamarin.TensorFlow.Lite@2.16.1.10
 - pkg:nuget/Xamarin.TensorFlow.Lite@2.16.1.2
 - pkg:nuget/Xamarin.TensorFlow.Lite@2.16.1.3
 - pkg:nuget/Xamarin.TensorFlow.Lite@2.16.1.4

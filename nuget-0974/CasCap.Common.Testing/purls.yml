@@ -61,6 +61,9 @@
 - pkg:nuget/CasCap.Common.Testing@4.1.2
 - pkg:nuget/CasCap.Common.Testing@4.10.0
 - pkg:nuget/CasCap.Common.Testing@4.11.0
+- pkg:nuget/CasCap.Common.Testing@4.11.5
+- pkg:nuget/CasCap.Common.Testing@4.11.6
+- pkg:nuget/CasCap.Common.Testing@4.11.9
 - pkg:nuget/CasCap.Common.Testing@4.2.0
 - pkg:nuget/CasCap.Common.Testing@4.2.1
 - pkg:nuget/CasCap.Common.Testing@4.2.2

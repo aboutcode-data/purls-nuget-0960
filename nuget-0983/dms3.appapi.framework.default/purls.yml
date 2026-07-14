@@ -7,3 +7,6 @@
 - pkg:nuget/dms3.appapi.framework.default@1.6.0
 - pkg:nuget/dms3.appapi.framework.default@1.6.1
 - pkg:nuget/dms3.appapi.framework.default@1.7.1
+- pkg:nuget/dms3.appapi.framework.default@1.9.1
+- pkg:nuget/dms3.appapi.framework.default@2.1.0
+- pkg:nuget/dms3.appapi.framework.default@2.1.1

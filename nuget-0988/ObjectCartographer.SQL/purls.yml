@@ -85,5 +85,6 @@
 - pkg:nuget/ObjectCartographer.SQL@4.1.6
 - pkg:nuget/ObjectCartographer.SQL@4.1.7
 - pkg:nuget/ObjectCartographer.SQL@4.1.8
+- pkg:nuget/ObjectCartographer.SQL@4.3.10
 - pkg:nuget/ObjectCartographer.SQL@4.3.5
 - pkg:nuget/ObjectCartographer.SQL@4.3.8

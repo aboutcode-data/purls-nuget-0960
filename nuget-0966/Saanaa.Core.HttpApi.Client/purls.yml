@@ -3,6 +3,7 @@
 - pkg:nuget/Saanaa.Core.HttpApi.Client@8.2.1.3
 - pkg:nuget/Saanaa.Core.HttpApi.Client@8.2.1.4
 - pkg:nuget/Saanaa.Core.HttpApi.Client@9.0.5.1
+- pkg:nuget/Saanaa.Core.HttpApi.Client@9.0.5.13
 - pkg:nuget/Saanaa.Core.HttpApi.Client@9.0.5.2
 - pkg:nuget/Saanaa.Core.HttpApi.Client@9.0.5.3
 - pkg:nuget/Saanaa.Core.HttpApi.Client@9.0.5.4

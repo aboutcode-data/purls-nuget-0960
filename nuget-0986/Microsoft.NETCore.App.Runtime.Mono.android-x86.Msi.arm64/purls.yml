@@ -125,6 +125,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.android-x86.Msi.arm64@9.0.1
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.android-x86.Msi.arm64@9.0.13
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.android-x86.Msi.arm64@9.0.16
+- pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.android-x86.Msi.arm64@9.0.18
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.android-x86.Msi.arm64@9.0.2
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.android-x86.Msi.arm64@9.0.3
 - pkg:nuget/Microsoft.NETCore.App.Runtime.Mono.android-x86.Msi.arm64@9.0.4

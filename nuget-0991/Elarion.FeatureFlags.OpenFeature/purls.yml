@@ -1,0 +1,9 @@
+- pkg:nuget/Elarion.FeatureFlags.OpenFeature@0.2.3-preview.45.1
+- pkg:nuget/Elarion.FeatureFlags.OpenFeature@0.2.3-preview.54.1
+- pkg:nuget/Elarion.FeatureFlags.OpenFeature@0.2.3-preview.60.1
+- pkg:nuget/Elarion.FeatureFlags.OpenFeature@0.2.3-preview.61.1
+- pkg:nuget/Elarion.FeatureFlags.OpenFeature@0.2.3-preview.69.1
+- pkg:nuget/Elarion.FeatureFlags.OpenFeature@0.2.3-preview.81.1
+- pkg:nuget/Elarion.FeatureFlags.OpenFeature@0.2.5-preview.102.1
+- pkg:nuget/Elarion.FeatureFlags.OpenFeature@0.2.5-preview.96.1
+- pkg:nuget/Elarion.FeatureFlags.OpenFeature@0.2.5-preview.98.1

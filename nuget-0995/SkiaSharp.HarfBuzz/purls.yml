@@ -117,3 +117,4 @@
 - pkg:nuget/SkiaSharp.HarfBuzz@3.119.1-preview.1
 - pkg:nuget/SkiaSharp.HarfBuzz@4.147.0-preview.3.1
 - pkg:nuget/SkiaSharp.HarfBuzz@4.148.0-rc.1.2
+- pkg:nuget/SkiaSharp.HarfBuzz@4.150.1

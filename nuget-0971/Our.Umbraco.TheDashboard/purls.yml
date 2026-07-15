@@ -16,6 +16,8 @@
 - pkg:nuget/Our.Umbraco.TheDashboard@15.0.1
 - pkg:nuget/Our.Umbraco.TheDashboard@16.0.0
 - pkg:nuget/Our.Umbraco.TheDashboard@16.0.0-rc1
+- pkg:nuget/Our.Umbraco.TheDashboard@18.0.0
+- pkg:nuget/Our.Umbraco.TheDashboard@18.0.0-rc1
 - pkg:nuget/Our.Umbraco.TheDashboard@2.0.0
 - pkg:nuget/Our.Umbraco.TheDashboard@2.0.1
 - pkg:nuget/Our.Umbraco.TheDashboard@8.0.0

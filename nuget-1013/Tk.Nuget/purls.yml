@@ -50,3 +50,4 @@
 - pkg:nuget/Tk.Nuget@0.2.180
 - pkg:nuget/Tk.Nuget@0.2.186-preview
 - pkg:nuget/Tk.Nuget@0.2.187
+- pkg:nuget/Tk.Nuget@0.3.0

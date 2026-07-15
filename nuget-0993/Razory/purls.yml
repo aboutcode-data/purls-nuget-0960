@@ -28,3 +28,5 @@
 - pkg:nuget/Razory@2.0.1
 - pkg:nuget/Razory@2.1.0
 - pkg:nuget/Razory@2.1.1
+- pkg:nuget/Razory@2.2.4
+- pkg:nuget/Razory@2.2.5

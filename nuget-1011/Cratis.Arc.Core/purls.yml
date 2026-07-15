@@ -16,5 +16,16 @@
 - pkg:nuget/Cratis.Arc.Core@20.12.2
 - pkg:nuget/Cratis.Arc.Core@20.24.10
 - pkg:nuget/Cratis.Arc.Core@20.24.2
+- pkg:nuget/Cratis.Arc.Core@20.27.0
+- pkg:nuget/Cratis.Arc.Core@20.33.17
+- pkg:nuget/Cratis.Arc.Core@20.33.7
 - pkg:nuget/Cratis.Arc.Core@20.4.2
+- pkg:nuget/Cratis.Arc.Core@20.41.0
+- pkg:nuget/Cratis.Arc.Core@20.42.0
+- pkg:nuget/Cratis.Arc.Core@20.43.0
+- pkg:nuget/Cratis.Arc.Core@20.43.2
+- pkg:nuget/Cratis.Arc.Core@20.44.0
+- pkg:nuget/Cratis.Arc.Core@20.47.1
+- pkg:nuget/Cratis.Arc.Core@20.48.0
+- pkg:nuget/Cratis.Arc.Core@20.54.3
 - pkg:nuget/Cratis.Arc.Core@20.8.2

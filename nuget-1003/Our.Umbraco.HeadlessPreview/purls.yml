@@ -15,3 +15,6 @@
 - pkg:nuget/Our.Umbraco.HeadlessPreview@2.2.0
 - pkg:nuget/Our.Umbraco.HeadlessPreview@2.2.1
 - pkg:nuget/Our.Umbraco.HeadlessPreview@2.2.2
+- pkg:nuget/Our.Umbraco.HeadlessPreview@3.0.0-alpha2
+- pkg:nuget/Our.Umbraco.HeadlessPreview@3.0.0-alpha3
+- pkg:nuget/Our.Umbraco.HeadlessPreview@3.0.0-alpha4

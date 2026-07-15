@@ -19,6 +19,8 @@
 - pkg:nuget/EdgePDF.Editor.Web@12.3.5.44
 - pkg:nuget/EdgePDF.Editor.Web@12.3.5.46
 - pkg:nuget/EdgePDF.Editor.Web@12.3.5.5
+- pkg:nuget/EdgePDF.Editor.Web@12.3.5.55
+- pkg:nuget/EdgePDF.Editor.Web@12.3.5.57
 - pkg:nuget/EdgePDF.Editor.Web@12.3.5.6
 - pkg:nuget/EdgePDF.Editor.Web@12.3.5.7
 - pkg:nuget/EdgePDF.Editor.Web@12.3.5.8

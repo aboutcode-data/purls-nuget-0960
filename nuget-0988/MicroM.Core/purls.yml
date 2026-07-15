@@ -62,3 +62,7 @@
 - pkg:nuget/MicroM.Core@1.0.1-alpha.20250818-205631
 - pkg:nuget/MicroM.Core@1.0.1-alpha.20260518-153700
 - pkg:nuget/MicroM.Core@1.0.1-alpha.20260522-135705
+- pkg:nuget/MicroM.Core@1.0.1-alpha.20260618-182647
+- pkg:nuget/MicroM.Core@1.0.1-alpha.20260629-122155
+- pkg:nuget/MicroM.Core@1.0.1-alpha.20260629-125939
+- pkg:nuget/MicroM.Core@1.0.1-alpha.20260629-130841

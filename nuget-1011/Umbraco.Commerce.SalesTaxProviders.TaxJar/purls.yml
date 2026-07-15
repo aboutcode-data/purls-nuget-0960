@@ -3,3 +3,4 @@
 - pkg:nuget/Umbraco.Commerce.SalesTaxProviders.TaxJar@15.0.0-rc1
 - pkg:nuget/Umbraco.Commerce.SalesTaxProviders.TaxJar@16.0.0
 - pkg:nuget/Umbraco.Commerce.SalesTaxProviders.TaxJar@16.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.SalesTaxProviders.TaxJar@18.0.0

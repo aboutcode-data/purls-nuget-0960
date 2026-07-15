@@ -1,4 +1,6 @@
 - pkg:nuget/Ecng.Excel.DX@1.0.1
 - pkg:nuget/Ecng.Excel.DX@1.0.11
 - pkg:nuget/Ecng.Excel.DX@1.0.18
+- pkg:nuget/Ecng.Excel.DX@1.0.24
+- pkg:nuget/Ecng.Excel.DX@1.0.27
 - pkg:nuget/Ecng.Excel.DX@1.0.6

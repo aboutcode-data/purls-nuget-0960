@@ -6,3 +6,4 @@
 - pkg:nuget/bad-echo-mgcb-editor-windows@3.8.2.4-develop
 - pkg:nuget/bad-echo-mgcb-editor-windows@3.8.2.5-develop
 - pkg:nuget/bad-echo-mgcb-editor-windows@3.8.2.6-develop
+- pkg:nuget/bad-echo-mgcb-editor-windows@3.8.5.2

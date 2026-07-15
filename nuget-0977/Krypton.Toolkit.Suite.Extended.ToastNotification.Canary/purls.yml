@@ -7,6 +7,7 @@
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.ToastNotification.Canary@100.25.7.200-beta
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.ToastNotification.Canary@100.25.8.234-beta
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.ToastNotification.Canary@100.25.9.265-beta
+- pkg:nuget/Krypton.Toolkit.Suite.Extended.ToastNotification.Canary@110.26.6.173-beta
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.ToastNotification.Canary@90.24.10.296-beta
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.ToastNotification.Canary@90.24.8.239-beta
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.ToastNotification.Canary@90.24.9.267-beta

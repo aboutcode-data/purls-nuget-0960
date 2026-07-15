@@ -3,3 +3,4 @@
 - pkg:nuget/MediaProtect.Client@16.0.0
 - pkg:nuget/MediaProtect.Client@16.0.0-beta0001
 - pkg:nuget/MediaProtect.Client@16.0.0-rc0001
+- pkg:nuget/MediaProtect.Client@18.0.0

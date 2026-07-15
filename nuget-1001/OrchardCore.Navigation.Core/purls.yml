@@ -33,3 +33,4 @@
 - pkg:nuget/OrchardCore.Navigation.Core@2.1.8
 - pkg:nuget/OrchardCore.Navigation.Core@2.1.9
 - pkg:nuget/OrchardCore.Navigation.Core@2.2.0
+- pkg:nuget/OrchardCore.Navigation.Core@3.0.0

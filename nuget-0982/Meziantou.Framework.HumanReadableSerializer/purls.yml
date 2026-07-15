@@ -35,3 +35,4 @@
 - pkg:nuget/Meziantou.Framework.HumanReadableSerializer@2.4.7
 - pkg:nuget/Meziantou.Framework.HumanReadableSerializer@2.4.8
 - pkg:nuget/Meziantou.Framework.HumanReadableSerializer@2.4.9
+- pkg:nuget/Meziantou.Framework.HumanReadableSerializer@4.0.0

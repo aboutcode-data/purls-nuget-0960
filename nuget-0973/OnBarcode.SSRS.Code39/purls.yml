@@ -3,3 +3,6 @@
 - pkg:nuget/OnBarcode.SSRS.Code39@10.0.0.21
 - pkg:nuget/OnBarcode.SSRS.Code39@10.0.0.24
 - pkg:nuget/OnBarcode.SSRS.Code39@10.0.0.3
+- pkg:nuget/OnBarcode.SSRS.Code39@10.0.0.32
+- pkg:nuget/OnBarcode.SSRS.Code39@10.0.0.36
+- pkg:nuget/OnBarcode.SSRS.Code39@10.0.0.37

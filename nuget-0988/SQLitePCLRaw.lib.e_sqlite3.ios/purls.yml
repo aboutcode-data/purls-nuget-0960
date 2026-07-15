@@ -34,6 +34,7 @@
 - pkg:nuget/SQLitePCLRaw.lib.e_sqlite3.ios@2.1.10-pre20240828193256
 - pkg:nuget/SQLitePCLRaw.lib.e_sqlite3.ios@2.1.11
 - pkg:nuget/SQLitePCLRaw.lib.e_sqlite3.ios@2.1.11-pre20241216174303
+- pkg:nuget/SQLitePCLRaw.lib.e_sqlite3.ios@2.1.12
 - pkg:nuget/SQLitePCLRaw.lib.e_sqlite3.ios@2.1.2
 - pkg:nuget/SQLitePCLRaw.lib.e_sqlite3.ios@2.1.2-pre20220913165057
 - pkg:nuget/SQLitePCLRaw.lib.e_sqlite3.ios@2.1.2-pre20220916165053

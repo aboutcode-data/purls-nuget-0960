@@ -12,6 +12,8 @@
 - pkg:nuget/DotBoxD.Kernels.Interpreter@0.1.0-ci.246
 - pkg:nuget/DotBoxD.Kernels.Interpreter@0.1.0-ci.257
 - pkg:nuget/DotBoxD.Kernels.Interpreter@0.1.0-ci.2617
+- pkg:nuget/DotBoxD.Kernels.Interpreter@0.1.0-ci.3815
+- pkg:nuget/DotBoxD.Kernels.Interpreter@0.1.0-ci.3828
 - pkg:nuget/DotBoxD.Kernels.Interpreter@0.1.0-ci.696
 - pkg:nuget/DotBoxD.Kernels.Interpreter@0.1.0-ci.699
 - pkg:nuget/DotBoxD.Kernels.Interpreter@0.1.0-ci.703

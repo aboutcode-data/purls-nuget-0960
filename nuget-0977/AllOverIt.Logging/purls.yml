@@ -52,3 +52,4 @@
 - pkg:nuget/AllOverIt.Logging@9.0.0-rc.4.0
 - pkg:nuget/AllOverIt.Logging@9.0.0-rc.4.1
 - pkg:nuget/AllOverIt.Logging@9.0.0-rc.5
+- pkg:nuget/AllOverIt.Logging@9.3.0

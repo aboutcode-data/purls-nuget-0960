@@ -1,0 +1,4 @@
+- pkg:nuget/Luxoft.Framework.Database.Legacy.Abstractions@27.1.2
+- pkg:nuget/Luxoft.Framework.Database.Legacy.Abstractions@27.2.1
+- pkg:nuget/Luxoft.Framework.Database.Legacy.Abstractions@27.3.1
+- pkg:nuget/Luxoft.Framework.Database.Legacy.Abstractions@27.3.5

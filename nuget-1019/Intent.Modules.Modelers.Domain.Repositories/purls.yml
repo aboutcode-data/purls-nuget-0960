@@ -8,3 +8,4 @@
 - pkg:nuget/Intent.Modules.Modelers.Domain.Repositories@3.5.0
 - pkg:nuget/Intent.Modules.Modelers.Domain.Repositories@3.5.1
 - pkg:nuget/Intent.Modules.Modelers.Domain.Repositories@3.6.0
+- pkg:nuget/Intent.Modules.Modelers.Domain.Repositories@3.6.3

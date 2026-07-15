@@ -5,6 +5,11 @@
 - pkg:nuget/Wisej-4-ClientFileSystem@4.0.1-preview.10
 - pkg:nuget/Wisej-4-ClientFileSystem@4.0.10
 - pkg:nuget/Wisej-4-ClientFileSystem@4.0.12-preview.2
+- pkg:nuget/Wisej-4-ClientFileSystem@4.0.12-preview.5
+- pkg:nuget/Wisej-4-ClientFileSystem@4.0.14
+- pkg:nuget/Wisej-4-ClientFileSystem@4.0.14-preview.4
 - pkg:nuget/Wisej-4-ClientFileSystem@4.0.2
 - pkg:nuget/Wisej-4-ClientFileSystem@4.0.3-preview.7
 - pkg:nuget/Wisej-4-ClientFileSystem@4.0.5-preview.3
+- pkg:nuget/Wisej-4-ClientFileSystem@4.1.0
+- pkg:nuget/Wisej-4-ClientFileSystem@4.1.0-beta.44

@@ -1,0 +1,4 @@
+- pkg:nuget/NBenchmark.Integration.xUnit@0.21.1
+- pkg:nuget/NBenchmark.Integration.xUnit@0.22.0
+- pkg:nuget/NBenchmark.Integration.xUnit@0.24.0
+- pkg:nuget/NBenchmark.Integration.xUnit@0.3.0

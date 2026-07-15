@@ -1,4 +1,5 @@
 - pkg:nuget/Cadmus.Mongo@10.0.7
+- pkg:nuget/Cadmus.Mongo@14.0.1
 - pkg:nuget/Cadmus.Mongo@2.3.10
 - pkg:nuget/Cadmus.Mongo@2.3.11
 - pkg:nuget/Cadmus.Mongo@2.3.12

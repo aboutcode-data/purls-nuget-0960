@@ -2358,3 +2358,7 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.7.3394-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.7.3395-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.7.3398-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.7.3415-csproj-write-tr
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.7.3416-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.7.3417-csproj-write-tr
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.7.3418-main

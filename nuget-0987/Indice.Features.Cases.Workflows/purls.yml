@@ -50,6 +50,7 @@
 - pkg:nuget/Indice.Features.Cases.Workflows@8.47.0-rc03
 - pkg:nuget/Indice.Features.Cases.Workflows@8.5.0
 - pkg:nuget/Indice.Features.Cases.Workflows@8.51.0
+- pkg:nuget/Indice.Features.Cases.Workflows@8.52.0
 - pkg:nuget/Indice.Features.Cases.Workflows@8.6.0
 - pkg:nuget/Indice.Features.Cases.Workflows@8.7.0
 - pkg:nuget/Indice.Features.Cases.Workflows@8.8.0

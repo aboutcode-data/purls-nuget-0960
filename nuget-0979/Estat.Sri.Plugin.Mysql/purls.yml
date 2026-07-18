@@ -48,6 +48,7 @@
 - pkg:nuget/Estat.Sri.Plugin.Mysql@1.8.0
 - pkg:nuget/Estat.Sri.Plugin.Mysql@1.9.0
 - pkg:nuget/Estat.Sri.Plugin.Mysql@10.1.0
+- pkg:nuget/Estat.Sri.Plugin.Mysql@10.11.7
 - pkg:nuget/Estat.Sri.Plugin.Mysql@10.2.0
 - pkg:nuget/Estat.Sri.Plugin.Mysql@10.3.0
 - pkg:nuget/Estat.Sri.Plugin.Mysql@10.4.0

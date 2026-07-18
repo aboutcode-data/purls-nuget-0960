@@ -1269,6 +1269,7 @@
 - pkg:nuget/AWSSDK.SecurityToken@4.0.1.8
 - pkg:nuget/AWSSDK.SecurityToken@4.0.1.9
 - pkg:nuget/AWSSDK.SecurityToken@4.0.100.4
+- pkg:nuget/AWSSDK.SecurityToken@4.0.100.5
 - pkg:nuget/AWSSDK.SecurityToken@4.0.2
 - pkg:nuget/AWSSDK.SecurityToken@4.0.2.1
 - pkg:nuget/AWSSDK.SecurityToken@4.0.2.2

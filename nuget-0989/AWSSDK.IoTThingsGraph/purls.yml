@@ -1113,6 +1113,7 @@
 - pkg:nuget/AWSSDK.IoTThingsGraph@4.0.1.4
 - pkg:nuget/AWSSDK.IoTThingsGraph@4.0.100.1
 - pkg:nuget/AWSSDK.IoTThingsGraph@4.0.100.4
+- pkg:nuget/AWSSDK.IoTThingsGraph@4.0.100.5
 - pkg:nuget/AWSSDK.IoTThingsGraph@4.0.2
 - pkg:nuget/AWSSDK.IoTThingsGraph@4.0.2.20
 - pkg:nuget/AWSSDK.IoTThingsGraph@4.0.2.21

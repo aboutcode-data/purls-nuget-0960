@@ -1,1 +1,7 @@
 - pkg:nuget/NovaCore.Agents.Observability.OpenTelemetry@2.0.0
+- pkg:nuget/NovaCore.Agents.Observability.OpenTelemetry@2.2.8
+- pkg:nuget/NovaCore.Agents.Observability.OpenTelemetry@2.2.9
+- pkg:nuget/NovaCore.Agents.Observability.OpenTelemetry@2.5.0
+- pkg:nuget/NovaCore.Agents.Observability.OpenTelemetry@2.5.1
+- pkg:nuget/NovaCore.Agents.Observability.OpenTelemetry@2.5.3
+- pkg:nuget/NovaCore.Agents.Observability.OpenTelemetry@3.1.4

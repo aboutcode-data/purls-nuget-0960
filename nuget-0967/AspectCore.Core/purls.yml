@@ -35,3 +35,4 @@
 - pkg:nuget/AspectCore.Core@2.2.0
 - pkg:nuget/AspectCore.Core@2.3.0
 - pkg:nuget/AspectCore.Core@2.4.0
+- pkg:nuget/AspectCore.Core@2.6.3

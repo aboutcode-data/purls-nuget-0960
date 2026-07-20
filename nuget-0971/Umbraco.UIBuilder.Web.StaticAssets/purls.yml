@@ -60,3 +60,4 @@
 - pkg:nuget/Umbraco.UIBuilder.Web.StaticAssets@16.0.2
 - pkg:nuget/Umbraco.UIBuilder.Web.StaticAssets@16.0.3
 - pkg:nuget/Umbraco.UIBuilder.Web.StaticAssets@16.1.0
+- pkg:nuget/Umbraco.UIBuilder.Web.StaticAssets@18.0.0-rc1

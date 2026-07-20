@@ -25,3 +25,4 @@
 - pkg:nuget/Linger.FileSystem.Ftp@0.9.8
 - pkg:nuget/Linger.FileSystem.Ftp@1.2.0-preview
 - pkg:nuget/Linger.FileSystem.Ftp@1.4.4-preview
+- pkg:nuget/Linger.FileSystem.Ftp@1.5.2-preview

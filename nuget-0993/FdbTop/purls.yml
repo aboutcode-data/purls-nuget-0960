@@ -1,2 +1,3 @@
 - pkg:nuget/FdbTop@7.3.0-preview2
 - pkg:nuget/FdbTop@7.3.1
+- pkg:nuget/FdbTop@7.4.2

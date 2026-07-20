@@ -3,6 +3,7 @@
 - pkg:nuget/Microsoft.NET.Workload.Mono.ToolChain.net6.Manifest-9.0.100.Msi.x64@9.0.10
 - pkg:nuget/Microsoft.NET.Workload.Mono.ToolChain.net6.Manifest-9.0.100.Msi.x64@9.0.11
 - pkg:nuget/Microsoft.NET.Workload.Mono.ToolChain.net6.Manifest-9.0.100.Msi.x64@9.0.14
+- pkg:nuget/Microsoft.NET.Workload.Mono.ToolChain.net6.Manifest-9.0.100.Msi.x64@9.0.17
 - pkg:nuget/Microsoft.NET.Workload.Mono.ToolChain.net6.Manifest-9.0.100.Msi.x64@9.0.2
 - pkg:nuget/Microsoft.NET.Workload.Mono.ToolChain.net6.Manifest-9.0.100.Msi.x64@9.0.3
 - pkg:nuget/Microsoft.NET.Workload.Mono.ToolChain.net6.Manifest-9.0.100.Msi.x64@9.0.4

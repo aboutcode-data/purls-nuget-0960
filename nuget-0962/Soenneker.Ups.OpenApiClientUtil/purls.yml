@@ -1,5 +1,9 @@
 - pkg:nuget/Soenneker.Ups.OpenApiClientUtil@4.0.10
+- pkg:nuget/Soenneker.Ups.OpenApiClientUtil@4.0.101
+- pkg:nuget/Soenneker.Ups.OpenApiClientUtil@4.0.108
 - pkg:nuget/Soenneker.Ups.OpenApiClientUtil@4.0.11
+- pkg:nuget/Soenneker.Ups.OpenApiClientUtil@4.0.112
+- pkg:nuget/Soenneker.Ups.OpenApiClientUtil@4.0.115
 - pkg:nuget/Soenneker.Ups.OpenApiClientUtil@4.0.12
 - pkg:nuget/Soenneker.Ups.OpenApiClientUtil@4.0.13
 - pkg:nuget/Soenneker.Ups.OpenApiClientUtil@4.0.14
@@ -14,6 +18,13 @@
 - pkg:nuget/Soenneker.Ups.OpenApiClientUtil@4.0.56
 - pkg:nuget/Soenneker.Ups.OpenApiClientUtil@4.0.6
 - pkg:nuget/Soenneker.Ups.OpenApiClientUtil@4.0.62
+- pkg:nuget/Soenneker.Ups.OpenApiClientUtil@4.0.68
 - pkg:nuget/Soenneker.Ups.OpenApiClientUtil@4.0.7
+- pkg:nuget/Soenneker.Ups.OpenApiClientUtil@4.0.70
+- pkg:nuget/Soenneker.Ups.OpenApiClientUtil@4.0.72
+- pkg:nuget/Soenneker.Ups.OpenApiClientUtil@4.0.73
 - pkg:nuget/Soenneker.Ups.OpenApiClientUtil@4.0.8
+- pkg:nuget/Soenneker.Ups.OpenApiClientUtil@4.0.81
+- pkg:nuget/Soenneker.Ups.OpenApiClientUtil@4.0.85
+- pkg:nuget/Soenneker.Ups.OpenApiClientUtil@4.0.89
 - pkg:nuget/Soenneker.Ups.OpenApiClientUtil@4.0.9

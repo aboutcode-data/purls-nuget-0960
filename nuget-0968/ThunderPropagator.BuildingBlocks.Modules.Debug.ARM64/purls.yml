@@ -1,5 +1,7 @@
 - pkg:nuget/ThunderPropagator.BuildingBlocks.Modules.Debug.ARM64@1.0.1-beta.103
 - pkg:nuget/ThunderPropagator.BuildingBlocks.Modules.Debug.ARM64@1.0.1-beta.104
+- pkg:nuget/ThunderPropagator.BuildingBlocks.Modules.Debug.ARM64@1.0.1-beta.107
+- pkg:nuget/ThunderPropagator.BuildingBlocks.Modules.Debug.ARM64@1.0.1-beta.108
 - pkg:nuget/ThunderPropagator.BuildingBlocks.Modules.Debug.ARM64@1.0.1-beta.27
 - pkg:nuget/ThunderPropagator.BuildingBlocks.Modules.Debug.ARM64@1.0.1-beta.28
 - pkg:nuget/ThunderPropagator.BuildingBlocks.Modules.Debug.ARM64@1.0.1-beta.29

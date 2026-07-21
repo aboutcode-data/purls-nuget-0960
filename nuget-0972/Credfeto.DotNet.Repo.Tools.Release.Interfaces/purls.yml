@@ -2367,3 +2367,4 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.7.3417-csproj-write-tr
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.7.3418-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.7.3434-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.8.3440-unit-tests-buil

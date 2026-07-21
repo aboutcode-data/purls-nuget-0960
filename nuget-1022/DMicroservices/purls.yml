@@ -118,6 +118,7 @@
 - pkg:nuget/DMicroservices@3.1.110
 - pkg:nuget/DMicroservices@3.1.111
 - pkg:nuget/DMicroservices@3.1.115
+- pkg:nuget/DMicroservices@3.1.116
 - pkg:nuget/DMicroservices@8.0.0
 - pkg:nuget/DMicroservices@8.0.1
 - pkg:nuget/DMicroservices@8.0.2

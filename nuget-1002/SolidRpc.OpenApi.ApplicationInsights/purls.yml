@@ -120,3 +120,4 @@
 - pkg:nuget/SolidRpc.OpenApi.ApplicationInsights@1.0.1-rc083
 - pkg:nuget/SolidRpc.OpenApi.ApplicationInsights@1.0.1-rc084
 - pkg:nuget/SolidRpc.OpenApi.ApplicationInsights@1.0.1-rc085
+- pkg:nuget/SolidRpc.OpenApi.ApplicationInsights@1.0.1-rc094

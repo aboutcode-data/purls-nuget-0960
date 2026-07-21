@@ -228,3 +228,4 @@
 - pkg:nuget/LibreMetaverse.StructuredData@2.6.4
 - pkg:nuget/LibreMetaverse.StructuredData@2.6.7
 - pkg:nuget/LibreMetaverse.StructuredData@3.0.2
+- pkg:nuget/LibreMetaverse.StructuredData@3.1.2

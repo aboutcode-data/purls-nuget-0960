@@ -3794,6 +3794,7 @@
 - pkg:nuget/Omnia.Fx.NetCore.Worker@7.11.0-preview.1
 - pkg:nuget/Omnia.Fx.NetCore.Worker@7.11.0-preview.x
 - pkg:nuget/Omnia.Fx.NetCore.Worker@7.11.14
+- pkg:nuget/Omnia.Fx.NetCore.Worker@7.11.20
 - pkg:nuget/Omnia.Fx.NetCore.Worker@7.5.0
 - pkg:nuget/Omnia.Fx.NetCore.Worker@7.5.1
 - pkg:nuget/Omnia.Fx.NetCore.Worker@7.5.1-dev

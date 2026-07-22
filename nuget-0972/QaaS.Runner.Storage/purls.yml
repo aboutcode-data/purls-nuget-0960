@@ -4,3 +4,4 @@
 - pkg:nuget/QaaS.Runner.Storage@4.3.0
 - pkg:nuget/QaaS.Runner.Storage@4.5.2
 - pkg:nuget/QaaS.Runner.Storage@4.6.2
+- pkg:nuget/QaaS.Runner.Storage@4.7.0

@@ -1,6 +1,7 @@
 - pkg:nuget/devprime.cli@0.0.15
 - pkg:nuget/devprime.cli@0.0.20
 - pkg:nuget/devprime.cli@0.0.21-beta
+- pkg:nuget/devprime.cli@10.0.6
 - pkg:nuget/devprime.cli@5.2.1
 - pkg:nuget/devprime.cli@5.4.0
 - pkg:nuget/devprime.cli@5.4.1

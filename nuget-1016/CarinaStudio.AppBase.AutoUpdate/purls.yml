@@ -162,3 +162,5 @@
 - pkg:nuget/CarinaStudio.AppBase.AutoUpdate@2.2.7.125-preview
 - pkg:nuget/CarinaStudio.AppBase.AutoUpdate@2.2.8.128-preview
 - pkg:nuget/CarinaStudio.AppBase.AutoUpdate@2.2.9.403-preview
+- pkg:nuget/CarinaStudio.AppBase.AutoUpdate@2.3.3.722
+- pkg:nuget/CarinaStudio.AppBase.AutoUpdate@2.4.4.722-preview

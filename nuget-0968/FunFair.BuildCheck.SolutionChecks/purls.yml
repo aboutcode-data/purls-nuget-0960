@@ -1201,6 +1201,7 @@
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.10.2443-update-sonarana
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.10.2445-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.10.2452-update-funfair
+- pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.10.2458-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.2.1872-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.2.1873-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.2.1874-main

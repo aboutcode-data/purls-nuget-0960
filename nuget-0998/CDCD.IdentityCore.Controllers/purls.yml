@@ -9,6 +9,12 @@
 - pkg:nuget/CDCD.IdentityCore.Controllers@0.12.123
 - pkg:nuget/CDCD.IdentityCore.Controllers@0.12.13
 - pkg:nuget/CDCD.IdentityCore.Controllers@0.12.131
+- pkg:nuget/CDCD.IdentityCore.Controllers@0.12.138
+- pkg:nuget/CDCD.IdentityCore.Controllers@0.12.139
+- pkg:nuget/CDCD.IdentityCore.Controllers@0.12.149
+- pkg:nuget/CDCD.IdentityCore.Controllers@0.12.150
+- pkg:nuget/CDCD.IdentityCore.Controllers@0.12.152
+- pkg:nuget/CDCD.IdentityCore.Controllers@0.12.153
 - pkg:nuget/CDCD.IdentityCore.Controllers@0.12.30
 - pkg:nuget/CDCD.IdentityCore.Controllers@0.12.35
 - pkg:nuget/CDCD.IdentityCore.Controllers@0.12.36

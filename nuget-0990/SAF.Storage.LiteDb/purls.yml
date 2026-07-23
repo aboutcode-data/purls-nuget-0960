@@ -1,4 +1,6 @@
 - pkg:nuget/SAF.Storage.LiteDb@10.0.1
+- pkg:nuget/SAF.Storage.LiteDb@11.0.0-alpha.2
+- pkg:nuget/SAF.Storage.LiteDb@11.0.0-alpha.3
 - pkg:nuget/SAF.Storage.LiteDb@5.0.0
 - pkg:nuget/SAF.Storage.LiteDb@5.0.0-rc2
 - pkg:nuget/SAF.Storage.LiteDb@5.0.0-rc3

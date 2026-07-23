@@ -1,2 +1,4 @@
 - pkg:nuget/ProcessKit@1.1.1
 - pkg:nuget/ProcessKit@1.2.0
+- pkg:nuget/ProcessKit@2.4.0
+- pkg:nuget/ProcessKit@2.5.0

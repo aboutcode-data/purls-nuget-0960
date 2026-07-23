@@ -23,3 +23,4 @@
 - pkg:nuget/MonoGame.Extended.Content.Pipeline@5.0.2
 - pkg:nuget/MonoGame.Extended.Content.Pipeline@5.1.0
 - pkg:nuget/MonoGame.Extended.Content.Pipeline@5.4.0-preview.2
+- pkg:nuget/MonoGame.Extended.Content.Pipeline@6.1.0

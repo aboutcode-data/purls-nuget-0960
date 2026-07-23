@@ -35,6 +35,7 @@
 - pkg:nuget/Rays.OS.Windows@1.1.5.414
 - pkg:nuget/Rays.OS.Windows@1.1.50.511
 - pkg:nuget/Rays.OS.Windows@1.1.55.601
+- pkg:nuget/Rays.OS.Windows@1.1.58.615
 - pkg:nuget/Rays.OS.Windows@1.1.6.414
 - pkg:nuget/Rays.OS.Windows@1.1.7.414
 - pkg:nuget/Rays.OS.Windows@1.1.9.415

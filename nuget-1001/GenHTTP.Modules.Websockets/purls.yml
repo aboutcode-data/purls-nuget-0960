@@ -1,6 +1,7 @@
 - pkg:nuget/GenHTTP.Modules.Websockets@11.0.0-preview.11
 - pkg:nuget/GenHTTP.Modules.Websockets@11.0.0-preview.15
 - pkg:nuget/GenHTTP.Modules.Websockets@11.0.0-preview.18
+- pkg:nuget/GenHTTP.Modules.Websockets@11.0.0-preview.21
 - pkg:nuget/GenHTTP.Modules.Websockets@11.0.0-preview.9
 - pkg:nuget/GenHTTP.Modules.Websockets@9.0.0
 - pkg:nuget/GenHTTP.Modules.Websockets@9.1.0

@@ -46,5 +46,7 @@
 - pkg:nuget/Duende.IdentityServer.Configuration.EntityFramework@7.3.0-rc.2
 - pkg:nuget/Duende.IdentityServer.Configuration.EntityFramework@7.3.1
 - pkg:nuget/Duende.IdentityServer.Configuration.EntityFramework@7.4.3
+- pkg:nuget/Duende.IdentityServer.Configuration.EntityFramework@7.4.8
 - pkg:nuget/Duende.IdentityServer.Configuration.EntityFramework@8.0.0
 - pkg:nuget/Duende.IdentityServer.Configuration.EntityFramework@8.0.0-preview.6
+- pkg:nuget/Duende.IdentityServer.Configuration.EntityFramework@8.0.3

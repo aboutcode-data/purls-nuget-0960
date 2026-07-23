@@ -36,6 +36,7 @@
 - pkg:nuget/Elastic.Ingest.Transport@0.5.5
 - pkg:nuget/Elastic.Ingest.Transport@0.5.6
 - pkg:nuget/Elastic.Ingest.Transport@0.5.7
+- pkg:nuget/Elastic.Ingest.Transport@0.51.0
 - pkg:nuget/Elastic.Ingest.Transport@0.6.0
 - pkg:nuget/Elastic.Ingest.Transport@0.7.0
 - pkg:nuget/Elastic.Ingest.Transport@0.7.1

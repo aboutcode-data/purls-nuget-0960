@@ -1,5 +1,9 @@
 - pkg:nuget/Trellis.Analyzers@3.0.0-alpha.137
 - pkg:nuget/Trellis.Analyzers@3.0.0-alpha.140
 - pkg:nuget/Trellis.Analyzers@3.0.0-alpha.157
+- pkg:nuget/Trellis.Analyzers@3.0.0-alpha.360
+- pkg:nuget/Trellis.Analyzers@3.0.0-alpha.372
+- pkg:nuget/Trellis.Analyzers@3.0.0-alpha.397
+- pkg:nuget/Trellis.Analyzers@3.0.0-alpha.432
 - pkg:nuget/Trellis.Analyzers@3.0.0-alpha.83
 - pkg:nuget/Trellis.Analyzers@3.0.0-alpha.98

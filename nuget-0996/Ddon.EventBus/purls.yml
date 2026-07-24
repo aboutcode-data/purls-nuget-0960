@@ -38,3 +38,5 @@
 - pkg:nuget/Ddon.EventBus@3.1.8
 - pkg:nuget/Ddon.EventBus@3.1.9
 - pkg:nuget/Ddon.EventBus@7.0.0
+- pkg:nuget/Ddon.EventBus@7.0.20
+- pkg:nuget/Ddon.EventBus@8.0.0

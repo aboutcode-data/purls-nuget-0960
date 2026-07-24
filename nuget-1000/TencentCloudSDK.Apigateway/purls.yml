@@ -255,6 +255,7 @@
 - pkg:nuget/TencentCloudSDK.Apigateway@3.0.1254
 - pkg:nuget/TencentCloudSDK.Apigateway@3.0.1273
 - pkg:nuget/TencentCloudSDK.Apigateway@3.0.1452
+- pkg:nuget/TencentCloudSDK.Apigateway@3.0.1469
 - pkg:nuget/TencentCloudSDK.Apigateway@3.0.168
 - pkg:nuget/TencentCloudSDK.Apigateway@3.0.169
 - pkg:nuget/TencentCloudSDK.Apigateway@3.0.170

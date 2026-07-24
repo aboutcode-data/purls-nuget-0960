@@ -7,3 +7,5 @@
 - pkg:nuget/FluentStorage.AWS@5.3.1
 - pkg:nuget/FluentStorage.AWS@5.4.0
 - pkg:nuget/FluentStorage.AWS@5.5.0
+- pkg:nuget/FluentStorage.AWS@7.1.1
+- pkg:nuget/FluentStorage.AWS@8.0.10

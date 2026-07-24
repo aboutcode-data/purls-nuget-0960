@@ -103,6 +103,7 @@
 - pkg:nuget/Rabota.Kafka.Events@1.4.166
 - pkg:nuget/Rabota.Kafka.Events@1.4.17
 - pkg:nuget/Rabota.Kafka.Events@1.4.18
+- pkg:nuget/Rabota.Kafka.Events@1.4.182
 - pkg:nuget/Rabota.Kafka.Events@1.4.19
 - pkg:nuget/Rabota.Kafka.Events@1.4.2
 - pkg:nuget/Rabota.Kafka.Events@1.4.20

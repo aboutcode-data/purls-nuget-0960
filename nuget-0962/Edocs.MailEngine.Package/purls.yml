@@ -29,6 +29,7 @@
 - pkg:nuget/Edocs.MailEngine.Package@1.0.4.8
 - pkg:nuget/Edocs.MailEngine.Package@1.0.4.9
 - pkg:nuget/Edocs.MailEngine.Package@1.0.5
+- pkg:nuget/Edocs.MailEngine.Package@10.0.1.2
 - pkg:nuget/Edocs.MailEngine.Package@7.0.0
 - pkg:nuget/Edocs.MailEngine.Package@8.0.0
 - pkg:nuget/Edocs.MailEngine.Package@8.0.0.1

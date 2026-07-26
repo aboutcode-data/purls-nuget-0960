@@ -200,3 +200,4 @@
 - pkg:nuget/TouchSocket.Hosting@4.1.2
 - pkg:nuget/TouchSocket.Hosting@4.2.0
 - pkg:nuget/TouchSocket.Hosting@4.2.0-beta.26
+- pkg:nuget/TouchSocket.Hosting@4.2.18

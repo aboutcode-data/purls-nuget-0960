@@ -16,3 +16,4 @@
 - pkg:nuget/IOKode.OpinionatedFramework.ContractImplementations.NHibernate.Postgres@0.24.0-dev
 - pkg:nuget/IOKode.OpinionatedFramework.ContractImplementations.NHibernate.Postgres@0.26.0-dev
 - pkg:nuget/IOKode.OpinionatedFramework.ContractImplementations.NHibernate.Postgres@0.38.0-dev
+- pkg:nuget/IOKode.OpinionatedFramework.ContractImplementations.NHibernate.Postgres@0.43.0-dev

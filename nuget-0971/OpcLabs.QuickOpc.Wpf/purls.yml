@@ -41,3 +41,4 @@
 - pkg:nuget/OpcLabs.QuickOpc.Wpf@5.82.395
 - pkg:nuget/OpcLabs.QuickOpc.Wpf@5.83.1134
 - pkg:nuget/OpcLabs.QuickOpc.Wpf@5.83.473
+- pkg:nuget/OpcLabs.QuickOpc.Wpf@5.85.0-rev0003

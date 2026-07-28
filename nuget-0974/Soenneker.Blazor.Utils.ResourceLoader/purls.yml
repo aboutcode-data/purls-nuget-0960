@@ -1521,3 +1521,5 @@
 - pkg:nuget/Soenneker.Blazor.Utils.ResourceLoader@4.0.1685
 - pkg:nuget/Soenneker.Blazor.Utils.ResourceLoader@4.0.1688
 - pkg:nuget/Soenneker.Blazor.Utils.ResourceLoader@4.0.1691
+- pkg:nuget/Soenneker.Blazor.Utils.ResourceLoader@4.0.1700
+- pkg:nuget/Soenneker.Blazor.Utils.ResourceLoader@4.0.1701

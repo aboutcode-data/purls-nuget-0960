@@ -93,3 +93,4 @@
 - pkg:nuget/Zomp.SyncMethodGenerator@1.6.8
 - pkg:nuget/Zomp.SyncMethodGenerator@1.6.9
 - pkg:nuget/Zomp.SyncMethodGenerator@2.0.38
+- pkg:nuget/Zomp.SyncMethodGenerator@2.0.42

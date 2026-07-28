@@ -762,3 +762,5 @@
 - pkg:nuget/Soenneker.Enums.ServiceBusQueue@4.0.700
 - pkg:nuget/Soenneker.Enums.ServiceBusQueue@4.0.702
 - pkg:nuget/Soenneker.Enums.ServiceBusQueue@4.0.704
+- pkg:nuget/Soenneker.Enums.ServiceBusQueue@4.0.715
+- pkg:nuget/Soenneker.Enums.ServiceBusQueue@4.0.716

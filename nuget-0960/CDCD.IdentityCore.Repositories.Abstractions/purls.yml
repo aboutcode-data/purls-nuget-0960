@@ -15,6 +15,8 @@
 - pkg:nuget/CDCD.IdentityCore.Repositories.Abstractions@0.12.152
 - pkg:nuget/CDCD.IdentityCore.Repositories.Abstractions@0.12.153
 - pkg:nuget/CDCD.IdentityCore.Repositories.Abstractions@0.12.158
+- pkg:nuget/CDCD.IdentityCore.Repositories.Abstractions@0.12.159
+- pkg:nuget/CDCD.IdentityCore.Repositories.Abstractions@0.12.160
 - pkg:nuget/CDCD.IdentityCore.Repositories.Abstractions@0.12.30
 - pkg:nuget/CDCD.IdentityCore.Repositories.Abstractions@0.12.35
 - pkg:nuget/CDCD.IdentityCore.Repositories.Abstractions@0.12.36

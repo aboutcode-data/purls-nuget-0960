@@ -8,3 +8,5 @@
 - pkg:nuget/Asv.Avalonia.GeoMap@2.3.0
 - pkg:nuget/Asv.Avalonia.GeoMap@2.4.0
 - pkg:nuget/Asv.Avalonia.GeoMap@2.4.1
+- pkg:nuget/Asv.Avalonia.GeoMap@3.0.0
+- pkg:nuget/Asv.Avalonia.GeoMap@3.0.1

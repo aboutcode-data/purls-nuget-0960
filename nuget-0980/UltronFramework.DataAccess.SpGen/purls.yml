@@ -69,6 +69,7 @@
 - pkg:nuget/UltronFramework.DataAccess.SpGen@1.0.73
 - pkg:nuget/UltronFramework.DataAccess.SpGen@1.0.8
 - pkg:nuget/UltronFramework.DataAccess.SpGen@1.0.9
+- pkg:nuget/UltronFramework.DataAccess.SpGen@10.0.8
 - pkg:nuget/UltronFramework.DataAccess.SpGen@8.0.0
 - pkg:nuget/UltronFramework.DataAccess.SpGen@8.0.1
 - pkg:nuget/UltronFramework.DataAccess.SpGen@8.0.10

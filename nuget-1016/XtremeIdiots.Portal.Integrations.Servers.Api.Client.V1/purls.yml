@@ -53,4 +53,5 @@
 - pkg:nuget/XtremeIdiots.Portal.Integrations.Servers.Api.Client.V1@2.1.221
 - pkg:nuget/XtremeIdiots.Portal.Integrations.Servers.Api.Client.V1@2.1.229
 - pkg:nuget/XtremeIdiots.Portal.Integrations.Servers.Api.Client.V1@2.1.231
+- pkg:nuget/XtremeIdiots.Portal.Integrations.Servers.Api.Client.V1@4.1.13
 - pkg:nuget/XtremeIdiots.Portal.Integrations.Servers.Api.Client.V1@4.1.9

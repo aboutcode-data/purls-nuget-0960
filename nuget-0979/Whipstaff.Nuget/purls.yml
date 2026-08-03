@@ -38,4 +38,5 @@
 - pkg:nuget/Whipstaff.Nuget@8.2.210
 - pkg:nuget/Whipstaff.Nuget@8.2.34
 - pkg:nuget/Whipstaff.Nuget@8.2.65
+- pkg:nuget/Whipstaff.Nuget@9.1.241
 - pkg:nuget/Whipstaff.Nuget@9.1.36

@@ -5,6 +5,7 @@
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1007.13
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1007.14
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1007.20
+- pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1007.23
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1007.5
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1007.6
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1011.0
@@ -22,12 +23,15 @@
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1033.0
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1034.0
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1039.4
+- pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1039.7
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1040.0
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1042.0-alpha.13326-vcst-5373
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1046.0
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1047.0-alpha.13339-vcst-5468-request-scoped-cache
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1048.0
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1050.0
+- pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1053.0
+- pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1054.0
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.264.0
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.264.0-alpha.12523
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.264.1

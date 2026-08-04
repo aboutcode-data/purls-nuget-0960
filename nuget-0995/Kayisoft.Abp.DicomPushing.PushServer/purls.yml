@@ -50,3 +50,4 @@
 - pkg:nuget/Kayisoft.Abp.DicomPushing.PushServer@5.2.2
 - pkg:nuget/Kayisoft.Abp.DicomPushing.PushServer@5.2.9
 - pkg:nuget/Kayisoft.Abp.DicomPushing.PushServer@5.3.1
+- pkg:nuget/Kayisoft.Abp.DicomPushing.PushServer@5.3.2

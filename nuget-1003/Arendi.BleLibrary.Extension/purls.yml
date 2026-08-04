@@ -80,6 +80,7 @@
 - pkg:nuget/Arendi.BleLibrary.Extension@18.2.0-rc1
 - pkg:nuget/Arendi.BleLibrary.Extension@18.2.0-rc2
 - pkg:nuget/Arendi.BleLibrary.Extension@18.2.1
+- pkg:nuget/Arendi.BleLibrary.Extension@21.0.0
 - pkg:nuget/Arendi.BleLibrary.Extension@8.0.0
 - pkg:nuget/Arendi.BleLibrary.Extension@9.0.0
 - pkg:nuget/Arendi.BleLibrary.Extension@9.0.0-beta

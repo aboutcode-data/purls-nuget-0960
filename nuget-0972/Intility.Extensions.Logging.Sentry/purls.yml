@@ -22,3 +22,4 @@
 - pkg:nuget/Intility.Extensions.Logging.Sentry@3.0.3-rc.1
 - pkg:nuget/Intility.Extensions.Logging.Sentry@3.0.4
 - pkg:nuget/Intility.Extensions.Logging.Sentry@3.0.5
+- pkg:nuget/Intility.Extensions.Logging.Sentry@3.1.6

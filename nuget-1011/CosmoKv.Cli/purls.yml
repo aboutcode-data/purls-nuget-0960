@@ -43,3 +43,4 @@
 - pkg:nuget/CosmoKv.Cli@7.13.0
 - pkg:nuget/CosmoKv.Cli@7.22.0
 - pkg:nuget/CosmoKv.Cli@7.25.0
+- pkg:nuget/CosmoKv.Cli@7.38.0

@@ -78,3 +78,4 @@
 - pkg:nuget/Senparc.Weixin.MP.Middleware@1.4.8
 - pkg:nuget/Senparc.Weixin.MP.Middleware@1.4.9
 - pkg:nuget/Senparc.Weixin.MP.Middleware@1.5.0-preview.10
+- pkg:nuget/Senparc.Weixin.MP.Middleware@1.5.7

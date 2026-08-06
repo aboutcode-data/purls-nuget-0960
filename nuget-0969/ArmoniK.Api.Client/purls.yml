@@ -2389,6 +2389,7 @@
 - pkg:nuget/ArmoniK.Api.Client@3.29.3-renovatepypi.27.c29d3a6e
 - pkg:nuget/ArmoniK.Api.Client@3.29.3-renovatepypi.35.c9a80a9e
 - pkg:nuget/ArmoniK.Api.Client@3.29.3-renovatewebnpm.35.c11b0548
+- pkg:nuget/ArmoniK.Api.Client@3.29.3-wktestrustreplyconstant.35.07d4810a
 - pkg:nuget/ArmoniK.Api.Client@3.3.0
 - pkg:nuget/ArmoniK.Api.Client@3.3.0-32166g075acae.66.075acae
 - pkg:nuget/ArmoniK.Api.Client@3.3.0-32168g32114de.68.32114de
@@ -2506,6 +2507,9 @@
 - pkg:nuget/ArmoniK.Api.Client@3.30.0-renovatemajorwebnpm.11.d46c10fd
 - pkg:nuget/ArmoniK.Api.Client@3.30.0-renovatenuget.11.b659953d
 - pkg:nuget/ArmoniK.Api.Client@3.30.0-renovatewebnpm.11.6021a395
+- pkg:nuget/ArmoniK.Api.Client@3.30.0-wkfeatrustproxyconnector.40.999fb068
+- pkg:nuget/ArmoniK.Api.Client@3.30.0-wkfeatrustproxysystem.43.9a683047
+- pkg:nuget/ArmoniK.Api.Client@3.30.0-wkfeatrustproxytypes.37.6c766f54
 - pkg:nuget/ArmoniK.Api.Client@3.4.0
 - pkg:nuget/ArmoniK.Api.Client@3.4.0-33036g7280e8c.36.7280e8c
 - pkg:nuget/ArmoniK.Api.Client@3.4.0-33037g7c81492.37.7c81492

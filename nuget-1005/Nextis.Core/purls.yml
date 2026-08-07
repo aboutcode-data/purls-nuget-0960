@@ -593,3 +593,4 @@
 - pkg:nuget/Nextis.Core@10.3.7
 - pkg:nuget/Nextis.Core@10.3.8
 - pkg:nuget/Nextis.Core@10.3.9
+- pkg:nuget/Nextis.Core@10.5.9

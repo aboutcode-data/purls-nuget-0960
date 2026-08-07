@@ -39,3 +39,4 @@
 - pkg:nuget/GoLive.Saturn.Generator.Entities@1.2.9
 - pkg:nuget/GoLive.Saturn.Generator.Entities@1.3.40
 - pkg:nuget/GoLive.Saturn.Generator.Entities@1.3.41
+- pkg:nuget/GoLive.Saturn.Generator.Entities@7.0.4-alpha.7

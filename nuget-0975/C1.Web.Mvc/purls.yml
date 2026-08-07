@@ -57,4 +57,5 @@
 - pkg:nuget/C1.Web.Mvc@4.8.20251.390
 - pkg:nuget/C1.Web.Mvc@4.8.20252.436-rc
 - pkg:nuget/C1.Web.Mvc@4.8.20261.447
+- pkg:nuget/C1.Web.Mvc@4.8.20261.458
 - pkg:nuget/C1.Web.Mvc@6.0.20152.28

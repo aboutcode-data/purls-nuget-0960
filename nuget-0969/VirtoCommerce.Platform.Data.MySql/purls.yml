@@ -6,6 +6,7 @@
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1007.14
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1007.20
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1007.23
+- pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1007.24
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1007.5
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1007.6
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1011.0
@@ -24,6 +25,7 @@
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1034.0
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1039.4
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1039.7
+- pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1039.9
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1040.0
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1042.0-alpha.13326-vcst-5373
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1046.0
@@ -32,6 +34,8 @@
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1050.0
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1053.0
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1054.0
+- pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1058.0
+- pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1059.0-alpha.13367-vcst-5686
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.264.0
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.264.0-alpha.12523
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.264.1

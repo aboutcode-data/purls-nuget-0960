@@ -1,4 +1,5 @@
 - pkg:nuget/Girvs.Driven@10.0.0-preview
+- pkg:nuget/Girvs.Driven@10.0.0-rc.4.0.1
 - pkg:nuget/Girvs.Driven@5.0.0-preview.1.0
 - pkg:nuget/Girvs.Driven@5.0.0-preview.1.1
 - pkg:nuget/Girvs.Driven@5.0.0-preview.1.2

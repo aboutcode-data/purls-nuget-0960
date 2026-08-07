@@ -102,3 +102,5 @@
 - pkg:nuget/inLogic.UMS.Data.XmlConversionModels@2026.4.27.4
 - pkg:nuget/inLogic.UMS.Data.XmlConversionModels@2026.6.16.1
 - pkg:nuget/inLogic.UMS.Data.XmlConversionModels@2026.7.21.1
+- pkg:nuget/inLogic.UMS.Data.XmlConversionModels@2026.8.6.1
+- pkg:nuget/inLogic.UMS.Data.XmlConversionModels@2026.8.6.2

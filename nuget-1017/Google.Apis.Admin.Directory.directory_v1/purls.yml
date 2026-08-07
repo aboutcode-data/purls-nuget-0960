@@ -272,6 +272,7 @@
 - pkg:nuget/Google.Apis.Admin.Directory.directory_v1@1.70.0.3840
 - pkg:nuget/Google.Apis.Admin.Directory.directory_v1@1.70.0.3868
 - pkg:nuget/Google.Apis.Admin.Directory.directory_v1@1.72.0.3946
+- pkg:nuget/Google.Apis.Admin.Directory.directory_v1@1.75.0.4227
 - pkg:nuget/Google.Apis.Admin.Directory.directory_v1@1.8.0.280-rc
 - pkg:nuget/Google.Apis.Admin.Directory.directory_v1@1.8.1.290
 - pkg:nuget/Google.Apis.Admin.Directory.directory_v1@1.8.1.300

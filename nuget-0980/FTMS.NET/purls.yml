@@ -57,6 +57,8 @@
 - pkg:nuget/FTMS.NET@0.7.1-alpha.10
 - pkg:nuget/FTMS.NET@0.7.1-alpha.2
 - pkg:nuget/FTMS.NET@0.7.1-alpha.22
+- pkg:nuget/FTMS.NET@0.8.1
 - pkg:nuget/FTMS.NET@0.8.1--no-branch-.1%2B0
 - pkg:nuget/FTMS.NET@0.8.1-alpha.1
+- pkg:nuget/FTMS.NET@0.8.1-alpha.2
 - pkg:nuget/FTMS.NET@1.0.0-alpha.59

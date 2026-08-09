@@ -1,2 +1,6 @@
 - pkg:nuget/Galosys.Foundation.IoTClient@25.10.30.5
 - pkg:nuget/Galosys.Foundation.IoTClient@25.11.21.1-rc
+- pkg:nuget/Galosys.Foundation.IoTClient@26.7.2.1
+- pkg:nuget/Galosys.Foundation.IoTClient@26.7.20.1
+- pkg:nuget/Galosys.Foundation.IoTClient@26.7.20.2
+- pkg:nuget/Galosys.Foundation.IoTClient@26.8.5.1

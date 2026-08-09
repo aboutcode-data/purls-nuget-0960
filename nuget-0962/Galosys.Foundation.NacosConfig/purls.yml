@@ -3,3 +3,8 @@
 - pkg:nuget/Galosys.Foundation.NacosConfig@26.4.22.2-rc7
 - pkg:nuget/Galosys.Foundation.NacosConfig@26.5.12.2
 - pkg:nuget/Galosys.Foundation.NacosConfig@26.5.12.3
+- pkg:nuget/Galosys.Foundation.NacosConfig@26.7.2.1
+- pkg:nuget/Galosys.Foundation.NacosConfig@26.7.20.1
+- pkg:nuget/Galosys.Foundation.NacosConfig@26.7.20.2
+- pkg:nuget/Galosys.Foundation.NacosConfig@26.7.21.1
+- pkg:nuget/Galosys.Foundation.NacosConfig@26.8.5.1

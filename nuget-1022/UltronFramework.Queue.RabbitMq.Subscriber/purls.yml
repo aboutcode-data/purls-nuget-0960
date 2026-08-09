@@ -44,6 +44,7 @@
 - pkg:nuget/UltronFramework.Queue.RabbitMq.Subscriber@1.0.71
 - pkg:nuget/UltronFramework.Queue.RabbitMq.Subscriber@1.0.72
 - pkg:nuget/UltronFramework.Queue.RabbitMq.Subscriber@1.0.73
+- pkg:nuget/UltronFramework.Queue.RabbitMq.Subscriber@10.0.8
 - pkg:nuget/UltronFramework.Queue.RabbitMq.Subscriber@8.0.0
 - pkg:nuget/UltronFramework.Queue.RabbitMq.Subscriber@8.0.1
 - pkg:nuget/UltronFramework.Queue.RabbitMq.Subscriber@8.0.10

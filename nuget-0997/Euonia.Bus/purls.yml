@@ -2,6 +2,7 @@
 - pkg:nuget/Euonia.Bus@10.1.0
 - pkg:nuget/Euonia.Bus@10.1.10
 - pkg:nuget/Euonia.Bus@10.1.6
+- pkg:nuget/Euonia.Bus@2026.3.3
 - pkg:nuget/Euonia.Bus@6.0.500
 - pkg:nuget/Euonia.Bus@6.0.510
 - pkg:nuget/Euonia.Bus@6.0.550

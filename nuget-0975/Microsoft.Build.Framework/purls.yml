@@ -68,3 +68,4 @@
 - pkg:nuget/Microsoft.Build.Framework@17.8.3
 - pkg:nuget/Microsoft.Build.Framework@17.9.5
 - pkg:nuget/Microsoft.Build.Framework@18.4.0
+- pkg:nuget/Microsoft.Build.Framework@18.9.6

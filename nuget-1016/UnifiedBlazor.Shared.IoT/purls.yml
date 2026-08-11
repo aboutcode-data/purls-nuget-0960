@@ -12,3 +12,6 @@
 - pkg:nuget/UnifiedBlazor.Shared.IoT@0.0.75
 - pkg:nuget/UnifiedBlazor.Shared.IoT@0.0.78
 - pkg:nuget/UnifiedBlazor.Shared.IoT@0.0.82
+- pkg:nuget/UnifiedBlazor.Shared.IoT@0.0.96
+- pkg:nuget/UnifiedBlazor.Shared.IoT@0.0.97
+- pkg:nuget/UnifiedBlazor.Shared.IoT@0.1.3

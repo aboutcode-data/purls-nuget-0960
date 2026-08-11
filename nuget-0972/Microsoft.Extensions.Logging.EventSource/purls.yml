@@ -138,6 +138,7 @@
 - pkg:nuget/Microsoft.Extensions.Logging.EventSource@9.0.12
 - pkg:nuget/Microsoft.Extensions.Logging.EventSource@9.0.13
 - pkg:nuget/Microsoft.Extensions.Logging.EventSource@9.0.16
+- pkg:nuget/Microsoft.Extensions.Logging.EventSource@9.0.19
 - pkg:nuget/Microsoft.Extensions.Logging.EventSource@9.0.2
 - pkg:nuget/Microsoft.Extensions.Logging.EventSource@9.0.3
 - pkg:nuget/Microsoft.Extensions.Logging.EventSource@9.0.4

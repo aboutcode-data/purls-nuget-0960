@@ -49,3 +49,4 @@
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.RabbitMQ@0.963.0-alpha.37
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.RabbitMQ@0.963.0-alpha.51
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.RabbitMQ@0.963.0-alpha.59
+- pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.RabbitMQ@0.963.0-alpha.61

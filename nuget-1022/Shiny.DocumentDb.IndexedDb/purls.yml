@@ -1,0 +1,17 @@
+- pkg:nuget/Shiny.DocumentDb.IndexedDb@10.0.0-beta-0003
+- pkg:nuget/Shiny.DocumentDb.IndexedDb@10.0.0-beta-0004
+- pkg:nuget/Shiny.DocumentDb.IndexedDb@10.0.0-beta-0006
+- pkg:nuget/Shiny.DocumentDb.IndexedDb@11.2.0-beta-0001
+- pkg:nuget/Shiny.DocumentDb.IndexedDb@11.3.0
+- pkg:nuget/Shiny.DocumentDb.IndexedDb@12.2.0-beta-0001
+- pkg:nuget/Shiny.DocumentDb.IndexedDb@13.0.0
+- pkg:nuget/Shiny.DocumentDb.IndexedDb@13.2.0
+- pkg:nuget/Shiny.DocumentDb.IndexedDb@6.0.0-beta-0001
+- pkg:nuget/Shiny.DocumentDb.IndexedDb@6.0.0-beta-0004
+- pkg:nuget/Shiny.DocumentDb.IndexedDb@6.0.0-beta-0006
+- pkg:nuget/Shiny.DocumentDb.IndexedDb@6.2.0-beta-0002
+- pkg:nuget/Shiny.DocumentDb.IndexedDb@6.2.0-beta-0003
+- pkg:nuget/Shiny.DocumentDb.IndexedDb@6.2.0-beta-0004
+- pkg:nuget/Shiny.DocumentDb.IndexedDb@7.0.0
+- pkg:nuget/Shiny.DocumentDb.IndexedDb@7.2.1-beta-0002
+- pkg:nuget/Shiny.DocumentDb.IndexedDb@8.0.0-beta-0002

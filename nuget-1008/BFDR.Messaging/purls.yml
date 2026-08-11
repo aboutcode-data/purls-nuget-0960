@@ -4,6 +4,7 @@
 - pkg:nuget/BFDR.Messaging@1.0.0-preview.12
 - pkg:nuget/BFDR.Messaging@1.0.0-preview.13
 - pkg:nuget/BFDR.Messaging@1.0.0-preview.14
+- pkg:nuget/BFDR.Messaging@1.0.0-preview.16
 - pkg:nuget/BFDR.Messaging@1.0.0-preview.2
 - pkg:nuget/BFDR.Messaging@1.0.0-preview.3
 - pkg:nuget/BFDR.Messaging@1.0.0-preview.4

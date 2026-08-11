@@ -1,0 +1,6 @@
+- pkg:nuget/Hyz.Trace.Storage.ClickHouse@0.7.0
+- pkg:nuget/Hyz.Trace.Storage.ClickHouse@1.0.0
+- pkg:nuget/Hyz.Trace.Storage.ClickHouse@1.2.6
+- pkg:nuget/Hyz.Trace.Storage.ClickHouse@1.3.5
+- pkg:nuget/Hyz.Trace.Storage.ClickHouse@1.3.8
+- pkg:nuget/Hyz.Trace.Storage.ClickHouse@1.3.9

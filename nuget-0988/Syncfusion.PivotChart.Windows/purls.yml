@@ -352,3 +352,4 @@
 - pkg:nuget/Syncfusion.PivotChart.Windows@33.2.12
 - pkg:nuget/Syncfusion.PivotChart.Windows@33.2.5
 - pkg:nuget/Syncfusion.PivotChart.Windows@34.1.33
+- pkg:nuget/Syncfusion.PivotChart.Windows@34.2.3

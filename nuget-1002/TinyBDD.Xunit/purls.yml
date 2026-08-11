@@ -15,6 +15,7 @@
 - pkg:nuget/TinyBDD.Xunit@0.19.25
 - pkg:nuget/TinyBDD.Xunit@0.19.28
 - pkg:nuget/TinyBDD.Xunit@0.19.31
+- pkg:nuget/TinyBDD.Xunit@0.19.33
 - pkg:nuget/TinyBDD.Xunit@0.6.1
 - pkg:nuget/TinyBDD.Xunit@0.7.0
 - pkg:nuget/TinyBDD.Xunit@0.8.1

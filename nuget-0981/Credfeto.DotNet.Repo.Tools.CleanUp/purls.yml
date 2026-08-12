@@ -2307,3 +2307,4 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.7.3418-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.7.3434-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.8.3440-unit-tests-buil
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.8.3468-cleanup-bom-enc

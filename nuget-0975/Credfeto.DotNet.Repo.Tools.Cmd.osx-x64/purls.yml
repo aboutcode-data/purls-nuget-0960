@@ -147,3 +147,5 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.5.7.3434-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.5.8.3439-unit-tests-buil
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.5.8.3440-unit-tests-buil
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.5.8.3468-cleanup-bom-enc
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.5.8.3471-cleanup-bom-enc

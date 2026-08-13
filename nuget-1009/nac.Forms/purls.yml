@@ -49,6 +49,7 @@
 - pkg:nuget/nac.Forms@1.8.3
 - pkg:nuget/nac.Forms@1.8.4
 - pkg:nuget/nac.Forms@1.9.1
+- pkg:nuget/nac.Forms@12.0.3
 - pkg:nuget/nac.Forms@2.0.1
 - pkg:nuget/nac.Forms@2.0.2
 - pkg:nuget/nac.Forms@2.0.3

@@ -20,3 +20,4 @@
 - pkg:nuget/EfLocalDb.NUnit@20.2.0
 - pkg:nuget/EfLocalDb.NUnit@20.2.1
 - pkg:nuget/EfLocalDb.NUnit@20.3.0
+- pkg:nuget/EfLocalDb.NUnit@25.0.0

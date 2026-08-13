@@ -1,0 +1,5 @@
+- pkg:nuget/AsiBackbone.Signing.ManagedKey@2.0.0
+- pkg:nuget/AsiBackbone.Signing.ManagedKey@2.0.1
+- pkg:nuget/AsiBackbone.Signing.ManagedKey@2.2.0
+- pkg:nuget/AsiBackbone.Signing.ManagedKey@3.0.0
+- pkg:nuget/AsiBackbone.Signing.ManagedKey@3.2.1

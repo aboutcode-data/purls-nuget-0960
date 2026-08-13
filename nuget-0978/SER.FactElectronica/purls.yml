@@ -33,3 +33,5 @@
 - pkg:nuget/SER.FactElectronica@0.9.8
 - pkg:nuget/SER.FactElectronica@0.9.9
 - pkg:nuget/SER.FactElectronica@1.0.6
+- pkg:nuget/SER.FactElectronica@1.1.0
+- pkg:nuget/SER.FactElectronica@1.1.1

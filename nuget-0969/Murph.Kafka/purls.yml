@@ -41,3 +41,4 @@
 - pkg:nuget/Murph.Kafka@2.3.3.6
 - pkg:nuget/Murph.Kafka@2.3.3.7
 - pkg:nuget/Murph.Kafka@2.5.1
+- pkg:nuget/Murph.Kafka@2.6.0

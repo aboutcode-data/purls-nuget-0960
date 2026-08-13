@@ -12,3 +12,4 @@
 - pkg:nuget/Manonero.Logger.Kafka@1.0.0-pre.2
 - pkg:nuget/Manonero.Logger.Kafka@6.0.0-beta
 - pkg:nuget/Manonero.Logger.Kafka@6.0.0-beta.1
+- pkg:nuget/Manonero.Logger.Kafka@6.0.0-beta.2

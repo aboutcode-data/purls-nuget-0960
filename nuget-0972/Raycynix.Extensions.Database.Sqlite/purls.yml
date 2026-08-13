@@ -1,1 +1,2 @@
 - pkg:nuget/Raycynix.Extensions.Database.Sqlite@1.0.0
+- pkg:nuget/Raycynix.Extensions.Database.Sqlite@2.0.0

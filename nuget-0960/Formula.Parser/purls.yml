@@ -19,3 +19,4 @@
 - pkg:nuget/Formula.Parser@1.1.1
 - pkg:nuget/Formula.Parser@1.2.0
 - pkg:nuget/Formula.Parser@1.3.0
+- pkg:nuget/Formula.Parser@2.0.0-alpha002

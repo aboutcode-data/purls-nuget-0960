@@ -40,3 +40,4 @@
 - pkg:nuget/Beckhoff.TwinCAT.HMI.Vision@13.7.6517
 - pkg:nuget/Beckhoff.TwinCAT.HMI.Vision@13.7.6818
 - pkg:nuget/Beckhoff.TwinCAT.HMI.Vision@13.7.6856
+- pkg:nuget/Beckhoff.TwinCAT.HMI.Vision@23.0.577

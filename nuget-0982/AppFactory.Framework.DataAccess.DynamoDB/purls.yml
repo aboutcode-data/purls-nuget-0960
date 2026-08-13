@@ -1,0 +1,2 @@
+- pkg:nuget/AppFactory.Framework.DataAccess.DynamoDB@10.5.7
+- pkg:nuget/AppFactory.Framework.DataAccess.DynamoDB@10.7.0

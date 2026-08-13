@@ -20,6 +20,17 @@
 - pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.10.2443-update-sonarana
 - pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.10.2445-main
 - pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.10.2452-update-funfair
+- pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.10.2458-main
+- pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.10.2462-main
+- pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.10.2463-main
+- pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.10.2472-main
+- pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.10.2475-main
+- pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.10.2479-main
+- pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.10.2488-main
+- pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.10.2501-main
+- pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.10.2502-main
+- pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.10.2517-main
+- pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.10.2518-dotnet-sdk-10-0
 - pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.2.1872-main
 - pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.2.1873-main
 - pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.2.1874-main

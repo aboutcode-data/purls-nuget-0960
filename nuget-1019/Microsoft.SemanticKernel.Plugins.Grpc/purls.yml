@@ -87,5 +87,6 @@
 - pkg:nuget/Microsoft.SemanticKernel.Plugins.Grpc@1.68.0-alpha
 - pkg:nuget/Microsoft.SemanticKernel.Plugins.Grpc@1.7.0-alpha
 - pkg:nuget/Microsoft.SemanticKernel.Plugins.Grpc@1.7.1-alpha
+- pkg:nuget/Microsoft.SemanticKernel.Plugins.Grpc@1.79.0-alpha
 - pkg:nuget/Microsoft.SemanticKernel.Plugins.Grpc@1.8.0-alpha
 - pkg:nuget/Microsoft.SemanticKernel.Plugins.Grpc@1.9.0-alpha

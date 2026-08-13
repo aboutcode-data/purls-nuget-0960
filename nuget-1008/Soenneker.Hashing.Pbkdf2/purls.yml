@@ -8,4 +8,5 @@
 - pkg:nuget/Soenneker.Hashing.Pbkdf2@4.0.14
 - pkg:nuget/Soenneker.Hashing.Pbkdf2@4.0.19
 - pkg:nuget/Soenneker.Hashing.Pbkdf2@4.0.25
+- pkg:nuget/Soenneker.Hashing.Pbkdf2@4.0.27
 - pkg:nuget/Soenneker.Hashing.Pbkdf2@4.0.9

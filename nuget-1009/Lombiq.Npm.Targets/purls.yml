@@ -36,3 +36,5 @@
 - pkg:nuget/Lombiq.Npm.Targets@1.4.1-alpha.2.osoe-1107
 - pkg:nuget/Lombiq.Npm.Targets@1.5.0
 - pkg:nuget/Lombiq.Npm.Targets@1.5.1
+- pkg:nuget/Lombiq.Npm.Targets@1.5.3-alpha.0.osoe-925
+- pkg:nuget/Lombiq.Npm.Targets@1.5.3-alpha.1.osoe-925

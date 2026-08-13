@@ -1,3 +1,4 @@
+- pkg:nuget/Yoyo.Pro.AspNetCore.SignalR.CSRedisCore@10.3.2
 - pkg:nuget/Yoyo.Pro.AspNetCore.SignalR.CSRedisCore@7.3.0.15
 - pkg:nuget/Yoyo.Pro.AspNetCore.SignalR.CSRedisCore@7.3.0.16
 - pkg:nuget/Yoyo.Pro.AspNetCore.SignalR.CSRedisCore@7.3.0.17

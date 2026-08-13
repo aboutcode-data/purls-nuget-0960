@@ -9,3 +9,4 @@
 - pkg:nuget/inteldal.static.linux-x64@2025.5.0.6
 - pkg:nuget/inteldal.static.linux-x64@2025.6.0.114
 - pkg:nuget/inteldal.static.linux-x64@2025.8.0.11
+- pkg:nuget/inteldal.static.linux-x64@2026.1.0.7

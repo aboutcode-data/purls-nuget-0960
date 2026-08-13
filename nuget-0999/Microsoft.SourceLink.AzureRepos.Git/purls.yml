@@ -8,5 +8,6 @@
 - pkg:nuget/Microsoft.SourceLink.AzureRepos.Git@10.0.110
 - pkg:nuget/Microsoft.SourceLink.AzureRepos.Git@10.0.203
 - pkg:nuget/Microsoft.SourceLink.AzureRepos.Git@10.0.301
+- pkg:nuget/Microsoft.SourceLink.AzureRepos.Git@10.0.400
 - pkg:nuget/Microsoft.SourceLink.AzureRepos.Git@11.0.100-preview.4.26230.115
 - pkg:nuget/Microsoft.SourceLink.AzureRepos.Git@8.0.0

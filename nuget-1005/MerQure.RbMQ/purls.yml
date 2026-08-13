@@ -23,3 +23,7 @@
 - pkg:nuget/MerQure.RbMQ@0.7.0
 - pkg:nuget/MerQure.RbMQ@0.7.1-pullrequest0043-0007
 - pkg:nuget/MerQure.RbMQ@1.0.0
+- pkg:nuget/MerQure.RbMQ@2.0.1
+- pkg:nuget/MerQure.RbMQ@2.0.1-ci0004
+- pkg:nuget/MerQure.RbMQ@2.0.1-pullrequest0046-0003
+- pkg:nuget/MerQure.RbMQ@2.0.1-pullrequest0046-0004

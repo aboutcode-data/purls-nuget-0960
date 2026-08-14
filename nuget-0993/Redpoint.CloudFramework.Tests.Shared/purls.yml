@@ -340,3 +340,6 @@
 - pkg:nuget/Redpoint.CloudFramework.Tests.Shared@2026.1211.865
 - pkg:nuget/Redpoint.CloudFramework.Tests.Shared@2026.1219.415
 - pkg:nuget/Redpoint.CloudFramework.Tests.Shared@2026.1222.368
+- pkg:nuget/Redpoint.CloudFramework.Tests.Shared@2026.1226.241
+- pkg:nuget/Redpoint.CloudFramework.Tests.Shared@2026.1226.243
+- pkg:nuget/Redpoint.CloudFramework.Tests.Shared@2026.1226.252

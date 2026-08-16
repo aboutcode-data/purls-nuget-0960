@@ -92,3 +92,4 @@
 - pkg:nuget/Vanara.PInvoke.PowrProf@4.1.6
 - pkg:nuget/Vanara.PInvoke.PowrProf@4.2.0
 - pkg:nuget/Vanara.PInvoke.PowrProf@4.2.1
+- pkg:nuget/Vanara.PInvoke.PowrProf@5.0.7

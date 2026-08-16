@@ -14,3 +14,6 @@
 - pkg:nuget/Microsoft.Agents.Hosting.AspNetCore.A2A.Preview@1.6.9-beta
 - pkg:nuget/Microsoft.Agents.Hosting.AspNetCore.A2A.Preview@1.7.12-beta
 - pkg:nuget/Microsoft.Agents.Hosting.AspNetCore.A2A.Preview@1.7.25-beta
+- pkg:nuget/Microsoft.Agents.Hosting.AspNetCore.A2A.Preview@1.7.70-beta
+- pkg:nuget/Microsoft.Agents.Hosting.AspNetCore.A2A.Preview@1.8.14-beta
+- pkg:nuget/Microsoft.Agents.Hosting.AspNetCore.A2A.Preview@1.8.16-beta

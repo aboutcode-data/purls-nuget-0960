@@ -7,3 +7,4 @@
 - pkg:nuget/R8.EntityFrameworkCore.AuditProvider.Abstractions@1.0.9
 - pkg:nuget/R8.EntityFrameworkCore.AuditProvider.Abstractions@1.1.0
 - pkg:nuget/R8.EntityFrameworkCore.AuditProvider.Abstractions@1.1.1
+- pkg:nuget/R8.EntityFrameworkCore.AuditProvider.Abstractions@1.2.0

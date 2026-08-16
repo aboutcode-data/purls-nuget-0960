@@ -9,3 +9,4 @@
 - pkg:nuget/OrchardCore.UrlRewriting@2.1.8
 - pkg:nuget/OrchardCore.UrlRewriting@2.1.9
 - pkg:nuget/OrchardCore.UrlRewriting@2.2.0
+- pkg:nuget/OrchardCore.UrlRewriting@3.0.0

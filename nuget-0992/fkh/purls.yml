@@ -14,3 +14,5 @@
 - pkg:nuget/fkh@0.2.74-preview
 - pkg:nuget/fkh@0.2.92-preview
 - pkg:nuget/fkh@2026.623.3-prerelease
+- pkg:nuget/fkh@2026.806.1
+- pkg:nuget/fkh@2026.810.1-prerelease

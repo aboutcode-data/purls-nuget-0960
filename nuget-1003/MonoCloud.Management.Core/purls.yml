@@ -1,2 +1,4 @@
+- pkg:nuget/MonoCloud.Management.Core@0.0.0-canary-20260724075613
 - pkg:nuget/MonoCloud.Management.Core@0.2.5
 - pkg:nuget/MonoCloud.Management.Core@0.2.7
+- pkg:nuget/MonoCloud.Management.Core@0.3.0

@@ -60,6 +60,8 @@
 - pkg:nuget/FunFair.Test.Source.Generator@6.3.1.2328-benchmark-nu501
 - pkg:nuget/FunFair.Test.Source.Generator@6.3.1.2331-benchmark-nu501
 - pkg:nuget/FunFair.Test.Source.Generator@6.3.1.2332-main
+- pkg:nuget/FunFair.Test.Source.Generator@6.3.10.2614-xunit-v3-aot-pa
+- pkg:nuget/FunFair.Test.Source.Generator@6.3.10.2615-xunit-v3-aot-pa
 - pkg:nuget/FunFair.Test.Source.Generator@6.3.2.2345-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.3.2.2356-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.3.2.2357-main

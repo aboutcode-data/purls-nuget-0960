@@ -140,6 +140,7 @@
 - pkg:nuget/StockSharp.Messages@5.0.23
 - pkg:nuget/StockSharp.Messages@5.0.238
 - pkg:nuget/StockSharp.Messages@5.0.24
+- pkg:nuget/StockSharp.Messages@5.0.244
 - pkg:nuget/StockSharp.Messages@5.0.25
 - pkg:nuget/StockSharp.Messages@5.0.26
 - pkg:nuget/StockSharp.Messages@5.0.27

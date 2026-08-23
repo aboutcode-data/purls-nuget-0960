@@ -8,3 +8,4 @@
 - pkg:nuget/ModernUO.Serialization.Annotations@2.8.0
 - pkg:nuget/ModernUO.Serialization.Annotations@2.9.0
 - pkg:nuget/ModernUO.Serialization.Annotations@2.9.1
+- pkg:nuget/ModernUO.Serialization.Annotations@3.0.0

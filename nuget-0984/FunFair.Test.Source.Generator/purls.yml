@@ -104,3 +104,7 @@
 - pkg:nuget/FunFair.Test.Source.Generator@6.3.8.2579-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.3.8.2583-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.4.1.2619-main
+- pkg:nuget/FunFair.Test.Source.Generator@6.4.2.2635-remove-dead-ent
+- pkg:nuget/FunFair.Test.Source.Generator@6.4.2.2636-main
+- pkg:nuget/FunFair.Test.Source.Generator@6.4.2.2637-source-generato
+- pkg:nuget/FunFair.Test.Source.Generator@6.4.2.2643-source-generato

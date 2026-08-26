@@ -1,3 +1,5 @@
+- pkg:nuget/D9.Repo.MySql@10.0.0
+- pkg:nuget/D9.Repo.MySql@10.0.1
 - pkg:nuget/D9.Repo.MySql@9.0.0
 - pkg:nuget/D9.Repo.MySql@9.0.2
 - pkg:nuget/D9.Repo.MySql@9.0.3

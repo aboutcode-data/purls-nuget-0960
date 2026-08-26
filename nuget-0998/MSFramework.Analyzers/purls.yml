@@ -17,3 +17,5 @@
 - pkg:nuget/MSFramework.Analyzers@0.15.4-beta73
 - pkg:nuget/MSFramework.Analyzers@0.15.4-beta79
 - pkg:nuget/MSFramework.Analyzers@0.15.4-beta91
+- pkg:nuget/MSFramework.Analyzers@0.15.4-beta95
+- pkg:nuget/MSFramework.Analyzers@0.15.4-beta96

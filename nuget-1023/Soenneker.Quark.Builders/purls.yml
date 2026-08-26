@@ -14,6 +14,8 @@
 - pkg:nuget/Soenneker.Quark.Builders@4.0.219
 - pkg:nuget/Soenneker.Quark.Builders@4.0.227
 - pkg:nuget/Soenneker.Quark.Builders@4.0.228
+- pkg:nuget/Soenneker.Quark.Builders@4.0.239
+- pkg:nuget/Soenneker.Quark.Builders@4.0.240
 - pkg:nuget/Soenneker.Quark.Builders@4.0.34
 - pkg:nuget/Soenneker.Quark.Builders@4.0.55
 - pkg:nuget/Soenneker.Quark.Builders@4.0.64

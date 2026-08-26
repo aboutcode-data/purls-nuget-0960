@@ -12,6 +12,8 @@
 - pkg:nuget/Mostlylucid.BotDetection.UI@6.1.8
 - pkg:nuget/Mostlylucid.BotDetection.UI@6.1.9
 - pkg:nuget/Mostlylucid.BotDetection.UI@6.4.0
+- pkg:nuget/Mostlylucid.BotDetection.UI@8.11.2
+- pkg:nuget/Mostlylucid.BotDetection.UI@8.11.3
 - pkg:nuget/Mostlylucid.BotDetection.UI@8.8.1
 - pkg:nuget/Mostlylucid.BotDetection.UI@8.8.2
 - pkg:nuget/Mostlylucid.BotDetection.UI@8.9.0

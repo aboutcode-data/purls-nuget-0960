@@ -37,6 +37,7 @@
 - pkg:nuget/Reo.Core.DistributedCache.Abstractions@10.0.291
 - pkg:nuget/Reo.Core.DistributedCache.Abstractions@10.0.292
 - pkg:nuget/Reo.Core.DistributedCache.Abstractions@10.0.316
+- pkg:nuget/Reo.Core.DistributedCache.Abstractions@10.0.323
 - pkg:nuget/Reo.Core.DistributedCache.Abstractions@10.0.33
 - pkg:nuget/Reo.Core.DistributedCache.Abstractions@10.0.36
 - pkg:nuget/Reo.Core.DistributedCache.Abstractions@10.0.51

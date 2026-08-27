@@ -26,6 +26,9 @@
 - pkg:nuget/Rask.Bootstrap@0.20.1-alpha.0.14
 - pkg:nuget/Rask.Bootstrap@0.20.1-alpha.0.142
 - pkg:nuget/Rask.Bootstrap@0.20.1-alpha.0.144
+- pkg:nuget/Rask.Bootstrap@0.20.1-alpha.0.147
+- pkg:nuget/Rask.Bootstrap@0.20.1-alpha.0.148
+- pkg:nuget/Rask.Bootstrap@0.20.1-alpha.0.149
 - pkg:nuget/Rask.Bootstrap@0.20.1-alpha.0.3
 - pkg:nuget/Rask.Bootstrap@0.20.1-alpha.0.5
 - pkg:nuget/Rask.Bootstrap@0.20.1-alpha.0.68

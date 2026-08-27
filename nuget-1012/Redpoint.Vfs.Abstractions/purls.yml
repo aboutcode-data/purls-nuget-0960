@@ -813,3 +813,6 @@
 - pkg:nuget/Redpoint.Vfs.Abstractions@2026.1226.243
 - pkg:nuget/Redpoint.Vfs.Abstractions@2026.1226.252
 - pkg:nuget/Redpoint.Vfs.Abstractions@2026.1229.430
+- pkg:nuget/Redpoint.Vfs.Abstractions@2026.1239.658
+- pkg:nuget/Redpoint.Vfs.Abstractions@2026.1239.663
+- pkg:nuget/Redpoint.Vfs.Abstractions@2026.1239.666

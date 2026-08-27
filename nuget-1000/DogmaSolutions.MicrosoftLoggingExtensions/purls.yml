@@ -108,3 +108,4 @@
 - pkg:nuget/DogmaSolutions.MicrosoftLoggingExtensions@5.1.325
 - pkg:nuget/DogmaSolutions.MicrosoftLoggingExtensions@5.1.327
 - pkg:nuget/DogmaSolutions.MicrosoftLoggingExtensions@6.0.336
+- pkg:nuget/DogmaSolutions.MicrosoftLoggingExtensions@6.1.892

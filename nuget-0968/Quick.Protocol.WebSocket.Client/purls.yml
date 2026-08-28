@@ -65,3 +65,4 @@
 - pkg:nuget/Quick.Protocol.WebSocket.Client@2.6.2
 - pkg:nuget/Quick.Protocol.WebSocket.Client@2.6.3
 - pkg:nuget/Quick.Protocol.WebSocket.Client@2.9.3-rc1
+- pkg:nuget/Quick.Protocol.WebSocket.Client@2.9.4

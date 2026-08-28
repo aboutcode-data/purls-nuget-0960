@@ -122,6 +122,8 @@
 - pkg:nuget/Picturepark.SDK.V1.CloudManager@11.16.2-alpha-gf2fe920d53
 - pkg:nuget/Picturepark.SDK.V1.CloudManager@11.16.3-alpha-gfc50d3f8a7
 - pkg:nuget/Picturepark.SDK.V1.CloudManager@11.17.15-alpha-g92bb71e8b1
+- pkg:nuget/Picturepark.SDK.V1.CloudManager@11.17.18-rc-g45ec7c15f1
+- pkg:nuget/Picturepark.SDK.V1.CloudManager@11.18.4-alpha-g8ab870c9c4
 - pkg:nuget/Picturepark.SDK.V1.CloudManager@11.2.41
 - pkg:nuget/Picturepark.SDK.V1.CloudManager@11.3.33
 - pkg:nuget/Picturepark.SDK.V1.CloudManager@11.4.42

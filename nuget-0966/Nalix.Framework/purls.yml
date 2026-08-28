@@ -27,6 +27,7 @@
 - pkg:nuget/Nalix.Framework@14.0.0
 - pkg:nuget/Nalix.Framework@14.2.18
 - pkg:nuget/Nalix.Framework@14.2.3
+- pkg:nuget/Nalix.Framework@14.3.0
 - pkg:nuget/Nalix.Framework@2.1.7
 - pkg:nuget/Nalix.Framework@2.5.7
 - pkg:nuget/Nalix.Framework@2.7.1

@@ -1,3 +1,10 @@
+- pkg:nuget/ThunderPropagator.Channels.Notifications.ARM64@1.0.1-beta.101
+- pkg:nuget/ThunderPropagator.Channels.Notifications.ARM64@1.0.1-beta.104
+- pkg:nuget/ThunderPropagator.Channels.Notifications.ARM64@1.0.1-beta.105
+- pkg:nuget/ThunderPropagator.Channels.Notifications.ARM64@1.0.1-beta.106
+- pkg:nuget/ThunderPropagator.Channels.Notifications.ARM64@1.0.1-beta.108
+- pkg:nuget/ThunderPropagator.Channels.Notifications.ARM64@1.0.1-beta.109
+- pkg:nuget/ThunderPropagator.Channels.Notifications.ARM64@1.0.1-beta.110
 - pkg:nuget/ThunderPropagator.Channels.Notifications.ARM64@1.0.1-beta.18
 - pkg:nuget/ThunderPropagator.Channels.Notifications.ARM64@1.0.1-beta.19
 - pkg:nuget/ThunderPropagator.Channels.Notifications.ARM64@1.0.1-beta.3
@@ -9,3 +16,4 @@
 - pkg:nuget/ThunderPropagator.Channels.Notifications.ARM64@1.0.1-beta.65
 - pkg:nuget/ThunderPropagator.Channels.Notifications.ARM64@1.0.1-beta.88
 - pkg:nuget/ThunderPropagator.Channels.Notifications.ARM64@1.0.1-beta.90
+- pkg:nuget/ThunderPropagator.Channels.Notifications.ARM64@1.0.1-beta.98

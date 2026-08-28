@@ -25,3 +25,6 @@
 - pkg:nuget/Prcxi.Lilith.Model@1.2.5
 - pkg:nuget/Prcxi.Lilith.Model@1.2.6
 - pkg:nuget/Prcxi.Lilith.Model@1.4.1
+- pkg:nuget/Prcxi.Lilith.Model@2.0.10
+- pkg:nuget/Prcxi.Lilith.Model@2.0.12
+- pkg:nuget/Prcxi.Lilith.Model@2.0.9

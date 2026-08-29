@@ -32,3 +32,4 @@
 - pkg:nuget/Microsoft.VisualStudio.Services.AdvancedSecurity.Client@20.271.20260413.1-ci
 - pkg:nuget/Microsoft.VisualStudio.Services.AdvancedSecurity.Client@20.274.0-preview
 - pkg:nuget/Microsoft.VisualStudio.Services.AdvancedSecurity.Client@20.276.0-preview
+- pkg:nuget/Microsoft.VisualStudio.Services.AdvancedSecurity.Client@20.278.0-preview

@@ -1,4 +1,5 @@
 - pkg:nuget/cloudscribe.EmailQueue.Data.NoDb@1.0.1
+- pkg:nuget/cloudscribe.EmailQueue.Data.NoDb@10.1.0
 - pkg:nuget/cloudscribe.EmailQueue.Data.NoDb@2.1.0
 - pkg:nuget/cloudscribe.EmailQueue.Data.NoDb@2.1.1
 - pkg:nuget/cloudscribe.EmailQueue.Data.NoDb@2.1.2

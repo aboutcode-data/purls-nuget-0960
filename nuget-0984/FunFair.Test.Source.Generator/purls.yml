@@ -130,3 +130,8 @@
 - pkg:nuget/FunFair.Test.Source.Generator@6.4.3.2683-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.4.3.2684-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.4.3.2685
+- pkg:nuget/FunFair.Test.Source.Generator@6.4.4.2686-comparable-null
+- pkg:nuget/FunFair.Test.Source.Generator@6.4.4.2689-comparable-null
+- pkg:nuget/FunFair.Test.Source.Generator@6.4.4.2690-comparable-null
+- pkg:nuget/FunFair.Test.Source.Generator@6.4.4.2691-comparable-null
+- pkg:nuget/FunFair.Test.Source.Generator@6.4.4.2692-main

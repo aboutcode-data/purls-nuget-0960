@@ -70,6 +70,7 @@
 - pkg:nuget/DH.SKIT.FlurlHttpClient.Baidu.Translate@10.0.2026.50100027
 - pkg:nuget/DH.SKIT.FlurlHttpClient.Baidu.Translate@10.0.2026.70300035
 - pkg:nuget/DH.SKIT.FlurlHttpClient.Baidu.Translate@10.0.2026.70900036
+- pkg:nuget/DH.SKIT.FlurlHttpClient.Baidu.Translate@10.0.2026.82600039
 - pkg:nuget/DH.SKIT.FlurlHttpClient.Baidu.Translate@2.3.2023.1004251
 - pkg:nuget/DH.SKIT.FlurlHttpClient.Baidu.Translate@2.3.2023.1008255
 - pkg:nuget/DH.SKIT.FlurlHttpClient.Baidu.Translate@2.3.2023.1010258

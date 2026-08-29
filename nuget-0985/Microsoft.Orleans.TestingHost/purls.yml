@@ -35,6 +35,7 @@
 - pkg:nuget/Microsoft.Orleans.TestingHost@1.5.8
 - pkg:nuget/Microsoft.Orleans.TestingHost@1.5.9
 - pkg:nuget/Microsoft.Orleans.TestingHost@10.3.0
+- pkg:nuget/Microsoft.Orleans.TestingHost@10.3.1
 - pkg:nuget/Microsoft.Orleans.TestingHost@2.0.0
 - pkg:nuget/Microsoft.Orleans.TestingHost@2.0.0-beta1
 - pkg:nuget/Microsoft.Orleans.TestingHost@2.0.0-beta2

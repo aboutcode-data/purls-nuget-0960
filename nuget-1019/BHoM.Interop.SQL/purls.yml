@@ -63,3 +63,4 @@
 - pkg:nuget/BHoM.Interop.SQL@9.2.0-alpha.4.0
 - pkg:nuget/BHoM.Interop.SQL@9.2.0-alpha.6.0
 - pkg:nuget/BHoM.Interop.SQL@9.2.0-beta.0
+- pkg:nuget/BHoM.Interop.SQL@9.3.0-alpha.4.0

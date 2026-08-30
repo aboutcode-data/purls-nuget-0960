@@ -1,4 +1,5 @@
 - pkg:nuget/Microsoft.Orleans.Serialization.NewtonsoftJson@10.3.0
+- pkg:nuget/Microsoft.Orleans.Serialization.NewtonsoftJson@10.3.1
 - pkg:nuget/Microsoft.Orleans.Serialization.NewtonsoftJson@4.0.0-preview1
 - pkg:nuget/Microsoft.Orleans.Serialization.NewtonsoftJson@4.0.0-preview2
 - pkg:nuget/Microsoft.Orleans.Serialization.NewtonsoftJson@7.0.0

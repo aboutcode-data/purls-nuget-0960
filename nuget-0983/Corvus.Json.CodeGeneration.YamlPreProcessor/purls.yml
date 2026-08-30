@@ -32,3 +32,5 @@
 - pkg:nuget/Corvus.Json.CodeGeneration.YamlPreProcessor@4.6.5
 - pkg:nuget/Corvus.Json.CodeGeneration.YamlPreProcessor@5.1.14
 - pkg:nuget/Corvus.Json.CodeGeneration.YamlPreProcessor@5.2.6
+- pkg:nuget/Corvus.Json.CodeGeneration.YamlPreProcessor@5.4.3
+- pkg:nuget/Corvus.Json.CodeGeneration.YamlPreProcessor@5.5.0

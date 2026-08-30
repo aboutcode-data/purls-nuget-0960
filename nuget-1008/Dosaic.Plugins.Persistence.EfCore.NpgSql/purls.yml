@@ -21,3 +21,5 @@
 - pkg:nuget/Dosaic.Plugins.Persistence.EfCore.NpgSql@1.2.17
 - pkg:nuget/Dosaic.Plugins.Persistence.EfCore.NpgSql@1.2.18
 - pkg:nuget/Dosaic.Plugins.Persistence.EfCore.NpgSql@1.2.35
+- pkg:nuget/Dosaic.Plugins.Persistence.EfCore.NpgSql@1.2.40
+- pkg:nuget/Dosaic.Plugins.Persistence.EfCore.NpgSql@1.2.40-alpha.1

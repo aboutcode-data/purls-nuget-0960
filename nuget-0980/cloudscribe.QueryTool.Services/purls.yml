@@ -1,3 +1,4 @@
+- pkg:nuget/cloudscribe.QueryTool.Services@10.1.0
 - pkg:nuget/cloudscribe.QueryTool.Services@6.0.2
 - pkg:nuget/cloudscribe.QueryTool.Services@6.0.3
 - pkg:nuget/cloudscribe.QueryTool.Services@6.0.4

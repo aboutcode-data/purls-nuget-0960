@@ -277,3 +277,4 @@
 - pkg:nuget/Octopus.Server.Client@21.7.2717
 - pkg:nuget/Octopus.Server.Client@22.0.2835
 - pkg:nuget/Octopus.Server.Client@22.8.2881
+- pkg:nuget/Octopus.Server.Client@22.9.2886

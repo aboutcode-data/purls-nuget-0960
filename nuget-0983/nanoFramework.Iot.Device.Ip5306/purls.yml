@@ -98,4 +98,5 @@
 - pkg:nuget/nanoFramework.Iot.Device.Ip5306@1.2.864
 - pkg:nuget/nanoFramework.Iot.Device.Ip5306@1.2.869
 - pkg:nuget/nanoFramework.Iot.Device.Ip5306@1.2.889
+- pkg:nuget/nanoFramework.Iot.Device.Ip5306@2.0.0-preview.121
 - pkg:nuget/nanoFramework.Iot.Device.Ip5306@2.0.0-preview.73

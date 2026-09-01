@@ -14,3 +14,4 @@
 - pkg:nuget/XCode.Oracle@11.15.2025.701
 - pkg:nuget/XCode.Oracle@11.15.2025.801
 - pkg:nuget/XCode.Oracle@11.15.2025.901
+- pkg:nuget/XCode.Oracle@11.25.2026.901

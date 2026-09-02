@@ -62,6 +62,7 @@
 - pkg:nuget/Dtd.Abp.ZeroCore.IdentityServer4.vNext@9.21.0
 - pkg:nuget/Dtd.Abp.ZeroCore.IdentityServer4.vNext@9.22.0
 - pkg:nuget/Dtd.Abp.ZeroCore.IdentityServer4.vNext@9.25.2
+- pkg:nuget/Dtd.Abp.ZeroCore.IdentityServer4.vNext@9.26.2
 - pkg:nuget/Dtd.Abp.ZeroCore.IdentityServer4.vNext@9.3.0
 - pkg:nuget/Dtd.Abp.ZeroCore.IdentityServer4.vNext@9.3.1
 - pkg:nuget/Dtd.Abp.ZeroCore.IdentityServer4.vNext@9.4.0

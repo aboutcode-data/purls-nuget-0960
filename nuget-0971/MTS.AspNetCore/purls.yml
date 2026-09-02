@@ -25,5 +25,6 @@
 - pkg:nuget/MTS.AspNetCore@1.0.55
 - pkg:nuget/MTS.AspNetCore@1.0.59
 - pkg:nuget/MTS.AspNetCore@1.0.6
+- pkg:nuget/MTS.AspNetCore@1.0.66
 - pkg:nuget/MTS.AspNetCore@1.0.8
 - pkg:nuget/MTS.AspNetCore@1.0.9

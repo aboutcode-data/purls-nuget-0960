@@ -1,3 +1,5 @@
 - pkg:nuget/PowerForge@3.0.108
 - pkg:nuget/PowerForge@3.0.118
 - pkg:nuget/PowerForge@3.0.124
+- pkg:nuget/PowerForge@3.0.127
+- pkg:nuget/PowerForge@3.0.128

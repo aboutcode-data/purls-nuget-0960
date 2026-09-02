@@ -208,3 +208,4 @@
 - pkg:nuget/LangChain.Providers.Suno@0.17.1-dev.69
 - pkg:nuget/LangChain.Providers.Suno@0.17.1-dev.71
 - pkg:nuget/LangChain.Providers.Suno@0.17.1-dev.8
+- pkg:nuget/LangChain.Providers.Suno@0.17.2-dev.2

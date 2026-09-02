@@ -170,4 +170,5 @@
 - pkg:nuget/WolverineFx.MessagePack@6.29.0
 - pkg:nuget/WolverineFx.MessagePack@6.3.1
 - pkg:nuget/WolverineFx.MessagePack@6.30.1
+- pkg:nuget/WolverineFx.MessagePack@6.32.0
 - pkg:nuget/WolverineFx.MessagePack@6.7.0

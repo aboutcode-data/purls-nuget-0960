@@ -1,1 +1,3 @@
 - pkg:nuget/DevExpress.Maui.CollectionView@25.1.6
+- pkg:nuget/DevExpress.Maui.CollectionView@25.2.9
+- pkg:nuget/DevExpress.Maui.CollectionView@26.1.2-beta

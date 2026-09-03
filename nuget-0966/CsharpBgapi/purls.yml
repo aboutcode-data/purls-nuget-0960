@@ -1,6 +1,10 @@
 - pkg:nuget/CsharpBgapi@0.1.0-ci.10
 - pkg:nuget/CsharpBgapi@0.1.0-ci.12
 - pkg:nuget/CsharpBgapi@0.1.0-ci.14
+- pkg:nuget/CsharpBgapi@0.1.0-ci.23
+- pkg:nuget/CsharpBgapi@0.1.0-ci.27
 - pkg:nuget/CsharpBgapi@0.1.0-ci.7
 - pkg:nuget/CsharpBgapi@0.1.0-ci.8
 - pkg:nuget/CsharpBgapi@0.1.0-ci.9
+- pkg:nuget/CsharpBgapi@0.2.0-ci.34
+- pkg:nuget/CsharpBgapi@0.2.0-ci.36

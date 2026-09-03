@@ -13,3 +13,6 @@
 - pkg:nuget/MediaDevices@1.8.0
 - pkg:nuget/MediaDevices@1.9.0
 - pkg:nuget/MediaDevices@1.9.1
+- pkg:nuget/MediaDevices@2.0.0-preview.1.1000
+- pkg:nuget/MediaDevices@2.0.0-preview.2.2000
+- pkg:nuget/MediaDevices@2.0.0-preview.3.3000

@@ -3,3 +3,5 @@
 - pkg:nuget/DevExpress.Wpf.SpellChecker@25.1.6
 - pkg:nuget/DevExpress.Wpf.SpellChecker@25.1.7
 - pkg:nuget/DevExpress.Wpf.SpellChecker@26.1.3
+- pkg:nuget/DevExpress.Wpf.SpellChecker@26.1.5-pre-26227
+- pkg:nuget/DevExpress.Wpf.SpellChecker@26.1.5-pre-26241

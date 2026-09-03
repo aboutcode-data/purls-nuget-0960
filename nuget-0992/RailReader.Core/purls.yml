@@ -10,4 +10,7 @@
 - pkg:nuget/RailReader.Core@0.42.0
 - pkg:nuget/RailReader.Core@0.43.0
 - pkg:nuget/RailReader.Core@0.5.1
+- pkg:nuget/RailReader.Core@0.53.0
+- pkg:nuget/RailReader.Core@0.54.0
+- pkg:nuget/RailReader.Core@0.55.0
 - pkg:nuget/RailReader.Core@0.9.0

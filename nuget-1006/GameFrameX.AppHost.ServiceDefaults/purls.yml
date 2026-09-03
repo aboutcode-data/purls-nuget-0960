@@ -1,2 +1,9 @@
+- pkg:nuget/GameFrameX.AppHost.ServiceDefaults@1.10.1
+- pkg:nuget/GameFrameX.AppHost.ServiceDefaults@1.11.0
+- pkg:nuget/GameFrameX.AppHost.ServiceDefaults@1.13.1
+- pkg:nuget/GameFrameX.AppHost.ServiceDefaults@1.13.2
+- pkg:nuget/GameFrameX.AppHost.ServiceDefaults@1.13.6
+- pkg:nuget/GameFrameX.AppHost.ServiceDefaults@1.13.7
 - pkg:nuget/GameFrameX.AppHost.ServiceDefaults@1.6.1
+- pkg:nuget/GameFrameX.AppHost.ServiceDefaults@1.8.0
 - pkg:nuget/GameFrameX.AppHost.ServiceDefaults@2.0.0.2-dev11

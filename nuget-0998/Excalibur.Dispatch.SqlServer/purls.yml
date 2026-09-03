@@ -1,4 +1,8 @@
+- pkg:nuget/Excalibur.Dispatch.SqlServer@10.0.0-alpha.9
 - pkg:nuget/Excalibur.Dispatch.SqlServer@3.0.0-alpha.181
+- pkg:nuget/Excalibur.Dispatch.SqlServer@3.0.0-alpha.197
+- pkg:nuget/Excalibur.Dispatch.SqlServer@3.0.0-alpha.214
+- pkg:nuget/Excalibur.Dispatch.SqlServer@3.0.0-alpha.216
 - pkg:nuget/Excalibur.Dispatch.SqlServer@3.0.0-alpha.76
 - pkg:nuget/Excalibur.Dispatch.SqlServer@3.0.0-alpha.79
 - pkg:nuget/Excalibur.Dispatch.SqlServer@3.0.0-alpha.80

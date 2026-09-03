@@ -27,3 +27,4 @@
 - pkg:nuget/Qowaiv.DomainModel@1.1.1
 - pkg:nuget/Qowaiv.DomainModel@1.1.2
 - pkg:nuget/Qowaiv.DomainModel@2.0.0
+- pkg:nuget/Qowaiv.DomainModel@3.0.0

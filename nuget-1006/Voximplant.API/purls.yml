@@ -19,6 +19,7 @@
 - pkg:nuget/Voximplant.API@2.9.0
 - pkg:nuget/Voximplant.API@3.0.0
 - pkg:nuget/Voximplant.API@3.1.0
+- pkg:nuget/Voximplant.API@3.10.0
 - pkg:nuget/Voximplant.API@3.2.0
 - pkg:nuget/Voximplant.API@3.3.0
 - pkg:nuget/Voximplant.API@3.4.0

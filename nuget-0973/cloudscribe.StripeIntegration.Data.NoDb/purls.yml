@@ -1,6 +1,7 @@
 - pkg:nuget/cloudscribe.StripeIntegration.Data.NoDb@1.0.0
 - pkg:nuget/cloudscribe.StripeIntegration.Data.NoDb@1.0.1
 - pkg:nuget/cloudscribe.StripeIntegration.Data.NoDb@1.0.2
+- pkg:nuget/cloudscribe.StripeIntegration.Data.NoDb@10.1.0
 - pkg:nuget/cloudscribe.StripeIntegration.Data.NoDb@3.0.0
 - pkg:nuget/cloudscribe.StripeIntegration.Data.NoDb@3.1.0
 - pkg:nuget/cloudscribe.StripeIntegration.Data.NoDb@5.0.0

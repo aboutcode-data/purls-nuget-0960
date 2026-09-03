@@ -1,3 +1,7 @@
 - pkg:nuget/FKCommon@1.0.0
 - pkg:nuget/FKCommon@1.0.1
 - pkg:nuget/FKCommon@2.0.3
+- pkg:nuget/FKCommon@3.0.6
+- pkg:nuget/FKCommon@3.0.9
+- pkg:nuget/FKCommon@3.1.0
+- pkg:nuget/FKCommon@3.1.2

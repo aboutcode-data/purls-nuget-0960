@@ -4,3 +4,5 @@
 - pkg:nuget/DevExpress.Utils.UI@25.1.6
 - pkg:nuget/DevExpress.Utils.UI@25.1.7
 - pkg:nuget/DevExpress.Utils.UI@26.1.3
+- pkg:nuget/DevExpress.Utils.UI@26.1.5-pre-26227
+- pkg:nuget/DevExpress.Utils.UI@26.1.5-pre-26241

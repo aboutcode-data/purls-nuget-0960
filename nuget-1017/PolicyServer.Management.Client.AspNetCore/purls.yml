@@ -8,3 +8,4 @@
 - pkg:nuget/PolicyServer.Management.Client.AspNetCore@5.0.1
 - pkg:nuget/PolicyServer.Management.Client.AspNetCore@5.1.0
 - pkg:nuget/PolicyServer.Management.Client.AspNetCore@5.1.1
+- pkg:nuget/PolicyServer.Management.Client.AspNetCore@5.1.2

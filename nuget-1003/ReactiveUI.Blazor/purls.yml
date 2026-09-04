@@ -106,3 +106,4 @@
 - pkg:nuget/ReactiveUI.Blazor@21.0.1
 - pkg:nuget/ReactiveUI.Blazor@23.2.1
 - pkg:nuget/ReactiveUI.Blazor@24.0.0-beta.1
+- pkg:nuget/ReactiveUI.Blazor@24.2.0

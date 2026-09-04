@@ -16,3 +16,4 @@
 - pkg:nuget/YS.Knife.FileStorage.Api.AspnetCore@0.0.75
 - pkg:nuget/YS.Knife.FileStorage.Api.AspnetCore@0.0.77
 - pkg:nuget/YS.Knife.FileStorage.Api.AspnetCore@0.0.97
+- pkg:nuget/YS.Knife.FileStorage.Api.AspnetCore@0.0.99

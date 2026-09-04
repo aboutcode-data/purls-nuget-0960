@@ -14,6 +14,7 @@
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.RabbitMQ@0.1025.0-alpha.328
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.RabbitMQ@0.1025.0-alpha.337
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.RabbitMQ@0.1025.0-alpha.385
+- pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.RabbitMQ@0.1025.0-alpha.425
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.RabbitMQ@0.1025.0-alpha.7
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.RabbitMQ@0.15.6-alpha.27
 - pkg:nuget/SoftwareExtravaganza.Whizbang.Transports.RabbitMQ@0.22.5-alpha.38

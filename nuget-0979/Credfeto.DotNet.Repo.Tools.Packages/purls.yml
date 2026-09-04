@@ -2389,3 +2389,4 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.9.3558-last-known-good
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.9.3569-publish-framewo
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.9.3580-nowarn-quoting
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.9.3584-main

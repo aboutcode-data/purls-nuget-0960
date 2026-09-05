@@ -23,6 +23,7 @@
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Excel.Sample.VB.DataMatrix@10.2.0.42
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Excel.Sample.VB.DataMatrix@10.2.0.5
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Excel.Sample.VB.DataMatrix@10.2.0.6
+- pkg:nuget/OnBarcode.Barcode.Generator.Document.Excel.Sample.VB.DataMatrix@10.2.0.61
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Excel.Sample.VB.DataMatrix@10.2.0.7
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Excel.Sample.VB.DataMatrix@10.2.0.8
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Excel.Sample.VB.DataMatrix@10.2.0.9

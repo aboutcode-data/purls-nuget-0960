@@ -12,3 +12,5 @@
 - pkg:nuget/Niobium.Platform.Notification.Firebase@3.2.19
 - pkg:nuget/Niobium.Platform.Notification.Firebase@3.2.21
 - pkg:nuget/Niobium.Platform.Notification.Firebase@3.2.9
+- pkg:nuget/Niobium.Platform.Notification.Firebase@4.0.53
+- pkg:nuget/Niobium.Platform.Notification.Firebase@4.2.66

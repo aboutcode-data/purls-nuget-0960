@@ -34,5 +34,6 @@
 - pkg:nuget/dotnet-updatr@4.0.1
 - pkg:nuget/dotnet-updatr@6.0.0-beta.0
 - pkg:nuget/dotnet-updatr@6.0.0-beta.12
+- pkg:nuget/dotnet-updatr@6.0.0-beta.14
 - pkg:nuget/dotnet-updatr@6.0.0-beta.5
 - pkg:nuget/dotnet-updatr@6.0.0-beta.6

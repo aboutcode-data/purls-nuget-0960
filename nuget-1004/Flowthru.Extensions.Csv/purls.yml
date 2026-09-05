@@ -6,4 +6,11 @@
 - pkg:nuget/Flowthru.Extensions.Csv@0.12.1-preview.66
 - pkg:nuget/Flowthru.Extensions.Csv@0.17.3
 - pkg:nuget/Flowthru.Extensions.Csv@0.17.3-preview.84
+- pkg:nuget/Flowthru.Extensions.Csv@0.18.4-preview.97
+- pkg:nuget/Flowthru.Extensions.Csv@0.21.0
+- pkg:nuget/Flowthru.Extensions.Csv@0.21.0-preview.101
+- pkg:nuget/Flowthru.Extensions.Csv@0.26.0
+- pkg:nuget/Flowthru.Extensions.Csv@0.28.0
+- pkg:nuget/Flowthru.Extensions.Csv@0.28.1-preview.122
+- pkg:nuget/Flowthru.Extensions.Csv@0.30.0
 - pkg:nuget/Flowthru.Extensions.Csv@0.6.0

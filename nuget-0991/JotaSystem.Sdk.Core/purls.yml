@@ -6,3 +6,5 @@
 - pkg:nuget/JotaSystem.Sdk.Core@1.0.84
 - pkg:nuget/JotaSystem.Sdk.Core@1.0.85
 - pkg:nuget/JotaSystem.Sdk.Core@1.0.86
+- pkg:nuget/JotaSystem.Sdk.Core@1.0.90
+- pkg:nuget/JotaSystem.Sdk.Core@1.0.91

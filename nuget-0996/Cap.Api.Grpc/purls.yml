@@ -148,3 +148,4 @@
 - pkg:nuget/Cap.Api.Grpc@2.7.8.4
 - pkg:nuget/Cap.Api.Grpc@2.7.8.5
 - pkg:nuget/Cap.Api.Grpc@2.7.8.8
+- pkg:nuget/Cap.Api.Grpc@2.7.9.3

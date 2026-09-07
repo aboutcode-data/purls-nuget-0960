@@ -178,6 +178,7 @@
 - pkg:nuget/nanoFramework.WebServer@1.2.14
 - pkg:nuget/nanoFramework.WebServer@1.2.140
 - pkg:nuget/nanoFramework.WebServer@1.2.151
+- pkg:nuget/nanoFramework.WebServer@1.2.157
 - pkg:nuget/nanoFramework.WebServer@1.2.17
 - pkg:nuget/nanoFramework.WebServer@1.2.19
 - pkg:nuget/nanoFramework.WebServer@1.2.21

@@ -31,8 +31,11 @@
 - pkg:nuget/SqlSugarCorePaging@2.1.30
 - pkg:nuget/SqlSugarCorePaging@2.1.36
 - pkg:nuget/SqlSugarCorePaging@2.1.37
+- pkg:nuget/SqlSugarCorePaging@2.1.38
+- pkg:nuget/SqlSugarCorePaging@2.1.39
 - pkg:nuget/SqlSugarCorePaging@2.1.5
 - pkg:nuget/SqlSugarCorePaging@2.1.6
 - pkg:nuget/SqlSugarCorePaging@2.1.7
 - pkg:nuget/SqlSugarCorePaging@2.1.8
 - pkg:nuget/SqlSugarCorePaging@2.1.9
+- pkg:nuget/SqlSugarCorePaging@3.0.0

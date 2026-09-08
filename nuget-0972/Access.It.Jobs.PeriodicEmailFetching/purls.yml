@@ -2,6 +2,7 @@
 - pkg:nuget/Access.It.Jobs.PeriodicEmailFetching@10.0.1
 - pkg:nuget/Access.It.Jobs.PeriodicEmailFetching@10.0.3
 - pkg:nuget/Access.It.Jobs.PeriodicEmailFetching@10.1.0
+- pkg:nuget/Access.It.Jobs.PeriodicEmailFetching@10.6.2
 - pkg:nuget/Access.It.Jobs.PeriodicEmailFetching@8.18.0
 - pkg:nuget/Access.It.Jobs.PeriodicEmailFetching@8.18.1
 - pkg:nuget/Access.It.Jobs.PeriodicEmailFetching@9.2.0

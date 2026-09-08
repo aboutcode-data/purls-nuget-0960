@@ -3373,3 +3373,4 @@
 - pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@6.8.0-dev.104
 - pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@6.8.0-dev.141
 - pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@6.8.0-dev.3
+- pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@7.0.0-dev.680

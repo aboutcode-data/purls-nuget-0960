@@ -9,6 +9,7 @@
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Sdk.win-x64.Msi.x64@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Sdk.win-x64.Msi.x64@10.0.1
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Sdk.win-x64.Msi.x64@10.0.11
+- pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Sdk.win-x64.Msi.x64@10.0.12
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Sdk.win-x64.Msi.x64@10.0.3
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Sdk.win-x64.Msi.x64@10.0.7
 - pkg:nuget/Microsoft.NET.Runtime.Emscripten.3.1.56.Sdk.win-x64.Msi.x64@10.0.8

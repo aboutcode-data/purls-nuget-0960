@@ -2295,6 +2295,8 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.10.3627-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.10.3643-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.10.3644-cancellationtok
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.10.3648-cancellationtok
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.10.3649-cancellationtok
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.2.3041-template-update
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.2.3042-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.2.3043-main

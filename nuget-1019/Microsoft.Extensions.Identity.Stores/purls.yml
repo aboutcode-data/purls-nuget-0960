@@ -10,6 +10,7 @@
 - pkg:nuget/Microsoft.Extensions.Identity.Stores@10.0.1
 - pkg:nuget/Microsoft.Extensions.Identity.Stores@10.0.7
 - pkg:nuget/Microsoft.Extensions.Identity.Stores@11.0.0-preview.4.26230.115
+- pkg:nuget/Microsoft.Extensions.Identity.Stores@11.0.0-rc.1.26425.128
 - pkg:nuget/Microsoft.Extensions.Identity.Stores@2.0.0
 - pkg:nuget/Microsoft.Extensions.Identity.Stores@2.0.0-preview2-final
 - pkg:nuget/Microsoft.Extensions.Identity.Stores@2.0.1

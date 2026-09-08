@@ -88,6 +88,7 @@
 - pkg:nuget/Avalonia.Headless.Vnc@11.3.1
 - pkg:nuget/Avalonia.Headless.Vnc@11.3.13
 - pkg:nuget/Avalonia.Headless.Vnc@11.3.2
+- pkg:nuget/Avalonia.Headless.Vnc@11.3.21
 - pkg:nuget/Avalonia.Headless.Vnc@11.3.3
 - pkg:nuget/Avalonia.Headless.Vnc@11.3.4
 - pkg:nuget/Avalonia.Headless.Vnc@11.3.5

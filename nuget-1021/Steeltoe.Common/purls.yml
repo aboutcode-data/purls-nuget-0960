@@ -48,3 +48,4 @@
 - pkg:nuget/Steeltoe.Common@4.0.0
 - pkg:nuget/Steeltoe.Common@4.0.0-beta1
 - pkg:nuget/Steeltoe.Common@4.0.0-rc1
+- pkg:nuget/Steeltoe.Common@4.3.0

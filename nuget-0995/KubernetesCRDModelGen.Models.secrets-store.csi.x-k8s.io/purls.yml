@@ -511,3 +511,5 @@
 - pkg:nuget/KubernetesCRDModelGen.Models.secrets-store.csi.x-k8s.io@1.2.1
 - pkg:nuget/KubernetesCRDModelGen.Models.secrets-store.csi.x-k8s.io@1.2.2
 - pkg:nuget/KubernetesCRDModelGen.Models.secrets-store.csi.x-k8s.io@1.2.5
+- pkg:nuget/KubernetesCRDModelGen.Models.secrets-store.csi.x-k8s.io@1.7.0
+- pkg:nuget/KubernetesCRDModelGen.Models.secrets-store.csi.x-k8s.io@1.8.0

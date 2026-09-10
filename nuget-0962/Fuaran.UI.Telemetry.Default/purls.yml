@@ -1,3 +1,5 @@
 - pkg:nuget/Fuaran.UI.Telemetry.Default@0.12.0
 - pkg:nuget/Fuaran.UI.Telemetry.Default@0.71.0
 - pkg:nuget/Fuaran.UI.Telemetry.Default@0.75.0
+- pkg:nuget/Fuaran.UI.Telemetry.Default@0.78.1
+- pkg:nuget/Fuaran.UI.Telemetry.Default@0.80.0

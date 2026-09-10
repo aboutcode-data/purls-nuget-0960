@@ -185,6 +185,7 @@
 - pkg:nuget/JetBrains.Debugger.Debugger.Host@261.0.20260701.132435
 - pkg:nuget/JetBrains.Debugger.Debugger.Host@261.0.20260804.122418
 - pkg:nuget/JetBrains.Debugger.Debugger.Host@261.0.20260827.135309
+- pkg:nuget/JetBrains.Debugger.Debugger.Host@261.0.20260909.213348
 - pkg:nuget/JetBrains.Debugger.Debugger.Host@262.0.20260611.170508-eap06
 - pkg:nuget/JetBrains.Debugger.Debugger.Host@262.0.20260702.125428-eap09
 - pkg:nuget/JetBrains.Debugger.Debugger.Host@262.0.20260722.31926

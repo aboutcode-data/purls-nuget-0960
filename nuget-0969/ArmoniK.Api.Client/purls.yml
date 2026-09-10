@@ -2372,6 +2372,8 @@
 - pkg:nuget/ArmoniK.Api.Client@3.29.2-renovatenuget.1.da61a61b
 - pkg:nuget/ArmoniK.Api.Client@3.29.2-renovatenuget.1.e8406a72
 - pkg:nuget/ArmoniK.Api.Client@3.29.3-edge.39.a2a3996d
+- pkg:nuget/ArmoniK.Api.Client@3.29.3-jfbumpversion3293.53.30acdfd5
+- pkg:nuget/ArmoniK.Api.Client@3.29.3-jfbumpversion3293.54.60b59f7f
 - pkg:nuget/ArmoniK.Api.Client@3.29.3-renovateallminorpatch.1.7ae720ba
 - pkg:nuget/ArmoniK.Api.Client@3.29.3-renovateallminorpatch.27.2ff1fbad
 - pkg:nuget/ArmoniK.Api.Client@3.29.3-renovateallminorpatch.35.0419f654

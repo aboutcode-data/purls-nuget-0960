@@ -223,3 +223,4 @@
 - pkg:nuget/Google.Apis.BigQueryDataTransfer.v1@1.72.0.3945
 - pkg:nuget/Google.Apis.BigQueryDataTransfer.v1@1.73.0.4096
 - pkg:nuget/Google.Apis.BigQueryDataTransfer.v1@1.73.0.4113
+- pkg:nuget/Google.Apis.BigQueryDataTransfer.v1@1.76.0.4265

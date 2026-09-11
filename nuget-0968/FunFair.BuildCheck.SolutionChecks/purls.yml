@@ -1218,6 +1218,9 @@
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.15.2670-dacfx-includeas
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.15.2671-dacfx-includeas
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.15.2672-dacfx-includeas
+- pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.15.2682-pull-458-merge
+- pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.15.2683-analyzer-packag
+- pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.15.2684-analyzer-packag
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.2.1872-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.2.1873-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.2.1874-main

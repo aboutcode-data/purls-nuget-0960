@@ -33,6 +33,9 @@
 - pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.10.2518-dotnet-sdk-10-0
 - pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.11.2557-main
 - pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.14.2599-microsoft-net-t
+- pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.15.2670-dacfx-includeas
+- pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.15.2671-dacfx-includeas
+- pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.15.2672-dacfx-includeas
 - pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.2.1872-main
 - pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.2.1873-main
 - pkg:nuget/FunFair.BuildCheck.linux-arm64@474.2.2.1874-main

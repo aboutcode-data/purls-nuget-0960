@@ -249,3 +249,4 @@
 - pkg:nuget/Metalama.LinqPad@2026.1.6-preview
 - pkg:nuget/Metalama.LinqPad@2026.1.7-preview
 - pkg:nuget/Metalama.LinqPad@2026.1.8-preview
+- pkg:nuget/Metalama.LinqPad@2027.0.2-preview

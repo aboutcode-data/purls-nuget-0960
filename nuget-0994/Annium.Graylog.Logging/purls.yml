@@ -28,3 +28,4 @@
 - pkg:nuget/Annium.Graylog.Logging@1.1.8
 - pkg:nuget/Annium.Graylog.Logging@1.1.9
 - pkg:nuget/Annium.Graylog.Logging@1.2.1
+- pkg:nuget/Annium.Graylog.Logging@1.3.7

@@ -8,3 +8,6 @@
 - pkg:nuget/Bielu.PersistentQueues.Storage.LMDB@0.6.0-beta.639107310821169061
 - pkg:nuget/Bielu.PersistentQueues.Storage.LMDB@0.6.0-beta.639107369554283843
 - pkg:nuget/Bielu.PersistentQueues.Storage.LMDB@0.6.0-beta.639117942337787353
+- pkg:nuget/Bielu.PersistentQueues.Storage.LMDB@0.6.0-beta.639248107456769316
+- pkg:nuget/Bielu.PersistentQueues.Storage.LMDB@0.6.0-beta.639248107582721518
+- pkg:nuget/Bielu.PersistentQueues.Storage.LMDB@0.6.0-beta.639248119804748562

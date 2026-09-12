@@ -141,3 +141,4 @@
 - pkg:nuget/FunFair.Test.Source.Generator@6.4.6.2740-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.4.6.2741-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.4.6.2742-main
+- pkg:nuget/FunFair.Test.Source.Generator@6.4.7.2752-rider-code-anal

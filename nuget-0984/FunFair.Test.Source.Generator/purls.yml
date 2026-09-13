@@ -142,3 +142,5 @@
 - pkg:nuget/FunFair.Test.Source.Generator@6.4.6.2741-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.4.6.2742-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.4.7.2752-rider-code-anal
+- pkg:nuget/FunFair.Test.Source.Generator@6.4.7.2772-xunitloggerbase
+- pkg:nuget/FunFair.Test.Source.Generator@6.4.7.2781-xunitloggerbase

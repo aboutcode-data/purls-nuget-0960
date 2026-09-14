@@ -9,6 +9,8 @@
 - pkg:nuget/Soenneker.DropboxSign.OpenApiClientUtil@4.0.123
 - pkg:nuget/Soenneker.DropboxSign.OpenApiClientUtil@4.0.137
 - pkg:nuget/Soenneker.DropboxSign.OpenApiClientUtil@4.0.14
+- pkg:nuget/Soenneker.DropboxSign.OpenApiClientUtil@4.0.151
+- pkg:nuget/Soenneker.DropboxSign.OpenApiClientUtil@4.0.157
 - pkg:nuget/Soenneker.DropboxSign.OpenApiClientUtil@4.0.2
 - pkg:nuget/Soenneker.DropboxSign.OpenApiClientUtil@4.0.29
 - pkg:nuget/Soenneker.DropboxSign.OpenApiClientUtil@4.0.3

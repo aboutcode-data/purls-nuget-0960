@@ -10,3 +10,4 @@
 - pkg:nuget/H.Necessaire.Runtime.Integration.BlazorWasm@3.5.0
 - pkg:nuget/H.Necessaire.Runtime.Integration.BlazorWasm@3.7.0
 - pkg:nuget/H.Necessaire.Runtime.Integration.BlazorWasm@3.7.4
+- pkg:nuget/H.Necessaire.Runtime.Integration.BlazorWasm@3.7.7

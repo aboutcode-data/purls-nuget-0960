@@ -89,6 +89,7 @@
 - pkg:nuget/Acuit.Pinpoint.ErrorHandling.Abstractions@7.14.0
 - pkg:nuget/Acuit.Pinpoint.ErrorHandling.Abstractions@7.15.0
 - pkg:nuget/Acuit.Pinpoint.ErrorHandling.Abstractions@7.16.0
+- pkg:nuget/Acuit.Pinpoint.ErrorHandling.Abstractions@7.16.1
 - pkg:nuget/Acuit.Pinpoint.ErrorHandling.Abstractions@7.2.108-alpha
 - pkg:nuget/Acuit.Pinpoint.ErrorHandling.Abstractions@7.2.2-alpha
 - pkg:nuget/Acuit.Pinpoint.ErrorHandling.Abstractions@7.2.26-alpha

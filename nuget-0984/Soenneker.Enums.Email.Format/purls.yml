@@ -47,6 +47,7 @@
 - pkg:nuget/Soenneker.Enums.Email.Format@3.0.7
 - pkg:nuget/Soenneker.Enums.Email.Format@3.0.8
 - pkg:nuget/Soenneker.Enums.Email.Format@3.0.9
+- pkg:nuget/Soenneker.Enums.Email.Format@4.0.110
 - pkg:nuget/Soenneker.Enums.Email.Format@4.0.51
 - pkg:nuget/Soenneker.Enums.Email.Format@4.0.64
 - pkg:nuget/Soenneker.Enums.Email.Format@4.0.73

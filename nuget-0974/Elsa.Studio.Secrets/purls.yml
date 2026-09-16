@@ -39,3 +39,4 @@
 - pkg:nuget/Elsa.Studio.Secrets@3.5.0-rc3
 - pkg:nuget/Elsa.Studio.Secrets@3.5.0-rc4
 - pkg:nuget/Elsa.Studio.Secrets@3.5.1
+- pkg:nuget/Elsa.Studio.Secrets@3.8.2

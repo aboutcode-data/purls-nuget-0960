@@ -107,6 +107,7 @@
 - pkg:nuget/Altinn.App.Core@8.1.1
 - pkg:nuget/Altinn.App.Core@8.10.0-preview.2
 - pkg:nuget/Altinn.App.Core@8.10.1
+- pkg:nuget/Altinn.App.Core@8.12.10
 - pkg:nuget/Altinn.App.Core@8.12.2
 - pkg:nuget/Altinn.App.Core@8.12.6
 - pkg:nuget/Altinn.App.Core@8.2.0-preview.1

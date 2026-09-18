@@ -2297,6 +2297,11 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.13.3693-pull-305-merge
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.13.3694-cancellationtok
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.13.3695-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.13.3711
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.14.3712-framework-setti
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.14.3713-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.14.3714-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.15.3721-framework-setti
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.2.3041-template-update
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.2.3042-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Packages@1.5.2.3043-main

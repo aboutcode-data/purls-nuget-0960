@@ -2308,6 +2308,7 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.15.3725-framework-setti
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.15.3726-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.15.3730-framework-setti
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.15.3733-framework-setti
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.2.3041-template-update
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.2.3042-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.2.3043-main

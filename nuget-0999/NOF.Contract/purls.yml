@@ -12,6 +12,7 @@
 - pkg:nuget/NOF.Contract@11.0.0-nightly.1376901.73dcff26
 - pkg:nuget/NOF.Contract@11.0.0-nightly.1385860.ed434de0
 - pkg:nuget/NOF.Contract@11.0.0-nightly.1429244.fcdf0034
+- pkg:nuget/NOF.Contract@11.0.0-nightly.1430269.0e366222
 - pkg:nuget/NOF.Contract@3.2.3
 - pkg:nuget/NOF.Contract@3.4.0
 - pkg:nuget/NOF.Contract@6.3.0

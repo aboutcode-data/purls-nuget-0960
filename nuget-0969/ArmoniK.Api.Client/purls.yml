@@ -2400,6 +2400,7 @@
 - pkg:nuget/ArmoniK.Api.Client@3.29.3-renovatewebnpm.35.c11b0548
 - pkg:nuget/ArmoniK.Api.Client@3.29.3-wkfixrustoverridetargetservername.42.b7362a5a
 - pkg:nuget/ArmoniK.Api.Client@3.29.3-wktestrustreplyconstant.35.07d4810a
+- pkg:nuget/ArmoniK.Api.Client@3.29.4-renovatemajorwebnpm.1.c66a2463
 - pkg:nuget/ArmoniK.Api.Client@3.3.0
 - pkg:nuget/ArmoniK.Api.Client@3.3.0-32166g075acae.66.075acae
 - pkg:nuget/ArmoniK.Api.Client@3.3.0-32168g32114de.68.32114de

@@ -7,3 +7,4 @@
 - pkg:nuget/NPipeline.Connectors.Parquet@0.40.1
 - pkg:nuget/NPipeline.Connectors.Parquet@0.40.3
 - pkg:nuget/NPipeline.Connectors.Parquet@0.48.3
+- pkg:nuget/NPipeline.Connectors.Parquet@0.55.0

@@ -7,4 +7,5 @@
 - pkg:nuget/TCIS.EventBus.PostgreSql@1.0.0-rc.44
 - pkg:nuget/TCIS.EventBus.PostgreSql@1.0.0-rc.45
 - pkg:nuget/TCIS.EventBus.PostgreSql@1.0.0-rc.49
+- pkg:nuget/TCIS.EventBus.PostgreSql@1.0.0-rc.50
 - pkg:nuget/TCIS.EventBus.PostgreSql@1.0.0-rc.8

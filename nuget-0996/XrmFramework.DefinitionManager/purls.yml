@@ -193,6 +193,10 @@
 - pkg:nuget/XrmFramework.DefinitionManager@3.1.110-beta
 - pkg:nuget/XrmFramework.DefinitionManager@3.1.112-beta
 - pkg:nuget/XrmFramework.DefinitionManager@3.1.113-beta
+- pkg:nuget/XrmFramework.DefinitionManager@3.1.116
+- pkg:nuget/XrmFramework.DefinitionManager@3.1.116-g2f667768b8
 - pkg:nuget/XrmFramework.DefinitionManager@3.1.125
 - pkg:nuget/XrmFramework.DefinitionManager@3.1.125-g0e6a51fc5d
+- pkg:nuget/XrmFramework.DefinitionManager@3.1.128
+- pkg:nuget/XrmFramework.DefinitionManager@3.1.128-gdc66b40973
 - pkg:nuget/XrmFramework.DefinitionManager@3.1.87-beta

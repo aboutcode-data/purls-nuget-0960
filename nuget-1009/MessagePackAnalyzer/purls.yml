@@ -59,6 +59,7 @@
 - pkg:nuget/MessagePackAnalyzer@2.5.192
 - pkg:nuget/MessagePackAnalyzer@2.5.198
 - pkg:nuget/MessagePackAnalyzer@2.5.205
+- pkg:nuget/MessagePackAnalyzer@2.5.303
 - pkg:nuget/MessagePackAnalyzer@2.5.64-alpha
 - pkg:nuget/MessagePackAnalyzer@2.5.94
 - pkg:nuget/MessagePackAnalyzer@2.6.100-alpha

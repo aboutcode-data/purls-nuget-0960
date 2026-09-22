@@ -1,1 +1,5 @@
+- pkg:nuget/Excalibur.Hosting.Compliance@10.0.0-alpha.9
 - pkg:nuget/Excalibur.Hosting.Compliance@3.0.0-alpha.181
+- pkg:nuget/Excalibur.Hosting.Compliance@3.0.0-alpha.197
+- pkg:nuget/Excalibur.Hosting.Compliance@3.0.0-alpha.214
+- pkg:nuget/Excalibur.Hosting.Compliance@3.0.0-alpha.216

@@ -4,4 +4,5 @@
 - pkg:nuget/EncySoftware.CAMIPC.EventHandler.Net@1.1.2%2B515e0ba9881b91ecd4392e7a57233c257a06a300
 - pkg:nuget/EncySoftware.CAMIPC.EventHandler.Net@1.2.0
 - pkg:nuget/EncySoftware.CAMIPC.EventHandler.Net@2.0.0
+- pkg:nuget/EncySoftware.CAMIPC.EventHandler.Net@3.0.0%2Bb2339476e3a88fef1a20946ee0c0db9a3c03d500
 - pkg:nuget/EncySoftware.CAMIPC.EventHandler.Net@3.0.1-rc%2B8034d30b889df8431621046e346fb88de488d0fc

@@ -1,1 +1,3 @@
 - pkg:nuget/DNV.Vista.SDK.Experimental@0.2.0
+- pkg:nuget/DNV.Vista.SDK.Experimental@0.3.2-preview-1
+- pkg:nuget/DNV.Vista.SDK.Experimental@0.3.2-preview-2

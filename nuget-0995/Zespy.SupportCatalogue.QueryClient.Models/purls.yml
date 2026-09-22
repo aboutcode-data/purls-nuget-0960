@@ -1,1 +1,6 @@
 - pkg:nuget/Zespy.SupportCatalogue.QueryClient.Models@1.31.0-dev.2
+- pkg:nuget/Zespy.SupportCatalogue.QueryClient.Models@1.39.1
+- pkg:nuget/Zespy.SupportCatalogue.QueryClient.Models@1.39.2
+- pkg:nuget/Zespy.SupportCatalogue.QueryClient.Models@1.40.4
+- pkg:nuget/Zespy.SupportCatalogue.QueryClient.Models@1.43.0-dev.3
+- pkg:nuget/Zespy.SupportCatalogue.QueryClient.Models@1.43.0-dev.4

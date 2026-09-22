@@ -1,3 +1,8 @@
 - pkg:nuget/DCoding.Data.DVault.MySql@0.13.0
 - pkg:nuget/DCoding.Data.DVault.MySql@0.15.0
+- pkg:nuget/DCoding.Data.DVault.MySql@0.24.0
 - pkg:nuget/DCoding.Data.DVault.MySql@0.8.0
+- pkg:nuget/DCoding.Data.DVault.MySql@10.33.0
+- pkg:nuget/DCoding.Data.DVault.MySql@10.38.0
+- pkg:nuget/DCoding.Data.DVault.MySql@8.33.0
+- pkg:nuget/DCoding.Data.DVault.MySql@8.38.0

@@ -1,1 +1,3 @@
 - pkg:nuget/EncySoftware.CAMIPC.Tools.tlb@2.0.1%2B71139413e2b534eb844bccb84805b7effb9863a2
+- pkg:nuget/EncySoftware.CAMIPC.Tools.tlb@3.0.0%2Bb2339476e3a88fef1a20946ee0c0db9a3c03d500
+- pkg:nuget/EncySoftware.CAMIPC.Tools.tlb@3.0.1-rc.2%2B93175c778c928f5e311f5ce13dc38491e2b086ec

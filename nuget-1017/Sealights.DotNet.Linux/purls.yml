@@ -10,6 +10,7 @@
 - pkg:nuget/Sealights.DotNet.Linux@3.13.0
 - pkg:nuget/Sealights.DotNet.Linux@3.13.2
 - pkg:nuget/Sealights.DotNet.Linux@3.14.1
+- pkg:nuget/Sealights.DotNet.Linux@3.17.1
 - pkg:nuget/Sealights.DotNet.Linux@3.8.10
 - pkg:nuget/Sealights.DotNet.Linux@3.8.15
 - pkg:nuget/Sealights.DotNet.Linux@3.9.0

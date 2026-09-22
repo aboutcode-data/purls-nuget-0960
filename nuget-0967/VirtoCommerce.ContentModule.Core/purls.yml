@@ -11,6 +11,8 @@
 - pkg:nuget/VirtoCommerce.ContentModule.Core@3.10.0-alpha.701
 - pkg:nuget/VirtoCommerce.ContentModule.Core@3.10.0-alpha.703
 - pkg:nuget/VirtoCommerce.ContentModule.Core@3.10.0-alpha.704
+- pkg:nuget/VirtoCommerce.ContentModule.Core@3.1000.2
+- pkg:nuget/VirtoCommerce.ContentModule.Core@3.1003.1
 - pkg:nuget/VirtoCommerce.ContentModule.Core@3.11.0
 - pkg:nuget/VirtoCommerce.ContentModule.Core@3.11.0-alpha.705
 - pkg:nuget/VirtoCommerce.ContentModule.Core@3.11.0-alpha.711

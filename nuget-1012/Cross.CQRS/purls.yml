@@ -51,6 +51,8 @@
 - pkg:nuget/Cross.CQRS@11.0.0-preview.41
 - pkg:nuget/Cross.CQRS@11.0.0-preview.42
 - pkg:nuget/Cross.CQRS@11.0.0-preview.43
+- pkg:nuget/Cross.CQRS@12.0.0
+- pkg:nuget/Cross.CQRS@12.0.0-preview.5
 - pkg:nuget/Cross.CQRS@4.4.4-preview.1
 - pkg:nuget/Cross.CQRS@7.0.0
 - pkg:nuget/Cross.CQRS@8.0.0

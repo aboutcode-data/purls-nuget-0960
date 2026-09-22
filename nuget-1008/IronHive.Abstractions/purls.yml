@@ -1,3 +1,10 @@
 - pkg:nuget/IronHive.Abstractions@0.1.0
+- pkg:nuget/IronHive.Abstractions@0.12.0
+- pkg:nuget/IronHive.Abstractions@0.19.1
 - pkg:nuget/IronHive.Abstractions@0.2.2
+- pkg:nuget/IronHive.Abstractions@0.20.0
+- pkg:nuget/IronHive.Abstractions@0.22.1
+- pkg:nuget/IronHive.Abstractions@0.22.2
+- pkg:nuget/IronHive.Abstractions@0.28.2
 - pkg:nuget/IronHive.Abstractions@0.5.0
+- pkg:nuget/IronHive.Abstractions@0.7.1

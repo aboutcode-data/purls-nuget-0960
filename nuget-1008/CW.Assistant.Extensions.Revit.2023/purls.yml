@@ -30,6 +30,7 @@
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-PullRequest699.41.65854
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-PullRequest699.41.65863
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-PullRequest699.41.65865
+- pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-PullRequest699.77.65967
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-PullRequest701.42.65856
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-PullRequest701.50.65882
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-PullRequest737.78.65930
@@ -37,6 +38,8 @@
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-PullRequest752.64.65917
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-PullRequest754.63.65919
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-PullRequest775.84.65955
+- pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-PullRequest779.78.65974
+- pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-PullRequest783.77.65973
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-alpha.2.65438
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-alpha.3.65441
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-alpha.4.65440
@@ -44,6 +47,9 @@
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-alpha.46.65883
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-alpha.67.65932
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-alpha.68.65933
+- pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-alpha.72.65964
+- pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-alpha.73.65965
+- pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-alpha.74.65966
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-fix-create-every-chat-session-over-the-pipe.1.65931
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.2.0-PullRequest55.5048
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.2.0-alpha.1063240

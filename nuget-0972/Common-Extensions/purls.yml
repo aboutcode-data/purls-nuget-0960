@@ -2,3 +2,6 @@
 - pkg:nuget/Common-Extensions@0.5.0
 - pkg:nuget/Common-Extensions@0.7.0
 - pkg:nuget/Common-Extensions@0.8.0
+- pkg:nuget/Common-Extensions@2.0.1
+- pkg:nuget/Common-Extensions@2.0.2
+- pkg:nuget/Common-Extensions@2.1.0

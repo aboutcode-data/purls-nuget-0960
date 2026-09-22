@@ -1,4 +1,8 @@
 - pkg:nuget/KeepDynamic.Ocr.Armenian@6.0.0-alpha1
+- pkg:nuget/KeepDynamic.Ocr.Armenian@6.0.0.15
+- pkg:nuget/KeepDynamic.Ocr.Armenian@6.0.0.19
+- pkg:nuget/KeepDynamic.Ocr.Armenian@6.0.0.25
+- pkg:nuget/KeepDynamic.Ocr.Armenian@6.0.0.27
 - pkg:nuget/KeepDynamic.Ocr.Armenian@6.0.0.3
 - pkg:nuget/KeepDynamic.Ocr.Armenian@6.0.0.8
 - pkg:nuget/KeepDynamic.Ocr.Armenian@6.0.0.9

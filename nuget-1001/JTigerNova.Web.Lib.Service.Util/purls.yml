@@ -251,3 +251,4 @@
 - pkg:nuget/JTigerNova.Web.Lib.Service.Util@6.28.6
 - pkg:nuget/JTigerNova.Web.Lib.Service.Util@6.28.7
 - pkg:nuget/JTigerNova.Web.Lib.Service.Util@6.5.1
+- pkg:nuget/JTigerNova.Web.Lib.Service.Util@9.1.3

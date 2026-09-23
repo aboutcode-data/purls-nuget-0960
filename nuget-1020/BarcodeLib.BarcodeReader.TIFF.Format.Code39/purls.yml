@@ -27,5 +27,6 @@
 - pkg:nuget/BarcodeLib.BarcodeReader.TIFF.Format.Code39@7.0.0.58
 - pkg:nuget/BarcodeLib.BarcodeReader.TIFF.Format.Code39@7.0.0.6
 - pkg:nuget/BarcodeLib.BarcodeReader.TIFF.Format.Code39@7.0.0.7
+- pkg:nuget/BarcodeLib.BarcodeReader.TIFF.Format.Code39@7.0.0.72
 - pkg:nuget/BarcodeLib.BarcodeReader.TIFF.Format.Code39@7.0.0.8
 - pkg:nuget/BarcodeLib.BarcodeReader.TIFF.Format.Code39@7.0.0.9

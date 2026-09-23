@@ -57,6 +57,7 @@
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-claude-stack-comment-clarity.1.65998
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-fix-create-every-chat-session-over-the-pipe.1.65931
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.11.0-PullRequest803.2.66007
+- pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.11.0-PullRequest809.3.66024
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.2.0-PullRequest55.5048
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.2.0-alpha.1063240
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.4.0-PullRequest14.3

@@ -8,6 +8,7 @@
 - pkg:nuget/Nabs.Launchpad.Core.Persistence@10.0.217
 - pkg:nuget/Nabs.Launchpad.Core.Persistence@10.0.240
 - pkg:nuget/Nabs.Launchpad.Core.Persistence@10.0.249
+- pkg:nuget/Nabs.Launchpad.Core.Persistence@10.1.0
 - pkg:nuget/Nabs.Launchpad.Core.Persistence@9.0.130
 - pkg:nuget/Nabs.Launchpad.Core.Persistence@9.0.131
 - pkg:nuget/Nabs.Launchpad.Core.Persistence@9.0.132

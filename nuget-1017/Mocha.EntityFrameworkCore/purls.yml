@@ -47,4 +47,5 @@
 - pkg:nuget/Mocha.EntityFrameworkCore@16.6.2
 - pkg:nuget/Mocha.EntityFrameworkCore@16.6.2-p.8
 - pkg:nuget/Mocha.EntityFrameworkCore@16.6.3
+- pkg:nuget/Mocha.EntityFrameworkCore@16.7.0-p.12
 - pkg:nuget/Mocha.EntityFrameworkCore@16.7.0-p.8

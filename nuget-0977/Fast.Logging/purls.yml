@@ -124,6 +124,7 @@
 - pkg:nuget/Fast.Logging@3.5.25
 - pkg:nuget/Fast.Logging@3.5.27
 - pkg:nuget/Fast.Logging@3.5.3
+- pkg:nuget/Fast.Logging@3.5.33
 - pkg:nuget/Fast.Logging@3.5.4
 - pkg:nuget/Fast.Logging@3.5.5
 - pkg:nuget/Fast.Logging@3.5.6

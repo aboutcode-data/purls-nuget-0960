@@ -71,6 +71,7 @@
 - pkg:nuget/HuaweiCloud.SDK.Csms@3.1.207
 - pkg:nuget/HuaweiCloud.SDK.Csms@3.1.208
 - pkg:nuget/HuaweiCloud.SDK.Csms@3.1.210
+- pkg:nuget/HuaweiCloud.SDK.Csms@3.1.212
 - pkg:nuget/HuaweiCloud.SDK.Csms@3.1.67
 - pkg:nuget/HuaweiCloud.SDK.Csms@3.1.68
 - pkg:nuget/HuaweiCloud.SDK.Csms@3.1.69

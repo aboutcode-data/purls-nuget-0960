@@ -8,3 +8,4 @@
 - pkg:nuget/OpenSearch.Net.VirtualizedCluster@1.7.0
 - pkg:nuget/OpenSearch.Net.VirtualizedCluster@1.7.1
 - pkg:nuget/OpenSearch.Net.VirtualizedCluster@1.8.0
+- pkg:nuget/OpenSearch.Net.VirtualizedCluster@2.2.0

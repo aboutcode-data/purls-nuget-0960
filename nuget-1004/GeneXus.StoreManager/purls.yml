@@ -39,6 +39,7 @@
 - pkg:nuget/GeneXus.StoreManager@1.19.25
 - pkg:nuget/GeneXus.StoreManager@1.19.26
 - pkg:nuget/GeneXus.StoreManager@1.19.27
+- pkg:nuget/GeneXus.StoreManager@1.19.29
 - pkg:nuget/GeneXus.StoreManager@1.19.3
 - pkg:nuget/GeneXus.StoreManager@1.19.4
 - pkg:nuget/GeneXus.StoreManager@1.19.5

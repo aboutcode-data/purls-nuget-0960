@@ -2313,6 +2313,8 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.16.3763-suppressmessage
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.16.3768-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.16.3779-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.16.3791-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.16.3792-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.2.3041-template-update
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.2.3042-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.2.3043-main

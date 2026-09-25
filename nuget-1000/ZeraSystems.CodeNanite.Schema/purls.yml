@@ -22,3 +22,4 @@
 - pkg:nuget/ZeraSystems.CodeNanite.Schema@1.6.5
 - pkg:nuget/ZeraSystems.CodeNanite.Schema@1.6.6
 - pkg:nuget/ZeraSystems.CodeNanite.Schema@1.7.0
+- pkg:nuget/ZeraSystems.CodeNanite.Schema@2.0.8

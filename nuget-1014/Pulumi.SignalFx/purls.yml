@@ -463,6 +463,7 @@
 - pkg:nuget/Pulumi.SignalFx@7.3.0-alpha.1731653505
 - pkg:nuget/Pulumi.SignalFx@7.3.0-alpha.1731670248
 - pkg:nuget/Pulumi.SignalFx@7.30.0-alpha.1787820929
+- pkg:nuget/Pulumi.SignalFx@7.31.0-alpha.1790318422
 - pkg:nuget/Pulumi.SignalFx@7.4.0
 - pkg:nuget/Pulumi.SignalFx@7.4.0-alpha.1731738203
 - pkg:nuget/Pulumi.SignalFx@7.4.0-alpha.1731929103

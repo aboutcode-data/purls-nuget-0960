@@ -15,3 +15,4 @@
 - pkg:nuget/Common.EFCore.MySQL@1.4.0-beta3
 - pkg:nuget/Common.EFCore.MySQL@1.4.1
 - pkg:nuget/Common.EFCore.MySQL@1.4.2
+- pkg:nuget/Common.EFCore.MySQL@1.7.1

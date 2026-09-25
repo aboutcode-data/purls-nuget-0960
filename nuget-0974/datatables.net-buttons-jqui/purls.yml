@@ -31,3 +31,4 @@
 - pkg:nuget/datatables.net-buttons-jqui@3.2.5
 - pkg:nuget/datatables.net-buttons-jqui@4.0.0
 - pkg:nuget/datatables.net-buttons-jqui@4.0.2
+- pkg:nuget/datatables.net-buttons-jqui@4.1.2

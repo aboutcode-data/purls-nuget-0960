@@ -8,3 +8,6 @@
 - pkg:nuget/Anch.VisualIdentitySource.Runtime@3.7.1
 - pkg:nuget/Anch.VisualIdentitySource.Runtime@3.7.2
 - pkg:nuget/Anch.VisualIdentitySource.Runtime@3.7.3
+- pkg:nuget/Anch.VisualIdentitySource.Runtime@3.7.5
+- pkg:nuget/Anch.VisualIdentitySource.Runtime@3.8.5
+- pkg:nuget/Anch.VisualIdentitySource.Runtime@3.8.9

@@ -1,0 +1,2 @@
+- pkg:nuget/HelmSharp.Chart@1.0.1
+- pkg:nuget/HelmSharp.Chart@1.2.0

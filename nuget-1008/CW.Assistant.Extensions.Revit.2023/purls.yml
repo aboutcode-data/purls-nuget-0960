@@ -45,6 +45,8 @@
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-PullRequest823.109.66046
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-PullRequest827.113.66067
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-PullRequest832.115.66074
+- pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-PullRequest846.135.66113
+- pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-PullRequest851.144.66133
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-alpha.2.65438
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-alpha.3.65441
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-alpha.4.65440
@@ -55,6 +57,7 @@
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-alpha.72.65964
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-alpha.73.65965
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-alpha.74.65966
+- pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-beta.139.66112
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-beta.97.66008
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-beta.98.66010
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.10.0-claude-stack-comment-clarity.1.65998

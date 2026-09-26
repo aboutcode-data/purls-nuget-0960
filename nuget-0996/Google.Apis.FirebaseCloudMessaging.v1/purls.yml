@@ -108,3 +108,4 @@
 - pkg:nuget/Google.Apis.FirebaseCloudMessaging.v1@1.69.0.3722
 - pkg:nuget/Google.Apis.FirebaseCloudMessaging.v1@1.70.0.3813
 - pkg:nuget/Google.Apis.FirebaseCloudMessaging.v1@1.70.0.3855
+- pkg:nuget/Google.Apis.FirebaseCloudMessaging.v1@1.76.0.4271

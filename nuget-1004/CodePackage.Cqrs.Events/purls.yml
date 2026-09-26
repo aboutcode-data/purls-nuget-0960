@@ -37,4 +37,5 @@
 - pkg:nuget/CodePackage.Cqrs.Events@17.4.4
 - pkg:nuget/CodePackage.Cqrs.Events@18.0.12
 - pkg:nuget/CodePackage.Cqrs.Events@18.0.13
+- pkg:nuget/CodePackage.Cqrs.Events@18.0.16
 - pkg:nuget/CodePackage.Cqrs.Events@18.0.5

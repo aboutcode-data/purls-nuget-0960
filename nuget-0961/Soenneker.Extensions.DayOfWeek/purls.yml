@@ -16,6 +16,7 @@
 - pkg:nuget/Soenneker.Extensions.DayOfWeek@3.0.7
 - pkg:nuget/Soenneker.Extensions.DayOfWeek@3.0.8
 - pkg:nuget/Soenneker.Extensions.DayOfWeek@3.0.9
+- pkg:nuget/Soenneker.Extensions.DayOfWeek@4.0.105
 - pkg:nuget/Soenneker.Extensions.DayOfWeek@4.0.23
 - pkg:nuget/Soenneker.Extensions.DayOfWeek@4.0.28
 - pkg:nuget/Soenneker.Extensions.DayOfWeek@4.0.38
@@ -29,3 +30,4 @@
 - pkg:nuget/Soenneker.Extensions.DayOfWeek@4.0.69
 - pkg:nuget/Soenneker.Extensions.DayOfWeek@4.0.74
 - pkg:nuget/Soenneker.Extensions.DayOfWeek@4.0.86
+- pkg:nuget/Soenneker.Extensions.DayOfWeek@4.0.98

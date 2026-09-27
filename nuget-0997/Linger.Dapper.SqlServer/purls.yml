@@ -6,3 +6,5 @@
 - pkg:nuget/Linger.Dapper.SqlServer@0.9.5
 - pkg:nuget/Linger.Dapper.SqlServer@0.9.8
 - pkg:nuget/Linger.Dapper.SqlServer@1.2.0-preview
+- pkg:nuget/Linger.Dapper.SqlServer@1.4.4-preview
+- pkg:nuget/Linger.Dapper.SqlServer@1.5.2-preview

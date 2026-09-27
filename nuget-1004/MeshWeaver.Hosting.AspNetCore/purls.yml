@@ -1,0 +1,10 @@
+- pkg:nuget/MeshWeaver.Hosting.AspNetCore@3.0.0-rc10
+- pkg:nuget/MeshWeaver.Hosting.AspNetCore@3.0.0-rc11
+- pkg:nuget/MeshWeaver.Hosting.AspNetCore@3.0.0-rc12
+- pkg:nuget/MeshWeaver.Hosting.AspNetCore@3.0.0-rc13
+- pkg:nuget/MeshWeaver.Hosting.AspNetCore@3.0.0-rc3
+- pkg:nuget/MeshWeaver.Hosting.AspNetCore@3.0.0-rc5
+- pkg:nuget/MeshWeaver.Hosting.AspNetCore@3.0.0-rc6
+- pkg:nuget/MeshWeaver.Hosting.AspNetCore@3.0.0-rc7
+- pkg:nuget/MeshWeaver.Hosting.AspNetCore@3.0.0-rc8
+- pkg:nuget/MeshWeaver.Hosting.AspNetCore@3.0.0-rc9

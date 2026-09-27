@@ -3,3 +3,6 @@
 - pkg:nuget/EdgePDF.Editor.OCR.AspNet.Mvc@12.3.5.1
 - pkg:nuget/EdgePDF.Editor.OCR.AspNet.Mvc@12.3.5.27
 - pkg:nuget/EdgePDF.Editor.OCR.AspNet.Mvc@12.3.5.29
+- pkg:nuget/EdgePDF.Editor.OCR.AspNet.Mvc@12.3.5.38
+- pkg:nuget/EdgePDF.Editor.OCR.AspNet.Mvc@12.3.5.40
+- pkg:nuget/EdgePDF.Editor.OCR.AspNet.Mvc@12.3.5.50

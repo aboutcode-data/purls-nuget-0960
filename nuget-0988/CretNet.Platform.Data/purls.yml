@@ -1,3 +1,4 @@
+- pkg:nuget/CretNet.Platform.Data@0.10.0
 - pkg:nuget/CretNet.Platform.Data@0.3.0
 - pkg:nuget/CretNet.Platform.Data@0.3.1
 - pkg:nuget/CretNet.Platform.Data@0.4.0
@@ -8,3 +9,10 @@
 - pkg:nuget/CretNet.Platform.Data@0.5.0-feature-improvements.1
 - pkg:nuget/CretNet.Platform.Data@0.5.0-feature-improvements.2
 - pkg:nuget/CretNet.Platform.Data@0.5.0-feature-improvements.3
+- pkg:nuget/CretNet.Platform.Data@0.7.0
+- pkg:nuget/CretNet.Platform.Data@0.8.0
+- pkg:nuget/CretNet.Platform.Data@0.9.0
+- pkg:nuget/CretNet.Platform.Data@0.9.0-feature-blazor-ui.18
+- pkg:nuget/CretNet.Platform.Data@0.9.0-feature-blazor-ui.19
+- pkg:nuget/CretNet.Platform.Data@0.9.0-feature-blazor-ui.24
+- pkg:nuget/CretNet.Platform.Data@0.9.0-feature-blazor-ui.29

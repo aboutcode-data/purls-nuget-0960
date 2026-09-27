@@ -1,0 +1,6 @@
+- pkg:nuget/PiwiTests.Instrumentation.AspNetCore@0.22.1
+- pkg:nuget/PiwiTests.Instrumentation.AspNetCore@0.31.0
+- pkg:nuget/PiwiTests.Instrumentation.AspNetCore@0.32.0
+- pkg:nuget/PiwiTests.Instrumentation.AspNetCore@0.34.0
+- pkg:nuget/PiwiTests.Instrumentation.AspNetCore@0.9.0
+- pkg:nuget/PiwiTests.Instrumentation.AspNetCore@0.9.1

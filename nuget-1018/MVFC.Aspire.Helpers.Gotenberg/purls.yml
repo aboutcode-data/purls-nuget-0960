@@ -1,3 +1,4 @@
+- pkg:nuget/MVFC.Aspire.Helpers.Gotenberg@10.1.0
 - pkg:nuget/MVFC.Aspire.Helpers.Gotenberg@6.2.0
 - pkg:nuget/MVFC.Aspire.Helpers.Gotenberg@6.4.0
 - pkg:nuget/MVFC.Aspire.Helpers.Gotenberg@6.4.2
@@ -10,3 +11,4 @@
 - pkg:nuget/MVFC.Aspire.Helpers.Gotenberg@7.3.2
 - pkg:nuget/MVFC.Aspire.Helpers.Gotenberg@7.3.3
 - pkg:nuget/MVFC.Aspire.Helpers.Gotenberg@8.0.0
+- pkg:nuget/MVFC.Aspire.Helpers.Gotenberg@9.0.5

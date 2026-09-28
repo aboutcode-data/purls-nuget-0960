@@ -171,4 +171,7 @@
 - pkg:nuget/MaxiPago@3.0.856
 - pkg:nuget/MaxiPago@3.0.96
 - pkg:nuget/MaxiPago@3.0.98
+- pkg:nuget/MaxiPago@3.1.17
+- pkg:nuget/MaxiPago@3.1.20
+- pkg:nuget/MaxiPago@3.1.23
 - pkg:nuget/MaxiPago@3.1.3

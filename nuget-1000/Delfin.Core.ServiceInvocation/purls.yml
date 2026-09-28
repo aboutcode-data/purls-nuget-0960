@@ -242,6 +242,7 @@
 - pkg:nuget/Delfin.Core.ServiceInvocation@2.0.204
 - pkg:nuget/Delfin.Core.ServiceInvocation@2.0.221
 - pkg:nuget/Delfin.Core.ServiceInvocation@2.0.229
+- pkg:nuget/Delfin.Core.ServiceInvocation@2.0.238
 - pkg:nuget/Delfin.Core.ServiceInvocation@2.0.29
 - pkg:nuget/Delfin.Core.ServiceInvocation@2.0.40
 - pkg:nuget/Delfin.Core.ServiceInvocation@2.0.49

@@ -4,6 +4,7 @@
 - pkg:nuget/InfoCarrier.Core@1.0.0-beta0004
 - pkg:nuget/InfoCarrier.Core@1.0.0-beta0005
 - pkg:nuget/InfoCarrier.Core@1.0.0-dev
+- pkg:nuget/InfoCarrier.Core@10.2.0
 - pkg:nuget/InfoCarrier.Core@2.0.0
 - pkg:nuget/InfoCarrier.Core@2.0.0-beta0001
 - pkg:nuget/InfoCarrier.Core@2.0.0-beta0002

@@ -43,4 +43,5 @@
 - pkg:nuget/EraTech.Grpc@2.1.74
 - pkg:nuget/EraTech.Grpc@2.1.81
 - pkg:nuget/EraTech.Grpc@2.1.99
+- pkg:nuget/EraTech.Grpc@2.2.27
 - pkg:nuget/EraTech.Grpc@2.2.6

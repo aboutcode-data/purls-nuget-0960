@@ -59,3 +59,4 @@
 - pkg:nuget/LiteGraph@4.1.6
 - pkg:nuget/LiteGraph@4.1.7
 - pkg:nuget/LiteGraph@4.1.8
+- pkg:nuget/LiteGraph@9.0.0

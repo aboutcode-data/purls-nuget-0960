@@ -84,3 +84,5 @@
 - pkg:nuget/CX.SharedKernel.Abstractions@6.6.5
 - pkg:nuget/CX.SharedKernel.Abstractions@6.6.7
 - pkg:nuget/CX.SharedKernel.Abstractions@6.7.8
+- pkg:nuget/CX.SharedKernel.Abstractions@6.8.1
+- pkg:nuget/CX.SharedKernel.Abstractions@6.8.3

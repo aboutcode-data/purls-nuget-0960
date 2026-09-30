@@ -3,6 +3,7 @@
 - pkg:nuget/MyTested.AspNetCore.Mvc.Caching@1.0.0-preview
 - pkg:nuget/MyTested.AspNetCore.Mvc.Caching@1.0.0-preview-final
 - pkg:nuget/MyTested.AspNetCore.Mvc.Caching@1.1.0
+- pkg:nuget/MyTested.AspNetCore.Mvc.Caching@10.0.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.Caching@2.1.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.Caching@2.2.0
 - pkg:nuget/MyTested.AspNetCore.Mvc.Caching@3.0.0

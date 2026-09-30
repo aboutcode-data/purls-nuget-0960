@@ -58,4 +58,5 @@
 - pkg:nuget/EraTech.Saas.Domain@2.1.72
 - pkg:nuget/EraTech.Saas.Domain@2.1.74
 - pkg:nuget/EraTech.Saas.Domain@2.1.81
+- pkg:nuget/EraTech.Saas.Domain@2.2.27
 - pkg:nuget/EraTech.Saas.Domain@2.2.6

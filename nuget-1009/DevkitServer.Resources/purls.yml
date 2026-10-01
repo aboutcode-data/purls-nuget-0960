@@ -36,6 +36,7 @@
 - pkg:nuget/DevkitServer.Resources@0.0.41
 - pkg:nuget/DevkitServer.Resources@0.0.42
 - pkg:nuget/DevkitServer.Resources@0.0.43
+- pkg:nuget/DevkitServer.Resources@0.0.45
 - pkg:nuget/DevkitServer.Resources@0.0.5
 - pkg:nuget/DevkitServer.Resources@0.0.6
 - pkg:nuget/DevkitServer.Resources@0.0.7

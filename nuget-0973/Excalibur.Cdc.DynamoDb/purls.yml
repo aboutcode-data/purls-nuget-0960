@@ -1,3 +1,4 @@
+- pkg:nuget/Excalibur.Cdc.DynamoDb@10.0.0-alpha.14
 - pkg:nuget/Excalibur.Cdc.DynamoDb@10.0.0-alpha.9
 - pkg:nuget/Excalibur.Cdc.DynamoDb@3.0.0-alpha.162
 - pkg:nuget/Excalibur.Cdc.DynamoDb@3.0.0-alpha.181

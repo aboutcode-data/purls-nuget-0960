@@ -68,3 +68,4 @@
 - pkg:nuget/War3Net.Build@5.8.0
 - pkg:nuget/War3Net.Build@5.8.1
 - pkg:nuget/War3Net.Build@5.8.2
+- pkg:nuget/War3Net.Build@6.1.0

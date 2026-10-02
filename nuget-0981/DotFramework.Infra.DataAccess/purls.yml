@@ -238,3 +238,4 @@
 - pkg:nuget/DotFramework.Infra.DataAccess@2.99.7
 - pkg:nuget/DotFramework.Infra.DataAccess@2.99.8
 - pkg:nuget/DotFramework.Infra.DataAccess@2.99.9
+- pkg:nuget/DotFramework.Infra.DataAccess@4.4.1

@@ -2404,6 +2404,7 @@
 - pkg:nuget/ArmoniK.Api.Client@3.29.4-flrustpublishoidc.1.e3216530
 - pkg:nuget/ArmoniK.Api.Client@3.29.4-flrustpublishoidc.8.0470a88f
 - pkg:nuget/ArmoniK.Api.Client@3.29.4-flrustpublishoidc.9.cdea6355
+- pkg:nuget/ArmoniK.Api.Client@3.29.4-renovateallminorpatch.11.3d97ddfc
 - pkg:nuget/ArmoniK.Api.Client@3.29.4-renovateallminorpatch.3.73dc6e62
 - pkg:nuget/ArmoniK.Api.Client@3.29.4-renovateallminorpatch.3.e73dab89
 - pkg:nuget/ArmoniK.Api.Client@3.29.4-renovateangularnpm.1.df5c6cfd

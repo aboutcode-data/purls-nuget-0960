@@ -238,3 +238,4 @@
 - pkg:nuget/DotFramework.Infra.Logging@2.99.8
 - pkg:nuget/DotFramework.Infra.Logging@2.99.9
 - pkg:nuget/DotFramework.Infra.Logging@4.4.1
+- pkg:nuget/DotFramework.Infra.Logging@4.4.3

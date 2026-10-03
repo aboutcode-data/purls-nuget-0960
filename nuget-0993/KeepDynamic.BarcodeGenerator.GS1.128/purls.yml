@@ -1,4 +1,6 @@
 - pkg:nuget/KeepDynamic.BarcodeGenerator.GS1.128@6.0.0.13
 - pkg:nuget/KeepDynamic.BarcodeGenerator.GS1.128@6.0.0.2
 - pkg:nuget/KeepDynamic.BarcodeGenerator.GS1.128@6.0.0.20
+- pkg:nuget/KeepDynamic.BarcodeGenerator.GS1.128@6.0.0.24
 - pkg:nuget/KeepDynamic.BarcodeGenerator.GS1.128@6.0.0.3
+- pkg:nuget/KeepDynamic.BarcodeGenerator.GS1.128@6.0.0.30

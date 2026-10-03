@@ -1,1 +1,3 @@
 - pkg:nuget/go.math.cmplx@1.23.12.1
+- pkg:nuget/go.math.cmplx@1.24.13.2
+- pkg:nuget/go.math.cmplx@1.24.13.3

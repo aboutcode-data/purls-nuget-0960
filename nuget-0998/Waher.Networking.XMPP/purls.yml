@@ -94,3 +94,4 @@
 - pkg:nuget/Waher.Networking.XMPP@4.2.0
 - pkg:nuget/Waher.Networking.XMPP@4.2.1
 - pkg:nuget/Waher.Networking.XMPP@4.2.2
+- pkg:nuget/Waher.Networking.XMPP@4.4.0

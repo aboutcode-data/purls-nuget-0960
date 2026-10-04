@@ -17,3 +17,4 @@
 - pkg:nuget/Nethermind.Libp2p@1.0.0-preview.45
 - pkg:nuget/Nethermind.Libp2p@1.0.0-preview.5
 - pkg:nuget/Nethermind.Libp2p@1.0.0-preview.6
+- pkg:nuget/Nethermind.Libp2p@1.0.2

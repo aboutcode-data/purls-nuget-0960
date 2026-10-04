@@ -16,4 +16,5 @@
 - pkg:nuget/FEx.MSBuildx@0.3.0
 - pkg:nuget/FEx.MSBuildx@0.3.0-alpha.5
 - pkg:nuget/FEx.MSBuildx@0.4.0-alpha.129
+- pkg:nuget/FEx.MSBuildx@0.4.0-alpha.194
 - pkg:nuget/FEx.MSBuildx@0.4.0-alpha.25

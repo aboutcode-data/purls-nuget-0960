@@ -2408,10 +2408,13 @@
 - pkg:nuget/ArmoniK.Api.Client@3.29.4-renovateallminorpatch.3.73dc6e62
 - pkg:nuget/ArmoniK.Api.Client@3.29.4-renovateallminorpatch.3.e73dab89
 - pkg:nuget/ArmoniK.Api.Client@3.29.4-renovateangularnpm.1.df5c6cfd
+- pkg:nuget/ArmoniK.Api.Client@3.29.4-renovateangularnpm.11.6dbfc382
 - pkg:nuget/ArmoniK.Api.Client@3.29.4-renovategithubactions.1.c4431129
+- pkg:nuget/ArmoniK.Api.Client@3.29.4-renovategithubactions.11.43e46b52
 - pkg:nuget/ArmoniK.Api.Client@3.29.4-renovatemajorwebnpm.1.0e06fe07
 - pkg:nuget/ArmoniK.Api.Client@3.29.4-renovatemajorwebnpm.1.c66a2463
 - pkg:nuget/ArmoniK.Api.Client@3.29.4-renovatepypi.11.3466b076
+- pkg:nuget/ArmoniK.Api.Client@3.29.4-renovatepypi.11.4af5a759
 - pkg:nuget/ArmoniK.Api.Client@3.3.0
 - pkg:nuget/ArmoniK.Api.Client@3.3.0-32166g075acae.66.075acae
 - pkg:nuget/ArmoniK.Api.Client@3.3.0-32168g32114de.68.32114de

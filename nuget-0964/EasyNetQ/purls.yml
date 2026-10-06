@@ -692,3 +692,4 @@
 - pkg:nuget/EasyNetQ@8.0.0-beta97
 - pkg:nuget/EasyNetQ@8.0.0-beta98
 - pkg:nuget/EasyNetQ@8.0.0-beta99
+- pkg:nuget/EasyNetQ@9.0.0-alpha.3

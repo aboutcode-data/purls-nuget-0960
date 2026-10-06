@@ -34,6 +34,7 @@
 - pkg:nuget/ghul.runtime@25.0.7
 - pkg:nuget/ghul.runtime@25.2.2
 - pkg:nuget/ghul.runtime@25.2.3
+- pkg:nuget/ghul.runtime@25.4.0
 - pkg:nuget/ghul.runtime@3.0.19
 - pkg:nuget/ghul.runtime@3.0.5
 - pkg:nuget/ghul.runtime@4.0.0

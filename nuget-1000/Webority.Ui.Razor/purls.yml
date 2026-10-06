@@ -10,6 +10,7 @@
 - pkg:nuget/Webority.Ui.Razor@0.26.0
 - pkg:nuget/Webority.Ui.Razor@0.28.0
 - pkg:nuget/Webority.Ui.Razor@0.32.0
+- pkg:nuget/Webority.Ui.Razor@0.35.1
 - pkg:nuget/Webority.Ui.Razor@0.6.6
 - pkg:nuget/Webority.Ui.Razor@0.8.2
 - pkg:nuget/Webority.Ui.Razor@0.9.13

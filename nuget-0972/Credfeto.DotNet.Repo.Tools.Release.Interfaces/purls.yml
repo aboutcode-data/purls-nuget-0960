@@ -2331,6 +2331,8 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.17.3852-tracking-hash-e
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.17.3865-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.17.3873-tracking-hash-e
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.17.3874-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.17.3875-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.2.3041-template-update
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.2.3042-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.2.3043-main

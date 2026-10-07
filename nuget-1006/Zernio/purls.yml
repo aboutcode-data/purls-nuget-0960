@@ -63,6 +63,10 @@
 - pkg:nuget/Zernio@0.0.120
 - pkg:nuget/Zernio@0.0.1214
 - pkg:nuget/Zernio@0.0.1222
+- pkg:nuget/Zernio@0.0.1241
+- pkg:nuget/Zernio@0.0.1242
+- pkg:nuget/Zernio@0.0.1246
+- pkg:nuget/Zernio@0.0.1247
 - pkg:nuget/Zernio@0.0.128
 - pkg:nuget/Zernio@0.0.144
 - pkg:nuget/Zernio@0.0.145

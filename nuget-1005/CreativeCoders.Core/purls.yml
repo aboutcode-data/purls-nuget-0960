@@ -52,6 +52,7 @@
 - pkg:nuget/CreativeCoders.Core@4.6.0
 - pkg:nuget/CreativeCoders.Core@5.1.0
 - pkg:nuget/CreativeCoders.Core@5.4.0
+- pkg:nuget/CreativeCoders.Core@6.10.0
 - pkg:nuget/CreativeCoders.Core@6.7.1
 - pkg:nuget/CreativeCoders.Core@6.7.3
 - pkg:nuget/CreativeCoders.Core@6.8.0

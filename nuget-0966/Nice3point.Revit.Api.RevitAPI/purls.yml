@@ -7,6 +7,8 @@
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2019.2.11
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2020.2.11
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2020.2.60
+- pkg:nuget/Nice3point.Revit.Api.RevitAPI@2020.2.90
+- pkg:nuget/Nice3point.Revit.Api.RevitAPI@2021.1.100
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2021.1.40
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2021.1.50
 - pkg:nuget/Nice3point.Revit.Api.RevitAPI@2022.1.1

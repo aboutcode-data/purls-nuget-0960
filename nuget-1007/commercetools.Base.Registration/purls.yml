@@ -49,6 +49,7 @@
 - pkg:nuget/commercetools.Base.Registration@13.0.0
 - pkg:nuget/commercetools.Base.Registration@13.1.0
 - pkg:nuget/commercetools.Base.Registration@14.0.0
+- pkg:nuget/commercetools.Base.Registration@15.6.0
 - pkg:nuget/commercetools.Base.Registration@2.0.0
 - pkg:nuget/commercetools.Base.Registration@2.1.0
 - pkg:nuget/commercetools.Base.Registration@2.1.1

@@ -1,0 +1,5 @@
+- pkg:nuget/Onnxify.ModelGenerator@0.1.1
+- pkg:nuget/Onnxify.ModelGenerator@0.1.4
+- pkg:nuget/Onnxify.ModelGenerator@0.2.0
+- pkg:nuget/Onnxify.ModelGenerator@0.3.10
+- pkg:nuget/Onnxify.ModelGenerator@0.3.6

@@ -25,4 +25,15 @@
 - pkg:nuget/Xamarin.DocumentReader.BTDevice.Android@7.6.8-beta
 - pkg:nuget/Xamarin.DocumentReader.BTDevice.Android@8.3.16-beta
 - pkg:nuget/Xamarin.DocumentReader.BTDevice.Android@8.4.20-beta
+- pkg:nuget/Xamarin.DocumentReader.BTDevice.Android@9.8.108-rc
 - pkg:nuget/Xamarin.DocumentReader.BTDevice.Android@9.8.49-rc
+- pkg:nuget/Xamarin.DocumentReader.BTDevice.Android@9.8.70-rc
+- pkg:nuget/Xamarin.DocumentReader.BTDevice.Android@9.8.81-rc
+- pkg:nuget/Xamarin.DocumentReader.BTDevice.Android@9.8.96-rc
+- pkg:nuget/Xamarin.DocumentReader.BTDevice.Android@9.9.101-rc
+- pkg:nuget/Xamarin.DocumentReader.BTDevice.Android@9.9.62-nightly
+- pkg:nuget/Xamarin.DocumentReader.BTDevice.Android@9.9.79-nightly
+- pkg:nuget/Xamarin.DocumentReader.BTDevice.Android@9.9.84-rc
+- pkg:nuget/Xamarin.DocumentReader.BTDevice.Android@9.9.92-rc
+- pkg:nuget/Xamarin.DocumentReader.BTDevice.Android@9.9.93-rc
+- pkg:nuget/Xamarin.DocumentReader.BTDevice.Android@9.9.94-nightly

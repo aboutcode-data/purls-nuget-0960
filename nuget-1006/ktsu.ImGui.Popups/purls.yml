@@ -22,4 +22,5 @@
 - pkg:nuget/ktsu.ImGui.Popups@3.41.0
 - pkg:nuget/ktsu.ImGui.Popups@3.41.2
 - pkg:nuget/ktsu.ImGui.Popups@3.45.0
+- pkg:nuget/ktsu.ImGui.Popups@3.59.0
 - pkg:nuget/ktsu.ImGui.Popups@3.9.0

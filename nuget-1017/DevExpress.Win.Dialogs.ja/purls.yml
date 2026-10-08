@@ -4,3 +4,7 @@
 - pkg:nuget/DevExpress.Win.Dialogs.ja@25.1.9
 - pkg:nuget/DevExpress.Win.Dialogs.ja@25.2.8
 - pkg:nuget/DevExpress.Win.Dialogs.ja@26.1.2-beta
+- pkg:nuget/DevExpress.Win.Dialogs.ja@26.1.4-pre-26200
+- pkg:nuget/DevExpress.Win.Dialogs.ja@26.1.5-pre-26227
+- pkg:nuget/DevExpress.Win.Dialogs.ja@26.1.5-pre-26235
+- pkg:nuget/DevExpress.Win.Dialogs.ja@26.1.5-pre-26241

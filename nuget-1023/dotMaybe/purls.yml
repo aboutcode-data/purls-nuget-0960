@@ -3,3 +3,6 @@
 - pkg:nuget/dotMaybe@0.2.0
 - pkg:nuget/dotMaybe@0.3.0
 - pkg:nuget/dotMaybe@1.0.0
+- pkg:nuget/dotMaybe@2.0.0-alpha.3
+- pkg:nuget/dotMaybe@2.0.0-alpha.4
+- pkg:nuget/dotMaybe@2.0.0-alpha.9

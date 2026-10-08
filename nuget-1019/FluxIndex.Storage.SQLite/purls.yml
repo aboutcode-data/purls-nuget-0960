@@ -23,4 +23,10 @@
 - pkg:nuget/FluxIndex.Storage.SQLite@0.5.8
 - pkg:nuget/FluxIndex.Storage.SQLite@0.50.6
 - pkg:nuget/FluxIndex.Storage.SQLite@0.51.1
+- pkg:nuget/FluxIndex.Storage.SQLite@0.53.1
+- pkg:nuget/FluxIndex.Storage.SQLite@0.71.2
+- pkg:nuget/FluxIndex.Storage.SQLite@0.74.0
+- pkg:nuget/FluxIndex.Storage.SQLite@0.76.0
 - pkg:nuget/FluxIndex.Storage.SQLite@0.8.0
+- pkg:nuget/FluxIndex.Storage.SQLite@0.80.11
+- pkg:nuget/FluxIndex.Storage.SQLite@0.80.14

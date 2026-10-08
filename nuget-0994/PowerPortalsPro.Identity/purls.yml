@@ -1,1 +1,3 @@
 - pkg:nuget/PowerPortalsPro.Identity@1.0.20
+- pkg:nuget/PowerPortalsPro.Identity@10.0.0
+- pkg:nuget/PowerPortalsPro.Identity@10.2.0

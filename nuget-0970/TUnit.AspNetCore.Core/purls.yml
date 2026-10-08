@@ -12,3 +12,4 @@
 - pkg:nuget/TUnit.AspNetCore.Core@1.67.0
 - pkg:nuget/TUnit.AspNetCore.Core@1.70.0
 - pkg:nuget/TUnit.AspNetCore.Core@1.72.0
+- pkg:nuget/TUnit.AspNetCore.Core@1.73.0

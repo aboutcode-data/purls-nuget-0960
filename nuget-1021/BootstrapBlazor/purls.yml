@@ -27,6 +27,7 @@
 - pkg:nuget/BootstrapBlazor@10.9.1
 - pkg:nuget/BootstrapBlazor@10.9.2
 - pkg:nuget/BootstrapBlazor@10.9.3-beta01
+- pkg:nuget/BootstrapBlazor@11.0.0
 - pkg:nuget/BootstrapBlazor@3.1.0
 - pkg:nuget/BootstrapBlazor@3.1.0-beta01
 - pkg:nuget/BootstrapBlazor@3.1.0-beta02

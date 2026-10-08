@@ -1,4 +1,5 @@
 - pkg:nuget/CretNet.Platform.Data@0.10.0
+- pkg:nuget/CretNet.Platform.Data@0.13.0
 - pkg:nuget/CretNet.Platform.Data@0.3.0
 - pkg:nuget/CretNet.Platform.Data@0.3.1
 - pkg:nuget/CretNet.Platform.Data@0.4.0

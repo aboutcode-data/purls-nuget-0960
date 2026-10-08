@@ -20,6 +20,7 @@
 - pkg:nuget/ExamineX.AzureSearch.Umbraco@1.3.1
 - pkg:nuget/ExamineX.AzureSearch.Umbraco@1.3.2
 - pkg:nuget/ExamineX.AzureSearch.Umbraco@1.3.3
+- pkg:nuget/ExamineX.AzureSearch.Umbraco@10.0.2
 - pkg:nuget/ExamineX.AzureSearch.Umbraco@2.0.0
 - pkg:nuget/ExamineX.AzureSearch.Umbraco@2.0.0-beta.29
 - pkg:nuget/ExamineX.AzureSearch.Umbraco@2.0.0-beta.39
@@ -106,3 +107,4 @@
 - pkg:nuget/ExamineX.AzureSearch.Umbraco@8.0.1
 - pkg:nuget/ExamineX.AzureSearch.Umbraco@8.0.3
 - pkg:nuget/ExamineX.AzureSearch.Umbraco@8.0.4
+- pkg:nuget/ExamineX.AzureSearch.Umbraco@9.3.3

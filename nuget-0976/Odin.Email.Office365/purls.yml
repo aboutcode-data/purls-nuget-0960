@@ -45,5 +45,6 @@
 - pkg:nuget/Odin.Email.Office365@0.9.103
 - pkg:nuget/Odin.Email.Office365@0.9.120
 - pkg:nuget/Odin.Email.Office365@0.9.142
+- pkg:nuget/Odin.Email.Office365@0.9.144
 - pkg:nuget/Odin.Email.Office365@0.9.53
 - pkg:nuget/Odin.Email.Office365@0.9.85

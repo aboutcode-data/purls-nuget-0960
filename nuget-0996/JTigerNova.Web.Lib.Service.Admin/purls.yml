@@ -250,3 +250,4 @@
 - pkg:nuget/JTigerNova.Web.Lib.Service.Admin@6.20.6
 - pkg:nuget/JTigerNova.Web.Lib.Service.Admin@6.28.7
 - pkg:nuget/JTigerNova.Web.Lib.Service.Admin@9.1.3
+- pkg:nuget/JTigerNova.Web.Lib.Service.Admin@9.2.1

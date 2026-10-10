@@ -2276,6 +2276,8 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.17.3881-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.17.3883-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.17.3893-never-close-em
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.17.3897-pull-337-merge
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.17.3898-never-close-em
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.2.3041-template-update
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.2.3042-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.2.3043-main

@@ -15,6 +15,7 @@
 - pkg:nuget/Meziantou.NET.Sdk.WindowsDesktop@1.0.17
 - pkg:nuget/Meziantou.NET.Sdk.WindowsDesktop@1.0.171
 - pkg:nuget/Meziantou.NET.Sdk.WindowsDesktop@1.0.18
+- pkg:nuget/Meziantou.NET.Sdk.WindowsDesktop@1.0.183
 - pkg:nuget/Meziantou.NET.Sdk.WindowsDesktop@1.0.19
 - pkg:nuget/Meziantou.NET.Sdk.WindowsDesktop@1.0.20
 - pkg:nuget/Meziantou.NET.Sdk.WindowsDesktop@1.0.21

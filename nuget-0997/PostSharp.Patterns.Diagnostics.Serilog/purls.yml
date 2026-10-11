@@ -16,6 +16,7 @@
 - pkg:nuget/PostSharp.Patterns.Diagnostics.Serilog@2024.0.17
 - pkg:nuget/PostSharp.Patterns.Diagnostics.Serilog@2024.0.18
 - pkg:nuget/PostSharp.Patterns.Diagnostics.Serilog@2024.0.2-preview
+- pkg:nuget/PostSharp.Patterns.Diagnostics.Serilog@2024.0.28
 - pkg:nuget/PostSharp.Patterns.Diagnostics.Serilog@2024.0.3-preview
 - pkg:nuget/PostSharp.Patterns.Diagnostics.Serilog@2024.0.4-rc
 - pkg:nuget/PostSharp.Patterns.Diagnostics.Serilog@2024.0.5
@@ -52,6 +53,7 @@
 - pkg:nuget/PostSharp.Patterns.Diagnostics.Serilog@2025.1.8
 - pkg:nuget/PostSharp.Patterns.Diagnostics.Serilog@2025.1.9
 - pkg:nuget/PostSharp.Patterns.Diagnostics.Serilog@2026.0.10
+- pkg:nuget/PostSharp.Patterns.Diagnostics.Serilog@2026.0.19
 - pkg:nuget/PostSharp.Patterns.Diagnostics.Serilog@5.0.10-preview
 - pkg:nuget/PostSharp.Patterns.Diagnostics.Serilog@5.0.11-preview
 - pkg:nuget/PostSharp.Patterns.Diagnostics.Serilog@5.0.12-preview

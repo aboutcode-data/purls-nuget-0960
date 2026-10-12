@@ -109,3 +109,4 @@
 - pkg:nuget/Fake.DotNet.MSBuild@6.1.1
 - pkg:nuget/Fake.DotNet.MSBuild@6.1.2
 - pkg:nuget/Fake.DotNet.MSBuild@6.1.3
+- pkg:nuget/Fake.DotNet.MSBuild@6.1.5

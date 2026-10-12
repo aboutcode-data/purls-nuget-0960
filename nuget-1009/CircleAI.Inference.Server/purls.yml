@@ -1,2 +1,7 @@
+- pkg:nuget/CircleAI.Inference.Server@1.2.1
+- pkg:nuget/CircleAI.Inference.Server@1.3.0
+- pkg:nuget/CircleAI.Inference.Server@1.3.1
+- pkg:nuget/CircleAI.Inference.Server@1.3.2
+- pkg:nuget/CircleAI.Inference.Server@1.3.3
 - pkg:nuget/CircleAI.Inference.Server@3.1.0
 - pkg:nuget/CircleAI.Inference.Server@3.7.0

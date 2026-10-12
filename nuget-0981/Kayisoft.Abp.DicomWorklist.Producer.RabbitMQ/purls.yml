@@ -152,3 +152,4 @@
 - pkg:nuget/Kayisoft.Abp.DicomWorklist.Producer.RabbitMQ@5.2.2
 - pkg:nuget/Kayisoft.Abp.DicomWorklist.Producer.RabbitMQ@5.2.7
 - pkg:nuget/Kayisoft.Abp.DicomWorklist.Producer.RabbitMQ@5.2.9
+- pkg:nuget/Kayisoft.Abp.DicomWorklist.Producer.RabbitMQ@5.3.8

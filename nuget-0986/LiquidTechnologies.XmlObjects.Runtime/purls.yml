@@ -116,3 +116,4 @@
 - pkg:nuget/LiquidTechnologies.XmlObjects.Runtime@21.1.0
 - pkg:nuget/LiquidTechnologies.XmlObjects.Runtime@21.1.1
 - pkg:nuget/LiquidTechnologies.XmlObjects.Runtime@21.1.2
+- pkg:nuget/LiquidTechnologies.XmlObjects.Runtime@21.4.2

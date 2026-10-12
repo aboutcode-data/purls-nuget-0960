@@ -14,6 +14,7 @@
 - pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetFramework@2024.0.16
 - pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetFramework@2024.0.18
 - pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetFramework@2024.0.2-preview
+- pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetFramework@2024.0.28
 - pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetFramework@2024.0.3-preview
 - pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetFramework@2024.0.4-rc
 - pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetFramework@2024.0.5
@@ -50,6 +51,7 @@
 - pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetFramework@2025.1.8
 - pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetFramework@2025.1.9
 - pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetFramework@2026.0.10
+- pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetFramework@2026.0.19
 - pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetFramework@2026.0.4-rc
 - pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetFramework@6.10.1-preview
 - pkg:nuget/PostSharp.Patterns.Diagnostics.AspNetFramework@6.10.10

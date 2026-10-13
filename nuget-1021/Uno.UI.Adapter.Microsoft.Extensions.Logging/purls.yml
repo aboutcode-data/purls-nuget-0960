@@ -3374,6 +3374,12 @@
 - pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@6.8.0-dev.141
 - pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@6.8.0-dev.164
 - pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@6.8.0-dev.212
+- pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@6.8.0-dev.216
+- pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@6.8.0-dev.217
+- pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@6.8.0-dev.218
+- pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@6.8.0-dev.219
+- pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@6.8.0-dev.221
+- pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@6.8.0-dev.222
 - pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@6.8.0-dev.3
 - pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@7.0.0-dev.1166
 - pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@7.0.0-dev.1188
@@ -3407,6 +3413,9 @@
 - pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@7.0.0-dev.2098
 - pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@7.0.0-dev.2110
 - pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@7.0.0-dev.2118
+- pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@7.0.0-dev.2282
+- pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@7.0.0-dev.2287
+- pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@7.0.0-dev.2288
 - pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@7.0.0-dev.680
 - pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@7.0.0-dev.682
 - pkg:nuget/Uno.UI.Adapter.Microsoft.Extensions.Logging@7.0.0-dev.722

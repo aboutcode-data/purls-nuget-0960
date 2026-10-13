@@ -618,4 +618,6 @@
 - pkg:nuget/Meshmakers.Octo.Runtime.Engine@3.5.1
 - pkg:nuget/Meshmakers.Octo.Runtime.Engine@3.5.16
 - pkg:nuget/Meshmakers.Octo.Runtime.Engine@3.5.17
+- pkg:nuget/Meshmakers.Octo.Runtime.Engine@3.5.18
+- pkg:nuget/Meshmakers.Octo.Runtime.Engine@3.5.20
 - pkg:nuget/Meshmakers.Octo.Runtime.Engine@3.5.5

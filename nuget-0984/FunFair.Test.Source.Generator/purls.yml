@@ -155,3 +155,4 @@
 - pkg:nuget/FunFair.Test.Source.Generator@6.4.7.2831-main
 - pkg:nuget/FunFair.Test.Source.Generator@6.4.7.2832-update-mezianto
 - pkg:nuget/FunFair.Test.Source.Generator@6.4.7.2833-update-roslynat
+- pkg:nuget/FunFair.Test.Source.Generator@6.4.7.2844-main

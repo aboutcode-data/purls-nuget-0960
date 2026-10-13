@@ -190,6 +190,7 @@
 - pkg:nuget/Algolia.Search@7.45.0
 - pkg:nuget/Algolia.Search@7.46.1
 - pkg:nuget/Algolia.Search@7.5.0
+- pkg:nuget/Algolia.Search@7.50.0
 - pkg:nuget/Algolia.Search@7.6.0
 - pkg:nuget/Algolia.Search@7.6.1
 - pkg:nuget/Algolia.Search@7.6.2

@@ -49,3 +49,4 @@
 - pkg:nuget/Soenneker.Swashbuckle.SchemaFilters.FixNullableWithoutType@4.0.80
 - pkg:nuget/Soenneker.Swashbuckle.SchemaFilters.FixNullableWithoutType@4.0.84
 - pkg:nuget/Soenneker.Swashbuckle.SchemaFilters.FixNullableWithoutType@4.0.85
+- pkg:nuget/Soenneker.Swashbuckle.SchemaFilters.FixNullableWithoutType@4.0.87

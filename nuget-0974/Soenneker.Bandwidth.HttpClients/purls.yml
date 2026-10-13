@@ -7,6 +7,7 @@
 - pkg:nuget/Soenneker.Bandwidth.HttpClients@4.0.13
 - pkg:nuget/Soenneker.Bandwidth.HttpClients@4.0.132
 - pkg:nuget/Soenneker.Bandwidth.HttpClients@4.0.143
+- pkg:nuget/Soenneker.Bandwidth.HttpClients@4.0.146
 - pkg:nuget/Soenneker.Bandwidth.HttpClients@4.0.2
 - pkg:nuget/Soenneker.Bandwidth.HttpClients@4.0.20
 - pkg:nuget/Soenneker.Bandwidth.HttpClients@4.0.26

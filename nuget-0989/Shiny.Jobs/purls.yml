@@ -269,3 +269,5 @@
 - pkg:nuget/Shiny.Jobs@5.9.0-beta-0016
 - pkg:nuget/Shiny.Jobs@6.0.0
 - pkg:nuget/Shiny.Jobs@6.0.0-beta-0003
+- pkg:nuget/Shiny.Jobs@6.2.0
+- pkg:nuget/Shiny.Jobs@6.2.1-beta-0004

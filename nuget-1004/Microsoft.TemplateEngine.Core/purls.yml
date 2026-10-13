@@ -13,6 +13,7 @@
 - pkg:nuget/Microsoft.TemplateEngine.Core@10.0.302
 - pkg:nuget/Microsoft.TemplateEngine.Core@10.0.400
 - pkg:nuget/Microsoft.TemplateEngine.Core@10.0.401
+- pkg:nuget/Microsoft.TemplateEngine.Core@10.0.402
 - pkg:nuget/Microsoft.TemplateEngine.Core@11.0.100-preview.1.26104.118
 - pkg:nuget/Microsoft.TemplateEngine.Core@5.0.0
 - pkg:nuget/Microsoft.TemplateEngine.Core@5.0.0-rc.1.20431.3
@@ -251,6 +252,7 @@
 - pkg:nuget/Microsoft.TemplateEngine.Core@8.0.418
 - pkg:nuget/Microsoft.TemplateEngine.Core@8.0.423
 - pkg:nuget/Microsoft.TemplateEngine.Core@8.0.425
+- pkg:nuget/Microsoft.TemplateEngine.Core@8.0.426
 - pkg:nuget/Microsoft.TemplateEngine.Core@9.0.100
 - pkg:nuget/Microsoft.TemplateEngine.Core@9.0.100-preview.1.24081.1
 - pkg:nuget/Microsoft.TemplateEngine.Core@9.0.100-preview.2.24128.3
@@ -270,6 +272,7 @@
 - pkg:nuget/Microsoft.TemplateEngine.Core@9.0.108
 - pkg:nuget/Microsoft.TemplateEngine.Core@9.0.109
 - pkg:nuget/Microsoft.TemplateEngine.Core@9.0.110
+- pkg:nuget/Microsoft.TemplateEngine.Core@9.0.122
 - pkg:nuget/Microsoft.TemplateEngine.Core@9.0.200
 - pkg:nuget/Microsoft.TemplateEngine.Core@9.0.201
 - pkg:nuget/Microsoft.TemplateEngine.Core@9.0.203

@@ -1245,6 +1245,9 @@
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.2.1965-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.20.2788-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.20.2789-main
+- pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.20.2794-main
+- pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.20.2795-main
+- pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.20.2796-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.4.2013-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.4.2014-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.4.2034-main

@@ -1227,6 +1227,9 @@
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.18.2738-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.18.2740-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.18.2741-github-actions
+- pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.19.2785-pull-470-merge
+- pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.19.2786-main
+- pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.19.2787
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.2.1872-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.2.1873-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.2.1874-main
@@ -1240,6 +1243,8 @@
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.2.1955-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.2.1956-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.2.1965-main
+- pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.20.2788-main
+- pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.20.2789-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.4.2013-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.4.2014-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.4.2034-main

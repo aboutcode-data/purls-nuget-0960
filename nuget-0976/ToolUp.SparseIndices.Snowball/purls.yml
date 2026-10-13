@@ -1,3 +1,4 @@
 - pkg:nuget/ToolUp.SparseIndices.Snowball@0.20.0
 - pkg:nuget/ToolUp.SparseIndices.Snowball@0.21.0
 - pkg:nuget/ToolUp.SparseIndices.Snowball@0.24.1
+- pkg:nuget/ToolUp.SparseIndices.Snowball@0.26.0

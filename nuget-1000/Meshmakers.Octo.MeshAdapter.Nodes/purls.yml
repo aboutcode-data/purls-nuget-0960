@@ -312,4 +312,6 @@
 - pkg:nuget/Meshmakers.Octo.MeshAdapter.Nodes@3.5.11
 - pkg:nuget/Meshmakers.Octo.MeshAdapter.Nodes@3.5.13
 - pkg:nuget/Meshmakers.Octo.MeshAdapter.Nodes@3.5.15
+- pkg:nuget/Meshmakers.Octo.MeshAdapter.Nodes@3.5.18
+- pkg:nuget/Meshmakers.Octo.MeshAdapter.Nodes@3.5.20
 - pkg:nuget/Meshmakers.Octo.MeshAdapter.Nodes@3.5.5

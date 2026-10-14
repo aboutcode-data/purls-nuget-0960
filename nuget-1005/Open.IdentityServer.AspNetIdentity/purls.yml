@@ -1,1 +1,2 @@
 - pkg:nuget/Open.IdentityServer.AspNetIdentity@1.0.1
+- pkg:nuget/Open.IdentityServer.AspNetIdentity@3.0.0

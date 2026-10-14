@@ -31,6 +31,7 @@
 - pkg:nuget/Indigina.IHub.PipelineMonitor.WebApi@1.0.40
 - pkg:nuget/Indigina.IHub.PipelineMonitor.WebApi@1.0.47
 - pkg:nuget/Indigina.IHub.PipelineMonitor.WebApi@1.0.5
+- pkg:nuget/Indigina.IHub.PipelineMonitor.WebApi@1.0.54
 - pkg:nuget/Indigina.IHub.PipelineMonitor.WebApi@1.0.6
 - pkg:nuget/Indigina.IHub.PipelineMonitor.WebApi@1.0.7
 - pkg:nuget/Indigina.IHub.PipelineMonitor.WebApi@1.0.8

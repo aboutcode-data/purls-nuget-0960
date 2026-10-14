@@ -1,4 +1,5 @@
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Core@0.10.0-snapshot.20261010010245
+- pkg:nuget/OpenRewrite.Recipes.CSharp.Core@0.10.0-snapshot.20261013171349
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Core@0.3.0-snapshot.20260609174555
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Core@0.3.0-snapshot.20260612175159
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Core@0.3.0-snapshot.20260616213401

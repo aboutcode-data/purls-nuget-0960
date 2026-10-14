@@ -11,6 +11,7 @@
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Task@10.0.203
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Task@10.0.302
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Task@10.0.400
+- pkg:nuget/Microsoft.DotNet.ApiCompat.Task@10.0.402
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Task@11.0.100-preview.4.26230.115
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Task@11.0.100-rc.1.26425.128
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Task@7.0.100
@@ -137,6 +138,7 @@
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Task@8.0.414
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Task@8.0.415
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Task@8.0.423
+- pkg:nuget/Microsoft.DotNet.ApiCompat.Task@8.0.426
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Task@9.0.100
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Task@9.0.100-preview.1.24101.1
 - pkg:nuget/Microsoft.DotNet.ApiCompat.Task@9.0.100-preview.2.24157.36

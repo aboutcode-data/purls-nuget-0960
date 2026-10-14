@@ -5,3 +5,5 @@
 - pkg:nuget/KernSmith.Rasterizers.Gdi@0.11.0
 - pkg:nuget/KernSmith.Rasterizers.Gdi@0.12.0
 - pkg:nuget/KernSmith.Rasterizers.Gdi@0.13.0
+- pkg:nuget/KernSmith.Rasterizers.Gdi@0.21.0
+- pkg:nuget/KernSmith.Rasterizers.Gdi@0.23.0

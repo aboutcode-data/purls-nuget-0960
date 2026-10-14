@@ -10,6 +10,7 @@
 - pkg:nuget/Soenneker.GraphQL.Generator@4.0.142
 - pkg:nuget/Soenneker.GraphQL.Generator@4.0.16
 - pkg:nuget/Soenneker.GraphQL.Generator@4.0.17
+- pkg:nuget/Soenneker.GraphQL.Generator@4.0.172
 - pkg:nuget/Soenneker.GraphQL.Generator@4.0.18
 - pkg:nuget/Soenneker.GraphQL.Generator@4.0.20
 - pkg:nuget/Soenneker.GraphQL.Generator@4.0.24

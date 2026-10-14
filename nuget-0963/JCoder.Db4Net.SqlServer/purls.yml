@@ -96,6 +96,7 @@
 - pkg:nuget/JCoder.Db4Net.SqlServer@3.24.1
 - pkg:nuget/JCoder.Db4Net.SqlServer@3.25.1
 - pkg:nuget/JCoder.Db4Net.SqlServer@3.26.1
+- pkg:nuget/JCoder.Db4Net.SqlServer@3.2618.1
 - pkg:nuget/JCoder.Db4Net.SqlServer@3.27.1
 - pkg:nuget/JCoder.Db4Net.SqlServer@3.28.1
 - pkg:nuget/JCoder.Db4Net.SqlServer@3.28.2

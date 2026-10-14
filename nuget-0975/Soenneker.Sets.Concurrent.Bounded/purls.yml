@@ -8,3 +8,4 @@
 - pkg:nuget/Soenneker.Sets.Concurrent.Bounded@4.0.47
 - pkg:nuget/Soenneker.Sets.Concurrent.Bounded@4.0.51
 - pkg:nuget/Soenneker.Sets.Concurrent.Bounded@4.0.59
+- pkg:nuget/Soenneker.Sets.Concurrent.Bounded@4.0.60

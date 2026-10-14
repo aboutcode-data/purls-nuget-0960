@@ -1,4 +1,8 @@
 - pkg:nuget/Soenneker.Attio.OpenApiClientUtil@4.0.1
+- pkg:nuget/Soenneker.Attio.OpenApiClientUtil@4.0.107
+- pkg:nuget/Soenneker.Attio.OpenApiClientUtil@4.0.109
+- pkg:nuget/Soenneker.Attio.OpenApiClientUtil@4.0.111
+- pkg:nuget/Soenneker.Attio.OpenApiClientUtil@4.0.120
 - pkg:nuget/Soenneker.Attio.OpenApiClientUtil@4.0.19
 - pkg:nuget/Soenneker.Attio.OpenApiClientUtil@4.0.22
 - pkg:nuget/Soenneker.Attio.OpenApiClientUtil@4.0.23
@@ -13,3 +17,4 @@
 - pkg:nuget/Soenneker.Attio.OpenApiClientUtil@4.0.76
 - pkg:nuget/Soenneker.Attio.OpenApiClientUtil@4.0.80
 - pkg:nuget/Soenneker.Attio.OpenApiClientUtil@4.0.88
+- pkg:nuget/Soenneker.Attio.OpenApiClientUtil@4.0.96

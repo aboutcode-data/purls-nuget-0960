@@ -25,3 +25,6 @@
 - pkg:nuget/Shiny.Blazor.Controls.SpeechAddins@1.6.0-beta-0004
 - pkg:nuget/Shiny.Blazor.Controls.SpeechAddins@1.7.0-beta-0009
 - pkg:nuget/Shiny.Blazor.Controls.SpeechAddins@1.7.0-beta-0016
+- pkg:nuget/Shiny.Blazor.Controls.SpeechAddins@1.7.0-beta-0020
+- pkg:nuget/Shiny.Blazor.Controls.SpeechAddins@1.7.0-beta-0029
+- pkg:nuget/Shiny.Blazor.Controls.SpeechAddins@1.7.0-beta-0036

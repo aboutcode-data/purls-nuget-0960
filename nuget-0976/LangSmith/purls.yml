@@ -99,6 +99,8 @@
 - pkg:nuget/LangSmith@2.0.2-dev.234
 - pkg:nuget/LangSmith@2.0.2-dev.235
 - pkg:nuget/LangSmith@2.0.2-dev.236
+- pkg:nuget/LangSmith@2.0.2-dev.238
+- pkg:nuget/LangSmith@2.0.2-dev.239
 - pkg:nuget/LangSmith@2.0.2-dev.42
 - pkg:nuget/LangSmith@2.0.2-dev.45
 - pkg:nuget/LangSmith@2.0.2-dev.62

@@ -150,4 +150,8 @@
 - pkg:nuget/Meshmakers.Octo.Services.Notifications@3.4.98
 - pkg:nuget/Meshmakers.Octo.Services.Notifications@3.5.17
 - pkg:nuget/Meshmakers.Octo.Services.Notifications@3.5.18
+- pkg:nuget/Meshmakers.Octo.Services.Notifications@3.5.39
+- pkg:nuget/Meshmakers.Octo.Services.Notifications@3.5.47
 - pkg:nuget/Meshmakers.Octo.Services.Notifications@3.5.5
+- pkg:nuget/Meshmakers.Octo.Services.Notifications@3.5.52
+- pkg:nuget/Meshmakers.Octo.Services.Notifications@3.5.53

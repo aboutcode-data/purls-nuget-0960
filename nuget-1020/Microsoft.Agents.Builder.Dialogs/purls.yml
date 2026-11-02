@@ -51,6 +51,10 @@
 - pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.1.91-beta
 - pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.1.93-beta
 - pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.1.95-beta
+- pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.10.14-beta
+- pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.10.16-beta
+- pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.10.3-beta
+- pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.10.7-beta
 - pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.2.1-beta
 - pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.2.10-beta
 - pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.2.17-beta
@@ -94,4 +98,9 @@
 - pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.8.16-beta
 - pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.8.34-beta
 - pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.9.15-beta
+- pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.9.179-beta
+- pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.9.190-beta
+- pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.9.205
 - pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.9.25-beta
+- pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.9.64-beta
+- pkg:nuget/Microsoft.Agents.Builder.Dialogs@1.9.69-beta

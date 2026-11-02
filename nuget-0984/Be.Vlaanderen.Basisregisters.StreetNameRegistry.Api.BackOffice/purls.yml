@@ -339,3 +339,4 @@
 - pkg:nuget/Be.Vlaanderen.Basisregisters.StreetNameRegistry.Api.BackOffice@6.0.3
 - pkg:nuget/Be.Vlaanderen.Basisregisters.StreetNameRegistry.Api.BackOffice@6.1.1
 - pkg:nuget/Be.Vlaanderen.Basisregisters.StreetNameRegistry.Api.BackOffice@6.1.4
+- pkg:nuget/Be.Vlaanderen.Basisregisters.StreetNameRegistry.Api.BackOffice@6.1.7

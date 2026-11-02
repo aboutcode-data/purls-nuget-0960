@@ -577,9 +577,11 @@
 - pkg:nuget/AWSSDK.OpenSearchServerless@4.0.1
 - pkg:nuget/AWSSDK.OpenSearchServerless@4.0.1.1
 - pkg:nuget/AWSSDK.OpenSearchServerless@4.0.100.1
+- pkg:nuget/AWSSDK.OpenSearchServerless@4.0.100.20
 - pkg:nuget/AWSSDK.OpenSearchServerless@4.0.100.4
 - pkg:nuget/AWSSDK.OpenSearchServerless@4.0.100.5
 - pkg:nuget/AWSSDK.OpenSearchServerless@4.0.100.8
+- pkg:nuget/AWSSDK.OpenSearchServerless@4.0.101.1
 - pkg:nuget/AWSSDK.OpenSearchServerless@4.0.2
 - pkg:nuget/AWSSDK.OpenSearchServerless@4.0.2.1
 - pkg:nuget/AWSSDK.OpenSearchServerless@4.0.2.2

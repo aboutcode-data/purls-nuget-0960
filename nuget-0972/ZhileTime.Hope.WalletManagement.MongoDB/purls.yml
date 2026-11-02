@@ -2,6 +2,7 @@
 - pkg:nuget/ZhileTime.Hope.WalletManagement.MongoDB@1.8.1
 - pkg:nuget/ZhileTime.Hope.WalletManagement.MongoDB@1.8.2
 - pkg:nuget/ZhileTime.Hope.WalletManagement.MongoDB@1.8.5
+- pkg:nuget/ZhileTime.Hope.WalletManagement.MongoDB@11.0.0
 - pkg:nuget/ZhileTime.Hope.WalletManagement.MongoDB@2.1.0
 - pkg:nuget/ZhileTime.Hope.WalletManagement.MongoDB@2.2.0
 - pkg:nuget/ZhileTime.Hope.WalletManagement.MongoDB@2.2.1
@@ -101,3 +102,4 @@
 - pkg:nuget/ZhileTime.Hope.WalletManagement.MongoDB@5.7.2
 - pkg:nuget/ZhileTime.Hope.WalletManagement.MongoDB@6.2.0
 - pkg:nuget/ZhileTime.Hope.WalletManagement.MongoDB@6.2.1
+- pkg:nuget/ZhileTime.Hope.WalletManagement.MongoDB@9.0.0

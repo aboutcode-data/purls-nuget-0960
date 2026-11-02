@@ -164,6 +164,7 @@
 - pkg:nuget/JetBrains.Platform.UIInteractive.Common@253.0.20260728.130907
 - pkg:nuget/JetBrains.Platform.UIInteractive.Common@253.0.20260827.160324
 - pkg:nuget/JetBrains.Platform.UIInteractive.Common@253.0.20260908.172535
+- pkg:nuget/JetBrains.Platform.UIInteractive.Common@253.0.20261029.113119
 - pkg:nuget/JetBrains.Platform.UIInteractive.Common@261.0.20260205.171218-eap03
 - pkg:nuget/JetBrains.Platform.UIInteractive.Common@261.0.20260305.201421-eap07
 - pkg:nuget/JetBrains.Platform.UIInteractive.Common@261.0.20260319.215402-rc01
@@ -172,6 +173,7 @@
 - pkg:nuget/JetBrains.Platform.UIInteractive.Common@261.0.20260701.132435
 - pkg:nuget/JetBrains.Platform.UIInteractive.Common@261.0.20260804.122418
 - pkg:nuget/JetBrains.Platform.UIInteractive.Common@261.0.20260827.135309
+- pkg:nuget/JetBrains.Platform.UIInteractive.Common@261.0.20261029.113607
 - pkg:nuget/JetBrains.Platform.UIInteractive.Common@262.0.20260527.204840-eap04
 - pkg:nuget/JetBrains.Platform.UIInteractive.Common@262.0.20260611.170508-eap06
 - pkg:nuget/JetBrains.Platform.UIInteractive.Common@262.0.20260702.125428-eap09
@@ -179,4 +181,8 @@
 - pkg:nuget/JetBrains.Platform.UIInteractive.Common@262.0.20260819.95541
 - pkg:nuget/JetBrains.Platform.UIInteractive.Common@262.0.20260909.200126
 - pkg:nuget/JetBrains.Platform.UIInteractive.Common@262.0.20260924.172949
+- pkg:nuget/JetBrains.Platform.UIInteractive.Common@262.0.20261030.12655
 - pkg:nuget/JetBrains.Platform.UIInteractive.Common@263.0.20260924.182804-eap04
+- pkg:nuget/JetBrains.Platform.UIInteractive.Common@263.0.20261015.214124-eap07
+- pkg:nuget/JetBrains.Platform.UIInteractive.Common@263.0.20261023.71039-eap08
+- pkg:nuget/JetBrains.Platform.UIInteractive.Common@263.0.20261029.132842-eap09

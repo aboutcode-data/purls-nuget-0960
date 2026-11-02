@@ -428,7 +428,10 @@
 - pkg:nuget/CTS.T4Definitions@4.7.72.547
 - pkg:nuget/CTS.T4Definitions@4.7.72.55
 - pkg:nuget/CTS.T4Definitions@4.7.72.554
+- pkg:nuget/CTS.T4Definitions@4.7.72.556
+- pkg:nuget/CTS.T4Definitions@4.7.72.557
 - pkg:nuget/CTS.T4Definitions@4.7.72.56
+- pkg:nuget/CTS.T4Definitions@4.7.72.565
 - pkg:nuget/CTS.T4Definitions@4.7.72.57
 - pkg:nuget/CTS.T4Definitions@4.7.72.58
 - pkg:nuget/CTS.T4Definitions@4.7.72.6

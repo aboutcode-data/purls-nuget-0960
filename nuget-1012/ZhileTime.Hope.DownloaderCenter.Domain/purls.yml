@@ -1,3 +1,6 @@
+- pkg:nuget/ZhileTime.Hope.DownloaderCenter.Domain@11.0.0
+- pkg:nuget/ZhileTime.Hope.DownloaderCenter.Domain@11.2.0
+- pkg:nuget/ZhileTime.Hope.DownloaderCenter.Domain@11.5.0
 - pkg:nuget/ZhileTime.Hope.DownloaderCenter.Domain@2.3.0
 - pkg:nuget/ZhileTime.Hope.DownloaderCenter.Domain@2.3.1
 - pkg:nuget/ZhileTime.Hope.DownloaderCenter.Domain@2.3.2

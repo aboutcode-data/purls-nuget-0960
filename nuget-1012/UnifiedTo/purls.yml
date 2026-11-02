@@ -37,8 +37,10 @@
 - pkg:nuget/UnifiedTo@0.131.32
 - pkg:nuget/UnifiedTo@0.131.34
 - pkg:nuget/UnifiedTo@0.131.36
+- pkg:nuget/UnifiedTo@0.131.40
 - pkg:nuget/UnifiedTo@0.131.6
 - pkg:nuget/UnifiedTo@0.131.7
+- pkg:nuget/UnifiedTo@0.132.5
 - pkg:nuget/UnifiedTo@0.14.0
 - pkg:nuget/UnifiedTo@0.14.1
 - pkg:nuget/UnifiedTo@0.15.0

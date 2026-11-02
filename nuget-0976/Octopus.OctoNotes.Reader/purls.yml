@@ -339,6 +339,7 @@
 - pkg:nuget/Octopus.OctoNotes.Reader@1.0.0
 - pkg:nuget/Octopus.OctoNotes.Reader@1.0.1
 - pkg:nuget/Octopus.OctoNotes.Reader@1.0.141
+- pkg:nuget/Octopus.OctoNotes.Reader@1.0.179
 - pkg:nuget/Octopus.OctoNotes.Reader@1.0.2
 - pkg:nuget/Octopus.OctoNotes.Reader@1.0.3
 - pkg:nuget/Octopus.OctoNotes.Reader@1.0.34

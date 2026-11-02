@@ -19,3 +19,6 @@
 - pkg:nuget/PocketCsvReader.Ndjson@2.36.6
 - pkg:nuget/PocketCsvReader.Ndjson@2.36.7
 - pkg:nuget/PocketCsvReader.Ndjson@2.36.9
+- pkg:nuget/PocketCsvReader.Ndjson@2.44.0
+- pkg:nuget/PocketCsvReader.Ndjson@2.51.0
+- pkg:nuget/PocketCsvReader.Ndjson@2.53.0

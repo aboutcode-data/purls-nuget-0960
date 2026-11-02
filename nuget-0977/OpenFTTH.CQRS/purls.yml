@@ -11,6 +11,8 @@
 - pkg:nuget/OpenFTTH.CQRS@1.5.0
 - pkg:nuget/OpenFTTH.CQRS@1.5.1
 - pkg:nuget/OpenFTTH.CQRS@1.5.2
+- pkg:nuget/OpenFTTH.CQRS@11.0.0
+- pkg:nuget/OpenFTTH.CQRS@11.1.0
 - pkg:nuget/OpenFTTH.CQRS@2.0.0
 - pkg:nuget/OpenFTTH.CQRS@2.0.1
 - pkg:nuget/OpenFTTH.CQRS@2.1.0

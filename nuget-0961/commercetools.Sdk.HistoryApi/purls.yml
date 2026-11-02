@@ -14,6 +14,7 @@
 - pkg:nuget/commercetools.Sdk.HistoryApi@11.12.0
 - pkg:nuget/commercetools.Sdk.HistoryApi@11.13.0
 - pkg:nuget/commercetools.Sdk.HistoryApi@11.14.0
+- pkg:nuget/commercetools.Sdk.HistoryApi@11.14.1
 - pkg:nuget/commercetools.Sdk.HistoryApi@11.2.0
 - pkg:nuget/commercetools.Sdk.HistoryApi@11.3.0
 - pkg:nuget/commercetools.Sdk.HistoryApi@11.4.0
@@ -28,6 +29,7 @@
 - pkg:nuget/commercetools.Sdk.HistoryApi@12.11.0
 - pkg:nuget/commercetools.Sdk.HistoryApi@12.12.0
 - pkg:nuget/commercetools.Sdk.HistoryApi@12.13.0
+- pkg:nuget/commercetools.Sdk.HistoryApi@12.13.1
 - pkg:nuget/commercetools.Sdk.HistoryApi@12.2.0
 - pkg:nuget/commercetools.Sdk.HistoryApi@12.3.0
 - pkg:nuget/commercetools.Sdk.HistoryApi@12.4.0
@@ -38,7 +40,9 @@
 - pkg:nuget/commercetools.Sdk.HistoryApi@12.9.0
 - pkg:nuget/commercetools.Sdk.HistoryApi@13.0.0
 - pkg:nuget/commercetools.Sdk.HistoryApi@13.1.0
+- pkg:nuget/commercetools.Sdk.HistoryApi@13.1.1
 - pkg:nuget/commercetools.Sdk.HistoryApi@14.0.0
+- pkg:nuget/commercetools.Sdk.HistoryApi@14.3.2
 - pkg:nuget/commercetools.Sdk.HistoryApi@15.6.0
 - pkg:nuget/commercetools.Sdk.HistoryApi@2.0.0
 - pkg:nuget/commercetools.Sdk.HistoryApi@2.1.0

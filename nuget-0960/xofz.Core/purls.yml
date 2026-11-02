@@ -158,4 +158,10 @@
 - pkg:nuget/xofz.Core@2.4.19
 - pkg:nuget/xofz.Core@2.4.21
 - pkg:nuget/xofz.Core@2.4.33
+- pkg:nuget/xofz.Core@2.4.38
+- pkg:nuget/xofz.Core@2.4.39
+- pkg:nuget/xofz.Core@2.4.40
+- pkg:nuget/xofz.Core@2.4.47
+- pkg:nuget/xofz.Core@2.4.64
+- pkg:nuget/xofz.Core@2.4.76
 - pkg:nuget/xofz.Core@2.4.9

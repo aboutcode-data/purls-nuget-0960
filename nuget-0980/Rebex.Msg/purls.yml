@@ -46,7 +46,9 @@
 - pkg:nuget/Rebex.Msg@7.0.9209
 - pkg:nuget/Rebex.Msg@7.0.9313
 - pkg:nuget/Rebex.Msg@7.0.9391
+- pkg:nuget/Rebex.Msg@7.0.9796
 - pkg:nuget/Rebex.Msg@8.0.9531-rc.3
 - pkg:nuget/Rebex.Msg@8.0.9663
 - pkg:nuget/Rebex.Msg@8.0.9673
 - pkg:nuget/Rebex.Msg@8.0.9709
+- pkg:nuget/Rebex.Msg@8.0.9797

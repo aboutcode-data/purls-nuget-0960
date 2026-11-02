@@ -7,6 +7,8 @@
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.MailPit@13.4.1-beta.676
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.MailPit@13.5.1-beta.751
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.MailPit@13.5.1-beta.763
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.MailPit@13.5.1-beta.895
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.MailPit@13.6.1-beta.935
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.MailPit@9.2.0
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.MailPit@9.2.0-beta.198
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.MailPit@9.2.0-beta.199

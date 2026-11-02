@@ -1,4 +1,5 @@
 - pkg:nuget/Lion.AbpPro.DataDictionaryManagement.HttpApi@10.0.1.1
+- pkg:nuget/Lion.AbpPro.DataDictionaryManagement.HttpApi@10.7.0.1
 - pkg:nuget/Lion.AbpPro.DataDictionaryManagement.HttpApi@5.0.1.1
 - pkg:nuget/Lion.AbpPro.DataDictionaryManagement.HttpApi@5.0.1.2
 - pkg:nuget/Lion.AbpPro.DataDictionaryManagement.HttpApi@5.0.1.3

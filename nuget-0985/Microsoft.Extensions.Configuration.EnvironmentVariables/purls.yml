@@ -21,6 +21,7 @@
 - pkg:nuget/Microsoft.Extensions.Configuration.EnvironmentVariables@11.0.0-preview.1.26104.118
 - pkg:nuget/Microsoft.Extensions.Configuration.EnvironmentVariables@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.Extensions.Configuration.EnvironmentVariables@11.0.0-rc.1.26425.128
+- pkg:nuget/Microsoft.Extensions.Configuration.EnvironmentVariables@11.0.0-rc.3.26522.148
 - pkg:nuget/Microsoft.Extensions.Configuration.EnvironmentVariables@2.0.0
 - pkg:nuget/Microsoft.Extensions.Configuration.EnvironmentVariables@2.0.0-preview1-final
 - pkg:nuget/Microsoft.Extensions.Configuration.EnvironmentVariables@2.0.0-preview2-final
@@ -145,6 +146,7 @@
 - pkg:nuget/Microsoft.Extensions.Configuration.EnvironmentVariables@9.0.16
 - pkg:nuget/Microsoft.Extensions.Configuration.EnvironmentVariables@9.0.19
 - pkg:nuget/Microsoft.Extensions.Configuration.EnvironmentVariables@9.0.2
+- pkg:nuget/Microsoft.Extensions.Configuration.EnvironmentVariables@9.0.22
 - pkg:nuget/Microsoft.Extensions.Configuration.EnvironmentVariables@9.0.3
 - pkg:nuget/Microsoft.Extensions.Configuration.EnvironmentVariables@9.0.4
 - pkg:nuget/Microsoft.Extensions.Configuration.EnvironmentVariables@9.0.5

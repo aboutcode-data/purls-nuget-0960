@@ -7,6 +7,7 @@
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1007.20
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1007.23
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1007.24
+- pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1007.29
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1007.5
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1007.6
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1011.0
@@ -41,7 +42,13 @@
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1068.0
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1069.0
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1075.0-alpha.13426-vcst-5748
+- pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1076.11
+- pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1076.7
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1083.0
+- pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1087.0
+- pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1087.0-alpha.13436-vcst-6121-passkeys
+- pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1088.0-alpha.13453-vcst-5904
+- pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1092.0-alpha.13453-vcst-4717
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.264.0
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.264.0-alpha.12523
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.264.1

@@ -105,6 +105,7 @@
 - pkg:nuget/Umbraco.Cms.Infrastructure@13.11.0
 - pkg:nuget/Umbraco.Cms.Infrastructure@13.14.0-rc
 - pkg:nuget/Umbraco.Cms.Infrastructure@13.14.0-rc2
+- pkg:nuget/Umbraco.Cms.Infrastructure@13.16.4
 - pkg:nuget/Umbraco.Cms.Infrastructure@13.2.0
 - pkg:nuget/Umbraco.Cms.Infrastructure@13.2.0-rc
 - pkg:nuget/Umbraco.Cms.Infrastructure@13.2.1
@@ -202,6 +203,9 @@
 - pkg:nuget/Umbraco.Cms.Infrastructure@17.3.0-rc3
 - pkg:nuget/Umbraco.Cms.Infrastructure@17.4.0-rc
 - pkg:nuget/Umbraco.Cms.Infrastructure@17.5.0
+- pkg:nuget/Umbraco.Cms.Infrastructure@17.8.0
+- pkg:nuget/Umbraco.Cms.Infrastructure@18.3.0
+- pkg:nuget/Umbraco.Cms.Infrastructure@19.0.0-beta1
 - pkg:nuget/Umbraco.Cms.Infrastructure@9.0.0
 - pkg:nuget/Umbraco.Cms.Infrastructure@9.0.0-rc001
 - pkg:nuget/Umbraco.Cms.Infrastructure@9.0.0-rc002

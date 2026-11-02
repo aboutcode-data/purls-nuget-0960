@@ -10,3 +10,5 @@
 - pkg:nuget/elfinder.Net8@8.0.7
 - pkg:nuget/elfinder.Net8@8.0.8
 - pkg:nuget/elfinder.Net8@8.0.9
+- pkg:nuget/elfinder.Net8@8.1.10
+- pkg:nuget/elfinder.Net8@8.1.6

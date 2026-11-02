@@ -25,3 +25,5 @@
 - pkg:nuget/TopModel.Generator.Csharp@4.3.3
 - pkg:nuget/TopModel.Generator.Csharp@4.4.0
 - pkg:nuget/TopModel.Generator.Csharp@4.5.2
+- pkg:nuget/TopModel.Generator.Csharp@4.5.8
+- pkg:nuget/TopModel.Generator.Csharp@4.6.2

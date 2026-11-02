@@ -98,3 +98,5 @@
 - pkg:nuget/DicomObjects@8.48.230
 - pkg:nuget/DicomObjects@8.48.231
 - pkg:nuget/DicomObjects@8.48.237
+- pkg:nuget/DicomObjects@8.48.238.6-preview
+- pkg:nuget/DicomObjects@8.48.238.7-preview

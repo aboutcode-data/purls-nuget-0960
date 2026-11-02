@@ -160,3 +160,8 @@
 - pkg:nuget/HotChocolate.Execution.Pipeline@16.7.0-p.23
 - pkg:nuget/HotChocolate.Execution.Pipeline@16.7.0-p.25
 - pkg:nuget/HotChocolate.Execution.Pipeline@16.7.0-p.26
+- pkg:nuget/HotChocolate.Execution.Pipeline@16.7.0-p.32
+- pkg:nuget/HotChocolate.Execution.Pipeline@16.7.0-p.33
+- pkg:nuget/HotChocolate.Execution.Pipeline@16.8.0-p.4
+- pkg:nuget/HotChocolate.Execution.Pipeline@16.8.0-p.8
+- pkg:nuget/HotChocolate.Execution.Pipeline@16.8.0-p.9

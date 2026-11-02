@@ -3,3 +3,4 @@
 - pkg:nuget/Endatix.Persistence.PostgreSql@0.4.0
 - pkg:nuget/Endatix.Persistence.PostgreSql@0.4.1
 - pkg:nuget/Endatix.Persistence.PostgreSql@0.4.2
+- pkg:nuget/Endatix.Persistence.PostgreSql@0.7.8

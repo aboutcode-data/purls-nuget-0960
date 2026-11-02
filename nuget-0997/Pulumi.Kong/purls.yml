@@ -456,3 +456,6 @@
 - pkg:nuget/Pulumi.Kong@4.7.0-alpha.1784011364
 - pkg:nuget/Pulumi.Kong@4.7.0-alpha.1787819007
 - pkg:nuget/Pulumi.Kong@4.7.0-alpha.1788846994
+- pkg:nuget/Pulumi.Kong@4.7.0-alpha.1792130523
+- pkg:nuget/Pulumi.Kong@4.7.0-alpha.1792649016
+- pkg:nuget/Pulumi.Kong@4.7.0-alpha.1793374062

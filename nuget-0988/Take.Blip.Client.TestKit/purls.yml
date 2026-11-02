@@ -522,3 +522,5 @@
 - pkg:nuget/Take.Blip.Client.TestKit@0.7.562
 - pkg:nuget/Take.Blip.Client.TestKit@0.7.600
 - pkg:nuget/Take.Blip.Client.TestKit@0.7.646
+- pkg:nuget/Take.Blip.Client.TestKit@0.7.671
+- pkg:nuget/Take.Blip.Client.TestKit@0.7.672

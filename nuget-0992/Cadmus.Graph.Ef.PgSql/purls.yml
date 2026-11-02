@@ -1,5 +1,6 @@
 - pkg:nuget/Cadmus.Graph.Ef.PgSql@10.0.7
 - pkg:nuget/Cadmus.Graph.Ef.PgSql@14.0.1
+- pkg:nuget/Cadmus.Graph.Ef.PgSql@16.0.14
 - pkg:nuget/Cadmus.Graph.Ef.PgSql@2.2.10
 - pkg:nuget/Cadmus.Graph.Ef.PgSql@2.2.11
 - pkg:nuget/Cadmus.Graph.Ef.PgSql@2.2.12

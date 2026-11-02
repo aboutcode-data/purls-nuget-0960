@@ -25,6 +25,7 @@
 - pkg:nuget/VirtoCommerce.ContentModule.Data@3.1003.2
 - pkg:nuget/VirtoCommerce.ContentModule.Data@3.1006.1
 - pkg:nuget/VirtoCommerce.ContentModule.Data@3.1007.0
+- pkg:nuget/VirtoCommerce.ContentModule.Data@3.1008.0
 - pkg:nuget/VirtoCommerce.ContentModule.Data@3.11.0
 - pkg:nuget/VirtoCommerce.ContentModule.Data@3.11.0-alpha.705
 - pkg:nuget/VirtoCommerce.ContentModule.Data@3.11.0-alpha.711

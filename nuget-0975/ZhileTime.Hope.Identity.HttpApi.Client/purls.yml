@@ -32,6 +32,7 @@
 - pkg:nuget/ZhileTime.Hope.Identity.HttpApi.Client@1.8.1
 - pkg:nuget/ZhileTime.Hope.Identity.HttpApi.Client@1.8.2
 - pkg:nuget/ZhileTime.Hope.Identity.HttpApi.Client@1.8.5
+- pkg:nuget/ZhileTime.Hope.Identity.HttpApi.Client@10.0.1
 - pkg:nuget/ZhileTime.Hope.Identity.HttpApi.Client@2.1.0
 - pkg:nuget/ZhileTime.Hope.Identity.HttpApi.Client@2.2.0
 - pkg:nuget/ZhileTime.Hope.Identity.HttpApi.Client@2.2.1

@@ -43,6 +43,7 @@
 - pkg:nuget/Cav.Core@11.2.0
 - pkg:nuget/Cav.Core@11.3.0
 - pkg:nuget/Cav.Core@11.3.1
+- pkg:nuget/Cav.Core@12.1.0-dev.202610152103
 - pkg:nuget/Cav.Core@2.0.0
 - pkg:nuget/Cav.Core@2.1.0
 - pkg:nuget/Cav.Core@2.10.0

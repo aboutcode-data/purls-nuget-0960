@@ -3,6 +3,9 @@
 - pkg:nuget/Messaia.Net.Base.Template.Enums@10.0.3
 - pkg:nuget/Messaia.Net.Base.Template.Enums@10.1.0-rc03
 - pkg:nuget/Messaia.Net.Base.Template.Enums@10.1.0-rc04
+- pkg:nuget/Messaia.Net.Base.Template.Enums@10.1.2-rc03
+- pkg:nuget/Messaia.Net.Base.Template.Enums@10.2.0-beta06
+- pkg:nuget/Messaia.Net.Base.Template.Enums@10.2.0-beta13
 - pkg:nuget/Messaia.Net.Base.Template.Enums@6.0.4
 - pkg:nuget/Messaia.Net.Base.Template.Enums@6.0.5
 - pkg:nuget/Messaia.Net.Base.Template.Enums@6.0.6

@@ -273,3 +273,5 @@
 - pkg:nuget/JetBrains.dotMemory.Console.windows-x86@2026.2.0.1
 - pkg:nuget/JetBrains.dotMemory.Console.windows-x86@2026.2.1
 - pkg:nuget/JetBrains.dotMemory.Console.windows-x86@2026.2.2
+- pkg:nuget/JetBrains.dotMemory.Console.windows-x86@2026.3.0-eap07
+- pkg:nuget/JetBrains.dotMemory.Console.windows-x86@2026.3.0-eap08

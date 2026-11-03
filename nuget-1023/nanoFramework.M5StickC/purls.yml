@@ -253,3 +253,4 @@
 - pkg:nuget/nanoFramework.M5StickC@1.1.96
 - pkg:nuget/nanoFramework.M5StickC@1.1.98
 - pkg:nuget/nanoFramework.M5StickC@2.0.0-preview.14
+- pkg:nuget/nanoFramework.M5StickC@2.0.0-preview.24

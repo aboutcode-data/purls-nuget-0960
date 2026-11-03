@@ -1,3 +1,5 @@
 - pkg:nuget/Aiursoft.DbTools.PostgreSql@10.0.17
 - pkg:nuget/Aiursoft.DbTools.PostgreSql@10.0.21
 - pkg:nuget/Aiursoft.DbTools.PostgreSql@10.0.30
+- pkg:nuget/Aiursoft.DbTools.PostgreSql@10.0.35
+- pkg:nuget/Aiursoft.DbTools.PostgreSql@10.0.36

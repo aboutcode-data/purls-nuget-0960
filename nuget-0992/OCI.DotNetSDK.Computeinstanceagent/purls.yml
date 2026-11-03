@@ -58,6 +58,7 @@
 - pkg:nuget/OCI.DotNetSDK.Computeinstanceagent@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Computeinstanceagent@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Computeinstanceagent@15.2.0
+- pkg:nuget/OCI.DotNetSDK.Computeinstanceagent@150.0.0
 - pkg:nuget/OCI.DotNetSDK.Computeinstanceagent@16.0.0
 - pkg:nuget/OCI.DotNetSDK.Computeinstanceagent@17.0.0
 - pkg:nuget/OCI.DotNetSDK.Computeinstanceagent@17.1.0

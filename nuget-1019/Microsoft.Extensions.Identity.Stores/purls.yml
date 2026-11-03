@@ -205,6 +205,7 @@
 - pkg:nuget/Microsoft.Extensions.Identity.Stores@8.0.21
 - pkg:nuget/Microsoft.Extensions.Identity.Stores@8.0.29
 - pkg:nuget/Microsoft.Extensions.Identity.Stores@8.0.3
+- pkg:nuget/Microsoft.Extensions.Identity.Stores@8.0.33
 - pkg:nuget/Microsoft.Extensions.Identity.Stores@8.0.4
 - pkg:nuget/Microsoft.Extensions.Identity.Stores@8.0.5
 - pkg:nuget/Microsoft.Extensions.Identity.Stores@8.0.6

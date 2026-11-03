@@ -1,5 +1,15 @@
+- pkg:nuget/Marqdouj.DotNet.AzureMaps@10.0.0
 - pkg:nuget/Marqdouj.DotNet.AzureMaps@10.0.0-rc-3.2
+- pkg:nuget/Marqdouj.DotNet.AzureMaps@10.1.0
+- pkg:nuget/Marqdouj.DotNet.AzureMaps@10.2.0
+- pkg:nuget/Marqdouj.DotNet.AzureMaps@10.3.0
+- pkg:nuget/Marqdouj.DotNet.AzureMaps@10.3.1
+- pkg:nuget/Marqdouj.DotNet.AzureMaps@10.3.2
+- pkg:nuget/Marqdouj.DotNet.AzureMaps@10.3.3
+- pkg:nuget/Marqdouj.DotNet.AzureMaps@10.3.4
 - pkg:nuget/Marqdouj.DotNet.AzureMaps@10.3.5
+- pkg:nuget/Marqdouj.DotNet.AzureMaps@10.3.6
+- pkg:nuget/Marqdouj.DotNet.AzureMaps@10.3.7
 - pkg:nuget/Marqdouj.DotNet.AzureMaps@10.6.1
 - pkg:nuget/Marqdouj.DotNet.AzureMaps@10.7.2
 - pkg:nuget/Marqdouj.DotNet.AzureMaps@10.7.6

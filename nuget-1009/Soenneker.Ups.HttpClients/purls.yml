@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Ups.HttpClients@11.0.162
+- pkg:nuget/Soenneker.Ups.HttpClients@11.0.164
 - pkg:nuget/Soenneker.Ups.HttpClients@4.0.1
 - pkg:nuget/Soenneker.Ups.HttpClients@4.0.102
 - pkg:nuget/Soenneker.Ups.HttpClients@4.0.111

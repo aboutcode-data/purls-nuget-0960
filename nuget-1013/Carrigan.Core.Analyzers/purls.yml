@@ -16,3 +16,4 @@
 - pkg:nuget/Carrigan.Core.Analyzers@0.1.3-alpha.202606100502
 - pkg:nuget/Carrigan.Core.Analyzers@0.1.5
 - pkg:nuget/Carrigan.Core.Analyzers@0.1.6-alpha.202609040249
+- pkg:nuget/Carrigan.Core.Analyzers@0.1.8

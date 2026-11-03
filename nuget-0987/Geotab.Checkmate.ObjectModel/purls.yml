@@ -12,6 +12,12 @@
 - pkg:nuget/Geotab.Checkmate.ObjectModel@11.0.2
 - pkg:nuget/Geotab.Checkmate.ObjectModel@11.0.4143
 - pkg:nuget/Geotab.Checkmate.ObjectModel@11.0.6226
+- pkg:nuget/Geotab.Checkmate.ObjectModel@11.107.160
+- pkg:nuget/Geotab.Checkmate.ObjectModel@11.109.349
+- pkg:nuget/Geotab.Checkmate.ObjectModel@11.118.421
+- pkg:nuget/Geotab.Checkmate.ObjectModel@11.139.528
+- pkg:nuget/Geotab.Checkmate.ObjectModel@11.143.432
+- pkg:nuget/Geotab.Checkmate.ObjectModel@11.149.668
 - pkg:nuget/Geotab.Checkmate.ObjectModel@11.18.175
 - pkg:nuget/Geotab.Checkmate.ObjectModel@11.25.194
 - pkg:nuget/Geotab.Checkmate.ObjectModel@11.29.158
@@ -24,6 +30,7 @@
 - pkg:nuget/Geotab.Checkmate.ObjectModel@11.68.266
 - pkg:nuget/Geotab.Checkmate.ObjectModel@11.7.179
 - pkg:nuget/Geotab.Checkmate.ObjectModel@11.83.265
+- pkg:nuget/Geotab.Checkmate.ObjectModel@11.98.302
 - pkg:nuget/Geotab.Checkmate.ObjectModel@5.7.1606.430
 - pkg:nuget/Geotab.Checkmate.ObjectModel@5.7.1608
 - pkg:nuget/Geotab.Checkmate.ObjectModel@5.7.1609

@@ -9,3 +9,4 @@
 - pkg:nuget/Leistd.Security.OpenIddict.Server@1.3.0-beta.89
 - pkg:nuget/Leistd.Security.OpenIddict.Server@1.3.0-beta.95
 - pkg:nuget/Leistd.Security.OpenIddict.Server@1.3.0-beta.99
+- pkg:nuget/Leistd.Security.OpenIddict.Server@2.0.0-beta.167

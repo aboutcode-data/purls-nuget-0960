@@ -41,6 +41,7 @@
 - pkg:nuget/Volo.Abp.AspNetCore.Mvc.UI.Bundling@10.5.0-rc.1
 - pkg:nuget/Volo.Abp.AspNetCore.Mvc.UI.Bundling@10.6.0-rc.3
 - pkg:nuget/Volo.Abp.AspNetCore.Mvc.UI.Bundling@10.6.3
+- pkg:nuget/Volo.Abp.AspNetCore.Mvc.UI.Bundling@10.7.1
 - pkg:nuget/Volo.Abp.AspNetCore.Mvc.UI.Bundling@11.0.0-rc.1
 - pkg:nuget/Volo.Abp.AspNetCore.Mvc.UI.Bundling@2.0.0
 - pkg:nuget/Volo.Abp.AspNetCore.Mvc.UI.Bundling@2.0.1

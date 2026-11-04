@@ -1,2 +1,8 @@
 - pkg:nuget/Lexicom.Testing.DependencyInjection.EntityFramework@10.0.25
 - pkg:nuget/Lexicom.Testing.DependencyInjection.EntityFramework@10.0.27
+- pkg:nuget/Lexicom.Testing.DependencyInjection.EntityFramework@10.0.33
+- pkg:nuget/Lexicom.Testing.DependencyInjection.EntityFramework@10.0.38
+- pkg:nuget/Lexicom.Testing.DependencyInjection.EntityFramework@10.0.41
+- pkg:nuget/Lexicom.Testing.DependencyInjection.EntityFramework@10.0.53
+- pkg:nuget/Lexicom.Testing.DependencyInjection.EntityFramework@10.0.54
+- pkg:nuget/Lexicom.Testing.DependencyInjection.EntityFramework@9.0.17

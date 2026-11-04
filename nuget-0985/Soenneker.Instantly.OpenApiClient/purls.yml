@@ -2,6 +2,7 @@
 - pkg:nuget/Soenneker.Instantly.OpenApiClient@11.0.354
 - pkg:nuget/Soenneker.Instantly.OpenApiClient@11.0.358
 - pkg:nuget/Soenneker.Instantly.OpenApiClient@11.0.359
+- pkg:nuget/Soenneker.Instantly.OpenApiClient@11.0.368
 - pkg:nuget/Soenneker.Instantly.OpenApiClient@3.0.10
 - pkg:nuget/Soenneker.Instantly.OpenApiClient@3.0.11
 - pkg:nuget/Soenneker.Instantly.OpenApiClient@3.0.12

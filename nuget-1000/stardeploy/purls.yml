@@ -38,3 +38,5 @@
 - pkg:nuget/stardeploy@1.0.2026.601
 - pkg:nuget/stardeploy@1.0.2026.601-beta1608
 - pkg:nuget/stardeploy@1.0.2026.720-beta1136
+- pkg:nuget/stardeploy@1.1.2026.1018-beta1738
+- pkg:nuget/stardeploy@1.1.2026.1020-beta1615

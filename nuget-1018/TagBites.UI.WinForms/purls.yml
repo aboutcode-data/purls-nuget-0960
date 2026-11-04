@@ -145,6 +145,7 @@
 - pkg:nuget/TagBites.UI.WinForms@1.0.7-preview7
 - pkg:nuget/TagBites.UI.WinForms@1.0.7-preview8
 - pkg:nuget/TagBites.UI.WinForms@1.0.7-preview9
+- pkg:nuget/TagBites.UI.WinForms@1.0.73
 - pkg:nuget/TagBites.UI.WinForms@1.0.8-preview1
 - pkg:nuget/TagBites.UI.WinForms@1.0.8-preview2
 - pkg:nuget/TagBites.UI.WinForms@1.0.8-preview3

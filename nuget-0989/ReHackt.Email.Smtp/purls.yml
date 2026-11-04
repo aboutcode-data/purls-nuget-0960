@@ -6,6 +6,7 @@
 - pkg:nuget/ReHackt.Email.Smtp@1.1.1
 - pkg:nuget/ReHackt.Email.Smtp@1.1.2
 - pkg:nuget/ReHackt.Email.Smtp@10.0.6
+- pkg:nuget/ReHackt.Email.Smtp@10.1.0
 - pkg:nuget/ReHackt.Email.Smtp@7.0.0
 - pkg:nuget/ReHackt.Email.Smtp@7.1.0
 - pkg:nuget/ReHackt.Email.Smtp@7.1.1

@@ -26,6 +26,7 @@
 - pkg:nuget/Soenneker.Utils.Delay@3.0.5
 - pkg:nuget/Soenneker.Utils.Delay@3.0.8
 - pkg:nuget/Soenneker.Utils.Delay@3.0.9
+- pkg:nuget/Soenneker.Utils.Delay@4.0.101
 - pkg:nuget/Soenneker.Utils.Delay@4.0.35
 - pkg:nuget/Soenneker.Utils.Delay@4.0.36
 - pkg:nuget/Soenneker.Utils.Delay@4.0.58
@@ -35,3 +36,5 @@
 - pkg:nuget/Soenneker.Utils.Delay@4.0.79
 - pkg:nuget/Soenneker.Utils.Delay@4.0.86
 - pkg:nuget/Soenneker.Utils.Delay@4.0.90
+- pkg:nuget/Soenneker.Utils.Delay@4.0.95
+- pkg:nuget/Soenneker.Utils.Delay@4.0.96

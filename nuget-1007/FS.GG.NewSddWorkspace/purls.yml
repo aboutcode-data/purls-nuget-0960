@@ -1,2 +1,6 @@
 - pkg:nuget/FS.GG.NewSddWorkspace@0.10.1
+- pkg:nuget/FS.GG.NewSddWorkspace@0.14.0
+- pkg:nuget/FS.GG.NewSddWorkspace@0.17.0
+- pkg:nuget/FS.GG.NewSddWorkspace@0.21.0
+- pkg:nuget/FS.GG.NewSddWorkspace@0.23.0
 - pkg:nuget/FS.GG.NewSddWorkspace@0.8.0

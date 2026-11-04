@@ -1,0 +1,9 @@
+- pkg:nuget/ioxide.redis@0.0.4
+- pkg:nuget/ioxide.redis@0.0.8
+- pkg:nuget/ioxide.redis@0.13.218
+- pkg:nuget/ioxide.redis@0.15.251
+- pkg:nuget/ioxide.redis@0.16.281
+- pkg:nuget/ioxide.redis@0.4.168
+- pkg:nuget/ioxide.redis@0.4.184
+- pkg:nuget/ioxide.redis@0.7.209
+- pkg:nuget/ioxide.redis@0.7.211

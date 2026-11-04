@@ -118,3 +118,5 @@
 - pkg:nuget/Umbraco.Workflow.StaticAssets@17.4.0-rc
 - pkg:nuget/Umbraco.Workflow.StaticAssets@18.0.0-rc3
 - pkg:nuget/Umbraco.Workflow.StaticAssets@18.1.0-rc
+- pkg:nuget/Umbraco.Workflow.StaticAssets@18.2.5
+- pkg:nuget/Umbraco.Workflow.StaticAssets@18.3.0-rc2

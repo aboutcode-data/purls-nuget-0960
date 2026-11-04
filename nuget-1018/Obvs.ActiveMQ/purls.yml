@@ -47,6 +47,12 @@
 - pkg:nuget/Obvs.ActiveMQ@5.0.2.36
 - pkg:nuget/Obvs.ActiveMQ@5.0.2.37
 - pkg:nuget/Obvs.ActiveMQ@6.0.10
+- pkg:nuget/Obvs.ActiveMQ@6.0.22
+- pkg:nuget/Obvs.ActiveMQ@6.0.23
+- pkg:nuget/Obvs.ActiveMQ@6.0.24
+- pkg:nuget/Obvs.ActiveMQ@6.0.25
+- pkg:nuget/Obvs.ActiveMQ@6.0.27
+- pkg:nuget/Obvs.ActiveMQ@6.0.29
 - pkg:nuget/Obvs.ActiveMQ@6.0.5
 - pkg:nuget/Obvs.ActiveMQ@6.0.8
 - pkg:nuget/Obvs.ActiveMQ@6.0.9

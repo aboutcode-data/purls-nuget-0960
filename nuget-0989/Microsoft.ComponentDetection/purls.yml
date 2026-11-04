@@ -115,3 +115,5 @@
 - pkg:nuget/Microsoft.ComponentDetection@7.1.7
 - pkg:nuget/Microsoft.ComponentDetection@8.0.2
 - pkg:nuget/Microsoft.ComponentDetection@8.0.3
+- pkg:nuget/Microsoft.ComponentDetection@8.0.7
+- pkg:nuget/Microsoft.ComponentDetection@8.0.8

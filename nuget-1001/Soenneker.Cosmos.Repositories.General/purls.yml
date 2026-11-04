@@ -1,3 +1,9 @@
+- pkg:nuget/Soenneker.Cosmos.Repositories.General@11.0.780
+- pkg:nuget/Soenneker.Cosmos.Repositories.General@11.0.787
+- pkg:nuget/Soenneker.Cosmos.Repositories.General@11.0.789
+- pkg:nuget/Soenneker.Cosmos.Repositories.General@11.0.790
+- pkg:nuget/Soenneker.Cosmos.Repositories.General@11.0.794
+- pkg:nuget/Soenneker.Cosmos.Repositories.General@11.0.805
 - pkg:nuget/Soenneker.Cosmos.Repositories.General@3.0.1
 - pkg:nuget/Soenneker.Cosmos.Repositories.General@3.0.10
 - pkg:nuget/Soenneker.Cosmos.Repositories.General@3.0.100
@@ -360,3 +366,4 @@
 - pkg:nuget/Soenneker.Cosmos.Repositories.General@4.0.751
 - pkg:nuget/Soenneker.Cosmos.Repositories.General@4.0.754
 - pkg:nuget/Soenneker.Cosmos.Repositories.General@4.0.775
+- pkg:nuget/Soenneker.Cosmos.Repositories.General@4.0.778

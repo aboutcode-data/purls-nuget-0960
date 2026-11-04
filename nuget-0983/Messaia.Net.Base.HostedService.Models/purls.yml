@@ -6,6 +6,7 @@
 - pkg:nuget/Messaia.Net.Base.HostedService.Models@10.1.2-rc03
 - pkg:nuget/Messaia.Net.Base.HostedService.Models@10.2.0-beta06
 - pkg:nuget/Messaia.Net.Base.HostedService.Models@10.2.0-beta13
+- pkg:nuget/Messaia.Net.Base.HostedService.Models@10.2.0-beta14
 - pkg:nuget/Messaia.Net.Base.HostedService.Models@6.0.0
 - pkg:nuget/Messaia.Net.Base.HostedService.Models@6.0.1
 - pkg:nuget/Messaia.Net.Base.HostedService.Models@6.0.2

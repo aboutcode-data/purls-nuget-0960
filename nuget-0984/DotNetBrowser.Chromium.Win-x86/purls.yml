@@ -30,6 +30,13 @@
 - pkg:nuget/DotNetBrowser.Chromium.Win-x86@3.3.1
 - pkg:nuget/DotNetBrowser.Chromium.Win-x86@3.3.2
 - pkg:nuget/DotNetBrowser.Chromium.Win-x86@3.3.3
+- pkg:nuget/DotNetBrowser.Chromium.Win-x86@3.3.4
+- pkg:nuget/DotNetBrowser.Chromium.Win-x86@3.3.5
+- pkg:nuget/DotNetBrowser.Chromium.Win-x86@3.3.6
+- pkg:nuget/DotNetBrowser.Chromium.Win-x86@3.3.7
+- pkg:nuget/DotNetBrowser.Chromium.Win-x86@3.4.0
+- pkg:nuget/DotNetBrowser.Chromium.Win-x86@3.5.0
 - pkg:nuget/DotNetBrowser.Chromium.Win-x86@3.5.1
 - pkg:nuget/DotNetBrowser.Chromium.Win-x86@4.2.1
 - pkg:nuget/DotNetBrowser.Chromium.Win-x86@4.3.0
+- pkg:nuget/DotNetBrowser.Chromium.Win-x86@4.3.2

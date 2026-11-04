@@ -1,2 +1,5 @@
 - pkg:nuget/Syncfusion.AspNetCore.InteractiveChat@34.1.29
 - pkg:nuget/Syncfusion.AspNetCore.InteractiveChat@34.2.3
+- pkg:nuget/Syncfusion.AspNetCore.InteractiveChat@35.1.39
+- pkg:nuget/Syncfusion.AspNetCore.InteractiveChat@35.1.40
+- pkg:nuget/Syncfusion.AspNetCore.InteractiveChat@35.1.43

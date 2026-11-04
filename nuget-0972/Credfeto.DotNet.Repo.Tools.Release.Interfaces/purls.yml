@@ -2392,6 +2392,8 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.20.4112-code-cleanup-un
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.20.4116-tracking-cache
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.20.4126-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.20.4131-dotnet-sdk-11-0
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.20.4132-update-credfeto
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.3.3139-unit-tests-git
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.3.3140-unit-tests-git
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.3.3141-main

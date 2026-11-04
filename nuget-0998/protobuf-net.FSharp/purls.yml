@@ -2,3 +2,5 @@
 - pkg:nuget/protobuf-net.FSharp@3.2.46
 - pkg:nuget/protobuf-net.FSharp@3.2.52
 - pkg:nuget/protobuf-net.FSharp@3.2.8
+- pkg:nuget/protobuf-net.FSharp@3.4.29
+- pkg:nuget/protobuf-net.FSharp@3.4.40

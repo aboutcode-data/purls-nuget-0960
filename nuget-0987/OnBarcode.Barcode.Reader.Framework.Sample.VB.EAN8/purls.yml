@@ -16,6 +16,8 @@
 - pkg:nuget/OnBarcode.Barcode.Reader.Framework.Sample.VB.EAN8@10.0.0.5
 - pkg:nuget/OnBarcode.Barcode.Reader.Framework.Sample.VB.EAN8@10.0.0.6
 - pkg:nuget/OnBarcode.Barcode.Reader.Framework.Sample.VB.EAN8@10.0.0.7
+- pkg:nuget/OnBarcode.Barcode.Reader.Framework.Sample.VB.EAN8@10.0.0.70
+- pkg:nuget/OnBarcode.Barcode.Reader.Framework.Sample.VB.EAN8@10.0.0.71
 - pkg:nuget/OnBarcode.Barcode.Reader.Framework.Sample.VB.EAN8@10.0.0.8
 - pkg:nuget/OnBarcode.Barcode.Reader.Framework.Sample.VB.EAN8@10.0.0.9
 - pkg:nuget/OnBarcode.Barcode.Reader.Framework.Sample.VB.EAN8@9.5.0

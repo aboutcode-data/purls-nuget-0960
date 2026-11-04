@@ -19,6 +19,8 @@
 - pkg:nuget/OnBarcode.Barcode.Reader.SkiaSharp.Sample.VB.ITF14@10.0.0.5
 - pkg:nuget/OnBarcode.Barcode.Reader.SkiaSharp.Sample.VB.ITF14@10.0.0.6
 - pkg:nuget/OnBarcode.Barcode.Reader.SkiaSharp.Sample.VB.ITF14@10.0.0.7
+- pkg:nuget/OnBarcode.Barcode.Reader.SkiaSharp.Sample.VB.ITF14@10.0.0.70
+- pkg:nuget/OnBarcode.Barcode.Reader.SkiaSharp.Sample.VB.ITF14@10.0.0.72
 - pkg:nuget/OnBarcode.Barcode.Reader.SkiaSharp.Sample.VB.ITF14@10.0.0.8
 - pkg:nuget/OnBarcode.Barcode.Reader.SkiaSharp.Sample.VB.ITF14@10.0.0.9
 - pkg:nuget/OnBarcode.Barcode.Reader.SkiaSharp.Sample.VB.ITF14@9.5.0.1

@@ -17,3 +17,4 @@
 - pkg:nuget/JGUZDV.AspNetCore.Logging@1.2.6
 - pkg:nuget/JGUZDV.AspNetCore.Logging@1.2.8
 - pkg:nuget/JGUZDV.AspNetCore.Logging@1.2.9
+- pkg:nuget/JGUZDV.AspNetCore.Logging@1.3.0

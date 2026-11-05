@@ -81,3 +81,5 @@
 - pkg:nuget/CodeDesignPlus.Net.gRpc.Clients.Abstractions@1.0.0-beta.13861
 - pkg:nuget/CodeDesignPlus.Net.gRpc.Clients.Abstractions@1.0.0-beta.13868
 - pkg:nuget/CodeDesignPlus.Net.gRpc.Clients.Abstractions@1.0.0-beta.13912
+- pkg:nuget/CodeDesignPlus.Net.gRpc.Clients.Abstractions@1.0.0-beta.13919
+- pkg:nuget/CodeDesignPlus.Net.gRpc.Clients.Abstractions@1.0.0-beta.13947

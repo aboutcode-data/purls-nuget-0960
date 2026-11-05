@@ -12,6 +12,7 @@
 - pkg:nuget/Soenneker.Librarian.IndexedDb@11.0.172
 - pkg:nuget/Soenneker.Librarian.IndexedDb@11.0.175
 - pkg:nuget/Soenneker.Librarian.IndexedDb@11.0.177
+- pkg:nuget/Soenneker.Librarian.IndexedDb@11.0.181
 - pkg:nuget/Soenneker.Librarian.IndexedDb@4.0.100
 - pkg:nuget/Soenneker.Librarian.IndexedDb@4.0.108
 - pkg:nuget/Soenneker.Librarian.IndexedDb@4.0.68

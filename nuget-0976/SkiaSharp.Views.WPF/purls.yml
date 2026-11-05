@@ -109,3 +109,5 @@
 - pkg:nuget/SkiaSharp.Views.WPF@4.150.1
 - pkg:nuget/SkiaSharp.Views.WPF@4.150.4
 - pkg:nuget/SkiaSharp.Views.WPF@4.151.2
+- pkg:nuget/SkiaSharp.Views.WPF@4.153.2
+- pkg:nuget/SkiaSharp.Views.WPF@4.154.0

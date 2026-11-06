@@ -2441,6 +2441,7 @@
 - pkg:nuget/ArmoniK.Api.Client@3.29.5-renovategithubactions.1.207c0bd2
 - pkg:nuget/ArmoniK.Api.Client@3.29.5-renovategithubactions.1.30932932
 - pkg:nuget/ArmoniK.Api.Client@3.29.5-renovatejavamaven.1.3d29fd9b
+- pkg:nuget/ArmoniK.Api.Client@3.29.5-renovatemajorwebnpm.1.fd96a555
 - pkg:nuget/ArmoniK.Api.Client@3.29.5-renovatepindependencies.1.7387bdb6
 - pkg:nuget/ArmoniK.Api.Client@3.29.5-renovatepypi.1.84183339
 - pkg:nuget/ArmoniK.Api.Client@3.29.5-renovatepypi.1.898846c7

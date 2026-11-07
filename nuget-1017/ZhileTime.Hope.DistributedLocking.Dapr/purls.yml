@@ -18,6 +18,7 @@
 - pkg:nuget/ZhileTime.Hope.DistributedLocking.Dapr@1.8.5
 - pkg:nuget/ZhileTime.Hope.DistributedLocking.Dapr@11.2.0
 - pkg:nuget/ZhileTime.Hope.DistributedLocking.Dapr@11.3.0
+- pkg:nuget/ZhileTime.Hope.DistributedLocking.Dapr@11.5.1
 - pkg:nuget/ZhileTime.Hope.DistributedLocking.Dapr@2.1.0
 - pkg:nuget/ZhileTime.Hope.DistributedLocking.Dapr@2.2.0
 - pkg:nuget/ZhileTime.Hope.DistributedLocking.Dapr@2.2.1

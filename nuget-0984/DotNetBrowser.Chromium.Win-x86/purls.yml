@@ -40,3 +40,4 @@
 - pkg:nuget/DotNetBrowser.Chromium.Win-x86@4.2.1
 - pkg:nuget/DotNetBrowser.Chromium.Win-x86@4.3.0
 - pkg:nuget/DotNetBrowser.Chromium.Win-x86@4.3.2
+- pkg:nuget/DotNetBrowser.Chromium.Win-x86@4.4.0

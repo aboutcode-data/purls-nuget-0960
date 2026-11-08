@@ -11,4 +11,6 @@
 - pkg:nuget/VisioForge.DotNet.Core.Redist.Shared.x86@2025.6.27
 - pkg:nuget/VisioForge.DotNet.Core.Redist.Shared.x86@2025.7.0
 - pkg:nuget/VisioForge.DotNet.Core.Redist.Shared.x86@2025.7.1
+- pkg:nuget/VisioForge.DotNet.Core.Redist.Shared.x86@2026.10.26
+- pkg:nuget/VisioForge.DotNet.Core.Redist.Shared.x86@2026.11.3
 - pkg:nuget/VisioForge.DotNet.Core.Redist.Shared.x86@2026.3.12

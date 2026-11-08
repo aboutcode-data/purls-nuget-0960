@@ -4,6 +4,9 @@
 - pkg:nuget/Webority.QrCode@0.109.6
 - pkg:nuget/Webority.QrCode@0.119.0
 - pkg:nuget/Webority.QrCode@0.130.0
+- pkg:nuget/Webority.QrCode@0.130.2
+- pkg:nuget/Webority.QrCode@0.134.1
+- pkg:nuget/Webority.QrCode@0.136.0
 - pkg:nuget/Webority.QrCode@0.19.0
 - pkg:nuget/Webority.QrCode@0.25.0
 - pkg:nuget/Webority.QrCode@0.26.0

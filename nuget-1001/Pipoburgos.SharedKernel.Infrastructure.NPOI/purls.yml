@@ -1,5 +1,6 @@
 - pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.NPOI@10.0.12.2
 - pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.NPOI@10.0.13.2
+- pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.NPOI@10.0.14.2
 - pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.NPOI@10.0.5.2
 - pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.NPOI@10.0.7.2
 - pkg:nuget/Pipoburgos.SharedKernel.Infrastructure.NPOI@10.0.8.2

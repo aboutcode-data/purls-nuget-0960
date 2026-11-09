@@ -19,6 +19,10 @@
 - pkg:nuget/NSail.Messaging.WebApi@0.1.531
 - pkg:nuget/NSail.Messaging.WebApi@0.1.592
 - pkg:nuget/NSail.Messaging.WebApi@0.1.654
+- pkg:nuget/NSail.Messaging.WebApi@0.1.708
+- pkg:nuget/NSail.Messaging.WebApi@0.1.709
+- pkg:nuget/NSail.Messaging.WebApi@0.1.753
+- pkg:nuget/NSail.Messaging.WebApi@0.1.794
 - pkg:nuget/NSail.Messaging.WebApi@0.1.87
 - pkg:nuget/NSail.Messaging.WebApi@0.1.91
 - pkg:nuget/NSail.Messaging.WebApi@0.1.93

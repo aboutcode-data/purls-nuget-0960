@@ -87,3 +87,5 @@
 - pkg:nuget/I-Synergy.Framework.OpenTelemetry@2026.11021.11346
 - pkg:nuget/I-Synergy.Framework.OpenTelemetry@2026.11026.11336-preview
 - pkg:nuget/I-Synergy.Framework.OpenTelemetry@2026.11030.12058-preview
+- pkg:nuget/I-Synergy.Framework.OpenTelemetry@2026.11108.12118-preview
+- pkg:nuget/I-Synergy.Framework.OpenTelemetry@2026.11108.12139-preview

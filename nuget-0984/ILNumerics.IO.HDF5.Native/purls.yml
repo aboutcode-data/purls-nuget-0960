@@ -31,3 +31,5 @@
 - pkg:nuget/ILNumerics.IO.HDF5.Native@7.2.35
 - pkg:nuget/ILNumerics.IO.HDF5.Native@7.2.37-beta02
 - pkg:nuget/ILNumerics.IO.HDF5.Native@7.2.41
+- pkg:nuget/ILNumerics.IO.HDF5.Native@7.4.77
+- pkg:nuget/ILNumerics.IO.HDF5.Native@7.4.93

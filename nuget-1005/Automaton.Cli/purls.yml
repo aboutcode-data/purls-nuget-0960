@@ -1,1 +1,15 @@
 - pkg:nuget/Automaton.Cli@1.0.20260514.1
+- pkg:nuget/Automaton.Cli@1.0.20260726.1
+- pkg:nuget/Automaton.Cli@1.0.20260730.1
+- pkg:nuget/Automaton.Cli@1.0.20261101.2
+- pkg:nuget/Automaton.Cli@1.0.20261105.3
+- pkg:nuget/Automaton.Cli@1.0.20261106.3
+- pkg:nuget/Automaton.Cli@1.0.20261107.1
+- pkg:nuget/Automaton.Cli@1.0.20261107.4
+- pkg:nuget/Automaton.Cli@1.0.20261107.5
+- pkg:nuget/Automaton.Cli@1.0.20261108.3
+- pkg:nuget/Automaton.Cli@1.0.20261109.3
+- pkg:nuget/Automaton.Cli@1.0.20261110.2
+- pkg:nuget/Automaton.Cli@1.0.20261110.4
+- pkg:nuget/Automaton.Cli@1.0.20261110.5
+- pkg:nuget/Automaton.Cli@1.0.20261110.6

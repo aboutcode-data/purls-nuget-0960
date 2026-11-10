@@ -1,1 +1,6 @@
 - pkg:nuget/Telegram.BotKit@1.3.0
+- pkg:nuget/Telegram.BotKit@1.5.1-alpha.0.3
+- pkg:nuget/Telegram.BotKit@1.5.1-alpha.0.9
+- pkg:nuget/Telegram.BotKit@1.5.1-preview.0.20
+- pkg:nuget/Telegram.BotKit@2.0.0
+- pkg:nuget/Telegram.BotKit@2.1.0

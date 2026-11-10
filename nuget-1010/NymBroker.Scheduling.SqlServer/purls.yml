@@ -1,0 +1,2 @@
+- pkg:nuget/NymBroker.Scheduling.SqlServer@0.20.0
+- pkg:nuget/NymBroker.Scheduling.SqlServer@0.22.2

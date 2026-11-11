@@ -92,10 +92,12 @@
 - pkg:nuget/Microsoft.TestPlatform@17.11.0-release-24373-02
 - pkg:nuget/Microsoft.TestPlatform@17.11.1
 - pkg:nuget/Microsoft.TestPlatform@17.12.0
+- pkg:nuget/Microsoft.TestPlatform@17.12.1
 - pkg:nuget/Microsoft.TestPlatform@17.13.0
 - pkg:nuget/Microsoft.TestPlatform@17.14.0
 - pkg:nuget/Microsoft.TestPlatform@17.14.0-preview-25107-01
 - pkg:nuget/Microsoft.TestPlatform@17.14.1
+- pkg:nuget/Microsoft.TestPlatform@17.14.2
 - pkg:nuget/Microsoft.TestPlatform@17.2.0
 - pkg:nuget/Microsoft.TestPlatform@17.2.0-preview-20220131-20
 - pkg:nuget/Microsoft.TestPlatform@17.2.0-preview-20220301-01

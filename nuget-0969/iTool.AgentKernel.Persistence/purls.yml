@@ -5,4 +5,5 @@
 - pkg:nuget/iTool.AgentKernel.Persistence@4.0.15-workspace.20261104.9
 - pkg:nuget/iTool.AgentKernel.Persistence@4.0.15-workspace.20261105.2
 - pkg:nuget/iTool.AgentKernel.Persistence@4.0.16-idbsearch.20261110.1
+- pkg:nuget/iTool.AgentKernel.Persistence@4.0.17-idbperf.20261111.1
 - pkg:nuget/iTool.AgentKernel.Persistence@4.0.7

@@ -1,2 +1,3 @@
+- pkg:nuget/Nullean.Cdp.Cli.osx-arm64@0.10.0
 - pkg:nuget/Nullean.Cdp.Cli.osx-arm64@0.8.0
 - pkg:nuget/Nullean.Cdp.Cli.osx-arm64@0.9.0

@@ -1,4 +1,5 @@
 - pkg:nuget/Soenneker.Blazor.Utils.JsObjects@11.0.117
+- pkg:nuget/Soenneker.Blazor.Utils.JsObjects@11.0.121
 - pkg:nuget/Soenneker.Blazor.Utils.JsObjects@4.0.107
 - pkg:nuget/Soenneker.Blazor.Utils.JsObjects@4.0.23
 - pkg:nuget/Soenneker.Blazor.Utils.JsObjects@4.0.31

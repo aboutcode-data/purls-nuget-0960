@@ -1,4 +1,5 @@
 - pkg:nuget/Nxin.Abp.EntityFrameworkCore.Sqlite@10.0.0
+- pkg:nuget/Nxin.Abp.EntityFrameworkCore.Sqlite@10.0.9
 - pkg:nuget/Nxin.Abp.EntityFrameworkCore.Sqlite@6.0.13
 - pkg:nuget/Nxin.Abp.EntityFrameworkCore.Sqlite@6.0.14
 - pkg:nuget/Nxin.Abp.EntityFrameworkCore.Sqlite@6.0.15

@@ -193,6 +193,7 @@
 - pkg:nuget/Soenneker.Cosmos.Container.Setup@11.0.2516
 - pkg:nuget/Soenneker.Cosmos.Container.Setup@11.0.2520
 - pkg:nuget/Soenneker.Cosmos.Container.Setup@11.0.2523
+- pkg:nuget/Soenneker.Cosmos.Container.Setup@11.0.2535
 - pkg:nuget/Soenneker.Cosmos.Container.Setup@2.0.1
 - pkg:nuget/Soenneker.Cosmos.Container.Setup@2.0.193
 - pkg:nuget/Soenneker.Cosmos.Container.Setup@2.0.194

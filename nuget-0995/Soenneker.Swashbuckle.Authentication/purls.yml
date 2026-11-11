@@ -330,6 +330,8 @@
 - pkg:nuget/Soenneker.Swashbuckle.Authentication@1.0.97
 - pkg:nuget/Soenneker.Swashbuckle.Authentication@1.0.98
 - pkg:nuget/Soenneker.Swashbuckle.Authentication@1.0.99
+- pkg:nuget/Soenneker.Swashbuckle.Authentication@11.0.3060
+- pkg:nuget/Soenneker.Swashbuckle.Authentication@11.0.3062
 - pkg:nuget/Soenneker.Swashbuckle.Authentication@2.0.1
 - pkg:nuget/Soenneker.Swashbuckle.Authentication@2.0.2
 - pkg:nuget/Soenneker.Swashbuckle.Authentication@2.0.333

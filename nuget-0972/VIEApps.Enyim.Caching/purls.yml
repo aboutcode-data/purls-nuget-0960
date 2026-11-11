@@ -102,6 +102,7 @@
 - pkg:nuget/VIEApps.Enyim.Caching@10.10.2603.2
 - pkg:nuget/VIEApps.Enyim.Caching@10.10.2604.1
 - pkg:nuget/VIEApps.Enyim.Caching@10.10.2604.2
+- pkg:nuget/VIEApps.Enyim.Caching@10.11.2611.1
 - pkg:nuget/VIEApps.Enyim.Caching@2.0.2012.1
 - pkg:nuget/VIEApps.Enyim.Caching@2.0.2012.3
 - pkg:nuget/VIEApps.Enyim.Caching@2.0.2012.4

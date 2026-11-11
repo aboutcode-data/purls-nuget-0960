@@ -258,6 +258,7 @@
 - pkg:nuget/VirtoCommerce.Platform.Core@3.1087.0-alpha.13436-vcst-6121-passkeys
 - pkg:nuget/VirtoCommerce.Platform.Core@3.1088.0-alpha.13453-vcst-5904
 - pkg:nuget/VirtoCommerce.Platform.Core@3.1092.0-alpha.13453-vcst-4717
+- pkg:nuget/VirtoCommerce.Platform.Core@3.1097.0
 - pkg:nuget/VirtoCommerce.Platform.Core@3.11.0
 - pkg:nuget/VirtoCommerce.Platform.Core@3.12.0
 - pkg:nuget/VirtoCommerce.Platform.Core@3.12.0-alpha.11485

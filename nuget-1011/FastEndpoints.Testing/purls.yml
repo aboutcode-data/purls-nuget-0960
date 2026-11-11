@@ -428,3 +428,4 @@
 - pkg:nuget/FastEndpoints.Testing@8.4.0-beta.7
 - pkg:nuget/FastEndpoints.Testing@8.4.0-beta.8
 - pkg:nuget/FastEndpoints.Testing@9.0.0-beta.10
+- pkg:nuget/FastEndpoints.Testing@9.0.0-beta.11

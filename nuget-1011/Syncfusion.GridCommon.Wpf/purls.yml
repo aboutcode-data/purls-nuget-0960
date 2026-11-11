@@ -330,3 +330,4 @@
 - pkg:nuget/Syncfusion.GridCommon.Wpf@34.1.33
 - pkg:nuget/Syncfusion.GridCommon.Wpf@34.2.3
 - pkg:nuget/Syncfusion.GridCommon.Wpf@34.2.8
+- pkg:nuget/Syncfusion.GridCommon.Wpf@35.1.46

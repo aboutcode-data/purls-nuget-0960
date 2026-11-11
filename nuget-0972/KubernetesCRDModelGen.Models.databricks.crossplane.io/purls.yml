@@ -45,3 +45,4 @@
 - pkg:nuget/KubernetesCRDModelGen.Models.databricks.crossplane.io@1.2.1
 - pkg:nuget/KubernetesCRDModelGen.Models.databricks.crossplane.io@1.2.2
 - pkg:nuget/KubernetesCRDModelGen.Models.databricks.crossplane.io@1.2.5
+- pkg:nuget/KubernetesCRDModelGen.Models.databricks.crossplane.io@1.20.0

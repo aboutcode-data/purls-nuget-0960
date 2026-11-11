@@ -64,5 +64,7 @@
 - pkg:nuget/Cratis.Stage.Rendering.Cratis@4.98.0
 - pkg:nuget/Cratis.Stage.Rendering.Cratis@4.98.1
 - pkg:nuget/Cratis.Stage.Rendering.Cratis@5.1.1
+- pkg:nuget/Cratis.Stage.Rendering.Cratis@5.10.0
 - pkg:nuget/Cratis.Stage.Rendering.Cratis@5.5.0
 - pkg:nuget/Cratis.Stage.Rendering.Cratis@5.6.0
+- pkg:nuget/Cratis.Stage.Rendering.Cratis@5.9.0

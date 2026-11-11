@@ -56,5 +56,7 @@
 - pkg:nuget/Cratis.Stage.Specifications@4.98.1
 - pkg:nuget/Cratis.Stage.Specifications@5.1.0
 - pkg:nuget/Cratis.Stage.Specifications@5.1.1
+- pkg:nuget/Cratis.Stage.Specifications@5.10.0
 - pkg:nuget/Cratis.Stage.Specifications@5.5.0
 - pkg:nuget/Cratis.Stage.Specifications@5.8.1
+- pkg:nuget/Cratis.Stage.Specifications@5.9.0

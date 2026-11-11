@@ -173,6 +173,8 @@
 - pkg:nuget/Sitko.Core.Grpc.Server@12.0.0
 - pkg:nuget/Sitko.Core.Grpc.Server@13.0.0-beta.1
 - pkg:nuget/Sitko.Core.Grpc.Server@13.0.0-beta.2
+- pkg:nuget/Sitko.Core.Grpc.Server@13.1.1
+- pkg:nuget/Sitko.Core.Grpc.Server@13.1.2
 - pkg:nuget/Sitko.Core.Grpc.Server@3.10.0
 - pkg:nuget/Sitko.Core.Grpc.Server@3.11.0
 - pkg:nuget/Sitko.Core.Grpc.Server@3.12.0

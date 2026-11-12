@@ -1,0 +1,13 @@
+- pkg:nuget/Invex.SemanticVersion@0.3.0-beta.feature-repo-tools.4
+- pkg:nuget/Invex.SemanticVersion@0.3.0-rc.5
+- pkg:nuget/Invex.SemanticVersion@1.0.0
+- pkg:nuget/Invex.SemanticVersion@1.1.0-rc.14
+- pkg:nuget/Invex.SemanticVersion@1.3.0-rc.2
+- pkg:nuget/Invex.SemanticVersion@1.3.0-rc.4
+- pkg:nuget/Invex.SemanticVersion@1.4.0
+- pkg:nuget/Invex.SemanticVersion@1.4.0-rc.4
+- pkg:nuget/Invex.SemanticVersion@1.4.0-rc.8
+- pkg:nuget/Invex.SemanticVersion@2.2.0
+- pkg:nuget/Invex.SemanticVersion@2.4.0
+- pkg:nuget/Invex.SemanticVersion@2.4.0-beta.feature-cld-net11-target.3
+- pkg:nuget/Invex.SemanticVersion@2.4.0-rc.4

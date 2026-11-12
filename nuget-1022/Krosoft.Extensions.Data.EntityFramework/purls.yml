@@ -147,6 +147,7 @@
 - pkg:nuget/Krosoft.Extensions.Data.EntityFramework@2025.9.9.2940
 - pkg:nuget/Krosoft.Extensions.Data.EntityFramework@2026.10.16.11666
 - pkg:nuget/Krosoft.Extensions.Data.EntityFramework@2026.11.11.12878
+- pkg:nuget/Krosoft.Extensions.Data.EntityFramework@2026.11.11.12966
 - pkg:nuget/Krosoft.Extensions.Data.EntityFramework@2026.2.3.5276
 - pkg:nuget/Krosoft.Extensions.Data.EntityFramework@2026.2.3.5277
 - pkg:nuget/Krosoft.Extensions.Data.EntityFramework@2026.2.3.5279

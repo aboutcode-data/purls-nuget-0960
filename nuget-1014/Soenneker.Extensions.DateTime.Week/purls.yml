@@ -1,6 +1,8 @@
 - pkg:nuget/Soenneker.Extensions.DateTime.Week@11.0.1660
 - pkg:nuget/Soenneker.Extensions.DateTime.Week@11.0.1663
 - pkg:nuget/Soenneker.Extensions.DateTime.Week@11.0.1666
+- pkg:nuget/Soenneker.Extensions.DateTime.Week@11.0.1672
+- pkg:nuget/Soenneker.Extensions.DateTime.Week@11.0.1675
 - pkg:nuget/Soenneker.Extensions.DateTime.Week@2.1.1
 - pkg:nuget/Soenneker.Extensions.DateTime.Week@2.1.10
 - pkg:nuget/Soenneker.Extensions.DateTime.Week@2.1.100

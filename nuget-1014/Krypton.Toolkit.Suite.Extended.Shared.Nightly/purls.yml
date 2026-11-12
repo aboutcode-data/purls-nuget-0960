@@ -1,3 +1,4 @@
+- pkg:nuget/Krypton.Toolkit.Suite.Extended.Shared.Nightly@120.26.10.300-alpha
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.Shared.Nightly@80.22.11.305-alpha
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.Shared.Nightly@80.22.11.307-alpha
 - pkg:nuget/Krypton.Toolkit.Suite.Extended.Shared.Nightly@80.22.11.311-alpha

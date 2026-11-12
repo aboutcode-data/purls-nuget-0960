@@ -30,3 +30,5 @@
 - pkg:nuget/Skyline.DataMiner.Core.ArtifactDownloader@3.1.0-alpha1
 - pkg:nuget/Skyline.DataMiner.Core.ArtifactDownloader@3.1.1
 - pkg:nuget/Skyline.DataMiner.Core.ArtifactDownloader@3.1.1-alpha3
+- pkg:nuget/Skyline.DataMiner.Core.ArtifactDownloader@4.4.0-intelligence.1
+- pkg:nuget/Skyline.DataMiner.Core.ArtifactDownloader@4.4.0-intelligence.2

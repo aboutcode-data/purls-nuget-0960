@@ -3,6 +3,7 @@
 - pkg:nuget/Ai.Tlbx.VoiceAssistant.Provider.OpenAi@10.7.0
 - pkg:nuget/Ai.Tlbx.VoiceAssistant.Provider.OpenAi@11.0.3
 - pkg:nuget/Ai.Tlbx.VoiceAssistant.Provider.OpenAi@11.8.1
+- pkg:nuget/Ai.Tlbx.VoiceAssistant.Provider.OpenAi@11.9.0
 - pkg:nuget/Ai.Tlbx.VoiceAssistant.Provider.OpenAi@4.0.1
 - pkg:nuget/Ai.Tlbx.VoiceAssistant.Provider.OpenAi@4.0.2
 - pkg:nuget/Ai.Tlbx.VoiceAssistant.Provider.OpenAi@4.1.0

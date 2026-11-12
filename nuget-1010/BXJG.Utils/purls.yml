@@ -26,6 +26,8 @@
 - pkg:nuget/BXJG.Utils@1.2.6
 - pkg:nuget/BXJG.Utils@1.2.7
 - pkg:nuget/BXJG.Utils@1.2.8
+- pkg:nuget/BXJG.Utils@1.3.202
+- pkg:nuget/BXJG.Utils@1.3.203
 - pkg:nuget/BXJG.Utils@1.3.63
 - pkg:nuget/BXJG.Utils@1.3.66
 - pkg:nuget/BXJG.Utils@1.3.67

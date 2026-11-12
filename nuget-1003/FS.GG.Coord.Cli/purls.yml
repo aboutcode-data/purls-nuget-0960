@@ -1,4 +1,11 @@
 - pkg:nuget/FS.GG.Coord.Cli@0.1.1
+- pkg:nuget/FS.GG.Coord.Cli@0.101.0
+- pkg:nuget/FS.GG.Coord.Cli@0.109.0
+- pkg:nuget/FS.GG.Coord.Cli@0.110.0
+- pkg:nuget/FS.GG.Coord.Cli@0.120.0
+- pkg:nuget/FS.GG.Coord.Cli@0.126.0
+- pkg:nuget/FS.GG.Coord.Cli@0.127.0
+- pkg:nuget/FS.GG.Coord.Cli@0.128.0
 - pkg:nuget/FS.GG.Coord.Cli@0.13.0
 - pkg:nuget/FS.GG.Coord.Cli@0.17.0
 - pkg:nuget/FS.GG.Coord.Cli@0.50.3

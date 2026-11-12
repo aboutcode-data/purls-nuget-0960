@@ -5,3 +5,5 @@
 - pkg:nuget/Syncfusion.SfToastNotification.WPF@33.2.7
 - pkg:nuget/Syncfusion.SfToastNotification.WPF@34.1.33
 - pkg:nuget/Syncfusion.SfToastNotification.WPF@34.2.3
+- pkg:nuget/Syncfusion.SfToastNotification.WPF@34.2.8
+- pkg:nuget/Syncfusion.SfToastNotification.WPF@35.1.46

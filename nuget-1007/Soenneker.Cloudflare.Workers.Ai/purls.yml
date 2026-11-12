@@ -1,4 +1,5 @@
 - pkg:nuget/Soenneker.Cloudflare.Workers.Ai@11.0.112
+- pkg:nuget/Soenneker.Cloudflare.Workers.Ai@11.0.120
 - pkg:nuget/Soenneker.Cloudflare.Workers.Ai@11.0.85
 - pkg:nuget/Soenneker.Cloudflare.Workers.Ai@11.0.92
 - pkg:nuget/Soenneker.Cloudflare.Workers.Ai@11.0.97

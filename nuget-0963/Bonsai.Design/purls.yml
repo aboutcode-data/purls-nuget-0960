@@ -30,3 +30,4 @@
 - pkg:nuget/Bonsai.Design@2.8.5
 - pkg:nuget/Bonsai.Design@2.9.0
 - pkg:nuget/Bonsai.Design@2.9.0-preview1
+- pkg:nuget/Bonsai.Design@2.9.2-rc.1

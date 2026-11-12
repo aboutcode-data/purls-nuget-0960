@@ -2394,6 +2394,7 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.20.4126-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.20.4131-dotnet-sdk-11-0
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.20.4132-update-credfeto
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.20.4151-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.3.3139-unit-tests-git
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.3.3140-unit-tests-git
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Release.Interfaces@1.5.3.3141-main

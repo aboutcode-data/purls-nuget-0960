@@ -123,3 +123,4 @@
 - pkg:nuget/Microsoft.macOS.Templates.Msi.x86@26.5.11546-net11-p5
 - pkg:nuget/Microsoft.macOS.Templates.Msi.x86@26.5.9001
 - pkg:nuget/Microsoft.macOS.Templates.Msi.x86@26.5.9002
+- pkg:nuget/Microsoft.macOS.Templates.Msi.x86@27.2.10000

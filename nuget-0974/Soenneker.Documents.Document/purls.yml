@@ -277,6 +277,8 @@
 - pkg:nuget/Soenneker.Documents.Document@11.0.2757
 - pkg:nuget/Soenneker.Documents.Document@11.0.2759
 - pkg:nuget/Soenneker.Documents.Document@11.0.2761
+- pkg:nuget/Soenneker.Documents.Document@11.0.2762
+- pkg:nuget/Soenneker.Documents.Document@11.0.2763
 - pkg:nuget/Soenneker.Documents.Document@2.0.1
 - pkg:nuget/Soenneker.Documents.Document@2.0.2
 - pkg:nuget/Soenneker.Documents.Document@2.0.277

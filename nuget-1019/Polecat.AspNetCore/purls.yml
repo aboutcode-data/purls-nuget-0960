@@ -1,1 +1,13 @@
 - pkg:nuget/Polecat.AspNetCore@3.0.0
+- pkg:nuget/Polecat.AspNetCore@4.4.2
+- pkg:nuget/Polecat.AspNetCore@4.7.0
+- pkg:nuget/Polecat.AspNetCore@5.16.0
+- pkg:nuget/Polecat.AspNetCore@5.21.1
+- pkg:nuget/Polecat.AspNetCore@5.23.0
+- pkg:nuget/Polecat.AspNetCore@5.28.1
+- pkg:nuget/Polecat.AspNetCore@5.31.0
+- pkg:nuget/Polecat.AspNetCore@5.38.0
+- pkg:nuget/Polecat.AspNetCore@5.40.0
+- pkg:nuget/Polecat.AspNetCore@5.40.2
+- pkg:nuget/Polecat.AspNetCore@5.50.0
+- pkg:nuget/Polecat.AspNetCore@6.0.0-alpha.1

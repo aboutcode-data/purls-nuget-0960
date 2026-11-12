@@ -3,6 +3,7 @@
 - pkg:nuget/Soenneker.Cloudflare.DnsRecords@11.0.565
 - pkg:nuget/Soenneker.Cloudflare.DnsRecords@11.0.566
 - pkg:nuget/Soenneker.Cloudflare.DnsRecords@11.0.580
+- pkg:nuget/Soenneker.Cloudflare.DnsRecords@11.0.588
 - pkg:nuget/Soenneker.Cloudflare.DnsRecords@3.0.1
 - pkg:nuget/Soenneker.Cloudflare.DnsRecords@3.0.10
 - pkg:nuget/Soenneker.Cloudflare.DnsRecords@3.0.100

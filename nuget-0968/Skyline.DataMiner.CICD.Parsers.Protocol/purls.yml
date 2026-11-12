@@ -61,3 +61,5 @@
 - pkg:nuget/Skyline.DataMiner.CICD.Parsers.Protocol@6.0.0-foxtrot
 - pkg:nuget/Skyline.DataMiner.CICD.Parsers.Protocol@6.1.0
 - pkg:nuget/Skyline.DataMiner.CICD.Parsers.Protocol@6.3.2-harvesting20261005.1
+- pkg:nuget/Skyline.DataMiner.CICD.Parsers.Protocol@6.4.1-intelligence.1
+- pkg:nuget/Skyline.DataMiner.CICD.Parsers.Protocol@6.6.1

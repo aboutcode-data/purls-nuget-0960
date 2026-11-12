@@ -1,3 +1,9 @@
+- pkg:nuget/Soenneker.GitHub.Repositories.Security@11.0.221
+- pkg:nuget/Soenneker.GitHub.Repositories.Security@11.0.235
+- pkg:nuget/Soenneker.GitHub.Repositories.Security@11.0.247
+- pkg:nuget/Soenneker.GitHub.Repositories.Security@11.0.248
+- pkg:nuget/Soenneker.GitHub.Repositories.Security@11.0.253
+- pkg:nuget/Soenneker.GitHub.Repositories.Security@11.0.254
 - pkg:nuget/Soenneker.GitHub.Repositories.Security@4.0.10
 - pkg:nuget/Soenneker.GitHub.Repositories.Security@4.0.105
 - pkg:nuget/Soenneker.GitHub.Repositories.Security@4.0.109
@@ -17,6 +23,7 @@
 - pkg:nuget/Soenneker.GitHub.Repositories.Security@4.0.18
 - pkg:nuget/Soenneker.GitHub.Repositories.Security@4.0.19
 - pkg:nuget/Soenneker.GitHub.Repositories.Security@4.0.201
+- pkg:nuget/Soenneker.GitHub.Repositories.Security@4.0.206
 - pkg:nuget/Soenneker.GitHub.Repositories.Security@4.0.37
 - pkg:nuget/Soenneker.GitHub.Repositories.Security@4.0.43
 - pkg:nuget/Soenneker.GitHub.Repositories.Security@4.0.44

@@ -8,12 +8,15 @@
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@10.0.0-rc.2.25502.107
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@10.0.1
+- pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@10.0.14
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@10.0.3
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@10.0.7
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@10.0.8
+- pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@11.0.0
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@11.0.0-preview.3.26207.106
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@11.0.0-preview.5.26302.115
+- pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@11.0.0-rc.3.26522.148
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@9.0.0
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@9.0.0-preview.4.24266.19
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@9.0.0-preview.5.24306.7
@@ -26,6 +29,7 @@
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@9.0.16
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@9.0.2
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@9.0.20
+- pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@9.0.22
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@9.0.3
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@9.0.4
 - pkg:nuget/Microsoft.NET.Sdk.WebAssembly.Pack.Msi.arm64@9.0.5

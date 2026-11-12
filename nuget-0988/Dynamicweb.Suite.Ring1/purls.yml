@@ -52,6 +52,8 @@
 - pkg:nuget/Dynamicweb.Suite.Ring1@2025.8.27
 - pkg:nuget/Dynamicweb.Suite.Ring1@2025.9.17
 - pkg:nuget/Dynamicweb.Suite.Ring1@2025.9.2
+- pkg:nuget/Dynamicweb.Suite.Ring1@2026.10.21
+- pkg:nuget/Dynamicweb.Suite.Ring1@2026.11.11
 - pkg:nuget/Dynamicweb.Suite.Ring1@2026.4.1
 - pkg:nuget/Dynamicweb.Suite.Ring1@2026.5.13
 - pkg:nuget/Dynamicweb.Suite.Ring1@2026.5.20

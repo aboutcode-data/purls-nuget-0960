@@ -13,6 +13,7 @@
 - pkg:nuget/runtime.osx-x64.Microsoft.NETCore.ILAsm@10.0.8
 - pkg:nuget/runtime.osx-x64.Microsoft.NETCore.ILAsm@11.0.0-preview.3.26207.106
 - pkg:nuget/runtime.osx-x64.Microsoft.NETCore.ILAsm@11.0.0-preview.4.26230.115
+- pkg:nuget/runtime.osx-x64.Microsoft.NETCore.ILAsm@11.0.0-rc.3.26522.148
 - pkg:nuget/runtime.osx-x64.Microsoft.NETCore.ILAsm@2.0.0
 - pkg:nuget/runtime.osx-x64.Microsoft.NETCore.ILAsm@2.0.0-preview1-25301-02
 - pkg:nuget/runtime.osx-x64.Microsoft.NETCore.ILAsm@2.0.0-preview2-25407-01
@@ -76,6 +77,7 @@
 - pkg:nuget/runtime.osx-x64.Microsoft.NETCore.ILAsm@9.0.0-rc.1.24431.7
 - pkg:nuget/runtime.osx-x64.Microsoft.NETCore.ILAsm@9.0.0-rc.2.24473.5
 - pkg:nuget/runtime.osx-x64.Microsoft.NETCore.ILAsm@9.0.18
+- pkg:nuget/runtime.osx-x64.Microsoft.NETCore.ILAsm@9.0.23
 - pkg:nuget/runtime.osx-x64.Microsoft.NETCore.ILAsm@9.0.4
 - pkg:nuget/runtime.osx-x64.Microsoft.NETCore.ILAsm@9.0.5
 - pkg:nuget/runtime.osx-x64.Microsoft.NETCore.ILAsm@9.0.6

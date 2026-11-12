@@ -64,3 +64,4 @@
 - pkg:nuget/Nethereum.HdWallet@4.8.0
 - pkg:nuget/Nethereum.HdWallet@4.9.0
 - pkg:nuget/Nethereum.HdWallet@5.0.0
+- pkg:nuget/Nethereum.HdWallet@7.1.0

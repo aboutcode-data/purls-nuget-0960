@@ -80,3 +80,4 @@
 - pkg:nuget/Nethereum.KeyStore@4.8.0
 - pkg:nuget/Nethereum.KeyStore@4.9.0
 - pkg:nuget/Nethereum.KeyStore@5.0.0
+- pkg:nuget/Nethereum.KeyStore@7.1.0

@@ -26,3 +26,5 @@
 - pkg:nuget/Nafes.Infrastructure@1.4.9
 - pkg:nuget/Nafes.Infrastructure@1.8.2
 - pkg:nuget/Nafes.Infrastructure@2.0.3
+- pkg:nuget/Nafes.Infrastructure@2.0.9
+- pkg:nuget/Nafes.Infrastructure@2.1.7

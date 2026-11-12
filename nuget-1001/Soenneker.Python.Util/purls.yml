@@ -5,6 +5,9 @@
 - pkg:nuget/Soenneker.Python.Util@11.0.488
 - pkg:nuget/Soenneker.Python.Util@11.0.490
 - pkg:nuget/Soenneker.Python.Util@11.0.492
+- pkg:nuget/Soenneker.Python.Util@11.0.494
+- pkg:nuget/Soenneker.Python.Util@11.0.496
+- pkg:nuget/Soenneker.Python.Util@11.0.498
 - pkg:nuget/Soenneker.Python.Util@3.0.1
 - pkg:nuget/Soenneker.Python.Util@3.0.10
 - pkg:nuget/Soenneker.Python.Util@3.0.11

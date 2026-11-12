@@ -1,8 +1,11 @@
+- pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Quarters@11.0.160
 - pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Quarters@4.0.111
 - pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Quarters@4.0.118
 - pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Quarters@4.0.119
 - pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Quarters@4.0.130
 - pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Quarters@4.0.132
+- pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Quarters@4.0.137
+- pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Quarters@4.0.149
 - pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Quarters@4.0.24
 - pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Quarters@4.0.26
 - pkg:nuget/Soenneker.Extensions.DateTimeOffsets.Quarters@4.0.4

@@ -43,6 +43,7 @@
 - pkg:nuget/WebMarkupMin.MsAjax@2.17.0
 - pkg:nuget/WebMarkupMin.MsAjax@2.19.0
 - pkg:nuget/WebMarkupMin.MsAjax@2.2.0
+- pkg:nuget/WebMarkupMin.MsAjax@2.24.0
 - pkg:nuget/WebMarkupMin.MsAjax@2.3.0
 - pkg:nuget/WebMarkupMin.MsAjax@2.4.0
 - pkg:nuget/WebMarkupMin.MsAjax@2.5.0

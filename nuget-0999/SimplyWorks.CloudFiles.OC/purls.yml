@@ -1,3 +1,4 @@
+- pkg:nuget/SimplyWorks.CloudFiles.OC@10.0.3
 - pkg:nuget/SimplyWorks.CloudFiles.OC@5.0.27
 - pkg:nuget/SimplyWorks.CloudFiles.OC@5.0.29
 - pkg:nuget/SimplyWorks.CloudFiles.OC@5.0.34

@@ -139,3 +139,4 @@
 - pkg:nuget/Microsoft.VisualStudio.Services.ServiceEndpoints.WebApi@20.274.0-preview
 - pkg:nuget/Microsoft.VisualStudio.Services.ServiceEndpoints.WebApi@20.276.0-preview
 - pkg:nuget/Microsoft.VisualStudio.Services.ServiceEndpoints.WebApi@20.278.1-preview
+- pkg:nuget/Microsoft.VisualStudio.Services.ServiceEndpoints.WebApi@20.282.1-preview

@@ -48,3 +48,5 @@
 - pkg:nuget/Ekom.Payments.AspNetCore@0.2.93
 - pkg:nuget/Ekom.Payments.AspNetCore@0.2.97
 - pkg:nuget/Ekom.Payments.AspNetCore@0.2.98
+- pkg:nuget/Ekom.Payments.AspNetCore@0.2.99
+- pkg:nuget/Ekom.Payments.AspNetCore@1.0.0

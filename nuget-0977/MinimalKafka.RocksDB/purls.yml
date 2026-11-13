@@ -13,3 +13,4 @@
 - pkg:nuget/MinimalKafka.RocksDB@0.14.0-preview-7
 - pkg:nuget/MinimalKafka.RocksDB@0.14.0-preview-8
 - pkg:nuget/MinimalKafka.RocksDB@0.14.0-preview-9
+- pkg:nuget/MinimalKafka.RocksDB@0.18.0-alpha005

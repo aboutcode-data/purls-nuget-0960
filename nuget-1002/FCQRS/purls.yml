@@ -76,3 +76,4 @@
 - pkg:nuget/FCQRS@6.10.0
 - pkg:nuget/FCQRS@6.11.0
 - pkg:nuget/FCQRS@6.6.0
+- pkg:nuget/FCQRS@7.0.0

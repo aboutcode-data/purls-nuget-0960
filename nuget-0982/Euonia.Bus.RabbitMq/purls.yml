@@ -5,6 +5,8 @@
 - pkg:nuget/Euonia.Bus.RabbitMq@2026.3.11
 - pkg:nuget/Euonia.Bus.RabbitMq@2026.3.12
 - pkg:nuget/Euonia.Bus.RabbitMq@2026.3.3
+- pkg:nuget/Euonia.Bus.RabbitMq@2026.4.5
+- pkg:nuget/Euonia.Bus.RabbitMq@2026.4.7
 - pkg:nuget/Euonia.Bus.RabbitMq@7.2.0
 - pkg:nuget/Euonia.Bus.RabbitMq@7.2.1
 - pkg:nuget/Euonia.Bus.RabbitMq@7.2.2

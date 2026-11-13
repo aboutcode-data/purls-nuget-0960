@@ -13,3 +13,4 @@
 - pkg:nuget/Azure.ResourceManager.CognitiveServices@1.5.0
 - pkg:nuget/Azure.ResourceManager.CognitiveServices@1.5.0-beta.1
 - pkg:nuget/Azure.ResourceManager.CognitiveServices@1.5.1
+- pkg:nuget/Azure.ResourceManager.CognitiveServices@1.7.0-beta.1

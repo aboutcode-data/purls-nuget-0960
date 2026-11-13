@@ -1,3 +1,5 @@
+- pkg:nuget/BinarySerializer@10.2.0
+- pkg:nuget/BinarySerializer@10.2.1
 - pkg:nuget/BinarySerializer@2.2.0
 - pkg:nuget/BinarySerializer@2.4.0
 - pkg:nuget/BinarySerializer@2.4.1

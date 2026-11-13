@@ -27,3 +27,6 @@
 - pkg:nuget/EasyEcs@2.1.5
 - pkg:nuget/EasyEcs@2.1.6
 - pkg:nuget/EasyEcs@3.0.5
+- pkg:nuget/EasyEcs@4.0.1
+- pkg:nuget/EasyEcs@4.2.0
+- pkg:nuget/EasyEcs@4.6.0

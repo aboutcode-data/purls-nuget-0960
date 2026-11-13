@@ -5,6 +5,8 @@
 - pkg:nuget/Billetkontoret.Api.Rest@2.2.7
 - pkg:nuget/Billetkontoret.Api.Rest@2.2.8
 - pkg:nuget/Billetkontoret.Api.Rest@25.42.23840
+- pkg:nuget/Billetkontoret.Api.Rest@26.25.36794
+- pkg:nuget/Billetkontoret.Api.Rest@26.293.13753
 - pkg:nuget/Billetkontoret.Api.Rest@3.0.0
 - pkg:nuget/Billetkontoret.Api.Rest@3.0.10
 - pkg:nuget/Billetkontoret.Api.Rest@3.0.11
@@ -16,3 +18,4 @@
 - pkg:nuget/Billetkontoret.Api.Rest@3.1.0
 - pkg:nuget/Billetkontoret.Api.Rest@3.1.1
 - pkg:nuget/Billetkontoret.Api.Rest@3.1.2
+- pkg:nuget/Billetkontoret.Api.Rest@3.1.4

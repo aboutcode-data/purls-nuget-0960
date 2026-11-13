@@ -113,6 +113,8 @@
 - pkg:nuget/Schemata.Entity.LinqToDB@10.0.0-preview.26377.57
 - pkg:nuget/Schemata.Entity.LinqToDB@10.0.0-preview.26420.39
 - pkg:nuget/Schemata.Entity.LinqToDB@10.0.0-preview.26452.1
+- pkg:nuget/Schemata.Entity.LinqToDB@10.0.0-preview.26520.65
+- pkg:nuget/Schemata.Entity.LinqToDB@10.0.0-preview.26521.23
 - pkg:nuget/Schemata.Entity.LinqToDB@9.0.0-preview.25128.31
 - pkg:nuget/Schemata.Entity.LinqToDB@9.0.0-preview.25128.36
 - pkg:nuget/Schemata.Entity.LinqToDB@9.0.0-preview.25153.54

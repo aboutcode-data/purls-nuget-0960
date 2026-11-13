@@ -91,3 +91,5 @@
 - pkg:nuget/SSF.Infrastructure.Abstractions@2.48.0
 - pkg:nuget/SSF.Infrastructure.Abstractions@2.58.0
 - pkg:nuget/SSF.Infrastructure.Abstractions@2.62.0
+- pkg:nuget/SSF.Infrastructure.Abstractions@2.64.0
+- pkg:nuget/SSF.Infrastructure.Abstractions@2.67.0

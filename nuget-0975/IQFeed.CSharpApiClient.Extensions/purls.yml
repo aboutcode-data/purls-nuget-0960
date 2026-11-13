@@ -10,3 +10,4 @@
 - pkg:nuget/IQFeed.CSharpApiClient.Extensions@2.9.1
 - pkg:nuget/IQFeed.CSharpApiClient.Extensions@681.0.0
 - pkg:nuget/IQFeed.CSharpApiClient.Extensions@771.0.0
+- pkg:nuget/IQFeed.CSharpApiClient.Extensions@808.0.0

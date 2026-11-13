@@ -1,4 +1,5 @@
 - pkg:nuget/ZhileTime.Hope.ServiceManagement.HttpApi@1.8.5
+- pkg:nuget/ZhileTime.Hope.ServiceManagement.HttpApi@12.0.0
 - pkg:nuget/ZhileTime.Hope.ServiceManagement.HttpApi@2.1.0
 - pkg:nuget/ZhileTime.Hope.ServiceManagement.HttpApi@2.2.0
 - pkg:nuget/ZhileTime.Hope.ServiceManagement.HttpApi@2.2.1

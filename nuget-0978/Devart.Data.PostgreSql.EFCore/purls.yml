@@ -96,3 +96,9 @@
 - pkg:nuget/Devart.Data.PostgreSql.EFCore@9.0.0.7
 - pkg:nuget/Devart.Data.PostgreSql.EFCore@9.0.0.8
 - pkg:nuget/Devart.Data.PostgreSql.EFCore@9.0.0.9
+- pkg:nuget/Devart.Data.PostgreSql.EFCore@9.3.248
+- pkg:nuget/Devart.Data.PostgreSql.EFCore@9.3.248.10
+- pkg:nuget/Devart.Data.PostgreSql.EFCore@9.3.248.11
+- pkg:nuget/Devart.Data.PostgreSql.EFCore@9.3.248.7
+- pkg:nuget/Devart.Data.PostgreSql.EFCore@9.3.248.8
+- pkg:nuget/Devart.Data.PostgreSql.EFCore@9.3.248.9

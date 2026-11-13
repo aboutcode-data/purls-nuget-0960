@@ -34,3 +34,4 @@
 - pkg:nuget/DuckDB.NET.Data@1.3.0
 - pkg:nuget/DuckDB.NET.Data@1.3.2
 - pkg:nuget/DuckDB.NET.Data@1.4.3
+- pkg:nuget/DuckDB.NET.Data@2.0.0-preview.1

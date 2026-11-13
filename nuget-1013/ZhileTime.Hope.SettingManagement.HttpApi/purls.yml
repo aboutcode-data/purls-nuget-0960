@@ -33,6 +33,7 @@
 - pkg:nuget/ZhileTime.Hope.SettingManagement.HttpApi@1.8.2
 - pkg:nuget/ZhileTime.Hope.SettingManagement.HttpApi@1.8.5
 - pkg:nuget/ZhileTime.Hope.SettingManagement.HttpApi@10.0.0
+- pkg:nuget/ZhileTime.Hope.SettingManagement.HttpApi@12.0.0
 - pkg:nuget/ZhileTime.Hope.SettingManagement.HttpApi@2.1.0
 - pkg:nuget/ZhileTime.Hope.SettingManagement.HttpApi@2.2.0
 - pkg:nuget/ZhileTime.Hope.SettingManagement.HttpApi@2.2.1

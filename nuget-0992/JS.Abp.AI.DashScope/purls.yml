@@ -1,3 +1,5 @@
+- pkg:nuget/JS.Abp.AI.DashScope@10.6.1
+- pkg:nuget/JS.Abp.AI.DashScope@10.6.2
 - pkg:nuget/JS.Abp.AI.DashScope@7.4.0
 - pkg:nuget/JS.Abp.AI.DashScope@7.4.1
 - pkg:nuget/JS.Abp.AI.DashScope@7.4.2

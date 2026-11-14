@@ -1,1 +1,4 @@
+- pkg:nuget/Qyl.Telemetry.SemanticConventions.Incubating@13.1.0
+- pkg:nuget/Qyl.Telemetry.SemanticConventions.Incubating@13.1.1
 - pkg:nuget/Qyl.Telemetry.SemanticConventions.Incubating@7.1.0
+- pkg:nuget/Qyl.Telemetry.SemanticConventions.Incubating@9.5.0

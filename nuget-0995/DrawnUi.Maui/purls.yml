@@ -3,6 +3,14 @@
 - pkg:nuget/DrawnUi.Maui@1.10.5.10
 - pkg:nuget/DrawnUi.Maui@1.10.5.12
 - pkg:nuget/DrawnUi.Maui@1.10.5.19-pre
+- pkg:nuget/DrawnUi.Maui@1.10.7.12-pre1
+- pkg:nuget/DrawnUi.Maui@1.10.7.12-pre3
+- pkg:nuget/DrawnUi.Maui@1.10.8.1
+- pkg:nuget/DrawnUi.Maui@1.10.8.2
+- pkg:nuget/DrawnUi.Maui@1.10.8.20
+- pkg:nuget/DrawnUi.Maui@1.10.8.21
+- pkg:nuget/DrawnUi.Maui@1.10.8.24
+- pkg:nuget/DrawnUi.Maui@1.10.8.3
 - pkg:nuget/DrawnUi.Maui@1.5.1.9-pre
 - pkg:nuget/DrawnUi.Maui@1.6.1.1-pre
 - pkg:nuget/DrawnUi.Maui@1.6.1.2-pre

@@ -1,1 +1,3 @@
 - pkg:nuget/Raycynix.Extensions.Messaging.Kafka@1.0.0
+- pkg:nuget/Raycynix.Extensions.Messaging.Kafka@3.0.1
+- pkg:nuget/Raycynix.Extensions.Messaging.Kafka@3.1.0

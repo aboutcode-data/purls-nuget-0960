@@ -245,6 +245,7 @@
 - pkg:nuget/AngleSharp@1.1.2-beta.407
 - pkg:nuget/AngleSharp@1.10.1-beta.939
 - pkg:nuget/AngleSharp@1.10.2-beta.949
+- pkg:nuget/AngleSharp@1.10.3-beta.954
 - pkg:nuget/AngleSharp@1.2.0
 - pkg:nuget/AngleSharp@1.2.0-beta.408
 - pkg:nuget/AngleSharp@1.2.0-beta.410

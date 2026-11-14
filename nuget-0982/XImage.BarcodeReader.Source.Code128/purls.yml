@@ -25,5 +25,8 @@
 - pkg:nuget/XImage.BarcodeReader.Source.Code128@12.3.5.6
 - pkg:nuget/XImage.BarcodeReader.Source.Code128@12.3.5.67
 - pkg:nuget/XImage.BarcodeReader.Source.Code128@12.3.5.7
+- pkg:nuget/XImage.BarcodeReader.Source.Code128@12.3.5.72
+- pkg:nuget/XImage.BarcodeReader.Source.Code128@12.3.5.73
+- pkg:nuget/XImage.BarcodeReader.Source.Code128@12.3.5.74
 - pkg:nuget/XImage.BarcodeReader.Source.Code128@12.3.5.8
 - pkg:nuget/XImage.BarcodeReader.Source.Code128@12.3.5.9

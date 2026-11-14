@@ -26,3 +26,6 @@
 - pkg:nuget/Maranics.DataSyncService.SDK@1.1.1-dev9
 - pkg:nuget/Maranics.DataSyncService.SDK@1.1.2
 - pkg:nuget/Maranics.DataSyncService.SDK@2.0.0
+- pkg:nuget/Maranics.DataSyncService.SDK@2.0.1
+- pkg:nuget/Maranics.DataSyncService.SDK@2.0.2
+- pkg:nuget/Maranics.DataSyncService.SDK@2.0.3

@@ -18,3 +18,4 @@
 - pkg:nuget/Sidio.Functions.Worker.ServiceBus@1.2.3
 - pkg:nuget/Sidio.Functions.Worker.ServiceBus@1.2.4
 - pkg:nuget/Sidio.Functions.Worker.ServiceBus@1.2.5
+- pkg:nuget/Sidio.Functions.Worker.ServiceBus@2.0.0-preview

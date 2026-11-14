@@ -88,3 +88,4 @@
 - pkg:nuget/MicroPlumberd.SourceGenerators@1.0.98.133
 - pkg:nuget/MicroPlumberd.SourceGenerators@1.0.99.133
 - pkg:nuget/MicroPlumberd.SourceGenerators@1.1.4
+- pkg:nuget/MicroPlumberd.SourceGenerators@1.3.6

@@ -44,3 +44,6 @@
 - pkg:nuget/Redpoint.KubernetesManager.Manifest@2026.1252.476
 - pkg:nuget/Redpoint.KubernetesManager.Manifest@2026.1252.751
 - pkg:nuget/Redpoint.KubernetesManager.Manifest@2026.1259.914
+- pkg:nuget/Redpoint.KubernetesManager.Manifest@2026.1267.457
+- pkg:nuget/Redpoint.KubernetesManager.Manifest@2026.1315.340
+- pkg:nuget/Redpoint.KubernetesManager.Manifest@2026.1316.512

@@ -45,3 +45,5 @@
 - pkg:nuget/Cogito.MassTransit@1.0.8
 - pkg:nuget/Cogito.MassTransit@1.0.9
 - pkg:nuget/Cogito.MassTransit@2.0.0
+- pkg:nuget/Cogito.MassTransit@2.3.7
+- pkg:nuget/Cogito.MassTransit@3.1.0

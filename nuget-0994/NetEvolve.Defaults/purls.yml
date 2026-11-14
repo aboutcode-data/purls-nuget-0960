@@ -52,6 +52,7 @@
 - pkg:nuget/NetEvolve.Defaults@1.4.72
 - pkg:nuget/NetEvolve.Defaults@1.5.0
 - pkg:nuget/NetEvolve.Defaults@2.1.0
+- pkg:nuget/NetEvolve.Defaults@2.10.80
 - pkg:nuget/NetEvolve.Defaults@2.2.0
 - pkg:nuget/NetEvolve.Defaults@2.4.0
 - pkg:nuget/NetEvolve.Defaults@2.6.95

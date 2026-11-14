@@ -8,3 +8,5 @@
 - pkg:nuget/Exphadis.Core.Domain@0.6.7
 - pkg:nuget/Exphadis.Core.Domain@0.7.2
 - pkg:nuget/Exphadis.Core.Domain@1.0.2
+- pkg:nuget/Exphadis.Core.Domain@1.0.7
+- pkg:nuget/Exphadis.Core.Domain@1.0.9

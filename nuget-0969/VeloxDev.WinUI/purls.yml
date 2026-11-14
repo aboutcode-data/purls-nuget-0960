@@ -1,3 +1,6 @@
+- pkg:nuget/VeloxDev.WinUI@10.1.0
+- pkg:nuget/VeloxDev.WinUI@11.0.0
+- pkg:nuget/VeloxDev.WinUI@11.2.0
 - pkg:nuget/VeloxDev.WinUI@3.4.0
 - pkg:nuget/VeloxDev.WinUI@3.4.1
 - pkg:nuget/VeloxDev.WinUI@4.0.2

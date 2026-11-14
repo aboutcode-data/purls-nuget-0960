@@ -4,3 +4,5 @@
 - pkg:nuget/Hyppot.AspnetCore@0.2.2
 - pkg:nuget/Hyppot.AspnetCore@0.2.3
 - pkg:nuget/Hyppot.AspnetCore@0.3.0
+- pkg:nuget/Hyppot.AspnetCore@0.4.1
+- pkg:nuget/Hyppot.AspnetCore@0.4.2

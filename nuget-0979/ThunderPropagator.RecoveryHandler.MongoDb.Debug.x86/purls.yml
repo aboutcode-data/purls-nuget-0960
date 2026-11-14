@@ -1,0 +1,4 @@
+- pkg:nuget/ThunderPropagator.RecoveryHandler.MongoDb.Debug.x86@1.0.0-beta.12
+- pkg:nuget/ThunderPropagator.RecoveryHandler.MongoDb.Debug.x86@1.0.1-beta.19
+- pkg:nuget/ThunderPropagator.RecoveryHandler.MongoDb.Debug.x86@1.0.1-beta.23
+- pkg:nuget/ThunderPropagator.RecoveryHandler.MongoDb.Debug.x86@1.0.1-beta.24

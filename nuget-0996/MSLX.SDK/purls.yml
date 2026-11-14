@@ -64,3 +64,5 @@
 - pkg:nuget/MSLX.SDK@1.7.3-dev-202610191610
 - pkg:nuget/MSLX.SDK@1.7.5-dev-202610271542
 - pkg:nuget/MSLX.SDK@1.7.6-dev-202610301522
+- pkg:nuget/MSLX.SDK@1.7.8-dev-202611131750
+- pkg:nuget/MSLX.SDK@1.7.8-dev-202611131752

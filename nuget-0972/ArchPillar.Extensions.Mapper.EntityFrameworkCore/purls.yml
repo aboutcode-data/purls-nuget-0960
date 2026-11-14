@@ -1,0 +1,9 @@
+- pkg:nuget/ArchPillar.Extensions.Mapper.EntityFrameworkCore@1.3.0
+- pkg:nuget/ArchPillar.Extensions.Mapper.EntityFrameworkCore@1.3.2
+- pkg:nuget/ArchPillar.Extensions.Mapper.EntityFrameworkCore@1.3.3
+- pkg:nuget/ArchPillar.Extensions.Mapper.EntityFrameworkCore@1.3.5
+- pkg:nuget/ArchPillar.Extensions.Mapper.EntityFrameworkCore@1.4.0
+- pkg:nuget/ArchPillar.Extensions.Mapper.EntityFrameworkCore@1.5.0-preview1
+- pkg:nuget/ArchPillar.Extensions.Mapper.EntityFrameworkCore@1.5.0-preview10
+- pkg:nuget/ArchPillar.Extensions.Mapper.EntityFrameworkCore@1.5.0-preview2
+- pkg:nuget/ArchPillar.Extensions.Mapper.EntityFrameworkCore@1.5.0-preview7

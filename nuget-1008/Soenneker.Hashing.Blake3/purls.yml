@@ -1,3 +1,7 @@
+- pkg:nuget/Soenneker.Hashing.Blake3@11.0.190
+- pkg:nuget/Soenneker.Hashing.Blake3@11.0.191
+- pkg:nuget/Soenneker.Hashing.Blake3@11.0.194
+- pkg:nuget/Soenneker.Hashing.Blake3@11.0.198
 - pkg:nuget/Soenneker.Hashing.Blake3@4.0.117
 - pkg:nuget/Soenneker.Hashing.Blake3@4.0.119
 - pkg:nuget/Soenneker.Hashing.Blake3@4.0.131

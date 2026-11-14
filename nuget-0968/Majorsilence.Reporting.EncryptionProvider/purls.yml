@@ -1,4 +1,9 @@
 - pkg:nuget/Majorsilence.Reporting.EncryptionProvider@26.0.2
+- pkg:nuget/Majorsilence.Reporting.EncryptionProvider@26.0.7
+- pkg:nuget/Majorsilence.Reporting.EncryptionProvider@27.0.0-alpha.11
+- pkg:nuget/Majorsilence.Reporting.EncryptionProvider@27.0.0-alpha.2
+- pkg:nuget/Majorsilence.Reporting.EncryptionProvider@27.0.0-alpha.3
+- pkg:nuget/Majorsilence.Reporting.EncryptionProvider@27.0.0-alpha.6
 - pkg:nuget/Majorsilence.Reporting.EncryptionProvider@4.16.0
 - pkg:nuget/Majorsilence.Reporting.EncryptionProvider@4.17.0
 - pkg:nuget/Majorsilence.Reporting.EncryptionProvider@5.0.1-alpha

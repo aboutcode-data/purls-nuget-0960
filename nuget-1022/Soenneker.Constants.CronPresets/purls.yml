@@ -1,4 +1,5 @@
 - pkg:nuget/Soenneker.Constants.CronPresets@11.0.84
+- pkg:nuget/Soenneker.Constants.CronPresets@11.0.85
 - pkg:nuget/Soenneker.Constants.CronPresets@3.0.1
 - pkg:nuget/Soenneker.Constants.CronPresets@3.0.10
 - pkg:nuget/Soenneker.Constants.CronPresets@3.0.11

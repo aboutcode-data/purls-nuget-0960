@@ -4,3 +4,4 @@
 - pkg:nuget/DubUrl.Provider.DuckDb.Adbc@0.55.0
 - pkg:nuget/DubUrl.Provider.DuckDb.Adbc@0.56.0
 - pkg:nuget/DubUrl.Provider.DuckDb.Adbc@0.64.0
+- pkg:nuget/DubUrl.Provider.DuckDb.Adbc@0.69.1

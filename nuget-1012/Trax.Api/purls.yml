@@ -8,4 +8,9 @@
 - pkg:nuget/Trax.Api@1.37.0
 - pkg:nuget/Trax.Api@1.44.2
 - pkg:nuget/Trax.Api@1.47.0
+- pkg:nuget/Trax.Api@1.65.0
+- pkg:nuget/Trax.Api@1.67.0
+- pkg:nuget/Trax.Api@1.69.0
+- pkg:nuget/Trax.Api@1.69.1
+- pkg:nuget/Trax.Api@1.70.0
 - pkg:nuget/Trax.Api@1.9.0

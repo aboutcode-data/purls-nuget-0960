@@ -4,3 +4,5 @@
 - pkg:nuget/CSoft.Communication.Builder@10.5.0
 - pkg:nuget/CSoft.Communication.Builder@10.6.0
 - pkg:nuget/CSoft.Communication.Builder@10.6.2
+- pkg:nuget/CSoft.Communication.Builder@11.0.1
+- pkg:nuget/CSoft.Communication.Builder@11.0.2

@@ -12,5 +12,14 @@
 - pkg:nuget/RawCef.Binaries.Macosarm64.Debug@1000.0.0-cef.154.0.26.ci.35990837356
 - pkg:nuget/RawCef.Binaries.Macosarm64.Debug@1000.0.0-cef.154.0.28.ci.36424379639
 - pkg:nuget/RawCef.Binaries.Macosarm64.Debug@1000.0.0-cef.154.0.34.ci.37622128161
+- pkg:nuget/RawCef.Binaries.Macosarm64.Debug@1000.0.0-cef.156.0.14.ci.40684687412
+- pkg:nuget/RawCef.Binaries.Macosarm64.Debug@1000.0.0-cef.156.0.15.ci.41464336418
+- pkg:nuget/RawCef.Binaries.Macosarm64.Debug@1000.0.0-cef.156.0.15.ci.42040234745
+- pkg:nuget/RawCef.Binaries.Macosarm64.Debug@1000.0.0-cef.156.0.27.ci.42832362719
 - pkg:nuget/RawCef.Binaries.Macosarm64.Debug@1000.0.0-cef.156.0.7.ci.38554352717
+- pkg:nuget/RawCef.Binaries.Macosarm64.Debug@1000.0.0-cef.156.0.7.ci.38722898951
+- pkg:nuget/RawCef.Binaries.Macosarm64.Debug@1000.0.0-cef.156.0.7.ci.39023627665
+- pkg:nuget/RawCef.Binaries.Macosarm64.Debug@1000.0.0-cef.156.0.7.ci.39411097393
+- pkg:nuget/RawCef.Binaries.Macosarm64.Debug@1000.0.0-cef.158.0.1.ci.43029638284
+- pkg:nuget/RawCef.Binaries.Macosarm64.Debug@1000.0.0-cef.158.0.1.ci.43238545864
 - pkg:nuget/RawCef.Binaries.Macosarm64.Debug@151.3.14

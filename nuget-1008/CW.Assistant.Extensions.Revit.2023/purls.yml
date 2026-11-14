@@ -242,6 +242,9 @@
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.12.0-PullRequest1365.41.67712
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.12.0-PullRequest1375.2.67735
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.12.0-PullRequest1385.74.67770
+- pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.12.0-PullRequest1443.9.67837
+- pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.12.0-PullRequest1452.78.67828
+- pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.12.0-PullRequest1466.86.67847
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.12.0-PullRequest702.9.67464
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.12.0-PullRequest702.9.67482
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.12.0-PullRequest853.485.67790
@@ -253,6 +256,7 @@
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.12.0-alpha.72.67763
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.12.0-alpha.74.67782
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.12.0-alpha.76.67815
+- pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.12.0-alpha.83.67846
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.2.0-PullRequest55.5048
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.2.0-alpha.1063240
 - pkg:nuget/CW.Assistant.Extensions.Revit.2023@26.4.0-PullRequest14.3

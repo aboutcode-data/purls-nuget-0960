@@ -9,3 +9,7 @@
 - pkg:nuget/opencertserver.acme.abstractions@2.4.6-profiles.22
 - pkg:nuget/opencertserver.acme.abstractions@2.5.0
 - pkg:nuget/opencertserver.acme.abstractions@2.6.0
+- pkg:nuget/opencertserver.acme.abstractions@3.9.0
+- pkg:nuget/opencertserver.acme.abstractions@3.9.1
+- pkg:nuget/opencertserver.acme.abstractions@3.9.2
+- pkg:nuget/opencertserver.acme.abstractions@4.1.0

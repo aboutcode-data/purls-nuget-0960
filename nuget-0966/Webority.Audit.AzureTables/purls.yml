@@ -1,0 +1,13 @@
+- pkg:nuget/Webority.Audit.AzureTables@0.11.0
+- pkg:nuget/Webority.Audit.AzureTables@0.12.5
+- pkg:nuget/Webority.Audit.AzureTables@0.16.0
+- pkg:nuget/Webority.Audit.AzureTables@0.19.15
+- pkg:nuget/Webority.Audit.AzureTables@0.19.17
+- pkg:nuget/Webority.Audit.AzureTables@0.19.4
+- pkg:nuget/Webority.Audit.AzureTables@0.19.5
+- pkg:nuget/Webority.Audit.AzureTables@0.19.8
+- pkg:nuget/Webority.Audit.AzureTables@0.20.2
+- pkg:nuget/Webority.Audit.AzureTables@0.20.32
+- pkg:nuget/Webority.Audit.AzureTables@0.21.0
+- pkg:nuget/Webority.Audit.AzureTables@0.22.0
+- pkg:nuget/Webority.Audit.AzureTables@0.25.1

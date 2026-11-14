@@ -1,0 +1,4 @@
+- pkg:nuget/AkkaFsiMcpServer@1.4.3
+- pkg:nuget/AkkaFsiMcpServer@1.4.4
+- pkg:nuget/AkkaFsiMcpServer@1.4.5
+- pkg:nuget/AkkaFsiMcpServer@1.4.9

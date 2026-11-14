@@ -10,3 +10,6 @@
 - pkg:nuget/SunCalcNet@1.2.1
 - pkg:nuget/SunCalcNet@1.2.2
 - pkg:nuget/SunCalcNet@1.2.3
+- pkg:nuget/SunCalcNet@2.0.1
+- pkg:nuget/SunCalcNet@3.0.0
+- pkg:nuget/SunCalcNet@3.1.0

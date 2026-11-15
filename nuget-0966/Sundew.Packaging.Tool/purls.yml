@@ -1,3 +1,5 @@
+- pkg:nuget/Sundew.Packaging.Tool@10.10.0.17%2B062e70281f
+- pkg:nuget/Sundew.Packaging.Tool@11.10.0.17%2B062e70281f
 - pkg:nuget/Sundew.Packaging.Tool@2.0.0
 - pkg:nuget/Sundew.Packaging.Tool@2.0.0-pre-u20210303-225534
 - pkg:nuget/Sundew.Packaging.Tool@2.0.0-pre-u20210303-230514
@@ -242,6 +244,7 @@
 - pkg:nuget/Sundew.Packaging.Tool@8.10.0.1%2Bac7ac72345
 - pkg:nuget/Sundew.Packaging.Tool@8.10.0.1-u20231128-233126-ci%2Bac7ac72345
 - pkg:nuget/Sundew.Packaging.Tool@8.10.0.10-u20250427-204945-ci%2B0c15b0f811
+- pkg:nuget/Sundew.Packaging.Tool@8.10.0.17%2B062e70281f
 - pkg:nuget/Sundew.Packaging.Tool@8.10.0.2%2B643877f556
 - pkg:nuget/Sundew.Packaging.Tool@8.10.0.3%2Bfdbaa4ae2d
 - pkg:nuget/Sundew.Packaging.Tool@8.10.0.4%2B05adecff30
@@ -283,4 +286,5 @@
 - pkg:nuget/Sundew.Packaging.Tool@8.9.0-u20231128-211852-ci%2B4d797de8a2
 - pkg:nuget/Sundew.Packaging.Tool@8.9.0-u20231128-212720-ci%2Be9580ae6fc
 - pkg:nuget/Sundew.Packaging.Tool@9.10.0.10-u20250427-204945-ci%2B0c15b0f811
+- pkg:nuget/Sundew.Packaging.Tool@9.10.0.17%2B062e70281f
 - pkg:nuget/Sundew.Packaging.Tool@9.10.0.9%2Bce8376dd1c

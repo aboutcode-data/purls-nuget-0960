@@ -8,3 +8,6 @@
 - pkg:nuget/Cosmos.Kernel.Native.ARM64@3.0.74
 - pkg:nuget/Cosmos.Kernel.Native.ARM64@3.0.80
 - pkg:nuget/Cosmos.Kernel.Native.ARM64@3.0.85
+- pkg:nuget/Cosmos.Kernel.Native.ARM64@3.0.89
+- pkg:nuget/Cosmos.Kernel.Native.ARM64@3.0.91
+- pkg:nuget/Cosmos.Kernel.Native.ARM64@3.0.95

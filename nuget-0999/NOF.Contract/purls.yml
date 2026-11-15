@@ -3,6 +3,7 @@
 - pkg:nuget/NOF.Contract@10.6.0-nightly.1253375.5b42a45
 - pkg:nuget/NOF.Contract@10.6.0-nightly.1275187.b146f14
 - pkg:nuget/NOF.Contract@10.6.0-nightly.1280622.60d7027
+- pkg:nuget/NOF.Contract@11.0.0
 - pkg:nuget/NOF.Contract@11.0.0-nightly.1301051.0eb242a0
 - pkg:nuget/NOF.Contract@11.0.0-nightly.1316659.06eff8ad
 - pkg:nuget/NOF.Contract@11.0.0-nightly.1321031.11aae520
@@ -13,6 +14,8 @@
 - pkg:nuget/NOF.Contract@11.0.0-nightly.1385860.ed434de0
 - pkg:nuget/NOF.Contract@11.0.0-nightly.1429244.fcdf0034
 - pkg:nuget/NOF.Contract@11.0.0-nightly.1430269.0e366222
+- pkg:nuget/NOF.Contract@11.0.0-nightly.1447844.3ec67f89
+- pkg:nuget/NOF.Contract@11.0.0-nightly.1473609.75efa591
 - pkg:nuget/NOF.Contract@3.2.3
 - pkg:nuget/NOF.Contract@3.4.0
 - pkg:nuget/NOF.Contract@6.3.0

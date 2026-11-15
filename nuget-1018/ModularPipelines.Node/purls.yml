@@ -195,3 +195,4 @@
 - pkg:nuget/ModularPipelines.Node@2.8.23
 - pkg:nuget/ModularPipelines.Node@2.8.4
 - pkg:nuget/ModularPipelines.Node@2.9.0
+- pkg:nuget/ModularPipelines.Node@4.0.0

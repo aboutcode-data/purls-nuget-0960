@@ -1,3 +1,4 @@
+- pkg:nuget/Tyto.Transports.RabbitMq@0.0.1-alpha.105
 - pkg:nuget/Tyto.Transports.RabbitMq@0.0.1-alpha.22
 - pkg:nuget/Tyto.Transports.RabbitMq@0.0.1-alpha.23
 - pkg:nuget/Tyto.Transports.RabbitMq@0.0.1-alpha.48
@@ -6,3 +7,6 @@
 - pkg:nuget/Tyto.Transports.RabbitMq@0.0.1-alpha.82
 - pkg:nuget/Tyto.Transports.RabbitMq@0.0.1-alpha.9
 - pkg:nuget/Tyto.Transports.RabbitMq@0.0.1-alpha.92
+- pkg:nuget/Tyto.Transports.RabbitMq@0.0.1-alpha.96
+- pkg:nuget/Tyto.Transports.RabbitMq@0.1.0-alpha.4
+- pkg:nuget/Tyto.Transports.RabbitMq@0.1.0-alpha.9

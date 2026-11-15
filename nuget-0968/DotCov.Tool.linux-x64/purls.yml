@@ -1,0 +1,6 @@
+- pkg:nuget/DotCov.Tool.linux-x64@1.1.0
+- pkg:nuget/DotCov.Tool.linux-x64@1.7.0
+- pkg:nuget/DotCov.Tool.linux-x64@3.0.1
+- pkg:nuget/DotCov.Tool.linux-x64@4.3.0
+- pkg:nuget/DotCov.Tool.linux-x64@4.4.0
+- pkg:nuget/DotCov.Tool.linux-x64@4.7.1

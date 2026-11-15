@@ -1,5 +1,7 @@
 - pkg:nuget/GemBox.Pdf.Html.Windows@2026.1.105
 - pkg:nuget/GemBox.Pdf.Html.Windows@2026.10.103
+- pkg:nuget/GemBox.Pdf.Html.Windows@2026.10.108
+- pkg:nuget/GemBox.Pdf.Html.Windows@2026.11.103
 - pkg:nuget/GemBox.Pdf.Html.Windows@2026.4.100
 - pkg:nuget/GemBox.Pdf.Html.Windows@2026.4.101
 - pkg:nuget/GemBox.Pdf.Html.Windows@2026.4.111

@@ -21,3 +21,5 @@
 - pkg:nuget/dotnet-mgcb-editor-linux@3.8.5-develop.6
 - pkg:nuget/dotnet-mgcb-editor-linux@3.8.5-develop.7
 - pkg:nuget/dotnet-mgcb-editor-linux@3.8.5-develop.8
+- pkg:nuget/dotnet-mgcb-editor-linux@3.8.6-preview.2
+- pkg:nuget/dotnet-mgcb-editor-linux@3.8.6.1

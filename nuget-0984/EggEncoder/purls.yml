@@ -17,4 +17,10 @@
 - pkg:nuget/EggEncoder@4.66.1
 - pkg:nuget/EggEncoder@4.77.0
 - pkg:nuget/EggEncoder@4.80.0
+- pkg:nuget/EggEncoder@4.88.0
+- pkg:nuget/EggEncoder@4.89.0
 - pkg:nuget/EggEncoder@4.9.0
+- pkg:nuget/EggEncoder@4.90.0
+- pkg:nuget/EggEncoder@4.91.0
+- pkg:nuget/EggEncoder@4.92.0
+- pkg:nuget/EggEncoder@4.95.0

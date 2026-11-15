@@ -68,3 +68,4 @@
 - pkg:nuget/eQuantic.Core.Persistence@1.9.2
 - pkg:nuget/eQuantic.Core.Persistence@1.9.3
 - pkg:nuget/eQuantic.Core.Persistence@6.0.0
+- pkg:nuget/eQuantic.Core.Persistence@7.0.0

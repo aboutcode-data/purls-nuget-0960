@@ -19,6 +19,7 @@
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Components.MauiBlazor@11.2.0
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Components.MauiBlazor@11.3.0
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Components.MauiBlazor@11.5.1
+- pkg:nuget/ZhileTime.Hope.AspNetCore.Components.MauiBlazor@12.1.0
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Components.MauiBlazor@2.1.0
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Components.MauiBlazor@2.2.0
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Components.MauiBlazor@2.2.1

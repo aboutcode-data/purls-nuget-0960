@@ -35,6 +35,7 @@
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Authentication.OpenIdConnect@11.2.0
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Authentication.OpenIdConnect@11.3.0
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Authentication.OpenIdConnect@11.5.1
+- pkg:nuget/ZhileTime.Hope.AspNetCore.Authentication.OpenIdConnect@12.1.0
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Authentication.OpenIdConnect@2.1.0
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Authentication.OpenIdConnect@2.2.0
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Authentication.OpenIdConnect@2.2.1

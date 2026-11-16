@@ -1,1 +1,8 @@
+- pkg:nuget/VpnHood.AppUi.Hosting.Avalonia.Ios@8.2.853.11-prerelease
 - pkg:nuget/VpnHood.AppUi.Hosting.Avalonia.Ios@9.0.855
+- pkg:nuget/VpnHood.AppUi.Hosting.Avalonia.Ios@9.0.856
+- pkg:nuget/VpnHood.AppUi.Hosting.Avalonia.Ios@9.0.857
+- pkg:nuget/VpnHood.AppUi.Hosting.Avalonia.Ios@9.0.859.16-prerelease
+- pkg:nuget/VpnHood.AppUi.Hosting.Avalonia.Ios@9.0.860
+- pkg:nuget/VpnHood.AppUi.Hosting.Avalonia.Ios@9.1.864
+- pkg:nuget/VpnHood.AppUi.Hosting.Avalonia.Ios@9.1.874

@@ -51,6 +51,7 @@
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1088.0-alpha.13453-vcst-5904
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1092.0-alpha.13453-vcst-4717
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1097.0
+- pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.1100.0-alpha.13467-vcst-6639-mcp-client-self-registration
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.264.0
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.264.0-alpha.12523
 - pkg:nuget/VirtoCommerce.Platform.Data.MySql@3.264.1

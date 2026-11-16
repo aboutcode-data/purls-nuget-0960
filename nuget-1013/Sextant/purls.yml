@@ -41,3 +41,4 @@
 - pkg:nuget/Sextant@2.9.4
 - pkg:nuget/Sextant@2.9.5
 - pkg:nuget/Sextant@3.0.1
+- pkg:nuget/Sextant@5.0.1

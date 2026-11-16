@@ -4,6 +4,7 @@
 - pkg:nuget/ZhileTime.Hope.ResourceManagement.Domain.Shared@11.2.0
 - pkg:nuget/ZhileTime.Hope.ResourceManagement.Domain.Shared@11.3.0
 - pkg:nuget/ZhileTime.Hope.ResourceManagement.Domain.Shared@11.5.1
+- pkg:nuget/ZhileTime.Hope.ResourceManagement.Domain.Shared@12.1.0
 - pkg:nuget/ZhileTime.Hope.ResourceManagement.Domain.Shared@2.1.0
 - pkg:nuget/ZhileTime.Hope.ResourceManagement.Domain.Shared@2.2.0
 - pkg:nuget/ZhileTime.Hope.ResourceManagement.Domain.Shared@2.2.1

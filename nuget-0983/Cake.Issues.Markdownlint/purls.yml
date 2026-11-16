@@ -71,3 +71,4 @@
 - pkg:nuget/Cake.Issues.Markdownlint@5.8.0
 - pkg:nuget/Cake.Issues.Markdownlint@5.9.0
 - pkg:nuget/Cake.Issues.Markdownlint@5.9.1
+- pkg:nuget/Cake.Issues.Markdownlint@7.0.0-beta0001

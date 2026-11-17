@@ -13,4 +13,5 @@
 - pkg:nuget/mloop@0.45.1
 - pkg:nuget/mloop@0.46.0
 - pkg:nuget/mloop@0.47.0
+- pkg:nuget/mloop@0.51.0
 - pkg:nuget/mloop@1.0.0

@@ -2,6 +2,7 @@
 - pkg:nuget/Monq.Core.BasicDotNetMicroservice@10.2.0-rev-42811929533
 - pkg:nuget/Monq.Core.BasicDotNetMicroservice@10.2.0-rev-42850598692
 - pkg:nuget/Monq.Core.BasicDotNetMicroservice@11.0.0-rev-42266457815
+- pkg:nuget/Monq.Core.BasicDotNetMicroservice@11.0.0-rev-44053653818
 - pkg:nuget/Monq.Core.BasicDotNetMicroservice@4.0.0
 - pkg:nuget/Monq.Core.BasicDotNetMicroservice@4.0.0-rev-764203108
 - pkg:nuget/Monq.Core.BasicDotNetMicroservice@4.0.0-rev-766394299

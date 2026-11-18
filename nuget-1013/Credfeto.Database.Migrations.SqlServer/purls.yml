@@ -46,3 +46,5 @@
 - pkg:nuget/Credfeto.Database.Migrations.SqlServer@1.2.231.2917-main
 - pkg:nuget/Credfeto.Database.Migrations.SqlServer@1.2.231.2923-main
 - pkg:nuget/Credfeto.Database.Migrations.SqlServer@1.2.231.2924-main
+- pkg:nuget/Credfeto.Database.Migrations.SqlServer@1.2.232.2930
+- pkg:nuget/Credfeto.Database.Migrations.SqlServer@1.2.233.2929-main

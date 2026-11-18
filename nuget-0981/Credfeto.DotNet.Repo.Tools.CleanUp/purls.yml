@@ -2358,6 +2358,9 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.22.4279-check-dependenc
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.23.4287-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.23.4297-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.23.4313
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.24.4312-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.24.4315-main
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.3.3139-unit-tests-git
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.3.3140-unit-tests-git
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.CleanUp@1.5.3.3141-main

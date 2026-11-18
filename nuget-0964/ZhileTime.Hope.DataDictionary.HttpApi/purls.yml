@@ -1,4 +1,5 @@
 - pkg:nuget/ZhileTime.Hope.DataDictionary.HttpApi@11.0.0
+- pkg:nuget/ZhileTime.Hope.DataDictionary.HttpApi@12.1.0
 - pkg:nuget/ZhileTime.Hope.DataDictionary.HttpApi@4.2.0
 - pkg:nuget/ZhileTime.Hope.DataDictionary.HttpApi@4.3.0
 - pkg:nuget/ZhileTime.Hope.DataDictionary.HttpApi@4.4.0

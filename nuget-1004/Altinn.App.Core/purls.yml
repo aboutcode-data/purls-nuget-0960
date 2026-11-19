@@ -199,3 +199,4 @@
 - pkg:nuget/Altinn.App.Core@8.7.0-preview.7
 - pkg:nuget/Altinn.App.Core@8.7.1
 - pkg:nuget/Altinn.App.Core@8.9.0-preview.3
+- pkg:nuget/Altinn.App.Core@9.0.0-preview.13

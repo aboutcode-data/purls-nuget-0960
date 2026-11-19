@@ -5,6 +5,7 @@
 - pkg:nuget/Soenneker.GitHub.Repositories.Security@11.0.253
 - pkg:nuget/Soenneker.GitHub.Repositories.Security@11.0.254
 - pkg:nuget/Soenneker.GitHub.Repositories.Security@11.0.260
+- pkg:nuget/Soenneker.GitHub.Repositories.Security@11.0.270
 - pkg:nuget/Soenneker.GitHub.Repositories.Security@4.0.10
 - pkg:nuget/Soenneker.GitHub.Repositories.Security@4.0.105
 - pkg:nuget/Soenneker.GitHub.Repositories.Security@4.0.109

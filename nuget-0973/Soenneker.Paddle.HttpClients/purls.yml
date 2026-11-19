@@ -1,6 +1,7 @@
 - pkg:nuget/Soenneker.Paddle.HttpClients@11.0.158
 - pkg:nuget/Soenneker.Paddle.HttpClients@11.0.162
 - pkg:nuget/Soenneker.Paddle.HttpClients@11.0.164
+- pkg:nuget/Soenneker.Paddle.HttpClients@11.0.176
 - pkg:nuget/Soenneker.Paddle.HttpClients@4.0.101
 - pkg:nuget/Soenneker.Paddle.HttpClients@4.0.127
 - pkg:nuget/Soenneker.Paddle.HttpClients@4.0.151

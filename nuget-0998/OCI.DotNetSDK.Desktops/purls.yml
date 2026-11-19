@@ -47,6 +47,7 @@
 - pkg:nuget/OCI.DotNetSDK.Desktops@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Desktops@144.1.0
 - pkg:nuget/OCI.DotNetSDK.Desktops@149.0.0
+- pkg:nuget/OCI.DotNetSDK.Desktops@151.0.0
 - pkg:nuget/OCI.DotNetSDK.Desktops@80.0.0
 - pkg:nuget/OCI.DotNetSDK.Desktops@81.0.0
 - pkg:nuget/OCI.DotNetSDK.Desktops@82.0.0

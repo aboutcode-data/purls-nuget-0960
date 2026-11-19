@@ -75,6 +75,7 @@
 - pkg:nuget/Soenneker.Enums.ServiceBusQueue@1.0.77
 - pkg:nuget/Soenneker.Enums.ServiceBusQueue@1.0.8
 - pkg:nuget/Soenneker.Enums.ServiceBusQueue@1.0.9
+- pkg:nuget/Soenneker.Enums.ServiceBusQueue@11.0.750
 - pkg:nuget/Soenneker.Enums.ServiceBusQueue@2.0.1
 - pkg:nuget/Soenneker.Enums.ServiceBusQueue@2.0.2
 - pkg:nuget/Soenneker.Enums.ServiceBusQueue@2.0.3

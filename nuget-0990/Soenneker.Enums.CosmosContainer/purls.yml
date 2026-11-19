@@ -74,6 +74,7 @@
 - pkg:nuget/Soenneker.Enums.CosmosContainer@1.0.76
 - pkg:nuget/Soenneker.Enums.CosmosContainer@1.0.8
 - pkg:nuget/Soenneker.Enums.CosmosContainer@1.0.9
+- pkg:nuget/Soenneker.Enums.CosmosContainer@11.0.769
 - pkg:nuget/Soenneker.Enums.CosmosContainer@2.0.1
 - pkg:nuget/Soenneker.Enums.CosmosContainer@2.0.2
 - pkg:nuget/Soenneker.Enums.CosmosContainer@2.0.3

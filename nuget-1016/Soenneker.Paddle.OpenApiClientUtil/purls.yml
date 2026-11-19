@@ -6,6 +6,7 @@
 - pkg:nuget/Soenneker.Paddle.OpenApiClientUtil@11.0.207
 - pkg:nuget/Soenneker.Paddle.OpenApiClientUtil@11.0.209
 - pkg:nuget/Soenneker.Paddle.OpenApiClientUtil@11.0.211
+- pkg:nuget/Soenneker.Paddle.OpenApiClientUtil@11.0.216
 - pkg:nuget/Soenneker.Paddle.OpenApiClientUtil@4.0.129
 - pkg:nuget/Soenneker.Paddle.OpenApiClientUtil@4.0.134
 - pkg:nuget/Soenneker.Paddle.OpenApiClientUtil@4.0.136

@@ -54,6 +54,7 @@
 - pkg:nuget/Lib9c.Policy@1.0.0-dev.71cc185361a2d11993d1f9c4a0f3c8bab203e6b3
 - pkg:nuget/Lib9c.Policy@1.0.0-dev.71e1bf38ad194557e7b4adbd72d0ef8e981d3b42
 - pkg:nuget/Lib9c.Policy@1.0.0-dev.7470108cf19bc94bd175ae713f2db9be7d8fe69a
+- pkg:nuget/Lib9c.Policy@1.0.0-dev.74b29790caed36e02e007cc1b3fe94bf31cd16ff
 - pkg:nuget/Lib9c.Policy@1.0.0-dev.76fff0c2861e7cb1f132899808039fbf0d611dba
 - pkg:nuget/Lib9c.Policy@1.0.0-dev.786e17d5bbb5b9e46de10f0cfdeaa3d18c3b130e
 - pkg:nuget/Lib9c.Policy@1.0.0-dev.79da7652aed002e6aa8ae6ebb8d70fb616d8e8e8

@@ -47,6 +47,7 @@
 - pkg:nuget/OCI.DotNetSDK.Licensemanager@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Licensemanager@144.1.0
 - pkg:nuget/OCI.DotNetSDK.Licensemanager@149.0.0
+- pkg:nuget/OCI.DotNetSDK.Licensemanager@151.0.0
 - pkg:nuget/OCI.DotNetSDK.Licensemanager@38.2.0
 - pkg:nuget/OCI.DotNetSDK.Licensemanager@38.3.0
 - pkg:nuget/OCI.DotNetSDK.Licensemanager@38.4.0

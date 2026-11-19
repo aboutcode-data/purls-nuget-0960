@@ -20,6 +20,8 @@
 - pkg:nuget/Soenneker.Librarian.Core@11.0.204
 - pkg:nuget/Soenneker.Librarian.Core@11.0.230
 - pkg:nuget/Soenneker.Librarian.Core@11.0.236
+- pkg:nuget/Soenneker.Librarian.Core@11.0.245
+- pkg:nuget/Soenneker.Librarian.Core@11.0.247
 - pkg:nuget/Soenneker.Librarian.Core@4.0.100
 - pkg:nuget/Soenneker.Librarian.Core@4.0.108
 - pkg:nuget/Soenneker.Librarian.Core@4.0.2

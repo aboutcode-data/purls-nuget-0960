@@ -2435,6 +2435,8 @@
 - pkg:nuget/ArmoniK.Api.Client@3.29.4-renovatepypi.11.9d8b9e60
 - pkg:nuget/ArmoniK.Api.Client@3.29.4-renovatepypi.11.dad1f94e
 - pkg:nuget/ArmoniK.Api.Client@3.29.4-renovatepypi.11.dce7405d
+- pkg:nuget/ArmoniK.Api.Client@3.29.5-jgcicsharppushownpackage.1.53961215
+- pkg:nuget/ArmoniK.Api.Client@3.29.5-jgcipinpython.1.4bb972d2
 - pkg:nuget/ArmoniK.Api.Client@3.29.5-renovateallminorpatch.1.211dc7e0
 - pkg:nuget/ArmoniK.Api.Client@3.29.5-renovateallminorpatch.1.d84d5562
 - pkg:nuget/ArmoniK.Api.Client@3.29.5-renovateangularnpm.1.8b3c6370
@@ -2443,6 +2445,7 @@
 - pkg:nuget/ArmoniK.Api.Client@3.29.5-renovategithubactions.1.207c0bd2
 - pkg:nuget/ArmoniK.Api.Client@3.29.5-renovategithubactions.1.30932932
 - pkg:nuget/ArmoniK.Api.Client@3.29.5-renovatejavamaven.1.3d29fd9b
+- pkg:nuget/ArmoniK.Api.Client@3.29.5-renovatemajorwebnpm.1.39669fc7
 - pkg:nuget/ArmoniK.Api.Client@3.29.5-renovatemajorwebnpm.1.fd96a555
 - pkg:nuget/ArmoniK.Api.Client@3.29.5-renovatepindependencies.1.7387bdb6
 - pkg:nuget/ArmoniK.Api.Client@3.29.5-renovatepypi.1.08fe4b74

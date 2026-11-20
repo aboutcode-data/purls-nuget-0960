@@ -14,9 +14,11 @@
 - pkg:nuget/CommunityToolkit.Aspire.Meilisearch@13.5.1-beta.763
 - pkg:nuget/CommunityToolkit.Aspire.Meilisearch@13.5.1-beta.895
 - pkg:nuget/CommunityToolkit.Aspire.Meilisearch@13.6.1-beta.935
+- pkg:nuget/CommunityToolkit.Aspire.Meilisearch@17.0.0
 - pkg:nuget/CommunityToolkit.Aspire.Meilisearch@17.0.0-beta.1052
 - pkg:nuget/CommunityToolkit.Aspire.Meilisearch@17.0.0-beta.1075
 - pkg:nuget/CommunityToolkit.Aspire.Meilisearch@17.0.0-beta.1078
+- pkg:nuget/CommunityToolkit.Aspire.Meilisearch@17.0.0-beta.1090
 - pkg:nuget/CommunityToolkit.Aspire.Meilisearch@8.2.0-beta.32
 - pkg:nuget/CommunityToolkit.Aspire.Meilisearch@8.2.0-beta.33
 - pkg:nuget/CommunityToolkit.Aspire.Meilisearch@8.2.0-beta.34

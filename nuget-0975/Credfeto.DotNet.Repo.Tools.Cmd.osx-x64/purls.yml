@@ -211,6 +211,8 @@
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.5.25.4341-stale-allpackag
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.5.25.4342-pull-398-merge
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.5.25.4344-formatter-clean
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.5.25.4352-main
+- pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.5.25.4353-case-sensitive
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.5.3.3139-unit-tests-git
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.5.3.3140-unit-tests-git
 - pkg:nuget/Credfeto.DotNet.Repo.Tools.Cmd.osx-x64@1.5.3.3149-unit-tests-depe

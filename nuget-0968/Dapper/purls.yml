@@ -77,6 +77,7 @@
 - pkg:nuget/Dapper@2.0.78
 - pkg:nuget/Dapper@2.0.90
 - pkg:nuget/Dapper@2.1.1
+- pkg:nuget/Dapper@2.1.100
 - pkg:nuget/Dapper@2.1.11
 - pkg:nuget/Dapper@2.1.15
 - pkg:nuget/Dapper@2.1.21

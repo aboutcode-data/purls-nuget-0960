@@ -49,3 +49,11 @@
 - pkg:nuget/Credfeto.Database.Migrations.SqlServer@1.2.232.2930
 - pkg:nuget/Credfeto.Database.Migrations.SqlServer@1.2.233.2929-main
 - pkg:nuget/Credfeto.Database.Migrations.SqlServer@1.2.233.2934-remove-unconsum
+- pkg:nuget/Credfeto.Database.Migrations.SqlServer@1.2.233.2946-update-credfeto
+- pkg:nuget/Credfeto.Database.Migrations.SqlServer@1.2.233.2947-update-funfair
+- pkg:nuget/Credfeto.Database.Migrations.SqlServer@1.2.233.2948-pull-204-merge
+- pkg:nuget/Credfeto.Database.Migrations.SqlServer@1.2.233.2949-update-credfeto
+- pkg:nuget/Credfeto.Database.Migrations.SqlServer@1.2.233.2950-pull-205-merge
+- pkg:nuget/Credfeto.Database.Migrations.SqlServer@1.2.233.2951-pull-203-merge
+- pkg:nuget/Credfeto.Database.Migrations.SqlServer@1.2.233.2959-main
+- pkg:nuget/Credfeto.Database.Migrations.SqlServer@1.2.233.2960-main

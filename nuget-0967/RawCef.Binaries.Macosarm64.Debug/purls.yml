@@ -22,4 +22,5 @@
 - pkg:nuget/RawCef.Binaries.Macosarm64.Debug@1000.0.0-cef.156.0.7.ci.39411097393
 - pkg:nuget/RawCef.Binaries.Macosarm64.Debug@1000.0.0-cef.158.0.1.ci.43029638284
 - pkg:nuget/RawCef.Binaries.Macosarm64.Debug@1000.0.0-cef.158.0.1.ci.43238545864
+- pkg:nuget/RawCef.Binaries.Macosarm64.Debug@1000.0.0-cef.158.0.3.ci.44757396987
 - pkg:nuget/RawCef.Binaries.Macosarm64.Debug@151.3.14

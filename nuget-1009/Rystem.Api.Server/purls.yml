@@ -1,4 +1,5 @@
 - pkg:nuget/Rystem.Api.Server@10.0.7
+- pkg:nuget/Rystem.Api.Server@11.1.0-beta.3
 - pkg:nuget/Rystem.Api.Server@6.0.0
 - pkg:nuget/Rystem.Api.Server@6.0.0-rc.1
 - pkg:nuget/Rystem.Api.Server@6.0.0-rc.2

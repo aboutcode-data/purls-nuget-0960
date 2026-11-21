@@ -31,4 +31,5 @@
 - pkg:nuget/BarcodeLib.BarcodeReader.TIFF.Format.EAN8@7.0.0.73
 - pkg:nuget/BarcodeLib.BarcodeReader.TIFF.Format.EAN8@7.0.0.76
 - pkg:nuget/BarcodeLib.BarcodeReader.TIFF.Format.EAN8@7.0.0.8
+- pkg:nuget/BarcodeLib.BarcodeReader.TIFF.Format.EAN8@7.0.0.80
 - pkg:nuget/BarcodeLib.BarcodeReader.TIFF.Format.EAN8@7.0.0.9

@@ -21,6 +21,8 @@
 - pkg:nuget/Soenneker.Librarian.AzureBlob@11.0.236
 - pkg:nuget/Soenneker.Librarian.AzureBlob@11.0.245
 - pkg:nuget/Soenneker.Librarian.AzureBlob@11.0.247
+- pkg:nuget/Soenneker.Librarian.AzureBlob@11.0.250
+- pkg:nuget/Soenneker.Librarian.AzureBlob@11.0.253
 - pkg:nuget/Soenneker.Librarian.AzureBlob@4.0.100
 - pkg:nuget/Soenneker.Librarian.AzureBlob@4.0.108
 - pkg:nuget/Soenneker.Librarian.AzureBlob@4.0.81

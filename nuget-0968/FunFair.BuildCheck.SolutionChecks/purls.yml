@@ -1279,6 +1279,8 @@
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.22.2985
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.23.2992-native-aot-tool
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.23.2996-main
+- pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.23.3004-main
+- pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.23.3005-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.4.2013-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.4.2014-main
 - pkg:nuget/FunFair.BuildCheck.SolutionChecks@474.2.4.2034-main

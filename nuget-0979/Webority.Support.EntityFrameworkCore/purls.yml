@@ -17,3 +17,6 @@
 - pkg:nuget/Webority.Support.EntityFrameworkCore@0.63.1
 - pkg:nuget/Webority.Support.EntityFrameworkCore@0.63.4
 - pkg:nuget/Webority.Support.EntityFrameworkCore@0.69.1
+- pkg:nuget/Webority.Support.EntityFrameworkCore@0.71.2
+- pkg:nuget/Webority.Support.EntityFrameworkCore@0.73.0
+- pkg:nuget/Webority.Support.EntityFrameworkCore@0.74.1

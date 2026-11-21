@@ -34,6 +34,7 @@
 - pkg:nuget/Antlr4BuildTasks@12.7.0
 - pkg:nuget/Antlr4BuildTasks@12.8.0
 - pkg:nuget/Antlr4BuildTasks@12.9.0
+- pkg:nuget/Antlr4BuildTasks@13.0.0
 - pkg:nuget/Antlr4BuildTasks@2.0.0
 - pkg:nuget/Antlr4BuildTasks@2.0.1
 - pkg:nuget/Antlr4BuildTasks@2.1.0

@@ -1,5 +1,6 @@
 - pkg:nuget/BlackForestLabs.CLI@0.0.0-dev.54
 - pkg:nuget/BlackForestLabs.CLI@1.0.1-dev.102
+- pkg:nuget/BlackForestLabs.CLI@1.0.1-dev.106
 - pkg:nuget/BlackForestLabs.CLI@1.0.1-dev.48
 - pkg:nuget/BlackForestLabs.CLI@1.0.1-dev.60
 - pkg:nuget/BlackForestLabs.CLI@1.0.1-dev.61

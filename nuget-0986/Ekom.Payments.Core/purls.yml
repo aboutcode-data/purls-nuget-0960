@@ -102,3 +102,5 @@
 - pkg:nuget/Ekom.Payments.Core@0.2.99
 - pkg:nuget/Ekom.Payments.Core@1.0.0
 - pkg:nuget/Ekom.Payments.Core@1.1.0
+- pkg:nuget/Ekom.Payments.Core@1.1.1
+- pkg:nuget/Ekom.Payments.Core@1.1.2

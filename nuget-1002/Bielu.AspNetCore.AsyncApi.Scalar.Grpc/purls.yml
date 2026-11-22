@@ -30,3 +30,9 @@
 - pkg:nuget/Bielu.AspNetCore.AsyncApi.Scalar.Grpc@2.3.0-beta.20261114232437
 - pkg:nuget/Bielu.AspNetCore.AsyncApi.Scalar.Grpc@2.3.0-beta.20261114232503
 - pkg:nuget/Bielu.AspNetCore.AsyncApi.Scalar.Grpc@2.3.0-beta.20261114232534
+- pkg:nuget/Bielu.AspNetCore.AsyncApi.Scalar.Grpc@3.2.0-beta.20261121193116
+- pkg:nuget/Bielu.AspNetCore.AsyncApi.Scalar.Grpc@3.2.0-beta.20261121193613
+- pkg:nuget/Bielu.AspNetCore.AsyncApi.Scalar.Grpc@3.2.0-beta.20261121202954
+- pkg:nuget/Bielu.AspNetCore.AsyncApi.Scalar.Grpc@3.2.0-beta.20261121203506
+- pkg:nuget/Bielu.AspNetCore.AsyncApi.Scalar.Grpc@3.2.0-beta.20261121204154
+- pkg:nuget/Bielu.AspNetCore.AsyncApi.Scalar.Grpc@3.2.0-beta.20261121204255

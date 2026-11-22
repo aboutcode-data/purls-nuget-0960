@@ -436,5 +436,6 @@
 - pkg:nuget/DryIoc@5.4.1
 - pkg:nuget/DryIoc@5.4.2
 - pkg:nuget/DryIoc@5.4.3
+- pkg:nuget/DryIoc@6.0.0
 - pkg:nuget/DryIoc@6.0.0-preview-07
 - pkg:nuget/DryIoc@6.0.0-preview-08

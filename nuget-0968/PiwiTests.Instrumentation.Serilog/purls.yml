@@ -2,3 +2,4 @@
 - pkg:nuget/PiwiTests.Instrumentation.Serilog@0.56.0
 - pkg:nuget/PiwiTests.Instrumentation.Serilog@0.65.0
 - pkg:nuget/PiwiTests.Instrumentation.Serilog@0.73.0
+- pkg:nuget/PiwiTests.Instrumentation.Serilog@0.75.0

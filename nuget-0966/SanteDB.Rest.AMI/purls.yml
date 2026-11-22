@@ -178,6 +178,7 @@
 - pkg:nuget/SanteDB.Rest.AMI@3.0.2098-alpha
 - pkg:nuget/SanteDB.Rest.AMI@3.0.2104-alpha
 - pkg:nuget/SanteDB.Rest.AMI@3.0.2125
+- pkg:nuget/SanteDB.Rest.AMI@3.0.2128
 - pkg:nuget/SanteDB.Rest.AMI@3.0.480-alpha
 - pkg:nuget/SanteDB.Rest.AMI@3.0.540-alpha
 - pkg:nuget/SanteDB.Rest.AMI@3.0.600-alpha

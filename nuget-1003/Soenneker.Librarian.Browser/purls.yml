@@ -24,6 +24,7 @@
 - pkg:nuget/Soenneker.Librarian.Browser@11.0.247
 - pkg:nuget/Soenneker.Librarian.Browser@11.0.250
 - pkg:nuget/Soenneker.Librarian.Browser@11.0.253
+- pkg:nuget/Soenneker.Librarian.Browser@11.0.255
 - pkg:nuget/Soenneker.Librarian.Browser@4.0.100
 - pkg:nuget/Soenneker.Librarian.Browser@4.0.108
 - pkg:nuget/Soenneker.Librarian.Browser@4.0.68

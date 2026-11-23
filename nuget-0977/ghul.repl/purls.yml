@@ -21,6 +21,7 @@
 - pkg:nuget/ghul.repl@10.6.0
 - pkg:nuget/ghul.repl@10.7.1
 - pkg:nuget/ghul.repl@10.7.2
+- pkg:nuget/ghul.repl@10.8.1
 - pkg:nuget/ghul.repl@3.0.1
 - pkg:nuget/ghul.repl@3.1.0
 - pkg:nuget/ghul.repl@9.1.1

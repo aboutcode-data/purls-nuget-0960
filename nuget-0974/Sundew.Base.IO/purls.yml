@@ -72,3 +72,4 @@
 - pkg:nuget/Sundew.Base.IO@15.0.0-u20250610-192157-ci%2B24aabad32f
 - pkg:nuget/Sundew.Base.IO@15.0.0-u20250615-144205-ci%2B57fd63dfa2
 - pkg:nuget/Sundew.Base.IO@15.0.0-u20250815-095250-ci%2B11b8f3e18b
+- pkg:nuget/Sundew.Base.IO@18.0.0%2B2e8991d6c7

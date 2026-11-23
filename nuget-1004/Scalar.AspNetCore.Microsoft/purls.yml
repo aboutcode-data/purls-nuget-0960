@@ -68,3 +68,4 @@
 - pkg:nuget/Scalar.AspNetCore.Microsoft@2.8.8
 - pkg:nuget/Scalar.AspNetCore.Microsoft@3.0.0
 - pkg:nuget/Scalar.AspNetCore.Microsoft@3.0.2
+- pkg:nuget/Scalar.AspNetCore.Microsoft@3.2.0

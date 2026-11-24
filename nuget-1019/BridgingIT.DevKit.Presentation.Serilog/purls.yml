@@ -41,6 +41,8 @@
 - pkg:nuget/BridgingIT.DevKit.Presentation.Serilog@10.0.117
 - pkg:nuget/BridgingIT.DevKit.Presentation.Serilog@10.0.117-preview.0.1
 - pkg:nuget/BridgingIT.DevKit.Presentation.Serilog@10.0.118
+- pkg:nuget/BridgingIT.DevKit.Presentation.Serilog@10.0.129
+- pkg:nuget/BridgingIT.DevKit.Presentation.Serilog@10.0.130
 - pkg:nuget/BridgingIT.DevKit.Presentation.Serilog@10.0.2-preview.0.2
 - pkg:nuget/BridgingIT.DevKit.Presentation.Serilog@10.0.2-preview.0.22
 - pkg:nuget/BridgingIT.DevKit.Presentation.Serilog@10.0.2-preview.0.38

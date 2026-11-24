@@ -327,6 +327,7 @@
 - pkg:nuget/Blazor.Ninja.Sdk.AspNetCore.Legacy@1.23.0-preview.39
 - pkg:nuget/Blazor.Ninja.Sdk.AspNetCore.Legacy@1.23.0-preview.41
 - pkg:nuget/Blazor.Ninja.Sdk.AspNetCore.Legacy@1.23.0-preview.42
+- pkg:nuget/Blazor.Ninja.Sdk.AspNetCore.Legacy@1.23.104
 - pkg:nuget/Blazor.Ninja.Sdk.AspNetCore.Legacy@1.23.43
 - pkg:nuget/Blazor.Ninja.Sdk.AspNetCore.Legacy@1.23.45
 - pkg:nuget/Blazor.Ninja.Sdk.AspNetCore.Legacy@1.23.46

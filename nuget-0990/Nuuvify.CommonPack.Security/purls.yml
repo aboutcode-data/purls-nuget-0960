@@ -88,4 +88,5 @@
 - pkg:nuget/Nuuvify.CommonPack.Security@2.3.0-preview.26033108
 - pkg:nuget/Nuuvify.CommonPack.Security@2.5.0
 - pkg:nuget/Nuuvify.CommonPack.Security@2.7.0
+- pkg:nuget/Nuuvify.CommonPack.Security@3.0.0-preview.121
 - pkg:nuget/Nuuvify.CommonPack.Security@3.0.1-preview.94

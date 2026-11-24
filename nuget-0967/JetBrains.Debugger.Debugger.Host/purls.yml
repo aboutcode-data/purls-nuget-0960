@@ -170,6 +170,7 @@
 - pkg:nuget/JetBrains.Debugger.Debugger.Host@252.0.20251120.150646
 - pkg:nuget/JetBrains.Debugger.Debugger.Host@252.0.20260728.124700
 - pkg:nuget/JetBrains.Debugger.Debugger.Host@252.0.20260827.135105
+- pkg:nuget/JetBrains.Debugger.Debugger.Host@252.0.20261123.90853
 - pkg:nuget/JetBrains.Debugger.Debugger.Host@253.0.20250914.4854-eap01
 - pkg:nuget/JetBrains.Debugger.Debugger.Host@253.0.20250922.232725-eap02
 - pkg:nuget/JetBrains.Debugger.Debugger.Host@253.0.20250926.140429-eap03
@@ -187,6 +188,7 @@
 - pkg:nuget/JetBrains.Debugger.Debugger.Host@261.0.20260804.122418
 - pkg:nuget/JetBrains.Debugger.Debugger.Host@261.0.20260827.135309
 - pkg:nuget/JetBrains.Debugger.Debugger.Host@261.0.20260909.213348
+- pkg:nuget/JetBrains.Debugger.Debugger.Host@261.0.20261123.85957
 - pkg:nuget/JetBrains.Debugger.Debugger.Host@262.0.20260611.170508-eap06
 - pkg:nuget/JetBrains.Debugger.Debugger.Host@262.0.20260702.125428-eap09
 - pkg:nuget/JetBrains.Debugger.Debugger.Host@262.0.20260722.31926
@@ -200,3 +202,4 @@
 - pkg:nuget/JetBrains.Debugger.Debugger.Host@263.0.20261023.71039-eap08
 - pkg:nuget/JetBrains.Debugger.Debugger.Host@263.0.20261104.131144-rc01
 - pkg:nuget/JetBrains.Debugger.Debugger.Host@263.0.20261118.32606
+- pkg:nuget/JetBrains.Debugger.Debugger.Host@263.0.20261122.191247

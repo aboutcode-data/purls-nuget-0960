@@ -10,4 +10,5 @@
 - pkg:nuget/Webority.Payments.Testing@0.42.0
 - pkg:nuget/Webority.Payments.Testing@0.45.0
 - pkg:nuget/Webority.Payments.Testing@0.45.1
+- pkg:nuget/Webority.Payments.Testing@0.45.3
 - pkg:nuget/Webority.Payments.Testing@0.9.1

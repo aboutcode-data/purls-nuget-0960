@@ -1,3 +1,4 @@
+- pkg:nuget/LuceneSharp.Memory@26.11.8408
 - pkg:nuget/LuceneSharp.Memory@26.7.2620
 - pkg:nuget/LuceneSharp.Memory@26.7.2621
 - pkg:nuget/LuceneSharp.Memory@26.7.2748

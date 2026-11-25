@@ -2594,10 +2594,14 @@
 - pkg:nuget/ArmoniK.Api.Client@3.30.0-wkfeatrusttransportreexports.77.7155d443
 - pkg:nuget/ArmoniK.Api.Client@3.30.0-wkrefactorrustconfigutils.51.94120880
 - pkg:nuget/ArmoniK.Api.Client@3.30.0-wkrefactorrusttransportdropstonic.63.515d0086
+- pkg:nuget/ArmoniK.Api.Client@3.30.1-renovateangularnpm.1.e5ce897f
 - pkg:nuget/ArmoniK.Api.Client@3.30.1-renovategithubactions.1.57dc2134
 - pkg:nuget/ArmoniK.Api.Client@3.30.1-renovatejavamaven.1.76946328
+- pkg:nuget/ArmoniK.Api.Client@3.30.1-renovatenpmglobvulnerability.1.c9f88304
+- pkg:nuget/ArmoniK.Api.Client@3.30.1-renovatenpmprotobufjsvulnerability.1.fe249473
 - pkg:nuget/ArmoniK.Api.Client@3.30.1-renovatenpmzxvulnerability.1.b2b025bb
 - pkg:nuget/ArmoniK.Api.Client@3.30.1-renovatepypi.1.0a412c04
+- pkg:nuget/ArmoniK.Api.Client@3.30.1-renovatepypi.1.25b8da39
 - pkg:nuget/ArmoniK.Api.Client@3.30.1-renovatepypi.1.56e3d0dc
 - pkg:nuget/ArmoniK.Api.Client@3.30.1-renovatepypi.1.f15790e1
 - pkg:nuget/ArmoniK.Api.Client@3.4.0

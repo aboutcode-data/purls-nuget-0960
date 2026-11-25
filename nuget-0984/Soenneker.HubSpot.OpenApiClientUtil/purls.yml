@@ -7,6 +7,7 @@
 - pkg:nuget/Soenneker.HubSpot.OpenApiClientUtil@11.0.360
 - pkg:nuget/Soenneker.HubSpot.OpenApiClientUtil@11.0.371
 - pkg:nuget/Soenneker.HubSpot.OpenApiClientUtil@11.0.374
+- pkg:nuget/Soenneker.HubSpot.OpenApiClientUtil@11.0.380
 - pkg:nuget/Soenneker.HubSpot.OpenApiClientUtil@4.0.103
 - pkg:nuget/Soenneker.HubSpot.OpenApiClientUtil@4.0.109
 - pkg:nuget/Soenneker.HubSpot.OpenApiClientUtil@4.0.111

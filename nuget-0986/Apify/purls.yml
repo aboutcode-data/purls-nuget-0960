@@ -2,3 +2,15 @@
 - pkg:nuget/Apify@0.0.0-dev.3
 - pkg:nuget/Apify@0.0.0-dev.5
 - pkg:nuget/Apify@0.0.0-dev.6
+- pkg:nuget/Apify@1.0.1-dev.100
+- pkg:nuget/Apify@1.0.1-dev.108
+- pkg:nuget/Apify@1.0.1-dev.113
+- pkg:nuget/Apify@1.0.1-dev.120
+- pkg:nuget/Apify@1.0.1-dev.139
+- pkg:nuget/Apify@1.0.1-dev.140
+- pkg:nuget/Apify@1.0.1-dev.141
+- pkg:nuget/Apify@1.0.1-dev.70
+- pkg:nuget/Apify@1.0.1-dev.81
+- pkg:nuget/Apify@1.0.1-dev.85
+- pkg:nuget/Apify@1.0.1-dev.90
+- pkg:nuget/Apify@1.0.1-dev.91

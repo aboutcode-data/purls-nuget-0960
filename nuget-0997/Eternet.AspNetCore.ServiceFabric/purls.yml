@@ -1,4 +1,8 @@
 - pkg:nuget/Eternet.AspNetCore.ServiceFabric@10.1.1
+- pkg:nuget/Eternet.AspNetCore.ServiceFabric@10.3.9
+- pkg:nuget/Eternet.AspNetCore.ServiceFabric@10.8.1
+- pkg:nuget/Eternet.AspNetCore.ServiceFabric@10.8.4
+- pkg:nuget/Eternet.AspNetCore.ServiceFabric@10.9.4
 - pkg:nuget/Eternet.AspNetCore.ServiceFabric@5.0.1
 - pkg:nuget/Eternet.AspNetCore.ServiceFabric@5.1.329
 - pkg:nuget/Eternet.AspNetCore.ServiceFabric@5.2.1363

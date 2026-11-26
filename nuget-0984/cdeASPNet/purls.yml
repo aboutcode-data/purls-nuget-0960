@@ -46,3 +46,4 @@
 - pkg:nuget/cdeASPNet@6.104.0
 - pkg:nuget/cdeASPNet@6.112.0
 - pkg:nuget/cdeASPNet@6.112.2
+- pkg:nuget/cdeASPNet@7.111.5

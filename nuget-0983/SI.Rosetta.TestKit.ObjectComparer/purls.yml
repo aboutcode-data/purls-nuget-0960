@@ -1,0 +1,4 @@
+- pkg:nuget/SI.Rosetta.TestKit.ObjectComparer@1.29.0
+- pkg:nuget/SI.Rosetta.TestKit.ObjectComparer@1.33.0
+- pkg:nuget/SI.Rosetta.TestKit.ObjectComparer@1.38.0
+- pkg:nuget/SI.Rosetta.TestKit.ObjectComparer@1.40.0

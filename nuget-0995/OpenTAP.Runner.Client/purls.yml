@@ -254,4 +254,8 @@
 - pkg:nuget/OpenTAP.Runner.Client@4.3.0-beta.72%2B2e277a6e
 - pkg:nuget/OpenTAP.Runner.Client@4.3.0-beta.76%2B874cbe45
 - pkg:nuget/OpenTAP.Runner.Client@4.3.0-beta.82%2Ba789469a
+- pkg:nuget/OpenTAP.Runner.Client@4.3.0-beta.85%2B1a6fe0ac
+- pkg:nuget/OpenTAP.Runner.Client@4.3.0-beta.86%2Bbb1d26b9
+- pkg:nuget/OpenTAP.Runner.Client@4.3.0-beta.87%2Bdc08fbd1
+- pkg:nuget/OpenTAP.Runner.Client@4.3.0-beta.88%2B106f3cd8
 - pkg:nuget/OpenTAP.Runner.Client@4.3.0-rc.4%2B2a7895b4

@@ -222,3 +222,4 @@
 - pkg:nuget/nanoFramework.WebServer@1.2.93
 - pkg:nuget/nanoFramework.WebServer@1.2.95
 - pkg:nuget/nanoFramework.WebServer@1.2.97
+- pkg:nuget/nanoFramework.WebServer@2.0.0-preview.7

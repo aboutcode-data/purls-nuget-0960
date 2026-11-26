@@ -1,3 +1,8 @@
 - pkg:nuget/Ignixa.SqlOnFhir.Writers@0.0.127
 - pkg:nuget/Ignixa.SqlOnFhir.Writers@0.0.142
 - pkg:nuget/Ignixa.SqlOnFhir.Writers@0.0.149
+- pkg:nuget/Ignixa.SqlOnFhir.Writers@0.5.2
+- pkg:nuget/Ignixa.SqlOnFhir.Writers@0.6.19
+- pkg:nuget/Ignixa.SqlOnFhir.Writers@0.6.28
+- pkg:nuget/Ignixa.SqlOnFhir.Writers@0.6.4
+- pkg:nuget/Ignixa.SqlOnFhir.Writers@0.6.82

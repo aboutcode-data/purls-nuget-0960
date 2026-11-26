@@ -847,6 +847,7 @@
 - pkg:nuget/HotChocolate.Transport.Sockets@16.8.0-p.18
 - pkg:nuget/HotChocolate.Transport.Sockets@16.8.0-p.19
 - pkg:nuget/HotChocolate.Transport.Sockets@16.8.0-p.20
+- pkg:nuget/HotChocolate.Transport.Sockets@16.8.0-p.22
 - pkg:nuget/HotChocolate.Transport.Sockets@16.8.0-p.4
 - pkg:nuget/HotChocolate.Transport.Sockets@16.8.0-p.8
 - pkg:nuget/HotChocolate.Transport.Sockets@16.8.0-p.9

@@ -130,6 +130,7 @@
 - pkg:nuget/LangSmith@2.0.2-dev.375
 - pkg:nuget/LangSmith@2.0.2-dev.381
 - pkg:nuget/LangSmith@2.0.2-dev.384
+- pkg:nuget/LangSmith@2.0.2-dev.386
 - pkg:nuget/LangSmith@2.0.2-dev.42
 - pkg:nuget/LangSmith@2.0.2-dev.45
 - pkg:nuget/LangSmith@2.0.2-dev.62

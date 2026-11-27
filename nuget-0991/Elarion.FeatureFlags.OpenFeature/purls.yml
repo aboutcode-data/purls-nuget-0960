@@ -27,3 +27,4 @@
 - pkg:nuget/Elarion.FeatureFlags.OpenFeature@0.4.0
 - pkg:nuget/Elarion.FeatureFlags.OpenFeature@0.4.3-preview.211.1
 - pkg:nuget/Elarion.FeatureFlags.OpenFeature@0.4.5-preview.217.1
+- pkg:nuget/Elarion.FeatureFlags.OpenFeature@0.4.7-preview.221.1

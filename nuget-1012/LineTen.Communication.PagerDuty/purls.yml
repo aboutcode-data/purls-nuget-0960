@@ -1,2 +1,8 @@
+- pkg:nuget/LineTen.Communication.PagerDuty@2.0.100
+- pkg:nuget/LineTen.Communication.PagerDuty@2.0.102
+- pkg:nuget/LineTen.Communication.PagerDuty@2.0.104
+- pkg:nuget/LineTen.Communication.PagerDuty@2.0.106
+- pkg:nuget/LineTen.Communication.PagerDuty@2.0.110
+- pkg:nuget/LineTen.Communication.PagerDuty@2.0.112
 - pkg:nuget/LineTen.Communication.PagerDuty@2.0.95
 - pkg:nuget/LineTen.Communication.PagerDuty@2.0.99

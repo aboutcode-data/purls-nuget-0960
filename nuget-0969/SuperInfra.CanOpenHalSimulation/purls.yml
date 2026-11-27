@@ -1,1 +1,4 @@
+- pkg:nuget/SuperInfra.CanOpenHalSimulation@2.12.0
+- pkg:nuget/SuperInfra.CanOpenHalSimulation@2.13.0
 - pkg:nuget/SuperInfra.CanOpenHalSimulation@2.6.0
+- pkg:nuget/SuperInfra.CanOpenHalSimulation@2.9.0

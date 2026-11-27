@@ -3,3 +3,4 @@
 - pkg:nuget/SilentHunter.Controllers.Compiler@0.10.0-rc1-028
 - pkg:nuget/SilentHunter.Controllers.Compiler@0.10.0-rc1-032
 - pkg:nuget/SilentHunter.Controllers.Compiler@1.0.0
+- pkg:nuget/SilentHunter.Controllers.Compiler@2.2.0

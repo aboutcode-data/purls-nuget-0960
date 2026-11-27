@@ -1,2 +1,5 @@
 - pkg:nuget/MeshWeaver.Hosting.Monolith.TestBase@2.2.0
 - pkg:nuget/MeshWeaver.Hosting.Monolith.TestBase@2.3.0
+- pkg:nuget/MeshWeaver.Hosting.Monolith.TestBase@2.4.0
+- pkg:nuget/MeshWeaver.Hosting.Monolith.TestBase@2.5.0
+- pkg:nuget/MeshWeaver.Hosting.Monolith.TestBase@3.0.0-rc7

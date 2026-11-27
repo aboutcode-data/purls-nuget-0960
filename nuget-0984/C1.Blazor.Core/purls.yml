@@ -1,3 +1,4 @@
+- pkg:nuget/C1.Blazor.Core@11.0.20262.103
 - pkg:nuget/C1.Blazor.Core@3.0.20193.426
 - pkg:nuget/C1.Blazor.Core@3.1.20193.434
 - pkg:nuget/C1.Blazor.Core@3.1.20193.437

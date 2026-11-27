@@ -1,2 +1,3 @@
 - pkg:nuget/AuroraScienceHub.Framework.Logging.OpenTelemetry@10.0.4
+- pkg:nuget/AuroraScienceHub.Framework.Logging.OpenTelemetry@11.0.1-feature-nuget-trusted-publishing.179
 - pkg:nuget/AuroraScienceHub.Framework.Logging.OpenTelemetry@9.0.6

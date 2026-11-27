@@ -1,0 +1,5 @@
+- pkg:nuget/Duende.Storage@0.0.2
+- pkg:nuget/Duende.Storage@1.0.0-preview.1
+- pkg:nuget/Duende.Storage@1.2.0-preview.3
+- pkg:nuget/Duende.Storage@2.0.0-preview.6
+- pkg:nuget/Duende.Storage@2.0.0-preview.7

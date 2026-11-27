@@ -1,1 +1,2 @@
 - pkg:nuget/FdbShell.linux-x64@7.4.2
+- pkg:nuget/FdbShell.linux-x64@7.4.7

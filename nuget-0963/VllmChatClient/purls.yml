@@ -1,0 +1,3 @@
+- pkg:nuget/VllmChatClient@2.0.30
+- pkg:nuget/VllmChatClient@2.0.35
+- pkg:nuget/VllmChatClient@2.0.38

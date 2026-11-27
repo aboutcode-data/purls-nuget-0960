@@ -15,6 +15,7 @@
 - pkg:nuget/VirtoCommerce.CustomerModule.Data.PostgreSql@3.1022.0
 - pkg:nuget/VirtoCommerce.CustomerModule.Data.PostgreSql@3.1029.1
 - pkg:nuget/VirtoCommerce.CustomerModule.Data.PostgreSql@3.1031.0
+- pkg:nuget/VirtoCommerce.CustomerModule.Data.PostgreSql@3.1034.0
 - pkg:nuget/VirtoCommerce.CustomerModule.Data.PostgreSql@3.217.0
 - pkg:nuget/VirtoCommerce.CustomerModule.Data.PostgreSql@3.217.0-alpha.740
 - pkg:nuget/VirtoCommerce.CustomerModule.Data.PostgreSql@3.218.0

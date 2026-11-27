@@ -1,1 +1,3 @@
 - pkg:nuget/EraTech.AIManagement.Application.Contracts@2.2.3
+- pkg:nuget/EraTech.AIManagement.Application.Contracts@2.2.39
+- pkg:nuget/EraTech.AIManagement.Application.Contracts@2.2.45

@@ -1,2 +1,3 @@
 - pkg:nuget/Paramore.Brighter.MessagingGateway.GcpPubSub@10.0.1
 - pkg:nuget/Paramore.Brighter.MessagingGateway.GcpPubSub@10.4.1
+- pkg:nuget/Paramore.Brighter.MessagingGateway.GcpPubSub@10.8.0

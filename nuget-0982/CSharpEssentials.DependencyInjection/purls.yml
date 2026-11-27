@@ -1,0 +1,6 @@
+- pkg:nuget/CSharpEssentials.DependencyInjection@4.1.0
+- pkg:nuget/CSharpEssentials.DependencyInjection@5.2.1
+- pkg:nuget/CSharpEssentials.DependencyInjection@6.0.0
+- pkg:nuget/CSharpEssentials.DependencyInjection@6.3.0
+- pkg:nuget/CSharpEssentials.DependencyInjection@6.5.0
+- pkg:nuget/CSharpEssentials.DependencyInjection@7.0.0

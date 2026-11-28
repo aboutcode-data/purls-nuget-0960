@@ -1,1 +1,4 @@
+- pkg:nuget/ktsu.KtsuTools.Image@1.11.1
+- pkg:nuget/ktsu.KtsuTools.Image@1.11.4
+- pkg:nuget/ktsu.KtsuTools.Image@1.11.5-pre.1
 - pkg:nuget/ktsu.KtsuTools.Image@1.9.0

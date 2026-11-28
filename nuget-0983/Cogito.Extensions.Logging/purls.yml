@@ -29,3 +29,4 @@
 - pkg:nuget/Cogito.Extensions.Logging@2.0.5
 - pkg:nuget/Cogito.Extensions.Logging@2.0.6
 - pkg:nuget/Cogito.Extensions.Logging@3.0.0
+- pkg:nuget/Cogito.Extensions.Logging@3.0.4

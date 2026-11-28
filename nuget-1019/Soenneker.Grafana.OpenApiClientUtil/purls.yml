@@ -1,3 +1,9 @@
+- pkg:nuget/Soenneker.Grafana.OpenApiClientUtil@11.0.211
+- pkg:nuget/Soenneker.Grafana.OpenApiClientUtil@11.0.215
+- pkg:nuget/Soenneker.Grafana.OpenApiClientUtil@11.0.224
+- pkg:nuget/Soenneker.Grafana.OpenApiClientUtil@11.0.225
+- pkg:nuget/Soenneker.Grafana.OpenApiClientUtil@11.0.228
+- pkg:nuget/Soenneker.Grafana.OpenApiClientUtil@11.0.245
 - pkg:nuget/Soenneker.Grafana.OpenApiClientUtil@4.0.108
 - pkg:nuget/Soenneker.Grafana.OpenApiClientUtil@4.0.116
 - pkg:nuget/Soenneker.Grafana.OpenApiClientUtil@4.0.124
@@ -7,6 +13,7 @@
 - pkg:nuget/Soenneker.Grafana.OpenApiClientUtil@4.0.17
 - pkg:nuget/Soenneker.Grafana.OpenApiClientUtil@4.0.170
 - pkg:nuget/Soenneker.Grafana.OpenApiClientUtil@4.0.20
+- pkg:nuget/Soenneker.Grafana.OpenApiClientUtil@4.0.205
 - pkg:nuget/Soenneker.Grafana.OpenApiClientUtil@4.0.21
 - pkg:nuget/Soenneker.Grafana.OpenApiClientUtil@4.0.29
 - pkg:nuget/Soenneker.Grafana.OpenApiClientUtil@4.0.38

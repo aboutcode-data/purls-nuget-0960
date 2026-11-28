@@ -1,10 +1,17 @@
+- pkg:nuget/OpenRewrite.Recipes.CSharp.Core@0.10.0
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Core@0.10.0-snapshot.20261010010245
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Core@0.10.0-snapshot.20261013171349
+- pkg:nuget/OpenRewrite.Recipes.CSharp.Core@0.10.0-snapshot.20261022171226
+- pkg:nuget/OpenRewrite.Recipes.CSharp.Core@0.21.0
+- pkg:nuget/OpenRewrite.Recipes.CSharp.Core@0.22.0
+- pkg:nuget/OpenRewrite.Recipes.CSharp.Core@0.29.0
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Core@0.3.0-snapshot.20260609174555
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Core@0.3.0-snapshot.20260612175159
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Core@0.3.0-snapshot.20260616213401
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Core@0.3.0-snapshot.20260618180553
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Core@0.3.0-snapshot.20260629175630
+- pkg:nuget/OpenRewrite.Recipes.CSharp.Core@0.35.0
+- pkg:nuget/OpenRewrite.Recipes.CSharp.Core@0.36.0
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Core@0.5.0-snapshot.20260806225022
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Core@0.5.0-snapshot.20260811172550
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Core@0.6.0-snapshot.20260820171651

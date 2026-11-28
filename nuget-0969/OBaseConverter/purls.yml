@@ -26,6 +26,9 @@
 - pkg:nuget/OBaseConverter@26.10.25
 - pkg:nuget/OBaseConverter@26.10.31
 - pkg:nuget/OBaseConverter@26.11.1
+- pkg:nuget/OBaseConverter@26.11.16
+- pkg:nuget/OBaseConverter@26.11.19
+- pkg:nuget/OBaseConverter@26.11.20
 - pkg:nuget/OBaseConverter@26.3.26
 - pkg:nuget/OBaseConverter@26.3.27
 - pkg:nuget/OBaseConverter@26.3.28

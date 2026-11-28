@@ -1,2 +1,4 @@
 - pkg:nuget/Linn.Cloud.Common.Odp.DeviceMessaging.Aws@1.2.5
 - pkg:nuget/Linn.Cloud.Common.Odp.DeviceMessaging.Aws@2.0.0
+- pkg:nuget/Linn.Cloud.Common.Odp.DeviceMessaging.Aws@3.0.3
+- pkg:nuget/Linn.Cloud.Common.Odp.DeviceMessaging.Aws@3.0.5

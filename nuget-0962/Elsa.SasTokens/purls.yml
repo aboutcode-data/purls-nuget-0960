@@ -9,6 +9,7 @@
 - pkg:nuget/Elsa.SasTokens@3.1.1
 - pkg:nuget/Elsa.SasTokens@3.1.2
 - pkg:nuget/Elsa.SasTokens@3.1.3
+- pkg:nuget/Elsa.SasTokens@3.10.2
 - pkg:nuget/Elsa.SasTokens@3.2.0
 - pkg:nuget/Elsa.SasTokens@3.2.0-rc1
 - pkg:nuget/Elsa.SasTokens@3.2.0-rc2

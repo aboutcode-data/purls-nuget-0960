@@ -1,1 +1,3 @@
+- pkg:nuget/Novalist.Sdk@11.0.0
+- pkg:nuget/Novalist.Sdk@14.0.0
 - pkg:nuget/Novalist.Sdk@6.0.0

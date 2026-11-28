@@ -3,4 +3,9 @@
 - pkg:nuget/TKWF.Ext.Notifications.SignalR@0.1.2-preview.0.34
 - pkg:nuget/TKWF.Ext.Notifications.SignalR@0.1.2-preview.0.50
 - pkg:nuget/TKWF.Ext.Notifications.SignalR@0.2.0
+- pkg:nuget/TKWF.Ext.Notifications.SignalR@0.2.1-preview.0.133
+- pkg:nuget/TKWF.Ext.Notifications.SignalR@0.2.1-preview.0.158
+- pkg:nuget/TKWF.Ext.Notifications.SignalR@0.2.1-preview.0.269
+- pkg:nuget/TKWF.Ext.Notifications.SignalR@0.2.1-preview.0.270
+- pkg:nuget/TKWF.Ext.Notifications.SignalR@0.2.1-preview.0.316
 - pkg:nuget/TKWF.Ext.Notifications.SignalR@0.2.1-preview.0.69

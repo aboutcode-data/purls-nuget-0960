@@ -1,1 +1,3 @@
 - pkg:nuget/StableCube.Media.ImageMagick.DataModel@1.0.0
+- pkg:nuget/StableCube.Media.ImageMagick.DataModel@10.0.14
+- pkg:nuget/StableCube.Media.ImageMagick.DataModel@10.0.2

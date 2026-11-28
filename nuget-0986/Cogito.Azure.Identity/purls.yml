@@ -10,3 +10,4 @@
 - pkg:nuget/Cogito.Azure.Identity@2.0.0
 - pkg:nuget/Cogito.Azure.Identity@2.0.1
 - pkg:nuget/Cogito.Azure.Identity@2.0.2
+- pkg:nuget/Cogito.Azure.Identity@2.0.6

@@ -1,0 +1,3 @@
+- pkg:nuget/MailForge.AmazonSES@0.3.0
+- pkg:nuget/MailForge.AmazonSES@0.4.0
+- pkg:nuget/MailForge.AmazonSES@1.4.0

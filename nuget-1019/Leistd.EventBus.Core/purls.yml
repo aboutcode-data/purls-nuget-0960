@@ -27,3 +27,13 @@
 - pkg:nuget/Leistd.EventBus.Core@2.0.0-beta.297
 - pkg:nuget/Leistd.EventBus.Core@2.0.0-beta.304
 - pkg:nuget/Leistd.EventBus.Core@2.0.0-beta.320
+- pkg:nuget/Leistd.EventBus.Core@2.0.0-beta.394
+- pkg:nuget/Leistd.EventBus.Core@2.0.0-beta.419
+- pkg:nuget/Leistd.EventBus.Core@2.0.0-beta.429
+- pkg:nuget/Leistd.EventBus.Core@2.0.0-beta.452
+- pkg:nuget/Leistd.EventBus.Core@2.0.0-beta.457
+- pkg:nuget/Leistd.EventBus.Core@2.0.0-beta.504
+- pkg:nuget/Leistd.EventBus.Core@2.0.0-beta.512
+- pkg:nuget/Leistd.EventBus.Core@2.0.0-beta.522
+- pkg:nuget/Leistd.EventBus.Core@2.0.0-beta.524
+- pkg:nuget/Leistd.EventBus.Core@2.0.0-beta.582

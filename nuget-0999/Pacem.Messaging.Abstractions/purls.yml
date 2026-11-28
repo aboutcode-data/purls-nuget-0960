@@ -1,2 +1,16 @@
 - pkg:nuget/Pacem.Messaging.Abstractions@0.10.0-descartes
+- pkg:nuget/Pacem.Messaging.Abstractions@0.10.10
+- pkg:nuget/Pacem.Messaging.Abstractions@0.10.13
+- pkg:nuget/Pacem.Messaging.Abstractions@0.10.14-dedekind
+- pkg:nuget/Pacem.Messaging.Abstractions@0.10.15
+- pkg:nuget/Pacem.Messaging.Abstractions@0.10.18
+- pkg:nuget/Pacem.Messaging.Abstractions@0.10.18-riemann
+- pkg:nuget/Pacem.Messaging.Abstractions@0.10.18-turing
+- pkg:nuget/Pacem.Messaging.Abstractions@0.10.19-bombelli
+- pkg:nuget/Pacem.Messaging.Abstractions@0.10.19-galilei
 - pkg:nuget/Pacem.Messaging.Abstractions@0.10.8-carnot
+- pkg:nuget/Pacem.Messaging.Abstractions@1.0.0-maiorana
+- pkg:nuget/Pacem.Messaging.Abstractions@1.0.2
+- pkg:nuget/Pacem.Messaging.Abstractions@1.1.0
+- pkg:nuget/Pacem.Messaging.Abstractions@1.1.1-bessel
+- pkg:nuget/Pacem.Messaging.Abstractions@2.0.0-alpoge

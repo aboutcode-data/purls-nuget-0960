@@ -14,6 +14,8 @@
 - pkg:nuget/Jesse.AspNetCore.Dev@1.4.0
 - pkg:nuget/Jesse.AspNetCore.Dev@1.5.0
 - pkg:nuget/Jesse.AspNetCore.Dev@1.6.0
+- pkg:nuget/Jesse.AspNetCore.Dev@10.0.2
+- pkg:nuget/Jesse.AspNetCore.Dev@10.0.3
 - pkg:nuget/Jesse.AspNetCore.Dev@2.0.0
 - pkg:nuget/Jesse.AspNetCore.Dev@2.0.1
 - pkg:nuget/Jesse.AspNetCore.Dev@2.0.2

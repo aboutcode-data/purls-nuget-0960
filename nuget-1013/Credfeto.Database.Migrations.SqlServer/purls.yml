@@ -65,3 +65,5 @@
 - pkg:nuget/Credfeto.Database.Migrations.SqlServer@1.2.240.3006-main
 - pkg:nuget/Credfeto.Database.Migrations.SqlServer@1.2.240.3011-update-microsof
 - pkg:nuget/Credfeto.Database.Migrations.SqlServer@1.2.240.3012-pull-206-merge
+- pkg:nuget/Credfeto.Database.Migrations.SqlServer@1.2.240.3013-main
+- pkg:nuget/Credfeto.Database.Migrations.SqlServer@1.2.241.3017-main

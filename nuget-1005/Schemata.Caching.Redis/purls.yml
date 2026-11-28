@@ -12,3 +12,5 @@
 - pkg:nuget/Schemata.Caching.Redis@10.0.0-preview.26377.57
 - pkg:nuget/Schemata.Caching.Redis@10.0.0-preview.26420.39
 - pkg:nuget/Schemata.Caching.Redis@10.0.0-preview.26452.1
+- pkg:nuget/Schemata.Caching.Redis@10.0.0-preview.26520.65
+- pkg:nuget/Schemata.Caching.Redis@10.0.0-preview.26521.23

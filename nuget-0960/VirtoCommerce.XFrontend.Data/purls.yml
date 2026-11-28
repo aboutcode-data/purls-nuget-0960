@@ -1,2 +1,5 @@
 - pkg:nuget/VirtoCommerce.XFrontend.Data@3.1002.0-alpha.36-overridable-white-labeling-query
+- pkg:nuget/VirtoCommerce.XFrontend.Data@3.1008.0-alpha.57-vcst-6078-user-dashboard
+- pkg:nuget/VirtoCommerce.XFrontend.Data@3.1008.0-alpha.59-vcst-6121-passkeys
+- pkg:nuget/VirtoCommerce.XFrontend.Data@3.1010.0
 - pkg:nuget/VirtoCommerce.XFrontend.Data@3.800.0

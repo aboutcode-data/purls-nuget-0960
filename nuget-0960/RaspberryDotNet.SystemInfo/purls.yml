@@ -1,1 +1,2 @@
 - pkg:nuget/RaspberryDotNet.SystemInfo@1.1.1
+- pkg:nuget/RaspberryDotNet.SystemInfo@3.0.0

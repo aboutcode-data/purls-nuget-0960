@@ -5,6 +5,7 @@
 - pkg:nuget/Senparc.Xncf.Tenant.Interface@0.1.4-beta9
 - pkg:nuget/Senparc.Xncf.Tenant.Interface@0.1.4.1-beta9
 - pkg:nuget/Senparc.Xncf.Tenant.Interface@0.1.5-beta10
+- pkg:nuget/Senparc.Xncf.Tenant.Interface@0.10.13-preview13
 - pkg:nuget/Senparc.Xncf.Tenant.Interface@0.2.0-beta11
 - pkg:nuget/Senparc.Xncf.Tenant.Interface@0.3.1-beta1
 - pkg:nuget/Senparc.Xncf.Tenant.Interface@0.3.1.1-beta1

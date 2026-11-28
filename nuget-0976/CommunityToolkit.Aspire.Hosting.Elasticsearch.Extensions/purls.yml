@@ -4,3 +4,12 @@
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Elasticsearch.Extensions@13.4.0-beta.651
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Elasticsearch.Extensions@13.4.0-beta.671
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Elasticsearch.Extensions@13.4.1-beta.676
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Elasticsearch.Extensions@13.5.1-beta.751
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Elasticsearch.Extensions@13.5.1-beta.763
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Elasticsearch.Extensions@13.5.1-beta.895
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Elasticsearch.Extensions@13.6.1-beta.935
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Elasticsearch.Extensions@17.0.0
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Elasticsearch.Extensions@17.0.0-beta.1052
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Elasticsearch.Extensions@17.0.0-beta.1075
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Elasticsearch.Extensions@17.0.0-beta.1078
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Elasticsearch.Extensions@17.0.0-beta.1090

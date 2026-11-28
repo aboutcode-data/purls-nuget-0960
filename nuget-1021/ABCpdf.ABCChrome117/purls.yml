@@ -16,3 +16,6 @@
 - pkg:nuget/ABCpdf.ABCChrome117@13.3.6
 - pkg:nuget/ABCpdf.ABCChrome117@14.0.1-rc
 - pkg:nuget/ABCpdf.ABCChrome117@14.0.2
+- pkg:nuget/ABCpdf.ABCChrome117@14.0.7
+- pkg:nuget/ABCpdf.ABCChrome117@14.1.0
+- pkg:nuget/ABCpdf.ABCChrome117@14.1.1

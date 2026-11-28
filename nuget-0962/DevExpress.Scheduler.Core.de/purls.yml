@@ -2,6 +2,7 @@
 - pkg:nuget/DevExpress.Scheduler.Core.de@25.1.6
 - pkg:nuget/DevExpress.Scheduler.Core.de@25.1.9
 - pkg:nuget/DevExpress.Scheduler.Core.de@25.2.10
+- pkg:nuget/DevExpress.Scheduler.Core.de@25.2.11
 - pkg:nuget/DevExpress.Scheduler.Core.de@25.2.5
 - pkg:nuget/DevExpress.Scheduler.Core.de@25.2.7
 - pkg:nuget/DevExpress.Scheduler.Core.de@25.2.8
@@ -11,3 +12,5 @@
 - pkg:nuget/DevExpress.Scheduler.Core.de@26.1.5-pre-26235
 - pkg:nuget/DevExpress.Scheduler.Core.de@26.1.5-pre-26241
 - pkg:nuget/DevExpress.Scheduler.Core.de@26.1.5-pre-26248
+- pkg:nuget/DevExpress.Scheduler.Core.de@26.1.6-pre-26277
+- pkg:nuget/DevExpress.Scheduler.Core.de@26.1.6-pre-26304

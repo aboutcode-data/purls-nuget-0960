@@ -20,3 +20,6 @@
 - pkg:nuget/Likvido.Web@2.2.24
 - pkg:nuget/Likvido.Web@2.2.3
 - pkg:nuget/Likvido.Web@2.2.30
+- pkg:nuget/Likvido.Web@2.2.34
+- pkg:nuget/Likvido.Web@2.2.37
+- pkg:nuget/Likvido.Web@3.0.0

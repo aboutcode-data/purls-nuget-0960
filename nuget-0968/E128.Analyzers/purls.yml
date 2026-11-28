@@ -6,3 +6,15 @@
 - pkg:nuget/E128.Analyzers@1.24.2
 - pkg:nuget/E128.Analyzers@1.29.0
 - pkg:nuget/E128.Analyzers@1.37.0
+- pkg:nuget/E128.Analyzers@1.41.2
+- pkg:nuget/E128.Analyzers@1.41.4
+- pkg:nuget/E128.Analyzers@1.41.7
+- pkg:nuget/E128.Analyzers@1.42.0
+- pkg:nuget/E128.Analyzers@2.0.0
+- pkg:nuget/E128.Analyzers@2.2.0
+- pkg:nuget/E128.Analyzers@2.5.1
+- pkg:nuget/E128.Analyzers@2.6.2
+- pkg:nuget/E128.Analyzers@2.6.5
+- pkg:nuget/E128.Analyzers@3.2.0
+- pkg:nuget/E128.Analyzers@3.4.1
+- pkg:nuget/E128.Analyzers@3.5.6

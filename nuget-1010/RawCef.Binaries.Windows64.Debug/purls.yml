@@ -13,5 +13,14 @@
 - pkg:nuget/RawCef.Binaries.Windows64.Debug@1000.0.0-cef.154.0.28.ci.36315421011
 - pkg:nuget/RawCef.Binaries.Windows64.Debug@1000.0.0-cef.154.0.28.ci.36424379639
 - pkg:nuget/RawCef.Binaries.Windows64.Debug@1000.0.0-cef.154.0.34.ci.37622128161
+- pkg:nuget/RawCef.Binaries.Windows64.Debug@1000.0.0-cef.156.0.15.ci.41464336418
+- pkg:nuget/RawCef.Binaries.Windows64.Debug@1000.0.0-cef.156.0.15.ci.42040234745
+- pkg:nuget/RawCef.Binaries.Windows64.Debug@1000.0.0-cef.156.0.27.ci.42832362719
 - pkg:nuget/RawCef.Binaries.Windows64.Debug@1000.0.0-cef.156.0.7.ci.38554352717
+- pkg:nuget/RawCef.Binaries.Windows64.Debug@1000.0.0-cef.156.0.7.ci.38722898951
+- pkg:nuget/RawCef.Binaries.Windows64.Debug@1000.0.0-cef.156.0.7.ci.39248936385
+- pkg:nuget/RawCef.Binaries.Windows64.Debug@1000.0.0-cef.158.0.3.ci.44757396987
+- pkg:nuget/RawCef.Binaries.Windows64.Debug@1000.0.0-cef.158.0.3.ci.44912465104
+- pkg:nuget/RawCef.Binaries.Windows64.Debug@1000.0.0-cef.158.0.6.ci.45657192918
+- pkg:nuget/RawCef.Binaries.Windows64.Debug@1000.0.0-cef.158.0.6.ci.45857688733
 - pkg:nuget/RawCef.Binaries.Windows64.Debug@151.3.14

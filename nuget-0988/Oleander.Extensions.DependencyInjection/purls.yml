@@ -6,3 +6,4 @@
 - pkg:nuget/Oleander.Extensions.DependencyInjection@1.1.23347.11358
 - pkg:nuget/Oleander.Extensions.DependencyInjection@1.2.0
 - pkg:nuget/Oleander.Extensions.DependencyInjection@1.2.0.1
+- pkg:nuget/Oleander.Extensions.DependencyInjection@1.5.0.2
